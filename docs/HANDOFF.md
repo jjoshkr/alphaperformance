@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-28 — Claude Code (세션 "비즈니스 계정 및 랜딩페이지 수정")
+- 한 일: 이 세션의 대화 전체(10/16~10/28)를 `docs/conversations/2026-10-16_business-account-landing-page.md`로 옮김. 도구 실행 과정은 빼고 사용자 메시지·Claude 답변·선택한 답변만 남김.
+- 이어서 작업할 때: Claude Code에서 "docs/conversations의 대화 기록과 HANDOFF.md를 읽고 이어서 하자"라고 시작하면 됨.
+- 다음 할 일: 10/26 항목의 다음 할 일 그대로
+
 ## 2026-10-28 — Claude Code
 - 한 일: claude.ai Alpha Performance Project 컨텍스트에 이 레포(claude/practical-cray-ezhcif 브랜치) 추가 완료
 - 참고: 프로젝트 쪽은 자동 반영이 아니므로, 레포 변경 후 프로젝트 컨텍스트에서 alphaperformance 항목을 동기화해야 최신 내용이 보임
