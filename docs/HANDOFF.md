@@ -9,7 +9,8 @@
   - PayPal 링크가 없으면 가격 버튼이 "DM to buy · $20"로 바뀌고 인스타 DM으로 연결
   - `netlify.toml` 추가: Netlify에 레포를 연결하면 `site` 폴더가 자동 배포됨
 - 막힌 것: 이 클라우드 환경에서는 netlify.app에 접속할 수 없어 실제 배포된 페이지는 확인 못 함
-- 다음 할 일: PayPal 링크·Hotjar ID·coach.jpg·환불 정책 받기 → Netlify 배포 → 프로필·링크트리 반영 → 1~2주 뒤 인사이트 분석
+- 추가: 환불 불가 문구 반영 (가격 아래, FAQ, 푸터)
+- 다음 할 일: PayPal 링크·Hotjar ID·coach.jpg 받기 → Netlify 배포 → 프로필·링크트리 반영 → 1~2주 뒤 인사이트 분석
 
 ## 2026-10-28 — Claude Code (현재 할 일)
 - 한 일: 10/16 현황 정리(확정 문구, Hotjar 수치, KPI 역산, 추적 이벤트)를 PROJECT_CONTEXT.md에 합침

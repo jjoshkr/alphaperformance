@@ -66,11 +66,11 @@
 | 2026-10-16 | 인스타 프로필·링크트리 문구 영어로 확정 (UTM: utm_source=instagram&utm_medium=linktree) | Claude Code |
 | 2026-10-16 | 가격 $20, 결제 PayPal (AP_CONFIG.PAYPAL_URL) | 채팅 |
 | 2026-10-28 | PayPal 링크가 비어 있으면 구매 버튼을 인스타 DM으로 연결 (DM 직접 판매) | Claude Code |
+| 2026-10-28 | 환불 불가 (즉시 다운로드 상품). 가격 아래·FAQ·푸터에 표시, 파일 오류는 DM으로 재전송 | 사용자 |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
 
 ## 확인 필요
 - U-20 선수 관련 문구: 선수·보호자 동의
 - 원우 님 사진 (`site/coach.jpg`)
-- 환불 정책 여부
 - PayPal 결제 링크, Hotjar Site ID (`site/index.html` 상단 AP_CONFIG)
 - 인스타 인사이트 '공개 대상' 탭 (국가·연령·성별)
