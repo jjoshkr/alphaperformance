@@ -16,8 +16,8 @@
 <script>
 /* ================== EDIT THESE ================== */
 window.AP_CONFIG = {
-  // Your PayPal checkout link (the one the current Buy Now button opens)
-  PAYPAL_URL: "https://www.paypal.com/REPLACE-WITH-YOUR-CHECKOUT-LINK",
+  // Checkout link (Payhip: handles payment and sends the PDF automatically)
+  PAYPAL_URL: "https://payhip.com/buy?s=1&cart_links%5B%5D=08O1t&qty%5B08O1t%5D=1",
   // Hotjar Site ID (number only, e.g. 5123456). Leave null to disable.
   HOTJAR_ID: null,
   // Instagram handle for questions
@@ -346,8 +346,8 @@ footer a{color:var(--chalk)}
         <li>No equipment needed</li>
         <li>Lifetime access</li>
       </ul>
-      <a class="btn btn-wide buy" id="price-buy" data-buy="pricing" href="#pricing">Buy with PayPal for $20</a>
-      <p class="secure">Secure checkout through PayPal. Card payment works without a PayPal account.</p>
+      <a class="btn btn-wide buy" id="price-buy" data-buy="pricing" href="#pricing">Buy now for $20</a>
+      <p class="secure">Secure checkout through Payhip. The download link appears right after payment and is emailed to you.</p>
       <p class="secure refund">Instant digital download, so all sales are final and no refunds are given. By buying, you agree to get access straight away and give up the 14-day right of withdrawal. If the file does not open, DM me and I will fix it.</p>
     </div>
     <p class="beta">Questions before you buy? <a data-ig-dm href="https://ig.me/m/alpha_football_rehab" target="_blank" rel="noopener">Send me a DM on Instagram</a> and I will reply myself.</p>
@@ -358,7 +358,7 @@ footer a{color:var(--chalk)}
 <section class="faq" aria-labelledby="faq-title">
   <div class="wrap" style="max-width:820px">
     <div class="section-head"><h2 id="faq-title">Questions</h2></div>
-    <details><summary>How do I get the program after paying?</summary><p>Once PayPal confirms your payment, you are taken to the download. Save the PDF to your phone. Every exercise has a video link inside it.</p></details>
+    <details><summary>How do I get the program after paying?</summary><p>Right after payment, Payhip shows your download link and emails it to you as well. Save the PDF to your phone. Every exercise has a video link inside it.</p></details>
     <details><summary>Do I need a gym?</summary><p>No. Every session runs on a pitch, a park or any open space. Cones or a few markers help, but shoes or water bottles work too.</p></details>
     <details><summary>How long is each session?</summary><p>Sessions are short and focused: speed work needs full effort and full rest, not volume. You can run them on days without team training or after a light team session.</p></details>
     <details><summary>What level is it for?</summary><p>Youth academy players through adult amateurs. If you are under 16, run it with a parent or your coach in the loop and keep the rest periods as written.</p></details>
@@ -420,12 +420,12 @@ footer a{color:var(--chalk)}
     document.querySelectorAll('[data-ig-dm]').forEach(function(a){a.href='https://ig.me/m/'+C.INSTAGRAM;});
   }
 
-  // Buy buttons: hero + sticky scroll to the offer; the offer button opens PayPal
+  // Buy buttons: hero + sticky scroll to the offer; the offer button opens checkout (Payhip)
   var hasPaypal = C.PAYPAL_URL && C.PAYPAL_URL.indexOf('REPLACE') === -1;
   document.querySelectorAll('[data-buy]').forEach(function(a){
     var where = a.getAttribute('data-buy');
     if (where === 'pricing' && hasPaypal) { a.href = C.PAYPAL_URL; }
-    // No PayPal link yet: send buyers to an Instagram DM instead of a dead button
+    // No checkout link yet: send buyers to an Instagram DM instead of a dead button
     if (where === 'pricing' && !hasPaypal && C.INSTAGRAM) {
       a.href = 'https://ig.me/m/' + C.INSTAGRAM;
       a.target = '_blank'; a.rel = 'noopener';

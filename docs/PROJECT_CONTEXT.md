@@ -13,7 +13,7 @@
 - 인스타그램 @alpha_football_rehab: 축구 스피드, 부상 재활, 코어·근력 운동. 유명 선수 훈련 해설과 코치 직접 시연. 팔로워 약 2만.
 - 코치: 원우 (UDT 출신, 재활 전공, 전 헬스 트레이너, 도르트문트 거주, 현 U-20 대표 선수 1명 코칭, 쾰른 체대 석사 준비).
 - 운영: 원우 님은 코칭·촬영·전문성, 친구(이 프로젝트 사용자)가 편집·업로드·판매·고객 응대 담당.
-- 상품: 6주 스피드 프로그램 (24세션, 주 4회, 장비 불필요, PDF + 영상 링크), $20, PayPal 결제.
+- 상품: 6주 스피드 프로그램 (24세션, 주 4회, 장비 불필요, PDF + 영상 링크), $20. 결제·PDF 전달은 Payhip (상품 코드 08O1t, PayPal 결제).
 - 판매 페이지: https://aquamarine-pika-a741a0.netlify.app/ (Netlify). 새 버전은 `site/index.html`.
 
 ## 기준 데이터 (2026-10-10 캡처, 최근 90일)
@@ -67,10 +67,11 @@
 | 2026-10-16 | 가격 $20, 결제 PayPal (AP_CONFIG.PAYPAL_URL) | 채팅 |
 | 2026-10-28 | PayPal 링크가 비어 있으면 구매 버튼을 인스타 DM으로 연결 (DM 직접 판매) | Claude Code |
 | 2026-10-28 | 환불 불가 (즉시 다운로드 상품). 가격 아래·FAQ·푸터에 표시, 파일 오류는 DM으로 재전송 | 사용자 |
+| 2026-10-28 | 결제 링크를 Payhip 구매 링크로 설정 (`https://payhip.com/buy?s=1&cart_links%5B%5D=08O1t&qty%5B08O1t%5D=1`) | 사용자 |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
 
 ## 확인 필요
 - U-20 선수 관련 문구: 선수·보호자 동의
 - 원우 님 사진 (`site/coach.jpg`)
-- PayPal 결제 링크, Hotjar Site ID (`site/index.html` 상단 AP_CONFIG)
+- Hotjar Site ID (`site/index.html` 상단 AP_CONFIG)
 - 인스타 인사이트 '공개 대상' 탭 (국가·연령·성별)
