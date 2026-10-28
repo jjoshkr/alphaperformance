@@ -53,7 +53,9 @@
 - `buy_click_hero`, `buy_click_sticky`: 상단·하단 고정 구매 버튼
 - `view_coach`, `view_pricing`: 코치 소개·가격 섹션 도달
 - `paypal_click`: PayPal 결제 버튼 클릭
+- `src_<utm_medium>`: 유입 경로 (예: `src_linktree`, `src_story`, `src_dm`, UTM 없으면 `src_direct`/`src_referral`)
 - 퍼널: 세션 → view_pricing → paypal_click → PayPal 결제 완료
+- 내부 접속 제외: 본인 기기에서 한 번 `?internal=1`로 열면 그 기기는 Hotjar에서 빠짐 (`?internal=0`으로 해제)
 
 ## 결정 기록
 | 날짜 | 결정 | 출처(채팅/코드) |
@@ -63,6 +65,7 @@
 | 2026-10-16 | 판매 페이지를 영어 단일 페이지로 새로 제작 (코치 경력, 6주 일정, FAQ, Hotjar 이벤트) | Claude Code |
 | 2026-10-16 | 인스타 프로필·링크트리 문구 영어로 확정 (UTM: utm_source=instagram&utm_medium=linktree) | Claude Code |
 | 2026-10-16 | 가격 $20, 결제 PayPal (AP_CONFIG.PAYPAL_URL) | 채팅 |
+| 2026-10-28 | PayPal 링크가 비어 있으면 구매 버튼을 인스타 DM으로 연결 (DM 직접 판매) | Claude Code |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
 
 ## 확인 필요

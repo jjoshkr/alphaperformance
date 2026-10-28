@@ -2,6 +2,15 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-28 — Claude Code (랜딩페이지 1차 수정)
+- 한 일 (`site/index.html`):
+  - 유입 경로를 Hotjar 이벤트 `src_<utm_medium>`로 기록 (스토리·링크트리·DM 구분)
+  - `?internal=1`로 연 기기는 Hotjar에서 제외 (평균 세션 13분에 섞인 내부 접속 문제)
+  - PayPal 링크가 없으면 가격 버튼이 "DM to buy · $20"로 바뀌고 인스타 DM으로 연결
+  - `netlify.toml` 추가: Netlify에 레포를 연결하면 `site` 폴더가 자동 배포됨
+- 막힌 것: 이 클라우드 환경에서는 netlify.app에 접속할 수 없어 실제 배포된 페이지는 확인 못 함
+- 다음 할 일: PayPal 링크·Hotjar ID·coach.jpg·환불 정책 받기 → Netlify 배포 → 프로필·링크트리 반영 → 1~2주 뒤 인사이트 분석
+
 ## 2026-10-28 — Claude Code (현재 할 일)
 - 한 일: 10/16 현황 정리(확정 문구, Hotjar 수치, KPI 역산, 추적 이벤트)를 PROJECT_CONTEXT.md에 합침
 - 지금 할 일 (사용자 지정):

@@ -1,0 +1,3 @@
+# Netlify: deploy the site/ folder when this repo is connected
+[build]
+  publish = "site"

@@ -23,6 +23,8 @@ window.AP_CONFIG = {
   // Instagram handle for questions
   INSTAGRAM: "alpha_football_rehab"
 };
+// Your own visits: open the page once with ?internal=1 on each phone/PC you use.
+// That device is then left out of Hotjar. Open with ?internal=0 to undo.
 /* ================================================ */
 </script>
 
@@ -382,8 +384,18 @@ footer a{color:var(--chalk)}
 (function(){
   var C = window.AP_CONFIG || {};
 
+  var params = new URLSearchParams(location.search);
+
+  // Internal visits (owner's devices) are excluded from Hotjar
+  var internal = false;
+  try {
+    if (params.get('internal') === '1') localStorage.setItem('ap_internal', '1');
+    if (params.get('internal') === '0') localStorage.removeItem('ap_internal');
+    internal = localStorage.getItem('ap_internal') === '1';
+  } catch(e){}
+
   // Hotjar (optional)
-  if (C.HOTJAR_ID) {
+  if (C.HOTJAR_ID && !internal) {
     (function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
       h._hjSettings={hjid:C.HOTJAR_ID,hjsv:6};a=o.getElementsByTagName('head')[0];
       r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);
@@ -393,6 +405,11 @@ footer a{color:var(--chalk)}
     try{ if (window.hj) window.hj('event', name); }catch(e){}
     try{ if (window.gtag) window.gtag('event', name); }catch(e){}
   }
+
+  // Traffic source: utm_medium (linktree, story, dm ...) becomes a Hotjar event, e.g. src_story
+  var src = (params.get('utm_medium') || (document.referrer ? 'referral' : 'direct'))
+    .toLowerCase().replace(/[^a-z0-9_]/g, '').slice(0, 30) || 'direct';
+  track('src_' + src);
 
   // Instagram links
   if (C.INSTAGRAM){
@@ -405,6 +422,14 @@ footer a{color:var(--chalk)}
   document.querySelectorAll('[data-buy]').forEach(function(a){
     var where = a.getAttribute('data-buy');
     if (where === 'pricing' && hasPaypal) { a.href = C.PAYPAL_URL; }
+    // No PayPal link yet: send buyers to an Instagram DM instead of a dead button
+    if (where === 'pricing' && !hasPaypal && C.INSTAGRAM) {
+      a.href = 'https://ig.me/m/' + C.INSTAGRAM;
+      a.target = '_blank'; a.rel = 'noopener';
+      a.textContent = 'DM to buy · $20';
+      var note = document.querySelector('#pricing .secure');
+      if (note) note.textContent = 'Send a DM on Instagram and I will send you the payment details myself.';
+    }
     a.addEventListener('click', function(){
       track(where === 'pricing' ? 'paypal_click' : 'buy_click_' + where);
     });
