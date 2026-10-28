@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-28 — Claude Code
+- 한 일: claude.ai Alpha Performance Project 컨텍스트에 이 레포(claude/practical-cray-ezhcif 브랜치) 추가 완료
+- 참고: 프로젝트 쪽은 자동 반영이 아니므로, 레포 변경 후 프로젝트 컨텍스트에서 alphaperformance 항목을 동기화해야 최신 내용이 보임
+- 다음 할 일: 아래 10/26 항목의 다음 할 일 그대로
+
 ## 2026-10-26 — Claude Code
 - 한 일: 10/16에 만든 판매 페이지를 `site/index.html`로 레포에 추가. 프로젝트 목표·배경·기준 데이터·결정 기록을 PROJECT_CONTEXT.md에 정리.
 - 다음 할 일:
