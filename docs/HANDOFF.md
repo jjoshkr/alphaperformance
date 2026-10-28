@@ -2,6 +2,13 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-28 — Claude Code (현재 할 일)
+- 한 일: 10/16 현황 정리(확정 문구, Hotjar 수치, KPI 역산, 추적 이벤트)를 PROJECT_CONTEXT.md에 합침
+- 지금 할 일 (사용자 지정):
+  1. 비즈니스 계정 링크 수정 — 인스타 프로필·링크트리를 PROJECT_CONTEXT.md "확정 문구"대로 반영
+  2. 랜딩페이지 수정 — `site/index.html` (PayPal 링크, Hotjar ID, coach.jpg, 환불 정책, 그 외 수정 사항)
+  3. 방문자 인사이트 분석 — 인스타 인사이트('공개 대상' 탭 포함)와 Hotjar 최신 수치로 분석
+
 ## 2026-10-28 — Claude Code (세션 "비즈니스 계정 및 랜딩페이지 수정")
 - 한 일: 이 세션의 대화 전체(10/16~10/28)를 `docs/conversations/2026-10-16_business-account-landing-page.md`로 옮김. 도구 실행 과정은 빼고 사용자 메시지·Claude 답변·선택한 답변만 남김.
 - 이어서 작업할 때: Claude Code에서 "docs/conversations의 대화 기록과 HANDOFF.md를 읽고 이어서 하자"라고 시작하면 됨.

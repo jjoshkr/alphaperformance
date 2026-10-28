@@ -24,8 +24,36 @@
 | 프로필 방문 → 링크 클릭 | 9,200 → 58 | 0.6% |
 | 링크 클릭 → 구매 | 58 → 0 | - |
 - 조회 80%, 반응 81%가 비팔로워. 스토리 90일 반응 303건.
+- Hotjar (10/16 기준): 주간 세션 약 5회, LCP 1.68초, 이탈률 80%, 평균 세션 13분 25초(내부 접속 섞임 추정).
 - 원우 님 시연 콘텐츠(Explosive Power 3.7만, Deceleration 3.6만)가 스타 콘텐츠(손흥민 3.3만)보다 높음.
 - KPI 역산 (페이지 전환율 2% 가정): 3개월 100건에는 페이지 방문 약 5,000회(주 385회) 필요. 프로필 링크만으로는 불가능하므로 스토리·DM 직접 판매와 도달 확대 병행.
+
+## KPI 역산 ($20, 페이지 전환율 2% 가정)
+| 목표 | 필요한 페이지 방문 | 주당 방문 |
+|---|---|---|
+| 1개월 1건 | 약 50 | 약 12 (현재 4.5) |
+| 3개월 100건 | 약 5,000 | 약 385 |
+| 6개월 1,000건 | 약 50,000 | 약 1,900 |
+- 프로필 클릭률을 10%로 올려도 90일 920회, 약 18건. 스토리·DM 직접 판매와 도달 확대가 함께 필요.
+
+## 확정 문구 (10/16)
+**인스타그램 프로필**
+- 이름: `Wonwoo | Football Speed & Rehab Coach`
+- 소개글: `Ex-UDT · Rehab-trained football coach` / `Coaching a Korea U-20 international` / `Get faster in 6 weeks: 24 sessions, no gym ↓`
+- 링크: 링크트리 1개
+
+**링크트리**
+- 제목: `Alpha Performance | Coach Wonwoo`
+- 소개: `Ex-UDT · Rehab specialist · Coaching a U-20 international`
+- 버튼: `⚡ 6-Week Speed Program ($20)`
+- 주소: `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=linktree&utm_campaign=bio`
+- 스토리 링크 스티커: `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=story&utm_campaign=<날짜>`
+
+## 판매 페이지 추적 이벤트 (Hotjar Events)
+- `buy_click_hero`, `buy_click_sticky`: 상단·하단 고정 구매 버튼
+- `view_coach`, `view_pricing`: 코치 소개·가격 섹션 도달
+- `paypal_click`: PayPal 결제 버튼 클릭
+- 퍼널: 세션 → view_pricing → paypal_click → PayPal 결제 완료
 
 ## 결정 기록
 | 날짜 | 결정 | 출처(채팅/코드) |
@@ -34,10 +62,12 @@
 | 2026-10-10 | "$99 → $20, 80% OFF" 상시 할인 표기 제거 | 채팅 |
 | 2026-10-16 | 판매 페이지를 영어 단일 페이지로 새로 제작 (코치 경력, 6주 일정, FAQ, Hotjar 이벤트) | Claude Code |
 | 2026-10-16 | 인스타 프로필·링크트리 문구 영어로 확정 (UTM: utm_source=instagram&utm_medium=linktree) | Claude Code |
+| 2026-10-16 | 가격 $20, 결제 PayPal (AP_CONFIG.PAYPAL_URL) | 채팅 |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
 
 ## 확인 필요
 - U-20 선수 관련 문구: 선수·보호자 동의
 - 원우 님 사진 (`site/coach.jpg`)
+- 환불 정책 여부
 - PayPal 결제 링크, Hotjar Site ID (`site/index.html` 상단 AP_CONFIG)
 - 인스타 인사이트 '공개 대상' 탭 (국가·연령·성별)
