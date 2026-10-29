@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-29 — Claude Code (Netlify 정리)
+- 발견: Netlify(Alpha Team, kim wonwoo 계정)에 사이트 5개. 링크트리는 8/10 버전인 grand-ganache-11ea1c를 가리킴. aquamarine-pika는 9/13 예전 디자인, alpha-performance는 빈 사이트
+- 결정(제안): 새 페이지를 `alpha-performance` 사이트에 배포 → `https://alpha-performance.netlify.app/`. 예전 사이트 두 곳(aquamarine, grand-ganache)에는 `redirect/index.html`을 올려 UTM을 유지한 채 새 주소로 넘김
+- 다음 할 일: 배포 확인 후 링크트리·ManyChat·문서의 주소를 alpha-performance로 변경. Hotjar(Contentsquare) 코드는 어느 사이트에 있었는지 미확인
+
 ## 2026-10-29 — Claude Code (판매 동선 가이드)
 - 한 일: `docs/playbooks/sales-funnel.md` 작성 (링크 복구 순서, ManyChat 댓글→DM 설정·문구, 스토리 판매 방법, 예약 업로드, 영어+스페인어 캡션 형식)
 - 현재 상태: 사용자가 프로필 링크를 내린 상태 (링크 클릭 0의 원인)
