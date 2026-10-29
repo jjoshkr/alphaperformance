@@ -5,9 +5,9 @@
 
 | 경로 | 주소 |
 |---|---|
-| 프로필(링크트리) | `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=linktree&utm_campaign=bio` |
-| 자동 DM | `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=dm&utm_campaign=speed` |
-| 스토리 | `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=story&utm_campaign=<날짜 예: 1105>` |
+| 프로필(링크트리) | `https://alpha-performance.netlify.app/?utm_source=instagram&utm_medium=linktree&utm_campaign=bio` |
+| 자동 DM | `https://alpha-performance.netlify.app/?utm_source=instagram&utm_medium=dm&utm_campaign=speed` |
+| 스토리 | `https://alpha-performance.netlify.app/?utm_source=instagram&utm_medium=story&utm_campaign=<날짜 예: 1105>` |
 
 ## 1. 링크 복구 순서
 1. 새 판매 페이지(`site/index.html`)를 Netlify에 배포한다. 배포 전에 링크를 걸면 예전 페이지($99 → 80% OFF)로 간다.

@@ -2,6 +2,10 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-29 — Claude Code (새 페이지 배포 완료)
+- 한 일: 새 판매 페이지를 Netlify `alpha-performance` 사이트에 배포 (사용자 확인). 문서의 판매 페이지 주소를 alpha-performance로 변경
+- 다음 할 일: 예전 사이트 2곳에 이동 파일 배포 → 링크트리 버튼 주소 변경 → 인스타 프로필 링크 → ManyChat → 랜딩페이지 추가 수정(사용자 코멘트 예정)
+
 ## 2026-10-29 — Claude Code (Netlify 정리)
 - 발견: Netlify(Alpha Team, kim wonwoo 계정)에 사이트 5개. 링크트리는 8/10 버전인 grand-ganache-11ea1c를 가리킴. aquamarine-pika는 9/13 예전 디자인, alpha-performance는 빈 사이트
 - 결정(제안): 새 페이지를 `alpha-performance` 사이트에 배포 → `https://alpha-performance.netlify.app/`. 예전 사이트 두 곳(aquamarine, grand-ganache)에는 `redirect/index.html`을 올려 UTM을 유지한 채 새 주소로 넘김

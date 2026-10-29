@@ -14,7 +14,7 @@
 - 코치: 원우 (UDT 출신, 재활 전공, 전 헬스 트레이너, 도르트문트 거주, 현 U-20 대표 선수 1명 코칭, 쾰른 체대 석사 준비).
 - 운영: 원우 님은 코칭·촬영·전문성, 친구(이 프로젝트 사용자)가 편집·업로드·판매·고객 응대 담당.
 - 상품: 6주 스피드 프로그램 (24세션, 주 4회, 장비 불필요, PDF + 영상 링크), $20. 결제·PDF 전달은 Payhip (상품 코드 08O1t, PayPal 결제).
-- 판매 페이지: https://aquamarine-pika-a741a0.netlify.app/ (Netlify). 새 버전은 `site/index.html`.
+- 판매 페이지: https://alpha-performance.netlify.app/ (Netlify). 새 버전은 `site/index.html`.
 
 ## 기준 데이터 (2026-10-10 캡처, 최근 90일)
 | 단계 | 수치 | 전환율 |
@@ -51,8 +51,8 @@
 - 제목: `Alpha Performance | Coach Wonwoo`
 - 소개: `Ex-UDT · Rehab specialist · Coaching a U-20 international`
 - 버튼: `⚡ 6-Week Speed Program ($20)`
-- 주소: `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=linktree&utm_campaign=bio`
-- 스토리 링크 스티커: `https://aquamarine-pika-a741a0.netlify.app/?utm_source=instagram&utm_medium=story&utm_campaign=<날짜>`
+- 주소: `https://alpha-performance.netlify.app/?utm_source=instagram&utm_medium=linktree&utm_campaign=bio`
+- 스토리 링크 스티커: `https://alpha-performance.netlify.app/?utm_source=instagram&utm_medium=story&utm_campaign=<날짜>`
 
 ## 판매 페이지 추적 이벤트 (Hotjar Events)
 - `buy_click_hero`, `buy_click_sticky`: 상단·하단 고정 구매 버튼
@@ -73,6 +73,7 @@
 | 2026-10-28 | PayPal 링크가 비어 있으면 구매 버튼을 인스타 DM으로 연결 (DM 직접 판매) | Claude Code |
 | 2026-10-28 | 환불 불가 (즉시 다운로드 상품). 가격 아래·FAQ·푸터에 표시, 파일 오류는 DM으로 재전송 | 사용자 |
 | 2026-10-28 | 결제 링크를 Payhip 구매 링크로 설정 (`https://payhip.com/buy?s=1&cart_links%5B%5D=08O1t&qty%5B08O1t%5D=1`) | 사용자 |
+| 2026-10-29 | 판매 페이지 주소를 `https://alpha-performance.netlify.app/`로 이전 (새 페이지 배포 완료). 예전 aquamarine-pika·grand-ganache는 새 주소로 이동 처리 | Claude Code |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
 
 ## 확인 필요
