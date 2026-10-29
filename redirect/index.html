@@ -5,8 +5,12 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Alpha Performance</title>
 <!-- Old sites forward here. Keeps ?utm_... so traffic sources stay visible. -->
-<script>location.replace('https://alpha-performance.netlify.app/' + location.search + location.hash);</script>
-<meta http-equiv="refresh" content="0; url=https://alpha-performance.netlify.app/">
+<script>
+// Never redirect on the new site itself (avoids an endless loop if uploaded there by mistake)
+if (location.hostname !== 'alpha-performance.netlify.app') {
+  location.replace('https://alpha-performance.netlify.app/' + location.search + location.hash);
+}
+</script>
 </head>
 <body style="font-family:sans-serif;background:#123D2E;color:#F4F6F1;padding:24px">
 <p>Moving you to the program page… <a style="color:#F5C518" href="https://alpha-performance.netlify.app/">Tap here</a> if nothing happens.</p>
