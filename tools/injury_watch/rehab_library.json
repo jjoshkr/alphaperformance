@@ -1,0 +1,143 @@
+{
+  "_note": "일반적인 재활 진행 단계를 콘텐츠 초안용으로 정리한 것. 게시 전 원우 님(재활 전공)이 반드시 검토·수정. 의료 조언이 아님.",
+  "hamstring": {
+    "ko": "햄스트링", "es": "isquiotibiales", "en": "hamstring",
+    "phases": [
+      {"name": "Phase 1 · Protect & activate (days 1–7)", "drills": ["Pain-free isometric hamstring holds (bridge position, 5×20s)", "Gentle hip hinge with no load", "Walking at normal pace, no running"]},
+      {"name": "Phase 2 · Rebuild strength & length (weeks 2–4)", "drills": ["Single-leg Romanian deadlift (bodyweight → light load)", "Nordic hamstring curl, eccentric only, 3×4–6", "Sliding leg curls on a towel or slider"]},
+      {"name": "Phase 3 · Return to sprinting (weeks 4+)", "drills": ["Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions", "A-skips and high-speed leg swings", "Deceleration and change-of-direction drills at full speed"]}
+    ],
+    "content_angle": "Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.",
+    "red_flags": "A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early."
+  },
+  "knee_acl": {
+    "ko": "무릎 (십자인대/반월판)", "es": "rodilla (ligamento cruzado / menisco)", "en": "knee (ACL/meniscus)",
+    "phases": [
+      {"name": "Phase 1 · Post-surgery basics (weeks 0–6)", "drills": ["Quad sets and straight-leg raises", "Heel slides for knee bend, patella mobilisation", "Short-arc leg extension with no load"]},
+      {"name": "Phase 2 · Strength & balance (months 2–5)", "drills": ["Split squats and step-ups, slow and controlled", "Single-leg balance on an unstable surface", "Leg press building to body-weight equivalent"]},
+      {"name": "Phase 3 · Plyometrics & return to play (months 6–9+)", "drills": ["Double-leg → single-leg hops with soft landings", "Cutting and pivot drills, planned then reactive", "Full-speed running and football-specific sessions"]}
+    ],
+    "content_angle": "ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why the landing mechanics matter more than the surgery.",
+    "red_flags": "Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness."
+  },
+  "knee_other": {
+    "ko": "무릎 (기타)", "es": "rodilla", "en": "knee",
+    "phases": [
+      {"name": "Phase 1 · Settle & activate", "drills": ["Quad sets, straight-leg raises", "Stationary bike, no resistance, for range", "Calf raises to keep the lower leg working"]},
+      {"name": "Phase 2 · Strength", "drills": ["Wall sits and goblet squats to pain-free depth", "Step-downs for control", "Single-leg Romanian deadlift"]},
+      {"name": "Phase 3 · Return to running", "drills": ["Jogging → striding progression", "Lateral bounds with stuck landings", "Change-of-direction ladder"]}
+    ],
+    "content_angle": "The knee is usually the victim: show how the hip and ankle take load off it.",
+    "red_flags": "Locking, giving way or significant swelling needs imaging."
+  },
+  "ankle": {
+    "ko": "발목", "es": "tobillo", "en": "ankle",
+    "phases": [
+      {"name": "Phase 1 · Protect & move (days 1–7)", "drills": ["Ankle alphabet for pain-free range", "Towel scrunches and toe spreads", "Weight-bearing as tolerated, seated calf raises"]},
+      {"name": "Phase 2 · Strength & balance (weeks 2–4)", "drills": ["Band eversion/inversion, 3×15", "Single-leg balance, eyes open → closed", "Standing calf raises, double → single leg"]},
+      {"name": "Phase 3 · Return to cutting (weeks 4+)", "drills": ["Pogo hops → single-leg hops", "Lateral hops with stuck landings", "Reactive change-of-direction drills"]}
+    ],
+    "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
+    "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline."
+  },
+  "groin": {
+    "ko": "사타구니 / 내전근", "es": "ingle / aductores", "en": "groin / adductor",
+    "phases": [
+      {"name": "Phase 1 · Calm it down", "drills": ["Adductor isometric squeeze with a ball, 5×30s", "Hip flexor and adductor gentle mobility", "Core bracing: dead bugs"]},
+      {"name": "Phase 2 · Strength", "drills": ["Copenhagen plank, short lever → long lever", "Side-lying hip adduction", "Lateral lunges, slow"]},
+      {"name": "Phase 3 · Football loads", "drills": ["Lateral shuffles and crossover steps", "Kicking progression: short → long passes", "Full-speed cutting"]}
+    ],
+    "content_angle": "The Copenhagen plank cut groin injuries by ~40% in studies. Show the 3 levels.",
+    "red_flags": "Pain with coughing or deep core pressure can mean a sports hernia rather than a muscle strain."
+  },
+  "calf": {
+    "ko": "종아리", "es": "pantorrilla / gemelo", "en": "calf",
+    "phases": [
+      {"name": "Phase 1 · Protect & load lightly", "drills": ["Seated calf raises (soleus), 3×15", "Ankle range of motion", "Walking on flat ground"]},
+      {"name": "Phase 2 · Strength", "drills": ["Standing calf raises, double → single leg, slow eccentric", "Bent-knee calf raises for soleus", "Farmer's walk on toes"]},
+      {"name": "Phase 3 · Elastic & sprint", "drills": ["Pogo jumps for ankle stiffness", "Skipping and bounding", "Sprint build-ups"]}
+    ],
+    "content_angle": "Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.",
+    "red_flags": "Sudden calf pain with swelling or warmth needs a check for a clot before any rehab."
+  },
+  "achilles": {
+    "ko": "아킬레스건", "es": "tendón de Aquiles", "en": "Achilles",
+    "phases": [
+      {"name": "Phase 1 · Medical phase (surgery or boot, weeks 0–8)", "drills": ["Protected weight-bearing as prescribed", "Toe and knee range of motion", "Upper-body and core training to stay fit"]},
+      {"name": "Phase 2 · Tendon loading (months 2–5)", "drills": ["Seated → standing calf raises, slow heavy", "Heel raises off a step, eccentric focus", "Balance and gait retraining"]},
+      {"name": "Phase 3 · Elastic return (months 6–10+)", "drills": ["Pogo jumps, low → higher", "Skipping, bounding, hops", "Sprint and cutting progression"]}
+    ],
+    "content_angle": "Achilles ruptures end careers when the tendon never gets heavy slow loading back: show the progression.",
+    "red_flags": "A rupture is a surgical/medical decision; any content must stay educational."
+  },
+  "quad": {
+    "ko": "허벅지 앞 (대퇴사두근)", "es": "cuádriceps", "en": "quadriceps / thigh",
+    "phases": [
+      {"name": "Phase 1 · Protect & activate", "drills": ["Quad sets and straight-leg raises", "Gentle kneeling hip-flexor stretch (pain-free)", "Stationary bike, no resistance"]},
+      {"name": "Phase 2 · Strength", "drills": ["Reverse Nordic (eccentric quad), 3×6", "Split squats", "Step-ups"]},
+      {"name": "Phase 3 · Kick & sprint", "drills": ["Kicking progression", "Sprint build-ups", "Deceleration drills"]}
+    ],
+    "content_angle": "Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.",
+    "red_flags": "A visible gap or bulge in the muscle needs imaging."
+  },
+  "hip": {
+    "ko": "고관절", "es": "cadera", "en": "hip",
+    "phases": [
+      {"name": "Phase 1 · Mobility & activation", "drills": ["90/90 hip switches", "Glute bridges", "Clamshells"]},
+      {"name": "Phase 2 · Strength", "drills": ["Single-leg glute bridge", "Lateral band walks", "Bulgarian split squats"]},
+      {"name": "Phase 3 · Football loads", "drills": ["Lateral bounds", "Cutting drills", "Sprinting"]}
+    ],
+    "content_angle": "Hip strength protects the knee and the groin: 3 glute drills.",
+    "red_flags": "Deep groin pinch with hip flexion can be labral; imaging decides."
+  },
+  "foot": {
+    "ko": "발 (중족골 등)", "es": "pie / metatarso", "en": "foot / metatarsal",
+    "phases": [
+      {"name": "Phase 1 · Protect (boot / limited load)", "drills": ["Toe mobility within the boot's limits", "Hip and core work seated", "Upper body to stay fit"]},
+      {"name": "Phase 2 · Foot strength", "drills": ["Short-foot exercise", "Towel scrunches, marble pick-ups", "Calf raises progressing to single leg"]},
+      {"name": "Phase 3 · Impact", "drills": ["Walking → jogging on soft ground", "Pogo hops", "Cutting with proper boots"]}
+    ],
+    "content_angle": "Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.",
+    "red_flags": "Bone healing timelines are set by imaging, not feel."
+  },
+  "back": {
+    "ko": "허리 / 등", "es": "espalda / lumbar", "en": "back",
+    "phases": [
+      {"name": "Phase 1 · Move gently", "drills": ["Cat-cow and pelvic tilts", "Walking", "Dead bugs"]},
+      {"name": "Phase 2 · Core & hinge", "drills": ["Bird dogs", "Side planks", "Hip hinge with dowel"]},
+      {"name": "Phase 3 · Load & rotate", "drills": ["Romanian deadlift", "Pallof press and rotational med-ball throws", "Sprinting and kicking"]}
+    ],
+    "content_angle": "Back pain in footballers is usually a hip-mobility and core-control problem: 3 drills.",
+    "red_flags": "Leg numbness, weakness or bladder changes are emergencies."
+  },
+  "shoulder": {
+    "ko": "어깨 / 쇄골", "es": "hombro / clavícula", "en": "shoulder / collarbone",
+    "phases": [
+      {"name": "Phase 1 · Protect", "drills": ["Pendulum swings", "Elbow and wrist movement", "Lower-body training continues (bike, legs)"]},
+      {"name": "Phase 2 · Range & strength", "drills": ["Wall slides", "Band external rotation", "Scapular push-ups"]},
+      {"name": "Phase 3 · Contact readiness", "drills": ["Push-up progressions", "Landing and falling drills", "Contact in training"]}
+    ],
+    "content_angle": "Shoulder injuries don't stop leg training: show the 'train around it' week.",
+    "red_flags": "Dislocations and fractures follow the surgeon's timeline."
+  },
+  "concussion": {
+    "ko": "뇌진탕 / 머리", "es": "conmoción cerebral", "en": "concussion / head",
+    "phases": [
+      {"name": "Stage 1 · Rest & symptom-limited activity (24–48h)", "drills": ["No training", "Light daily activity only", "Screen and noise limits as advised"]},
+      {"name": "Stage 2 · Light aerobic → sport-specific", "drills": ["Stationary bike at low heart rate", "Jogging without heading or contact", "Passing and movement drills"]},
+      {"name": "Stage 3 · Full training → match", "drills": ["Non-contact training", "Full contact after medical clearance", "Match play"]}
+    ],
+    "content_angle": "Educational only: explain the graded return-to-play protocol. No exercise 'recommendations'.",
+    "red_flags": "Worsening headache, vomiting, confusion or drowsiness are emergencies. Never give training advice for a head injury."
+  },
+  "muscle_general": {
+    "ko": "근육 (부위 미상)", "es": "muscular", "en": "muscle (unspecified)",
+    "phases": [
+      {"name": "Phase 1 · Protect & isometrics", "drills": ["Pain-free isometric holds for the affected muscle", "Light mobility", "Walking"]},
+      {"name": "Phase 2 · Eccentric strength", "drills": ["Slow eccentric loading of the muscle", "Single-leg strength work", "Core"]},
+      {"name": "Phase 3 · Speed", "drills": ["Sprint build-ups", "Plyometrics", "Position-specific drills"]}
+    ],
+    "content_angle": "Follow-up post once the club confirms the exact muscle.",
+    "red_flags": "Wait for the specific diagnosis before any detailed content."
+  }
+}

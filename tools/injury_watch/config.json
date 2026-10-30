@@ -1,0 +1,11 @@
+{
+  "hours_back": 48,
+  "max_per_league": 8,
+  "leagues": {
+    "Premier League": ["Premier League injury", "Premier League ruled out injured"],
+    "La Liga":        ["La Liga injury", "LaLiga injured ruled out"],
+    "Bundesliga":     ["Bundesliga injury", "Bundesliga injured out weeks"],
+    "Serie A":        ["Serie A injury", "Serie A injured ruled out"],
+    "Ligue 1":        ["Ligue 1 injury", "Ligue 1 injured ruled out"]
+  }
+}

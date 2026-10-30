@@ -12,6 +12,8 @@ Instagram 채널 @Alpha_football_rehab(축구 스피드·재활·코어·근력 
 - `docs/PROJECT_CONTEXT.md` — 프로젝트 목표, 배경, 주요 결정 사항 (양쪽 공통 기준)
 - `docs/HANDOFF.md` — 채팅창 ↔ Claude Code 간 작업 인계 메모
 - `docs/conversations/` — 이전 세션 대화 기록 (필요할 때 참고)
+- `docs/injuries/` — 매일 자동 생성되는 부상 뉴스·재활 콘텐츠 초안 (`tools/injury_watch/`, GitHub Actions)
+- `docs/playbooks/`, `docs/research/`, `docs/insights/` — 운영 가이드, 조사, 데이터 분석
 
 ## 작업 규칙
 - 채팅에서 정한 결정은 `docs/PROJECT_CONTEXT.md`의 "결정 기록"에 남깁니다.

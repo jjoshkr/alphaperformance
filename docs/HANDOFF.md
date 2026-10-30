@@ -2,6 +2,10 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-10-30 — Claude Code (부상 뉴스 자동화)
+- 한 일: `tools/injury_watch/` + `.github/workflows/injury-watch.yml`. 매일 07:00 KST에 5대 리그 부상 뉴스(Google News RSS) 수집 → 부위·정도 분류 → 재활 3단계·촬영 운동·EN/ES 캡션 초안을 `docs/injuries/`에 저장. 샘플 데이터로 검증 완료 (이 환경은 외부 접속 불가라 실데이터는 Actions 첫 실행으로 확인 필요)
+- 다음 할 일: Actions 첫 수동 실행으로 확인 → 원우 님이 `rehab_library.json` 운동 내용 검토 → ManyChat 설정 → 랜딩페이지 코멘트 반영
+
 ## 2026-10-30 — Claude (독일 3부 인턴십 미팅 준비)
 - 새 정보: 원우 님이 **2026-11-11 Rot-Weiss Essen(3. Liga, 현재 3위)**과 인턴십 미팅. 잘 되면 1~2주 Hospitanz 후 정식 합류 여부 결정. 11/11은 A매치 휴식기
 - 한 일: `docs/playbooks/germany-internship-prep.md` 작성 (PPT 11장 구성, 태도·문화, 급여표, 자격·공고 경로, 인스타 연결 원칙, 질문·체크리스트, §9 독일어–한국어 용어표, §10 RWE 구단 브리핑: 스태프 명단·시즌 현황·일정)

@@ -1,0 +1,34 @@
+name: Injury watch
+
+# 매일 한국 시간 오전 7시(UTC 22:00)에 5대 리그 부상 뉴스를 모아
+# docs/injuries/ 에 재활 콘텐츠 초안을 저장합니다.
+# GitHub 저장소 → Actions 탭 → "Injury watch" → "Run workflow"로 수동 실행도 가능합니다.
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect injury news and draft content
+        run: python tools/injury_watch/injury_watch.py
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/injuries
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Injury watch: $(TZ=Asia/Seoul date +%F)"
+            git push
+          fi
