@@ -11,7 +11,7 @@
 
 ## 배경 / 범위
 - 인스타그램 @alpha_football_rehab: 축구 스피드, 부상 재활, 코어·근력 운동. 유명 선수 훈련 해설과 코치 직접 시연. 팔로워 약 2만.
-- 코치: 원우 (UDT 출신, 재활 전공, 전 헬스 트레이너, 도르트문트 거주, 현 U-20 대표 선수 1명 코칭, 쾰른 체대 석사 준비).
+- 코치: 원우 (UDT 출신, 재활 전공, 전 헬스 트레이너, 도르트문트 거주, 현 U-20 대표 선수 1명 코칭, 쾰른 체대 석사 준비, 2026-11 독일 3. Liga 구단 인턴십 미팅 예정 → 1~2주 Hospitanz 후 합류 여부 결정).
 - 운영: 원우 님은 코칭·촬영·전문성, 친구(이 프로젝트 사용자)가 편집·업로드·판매·고객 응대 담당.
 - 상품: 6주 스피드 프로그램 (24세션, 주 4회, 장비 불필요, PDF + 영상 링크), $20. 결제·PDF 전달은 Payhip (상품 코드 08O1t, PayPal 결제).
 - 판매 페이지: https://alpha-performance.netlify.app/ (Netlify). 새 버전은 `site/index.html`.
@@ -75,6 +75,7 @@
 | 2026-10-28 | 결제 링크를 Payhip 구매 링크로 설정 (`https://payhip.com/buy?s=1&cart_links%5B%5D=08O1t&qty%5B08O1t%5D=1`) | 사용자 |
 | 2026-10-29 | 판매 페이지 주소를 `https://alpha-performance.netlify.app/`로 이전 (새 페이지 배포 완료). 예전 aquamarine-pika·grand-ganache는 새 주소로 이동 처리 | Claude Code |
 | 2026-10-26 | 채팅 프로젝트와 Claude Code를 이 레포로 연동 | Claude Code |
+| 2026-10-30 | 독일 3부 인턴십 미팅 준비 가이드 작성 (`docs/playbooks/germany-internship-prep.md`); Hospitanz 중 인스타 게시 0, 구단 허락 범위 내에서만 경력 문구 사용 | 채팅 |
 
 ## 확인 필요
 - U-20 선수 관련 문구: 선수·보호자 동의
