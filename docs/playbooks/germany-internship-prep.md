@@ -1,6 +1,6 @@
 # 독일 3부(3. Liga) 인턴십 미팅 준비 가이드 (2026-10-30)
 
-> 대상: 원우 님. 11월 3. Liga 구단 인턴십 미팅 → 잘 되면 1~2주 Hospitanz(참관) → 정식 팀 합류 여부 결정.
+> 대상: 원우 님. **2026-11-11 Rot-Weiss Essen(로트-바이스 에센, RWE) 인턴십 미팅** → 잘 되면 1~2주 Hospitanz(참관) → 정식 팀 합류 여부 결정.
 > 작성: 친구(운영자) + Claude. 급여·법 관련 수치는 2026-10 기준 공개 자료이며, 구단마다 다름.
 
 ---
@@ -279,6 +279,50 @@
 | Darf ich auf meinem Kanal erwähnen, dass ich hier hospitiert habe? | 제 채널에 여기서 참관했다고 언급해도 될까요? |
 | Könnte ich bitte eine Bescheinigung über die Hospitation bekommen? | 참관 증명서를 받을 수 있을까요? |
 | Vielen Dank für die Möglichkeit. | 기회 주셔서 감사합니다. |
+
+---
+
+## 10. 구단 브리핑: Rot-Weiss Essen (2026-10-30 기준)
+
+### 기본
+- 정식 명칭 Rot-Weiss Essen e.V., 약칭 RWE, 별명 "die Rot-Weissen". 홈구장 **Stadion an der Hafenstraße**(에센, 약 2만 석; 증축 공사는 10/15 기준 또 지연). 훈련장·유소년(FÖRDERWERK)은 Seumannstraße. 도르트문트에서 차로 약 40분, 기차로 Essen Hbf까지 30분 내외.
+- 전통 구단(1955 독일 챔피언, 1953 DFB-Pokal 우승), 열성적 팬층. 3. Liga 소속.
+- 인스타: [@rwe.1907](https://www.instagram.com/rwe.1907)
+
+### 시즌 현황 (11라운드 종료)
+- **3. Liga 3위**, 11경기 6승 3무 2패 승점 21, 19득 13실. 1위 MSV Duisburg 25점, 2위 Viktoria Köln 23점 ([365Scores](https://www.365scores.com/football/team/rot-weiss-essen-402/standings), [DFB Datencenter](https://datencenter.dfb.de/competitions/3-liga/seasons/2026-2027/teams/rot-weiss-essen)).
+- 최근 5경기: 10/23 Jahn Regensburg 1:0 승(홈) · 10/17 Ingolstadt 0:1 패(원정, 12경기 무패 행진 종료) · 10/13 Fortuna Köln 2:0 승 · 10/09 Preußen Münster 3:3 · 09/20 Hansa Rostock 1:1 ([liga3-news](https://liga3-news.de/vereine/rot-weiss-essen/)).
+- DFB-Pokal 2라운드(10/28 전후) RB Leipzig에 1:2 패. 그 전주 "Verletzungssorgen(부상 걱정) 커짐, 긴급 영입은 없음" 기사 → **재활·부상 예방이 지금 이 구단의 현안**. 발표 슬라이드 3·6과 바로 연결된다.
+- 미팅 직전 일정: 11/01 Großaspach 원정(12R), **11/07 Alemannia Aachen 홈(13R, 라이벌전)**, 그 뒤 11/21 SC Verl 원정(14R). → **11/11은 2주 A매치 휴식기 한가운데.** 1군은 보통 휴식기 초반 2~3일 쉬고 중반부터 훈련 재개. 미팅이 조용한 주에 잡혔다는 뜻이고, Hospitanz 1~2주가 바로 이어지면 11/21 Verl전 준비 주간을 보게 된다. 미팅에서 "Aachen전 어땠는지"를 아는 상태로 가야 한다 (11/7 결과 반드시 확인).
+
+### 1군 스태프 (공식 사이트 [Mannschaft](https://www.rot-weiss-essen.de/teams/1-mannschaft/mannschaft/))
+| 역할 | 이름 | 메모 |
+|---|---|---|
+| Cheftrainer(감독) | **Uwe Koschinat** | 경험 많은 베테랑 감독. 미팅에서 마주치면 Sie + "Herr Koschinat" |
+| Co-Trainer(코치) | Paul Freier, Dominik Ernst | |
+| Co-Trainer Analyse(분석 코치) | Aaron Beißwenger | |
+| Torwarttrainer(GK 코치) | Manuel Lenz | |
+| **Athletiktrainer / Head of Performance** | **Tobias Schmidt** | 1998년생(부퍼탈), 2021년 7월부터 RWE. 원우 님보다 어릴 수 있음 — 나이와 무관하게 **그가 상사**. 가장 중요한 사람 |
+| Athletiktrainer(피지컬 코치) | Jörg Mikoleit | 올해 영입된 "wichtige Stellschraube(중요한 조정 요소)"로 기사화된 인물로 추정 ([reviersport](https://www.reviersport.de/fussball/3liga/a628016---rot-weiss-essen-wichtige-stellschraube-rwe-holt-neuen-athletiktrainer.html)) — 기사 직접 확인 필요 |
+| **Rehatrainer(재활 트레이너)** | **Matthias Gesenhues** | 원우 님의 재활 전공과 직결. Return-to-Play 질문은 이 분에게 |
+| Physiotherapeut(물리치료사) | Alexander Dolls, Niklas Trottenberg | |
+| Mannschaftsarzt(팀 닥터) | Dr. Markus Faghih, Remus Ioana, Patrick Nonhoff | |
+| Sportdirektor(단장) | Christian Flüthmann | |
+| Direktor Profifußball(프로축구 디렉터) | Marcus Steegmann | |
+| Teammanager | Carsten Wolters | 행정(계약서·출입증·보험)은 보통 이 사람 |
+| Equipment Manager | Dominik Götz | 콘·조끼·장비 — 첫날 인사하고 "뭘 도우면 되는지" 물어볼 사람 |
+
+→ 3. Liga 기준으로 피지컬 스태프가 **두텁다**(Athletik 2 + Reha 1 + Physio 2 + 닥터 3). 즉 "인력 부족이라 인턴이 필요"가 아니라 "체계가 있어서 인턴을 받을 수 있는" 구단. 발표에서 "배우고 싶다"(슬라이드 8)의 비중을 조금 더 키우고, 데이터 정리·개별 세션 보조처럼 **기존 체계에 끼워 넣기 쉬운 기여**를 강조.
+
+### 유소년(FÖRDERWERK) ([공식 기사 2026-06-04](https://www.rot-weiss-essen.de/2026/06/04/kontinuitaet-und-entwicklung-am-foerderwerk/))
+- U11~U19 + 2. Mannschaft. 코치진 평균 나이 약 29세, "젊고 육성 중심". U19 감독 Michael Delura(5년차), U17 감독 Jens Grembowietz, U14~U16 코디네이터 Thorsten Schulokat.
+- 유소년 쪽 공고는 DSHS Köln Jobbörse에 올라온다 (예: [RWE 인턴 공고 PDF](https://dshs-koeln.de/uploads/tx_mshjobboerse/52059_Stellenanzeige_Praktikant_f516a633aafd450fd09510da0a833ff8_1738598047.pdf), [물리치료사 Minijob 공고](https://www.rot-weiss-essen.de/wp-content/uploads/2025/09/Stellenausschreibung-Physiotherapeut-Mini-Job.pdf)). 1군이 안 되더라도 **U19/U23 Athletik Pflichtpraktikum**은 석사 과정과 맞물려 현실적인 2안. 미팅에서 질문 5번으로 열어 둘 것.
+
+### 미팅 전 확인 (11/10까지)
+- [ ] 11/01 Großaspach, 11/07 Aachen 결과와 부상자 명단
+- [ ] 미팅 상대가 누구인지(Schmidt? Gesenhues? Flüthmann?) — 상대에 따라 슬라이드 4·6의 강조점 조정
+- [ ] reviersport 새 Athletiktrainer 기사 본문 읽기 (독일 IP에서는 열림)
+- [ ] 스타디움 가는 길, 주차/대중교통, 15분 전 도착 계획
 
 ---
 
