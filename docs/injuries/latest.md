@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-01 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-02 (KST)
 
 > 자동 생성. 뉴스 제목은 출처 링크로만 참조하고 본문은 복사하지 않음. 재활 단계와 운동은 일반적인 진행 예시이며, **게시 전 원우 님이 검토·수정**해야 함. 의료 조언 아님.
 
@@ -6,74 +6,70 @@
 
 | 리그 | 헤드라인 | 부위 | 정도 | 출처 |
 |---|---|---|---|---|
-| Bundesliga | [Bundesliga: Ismael Saibari goes off injured during Der Klassiker](https://news.google.com/rss/articles/CBMilgFBVV95cUxPREtJMXNWeUpoRHpIVExIRzFxUlVsYzlxZzlIWEVmUTYxN1ZuTGZvV1EtVUNVWVhuQ3NpelZfaTBJQ2pSbkZlTEh3QUNmT1I5dDB3VFE2d2tqSVhyQmRLNTJsMUI4UGNuZVNfbmpwNTlBQzZ5UWdGRzVLZUloTFJWOVdjbzBRU0NHNUg4cWh6dGNoa0Z3NEE?oc=5) | - | 미상 | Yabiladi.com |
+| Serie A | [Black Caps lose two star batters to injury ahead of India ODI series](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWlRPMzFSTlB6YzhFdXZ0NGUyUEZHSG91QXZVVndZdTlyLTFBMzBoODJ4WTJLbEpLTWJlZ18xbTVNeFFyNlplTDcySS0ySmZrMmJEUTJJN0k0cGRuemlZY3IxRDREblpHNWFGSjJWOU90T05aVTJLaXl2OU9TaWhzTGZYMDQxV053VWVWbEZJaG1RaXBRcng4ckRxb0thYjR1dmNZeVVRYXkydDBRX05RMlpBVFJLM1daTVBpNFREQXAtVjQzS0luWGZucFRjQ1YzZEdYc3dzTVpkank4d0pSWndpZXBPZ045eTQtaEcyMW0xVG9mRUE?oc=5) | - | 미상 | NZ Herald |
+| Serie A | [Ravindra ruled out of Black Caps’ ODI series vs India](https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDR0THRoTEp4MTIzUU4zLXJBTFBZQk5zRWlsTmhDcjFNUlF4cEg2WWJKTU1zU0lOSVRSWnJ4ck9INU91SGxoTUFZRjZqQm5VeEhUcUk4aEcwbVZuVEVEX2hiNlB3eU5xT3VfcEVZd2RMb2NodmxBelhaMElrT0lRN0NOMzFkdW51YlFaOFE1bVdkQQ?oc=5) | - | 미상 | 1News |
+| Ligue 1 | [Josh Allen makes history in Bills rout, Ravens back to square one after Lamar Jackson injury](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTG5KYVZmSDNIOWFLQkNUX1psOGNUNEZySy1tbkh3MHo4VU1WQUF2dTlvb1BYdVB1X2JjcmhUd3l0bEZBbHYweHd6UUNPaUZ5ejRGekhheTJialNJcjhUWUM2UUM3V0N3OWRScVV0SmQyTXg3N00yZVhBUFFPTU5LMnV5VW1PUW5tRVhN?oc=5) | - | 미상 | The New York Times |
+| Premier League | [Netherlands Eredivisie Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMie0FVX3lxTFA5V1R2UHlXQjdJblRtN2FHY2dsNlJzbU1mcTJuN3MydXBHZC16SU9IOG9xdkhLN2RnbTk0dG9GVnBicGo2blZabHUyZlJhUnV5b3hsUDVLZUpqREFiLTZjYmhNTFlIS1ByMzJKRjhLaVNkb3ExUjdGbC12QQ?oc=5) | - | 미상 | Sportsgambler |
+| Premier League | [Bundesliga Injuries & Suspensions](https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5) | - | 미상 | Sportsgambler |
 | Premier League | [Serie A Injuries & Suspensions](https://news.google.com/rss/articles/CBMib0FVX3lxTE14VkplOTQtczJWN0JEZFc1ZjU4M2FoVlZBM2pReTZXMmRfVXktMG05cXQ4UXBzanNVdW9SVm45RGYyNTI0VTc4eWV3eDNTQ3Joc05icVplSUVJaEJfelpEYVJ3dnRrVFctS1QzbC1sNA?oc=5) | - | 미상 | Sportsgambler |
-| Premier League | [Arsenal handed triple injury boost as three players travel to Liverpool](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHh1cFdPZ0JoQVo5TlRzUHhVelJ1aDl3bTBfQ3JPRXloRHJfUGZVNWc5emhfUkNRajBadjlQQ1hqVGJIRzhxRWppV0lGYUlkUVA2YUowWklydmFsTVc3cl9md2FhWnR6RzJxSlRKYUNhTGZSLVZVTVRuTzFEZW01R3J4V0JIYUFPZUVtYUY0STJpMy1tV0gzTXZWWmhYbWctMU1zU1hYTEpPSEtfVnc?oc=5) | - | 미상 | ArsenalNews.co.uk |
-| Bundesliga | [Bundesliga Injuries & Suspensions](https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5) | - | 미상 | Sportsgambler |
-| Bundesliga | [Aaron Danks provides injury updates on Bayern Munich’s walking wounded](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkI4M0tlNXJ2S1lfX1A2SjZaR3pRSUNpVFRhcndtSEV5cVdTcEFwSmRSV01TTUczdEJ0S3kyTGRLeGRWTkU5OFpicnI4T0NEVFA0QU1wZ0llUWhJRU5iQmlpOXFFSFI4dFhJUERaWVhoZ2x1ME1uLW9PTnRlQ3dldkg3TVpBdTFtS2dnWHUxZ2ZyY1JkdXZnZnR3UDBBYy1kd3plQU56eVVvYUFjcG5XTnB6S3pWSmRUUXZiMkxyYUZJc1NhSExtcVEtUy1USkJiRTE1M3VR?oc=5) | - | 미상 | Bavarian Football Works |
-| Bundesliga | ["The ankle and knee in danger": a shocking diagnosis for Sibari's injury](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ21MdEdLQTVsSHNJdGpEZHFkVEhSNjAwYTg3QlVJeFBFcVQwaGxtZE92QnpFeG5sd04wd21JOFY3ekxWREQzM182RnJhMzdCN01NQlk3WlJCR3ZHelU5cVVScG1kcHV5eU9DRDQ5UlhhTXJ1bEJiS3VZX0paTzJDdXRaWVByZDJjLUV1M0ZESzlnWm9NQlVKZDVoMHBidGNBN0gxSHVKOXQ0UFoyTWs0NVRjb3VvdGoxb0E?oc=5) | 발목 | 미상 | Goal.com |
-| Bundesliga | [Aaron Danks not concerned with injury situation ahead of Atlético Madrid tilt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZG1kR3E4bHUwSUxtX3Y4bUh3UGZORWx1WjJnV28zT0ZIU3A5M0QwV0ZwQ3N2Zy0tMDI1NUxhUkhSamVJVG9mUXUxaEw2RlNaejJ1Q3duZS1kNkhaTUVoRzkyQUU1NFpESzExdHd1SElJX182Uk5uNzlrRVRUWGh4YkE5OWl3SmJMeVRZVDJHLW9QcEhyYy1QN3JkSnowelF5NEtmN0dYNTVxcjNvNE5VX3htaXQ1TmRYd1hhVXpWcEZiTmxEcThsYmV5ZjY1d1JSbDJsR0VPT2dJUXJGbkQtYg?oc=5) | - | 미상 | Bavarian Football Works |
-| Bundesliga | [Joshua Kimmich’s rallying call amid Bayern Munich injury crisis](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDJBcjI3dEFza04yOXVJNlNESHkyWDZpOUk1REJRc2xfZmxkZS1YWm9zdUxiRG9pQ3Z4Vk9iS0RqdHFQUW5aMXo5OEt6azdvTEJpOHJ1VUxMZzZWNVBoSXFycEdqaXZGeFhlSl9PRG5DWThicjRYUEJDcXFka1YzZmQ1V2R4YXNpVk9MbzRtVE9MRkNZQ05xNTlEQTFKVW83ZGdSUUhIZTJjMmtrNzZHcVUwemFwUWtqb05hZVZ1Y3Qza0IzOEVIRk5Rd0Q?oc=5) | - | 미상 | Bavarian Football Works |
-| Bundesliga | [Bayern Munich face anxious wait on Klassiker injuries to Ismael Saibari, Serge Gnabry and Michael Olise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGRob2hZT1pIeFlTZDVDNjBkamN3UTVTVU9UU25nMXVHOUEtWkI1aVlyRHFHaEZDanVuU2NUS2h2RFRTSHVkejNXbDBaUXh2OWRHWUpVRldPX0JEdjlmRlhPZDhjRk5DTUJKZGVXeDVrRFVmOThucGNiZWxIUFFTMGFXTGdtcjd6TWREQUNhVm9MZ0RzWVVEekFqOEM0WXVvc29vNXA2QnoxcG5rMENVREtfeWZfZnRoOWg5MQ?oc=5) | - | 미상 | Bundesliga | official website |
-| Bundesliga | [Halloween horror as Bayern Munich dropped points in Der Klassiker with three new injuries](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaklreHRhaVR0T1Z6RWpqaXBTWGZ0T3d1T3JKX1VLNXhyZkRtTTc3RldxazBLaGNpTEFuMUItUk1sY0x4SXM5QzRvSUdJQi1NVGx1N2lCVlQ3ZDVJdzQwSjUtck91bFVJM3RYSDFjV3lkVFZXM3V4Tl9KcjFMVzF3RWVZU1I5N1E3U2IwdGhGSkpkQXN4VEVVOXZUYmVHbnFlcnRfM1ZmT25WZkxwUElxT0J0T2hxcTZQdnZmLWpZTTRPLTY3WWIxSU9zcDFWbUg3X25xUHM3Wk9jUm9aZkRjejNUNmdlNE5od1dSYzdZVzA?oc=5) | - | 미상 | LiveScore |
-| Ligue 1 | [Commanders DT Daron Payne, potential trade deadline target, fractures foot: Source](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzFXa2ZQbUo5ZTJ5c0twZTd4Vk5zYUI1Njd6bXZha1ZtVm9ZLWdON29pZFdVcFBqTDFpQ0ZyU0YtNVNvS1VBMDdjTUVDM3RhX1hzVlQyblgzUzlZeXN1YVlrd0hZQ2pzV0JGMVRac1NyalVNYThsME1rSHRPSXJIN0Nfb1QzYUZqZlJCMXdCM29aMC0yUmFWLQ?oc=5) | 발 (중족골 등) | 중증 (8주 이상 / 수술 / 파열) | The New York Times |
-| Premier League | [Newcastle United vs Everton Preview, prediction, injury news & lineups | Premier League 2026-27](https://news.google.com/rss/articles/CBMijwFBVV95cUxNU3djWW0wdzR2djA2M3gwVERXOGp0STAwUjBVTkFwb01jQURRdUJRdWdNLW95Q0JrdHZ1MFE0TFFFRGVjb01qVkhUUGE5VVk4X0JKZzB0T3RSdWpZOURtXzBVVlhQWUlPSXAxUVgzbzZocXVVZE5oMEJZa01ubFhNQ0FvUkRjOTNCUUVyc2x6SQ?oc=5) | - | 미상 | Khel Now |
-| La Liga | [La Liga Injuries & Suspensions](https://news.google.com/rss/articles/CBMib0FVX3lxTFBLbXNZQ3hhR2R1dWR0OHBQR21mWmxTRmdCa09iVEFRR2x1QW9HanJxVFdzLVJJeXdKSWF1Y0Y2eWtidm9SaDFoZmRlM2dEN3RSY2pXdk1KRmtsT2EteURqaVJTaFBRekVsYUo5QXcyWQ?oc=5) | - | 미상 | Sportsgambler |
-| Ligue 1 | [OL v Angers: home form to ease injury worries?](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVlrN09TQ0NYY2JNRjZYcFh3RGNfYnZ3VW0tWV9Pb00wN3VuODhjcV83SFFYdjEzQktmVDNSWUNpMnU2N0h0TlQzc0tmUFM3MUlkYVdqOGlYVF9LU1V3UUo1SkYtM2JZanFneFdoQkpicUt0VkNTZ2EtNmVhaURmd0RUQnZvaU5pRDd6eTln?oc=5) | - | 미상 | OneFootball |
-| Premier League | [Maxence Lacroix forced off as Chelsea face injury concern](https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFlLZmQ2YV9Db0VIZUpYcVJ1YVNzZkNxMXI4ZUItbWhzZHY2YjN6Z1BPMmJkNzl4dXdpUkVDRVhRMEFYNDItOUZ6M0tQU1ZUUjhTSTVpVVBhTDZVMFdYQVkwazN5N3pYUDlfUlBRajNnamc3bTZfU3FCUmFGQ09QMG1SZFptUQ?oc=5) | - | 미상 | Six Sports |
-| Serie A | [Red Bull Bragantino vs Santos Preview, prediction, injury news & lineups | Campeonato Brasileiro Série A 2026](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0FhQ3RnYkRUa0VFaWdvbW9WM2NabEg0VGROWDlQX04tUUFMcl9TMnBnM0dObmtZTHptZkFENVdMQkdHS210T2FMM01pdkdhcmQ4TW94M0F1VFFfLUU3Wmo0bGhGR1VUUjRuWlBmZ1VMSDcxS0xwUkVGVWVCWTZLbWlIUUU2cEVPVlhHUHVTNDRvZzBJT0t4SW51SjRNa3pTMm02MHVR?oc=5) | - | 미상 | Khel Now |
-| Premier League | [Patriots rule out AJ Brown with knee injury. WR to miss his fifth game](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU4xX1BhN244WmJtZTNodWwyUjMtRlYyRGhkZ0l1dG1NdU92S3d6aUJZNGdTajdoV0djSUJEQzhwZnJNckNNN2ZVTzU4VTZhaXhLem81QTlCcVpwemFlV1pPaV8ybnRSdG1PUmFKWjZPUGtSY3NaZXl2MmhsRXYtRkNVb3pVa1E1YkpXWVNiWQ?oc=5) | 무릎 (기타) | 미상 | The New York Times |
-| Serie A | [Fabregas: ‘Venezia will be difficult for Como, Kean injury happened with Italy’](https://news.google.com/rss/articles/CBMifEFVX3lxTFBCZk5iT21WQlhvNlVTZDg0dDJSb1Z2LU40bTFGeEpreWpxaUVsc1FjVVF1TUJZVy11Q2x2Ml9odThlTXBiYXdSb2pqcW5YcHVqbGVHTHlXVS1UazVNX1hCV2RGck05OS15U2x5U19VVFg5Q2M3NXg4UTBnX0jSAYIBQVVfeXFMUEVTQlVyNlpzLThvTkVvY1pVUkFKQzdWZGtJTU5NSEhDZFB4LWFQMnk2UV9CS0xiaGp1RGlVT2pCd2pseFJfWmxQUGl3V09SZV9RY0JPLTFMSUtEYy1QMGVzbjJWRzFPQWo2V2w0dHZ3OXg1M2NPWmlwUzlxRFFSM1BSdw?oc=5) | - | 미상 | Football Italia |
-| Premier League | [Bukayo Saka Ruled Out Of Sunday's EPL Match Away To Liverpool, As Injury Woes Continue](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdklyRG9Ra1hPUzZDcGtXLUhpdnFHbDhvNkhvVmJ5NU04TXJ4YlBKYzZWS0drSjdkNXlvQy1aN1N3eFJjUTZ5TEFBckFQWVo3azRlOVJMNkdMcE1TdDFFT2RYRFppdzhHR0FxQ0w3dEtiOVJMZ0FWd0FDeWVZMF8yU01zQzFfOUFGVGZfb0RxUW9iaDdidnkxTlFOdjRwWDl4Y1U1cElpbl9VbTliX09j?oc=5) | - | 미상 | Sports247 Nigeria |
-| Premier League | [Premier League gameweek 9 injury list, all 20 clubs](https://news.google.com/rss/articles/CBMiigFBVV95cUxNR29vLWFnY0tFcGVmOVBzd3VzellPVGZ5WlFRS0VOWFBkVUxyNnRfa3YwX2Nia1NGa01XTTMzbkxZNHltQmo1bjVFaE9BQkVFdWZCZmZXTGJ3d2FjSGR3WkRLTExfY1ZYai1Oc1AxRkd2MDlKMmRjUjc3b01GMzNOd2cweWVlVklsT2c?oc=5) | - | 미상 | Premier League News Now |
-| Premier League | [Ligue 1 Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMicEFVX3lxTE1neS14WlNLaTF3ZFUwTTRpVFlETF9QZHRUUmszMEtUMk5fdG9YcEMwUVVwNXEzRDYya0EzU1N2SFh1bnhCb01YYmdwVmVLUy1tRVdrQmdXdVk0bWdSLWxxRnFFOUJDcEdNYW1HLTA0ZXg?oc=5) | - | 미상 | Sportsgambler |
-| Serie A | [Fikayo Tomori ruled out of Inter derby with thigh injury](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjZVMFp5OXh2b1ZULTEwOUZwY09kNHRwa0VLRlA5VFBrZlZYMEp2SkFWYnMxbktNUUZER25PUWlTR3FwUTFMQ2RDTWU5ZXRjaXFNYTM0c0tBRE9sRXltQ1JCSmNSQ2F2WVRDdXA0TDNFS1d6ajR5NTdOcVdkaHZSbFVqcjRkQ2dJc2hXb1lidEpQYkxqeTNmWERtV3FlVGRFcHVKNjVGVm5pRFlxOWEw?oc=5) | 허벅지 앞 (대퇴사두근) | 미상 | Footboom |
-| Ligue 1 | ["Another injury?", "What is going on?" - Chelsea fans left worried as star player misses Manchester United game](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVY4R3lxSF9FN0c3Q2I5UHh3OGxoMGRPdzc1V2ZyNUM3V2R0MEVFaXVLSTJNdGlvWG5SVzBNY1FjdkhGaHJiaGZ1ckZCVkdWQmViNHdEZzNabkdWQVRVbjBvckhneUY3X3pJaHlYWU42LXBkazhJYV8tY2pJWFBYLTRZWlcxWXkxNlp2ZHROTno2YWYzenR6ZVdtTEVvdmtzRXFjSVgxdG50U29jbWE2dFY1TGhZYUNROTBHZ3l6RnFwTExDeWdCLVBBcHNOUDloZ2tZdA?oc=5) | - | 미상 | Sportskeeda |
-| Serie A | [Ancelotti Calls Up Raphinha to Brazil Squad as Reports Highlight Barcelona’s Injury Concerns](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ON3Z2Z3BvS01mQk56cENuYkl4ZTNGTldubHVSTjhXUk0xaWRqOHVXbWwtcWpGN3NOOXVaNXRMSkhWZ29TYjlTbQ?oc=5) | 허벅지 앞 (대퇴사두근) | 미상 | كورة بريك |
-| Serie A | [Serie A team news: injured and suspended players for Matchday 10](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGo5eF81UVJZSG1QV1AwaVJENm9mZUpreTBVTGxRWXZpOFpnVGNqM0VyVl8wOWRjR21HYzg0NWJQWGVsZ3duOEd2NzVEOUNSbWlSMWhtemRRdm9SWk1nZkd6cXFMSC1USWNEM0wtc0oya2xFbnVEMDBJb0xndF81eXltQzlJX2wyZ2pXbWdiSk1KSG9sLVg0UWlmWnFzSG1seWlCTUQydUxwcDQtS3RxUG9mejZYZnNPakJSYmNoY1hsNWQ5VVNaMmJ6R0lDa2tvNE14YzJ30gHbAUFVX3lxTE9JOHA4Z2tvdFhtWEl1UlBZOGVhcGtpZ2pmdUUydUNPWHMxem5KSUVZRlJWbElQa0tQRXV1LUxGQjdHUFBBZU1iSUNYSmVMcGhKem5Qd0tfU2Z4blNnYTFBYXlDZXZJTldaTU8zMmVuckFxSW9UMTlpSjMzUXN2X2hRWEQtZzEwUEVQa3BPN2QyU0NUWTI1aWRCd0lNV1JJd29ydzdpY2VKOThHcVNSRlBUaDRzNlI2aXZ2UlRxdkZ0SVFzVXRnWTh1V1RaZDlUZUFQazNBMXpDQk9ZYw?oc=5) | - | 미상 | La Gazzetta dello Sport |
-| Ligue 1 | [Blow for Gor Mahia as defender ruled out for at least one week](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpc3EzSlVqcV9RU2lRMWI4bk5jbjhpalh3TFVFUHpGWGg3QVgyRU5wRjBpSHBTUjN6V3U0ZmE1dGhqTS1uTldTRThCNzlLaU1NaW1NaFRteVZWZFZwOGdvTlhUbHlKOFpOZzJRQ3Y3N2EwTlNXQTNNX1JhM2ZEQmNrbE44Q1BfRjJGanJ6RE1JZFpoNEc4LWdn?oc=5) | - | 경미 (2주 미만) · "one week" | Africa Top Sports |
-| Serie A | [Hardik Pandya injured again, ruled out of Australia A series: Scan reveals tibial bone stress; all-rounder'...](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOW9GS2haRnJ3aV9sb3hlczh2SHBCQVU2cGU5dW1Pb3lwY0NIUi1KNGhvSWxockNnVXRfbVF3dHRLNG5NUUMxdmp6TnV2QW5wU2xqV0RDM0F5RDVzdjVRclZCVnZjM2VNcVdwLVlaUERVZExOTWJlT21VNThfTExLUmlCSVk4MG45MEwxZ2gyU0NrV3l5dFFzUTdiX2c5YjdJNFpjQXR3QlhCR3FwQnIwa18xd1VMX2o2TG1GV0xB0gHDAUFVX3lxTE1nRjZ5ZTcycVZTbkYybFpwTW94dHh3ZEIzME9ZRmpfWFRGNUxqRE5EeHdfZVRyQ2cyTlhJN2lXc1FCeE5BSnp4eG45LVpiZi1wRk5wb2IxZnJ2OVRIaUREODNKU1prVFpGdVF2NHRobTQzYVQ5SVk1eTlFQmF6SmRvMkNrRmVFNWtmdjNQd1hnNXdGSjZ4b3paUndhWE5rLWRmMGZfTVhrT0tCbktNU1dxNXZGeGtLX1FSN29RdDFicmxNbw?oc=5) | - | 미상 | Bhaskar English |
-| Serie A | [BREAKING: India add in-form pacer after Prasidh Krishna gets ruled out of NZ vs IND 2026 ODI series](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWtndUJCcFprajVaX2FCWFI2aExaY0NkSURyaUhHMnpCY0RzQUNKLUF0dkZpX1RsajlpS2p2Wlh0SEswdElzUTBadjM3c1lnZVBBaUVvSVlGejBRWThJUDVXSEpoYzNGRkdqZlA4YU9FTUhEVjVzVkYtc2t5UlVkR2hidDhyMGhCNkwzYlZ3ekVVTjFkYjZKMUpCaE5UclVSSllLVFRia08xWEt0cXBvc3NxSjE3QnZJZC0wdXk2LWszTzd1?oc=5) | - | 미상 | Sportskeeda |
-| Serie A | [India vs New Zealand ODI Series: Auqib Nabi Added To Squad For First Three Matches After Prasidh Krishna’s Injury](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTjZRSmdlamphV1ptYmRqNnJOLVhMU0JRYVNDeTRiY2dPclJ1SS1zdy01NHo1TjdURnFkX3BBTmF4eWRDS1d4MHFoZndwSVdOR2pmbmpza3dET0diSEhvdHRvMWdIZTRjbTNlVDNLZ3RMV2RfU0RRTmUzTUtleTNhOXJaSmpPU0NfQmJmcXBUWFNDOXNEVjlmOVVzRDJLR0ZxVVgtVzdyZDJVY2gzY1RIM3p0VkpQSlNURk5sbEt6Z3Atbks4aXJ3cVJHMkJJMlV0djJaRUwxLVlHd01fZFJaODEzazNNYkNoZloxQU130gHzAUFVX3lxTE5sY1hVeEtMZmRuY2k2X1RNMW1iTXlVTWtOSGFJSXNmRE52WVphTTRnRGE5TTgxX01lbzVYbzZMUEVTTDZBd3V5NnZ4RkgzMXFEV3NBanJTV3dpTkRiRkZ5VWE1YTdINXI2Tjl1aEkzdGlYZkRBYnh0Y2xFSC1Oaks2b3VIVk5CbnowSURuVjV1TFpuWFZCcjR2SUE4OFBZTFAtM3c1Z0lNVGg5RkkwRm0tU2loeEQyaldROGI4U1dfT3dHRFBPWjVjVEh5TkVCQWN3cXFCNDZWMmNYTERZNW1qeXdxUmF2LVJEOGFvdzlxbkVxUQ?oc=5) | 허벅지 앞 (대퇴사두근) | 미상 | The Sunday Guardian |
-| Ligue 1 | ['Don't know how long': Xabi Alonso issues injury update on Jorrel Hato](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkVCMGpxcC1zcnhEbDlZVzJaa0JfM3QtNkdJOEZTYVI2S1JXYjJZSXJpQm5RY1QzUkZRcldSaF9saEF4anRwbUVFWnE0aXRnalZhZzNlUjFqdGNiSTYtSjU1NUZFdFdsRzJtR0ZCQ1JtNFBHRmJvekdneHI5OGthWW15T0FqY1NrMEcxTzZ3cjM5TW50ZGFLZkZocFp3c0JyRWtBZ3gyWFM3THZrLUFr0gGvAUFVX3lxTE5iRUIwanFwLXNyeERsOVlXMlprQl8zdC02R0k4RlNhUjZLUldiMllJcmlCblFjVDNSRlFyV1JoX2xoQXhqdHBtRUVacTRpdGdqVmFnM2VSMWp0Y2JJNi1KNTU1RkV0V2xHMm1HRkJDUm00UEdGYm96R2d4cjk4a2FZbXlPQWpjU2swRzFPNndyMzlNbnRkYUtmRmhwWndzQnJFa0FneDJYUzdMdmstQWs?oc=5) | - | 미상 | Tribuna.com |
-| Ligue 1 | [Le Havre vs PSG Today: Luis Enrique Missing Four Key Players, Hakimi Scores Hat-trick in 5-1 Paris Win](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEdIUVhRa09xNXdWSXNKaGZ5NjVMeDMxVXNSN1NiQU9IM2JkSEVhXzc0Tlo1d3RHeTJsLVNhV0RkdUJldmY3eFcySExnN0RfLTc0UFNOVWZ5X2phNkxlTjd0WHNGQXM2ZnE2WFpyYnNNZFAyYTN1T3gyZ3Badk9jdXlCZXA1dDktWDU2NjJac3EwSXF5Z2dPdXlrblhTMVNJTTV2TGtCNmlpQWFGbHRNMjFYRkFFS3dHOWJoYzRPNHF1ZmowM0t4d3dndw?oc=5) | - | 미상 | Aktualita.co |
-| La Liga | [UEFA Champions League Injuries & Suspensions](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QVV9oWldpc3Z2REtLbzg0bVA4Tnl3RXFpaTVERy1HMDU4alplWFpjNFdxdzBsRmpWLUk3R1V2Szd3ZE9vMTZhcVc2bHNPQ3dmcG9vbF9RdGx3NGV0UGdpX2UxRzduQ0tfOW8zZzRzTl9kcnJPMjJKTWVB?oc=5) | - | 미상 | Sportsgambler |
-| Ligue 1 | [Barcelona turn to three academy prospects amid defensive injury crisis - report](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcU9JNFhDT2dNbUNJVjlnbEhwMk1UWmFQZHh2M3ZZX1RIN0pxZ0pKRHpCX0VfX3UxSUFkTG1PbjI4VzRGTjgtRUN6Y09tQzB6OWQ0T041Y1I3bXJmOXVVaHVKa1RPb0d6UVpSdzFCc1kybkhvVFE2UmJyaWJPZWt0bjk2SmhaOEk1U3BXWXBPR19naEFMM2VmLXQ0V2E4aE85Mm5LVmFMSzM4d2VCaXJKZzVIYjRmVy1lS2RIX1BR0gG-AUFVX3lxTE1xT0k0WENPZ01tQ0lWOWdsSHAyTVRaYVBkeHYzdllfVEg3SnFnSkpEekJfRV9fdTFJQWRMbU9uMjhXNEZOOC1FQ3pjT21DMHo5ZDRPTjVjUjdtcmY5dVVodUprVE9vR3pRWlJ3MUJzWTJuSG9UUTZSYnJpYk9la3RuOTZKaFo4STVTcFdZcE9HX2doQUwzZWYtdDRXYThoTzkybktWYUxLMzh3ZUJpckpnNUhiNGZXLWVLZEhfUFE?oc=5) | - | 미상 | Tribuna.com |
-| La Liga | [Team News: Barcelona vs. Alaves injury, suspension list, predicted XIs](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRExQVnNYT3pkeHl0TlZtWWg0dXdXVDBVbkhEVDJodW1hbzBZQTk2VExzelI3V0lFdGxrUHlINVE0d21ubi1hRGdnY1hNVVVTc2xlT0ZlRGhucFE2c3RxVmZJeGtvTHJzNVhxcVBBcVZ4RkRZbkVmenFKYmF4UFJxbFlwMlB0SHlyOVI5bkVxeG5sMkxfek5DbWVsLWJ6WjY4SV9TZ2dIT2g4Yy1nVVBNb0tENWxHNmE2M2ZBZWpZZGo1aTZvVG4xeTMzV01rSVNfcWtseXZwZzVodVRra2ZFWU5IQldBWWJW?oc=5) | - | 미상 | Sports Mole |
-| La Liga | [Racing Santander vs Real Madrid early injury news as 3 ruled out and 1 doubt](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFl6Zjh2MDJ6cE1vY1FZSnNGazhoU3ZqdHlfaUJ5Q2dNV3RoUTRNX0xvV3pYb2ZvTHBlV28zYkc0by02UUc3RGxzYjUwUkd6TjN4X0IwVzdLUmQ5b0hUemFzMGNKUlpNSGpVcS13UFlGcVpFb1ZtNjlEZlpLR0QzcENwRFBWUDJhQXZjZXlUWWVJQ3Z3LXNTZGFaYTN2M1lFd19IOTdIelUwRWtoWXczdU5tV0VaUQ?oc=5) | - | 경미 (2주 미만) | The Real Champs |
-| Ligue 1 | [Chelsea’s Maxence Lacroix feared to be out until January with hamstring injury](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUxxVE50WEtfMHlVdkNxLUt3eUc2cDBEQm9YQW9SZWkyeXVyUlJrTGdQelVNOXdtVkxDZWlscHNYaEJrR2RPQ1VOSFVZVG9HY1JIZVNyR2hxU3FCTkI3ZGktSEd3ZUk4YWdVcmY3aEdhOW9kWGlNbzhTN3BlaUpsNS1ULU1QNWRGWnFr?oc=5) | 햄스트링 | 미상 | The New York Times |
-| La Liga | [Barcelona face defensive injury crisis ahead of Alaves clash](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVV3RmhIbjR0bmFydnhEclJuTzY2NVZJX25wQk9LMlZ0VjZlMnRFeTlWNzlsYlJkNS13Q08wdUhFbmZsSUlXRmZVSzlaRER1NkxEbi1HTkdiel9wOG5VYWY0cmkwZjFJV0EyV3JJeHZ6T0RfOTdhNTBuSlk5TC1vOHpuLWxUOURMbTlibmgtaUdpRXhfY3RDM0lKWTVCQng5SW1hZ3l2VTAyTzViT3owSDFjN2xfd2FTTU1wa2lmTDFUenkxTGxFQXZYMjZJX2wzbTU1Zl9wejJJOEM1cnNwRUJDZ0I?oc=5) | - | 미상 | TribalFootball |
-| La Liga | [Barcelona star ruled out against Alavés: Raphinha's injury grabs the headlines](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2Z3RmVETERRMnl4Umg5enhVUXlvTXFWdm9mVlVabjZBOEtHUzEzRWdDSlEwdm1OeWdQRzh6RU5iRnMxTFdCMWxUSmZNdzRSNlNWZFR5cnlUTnVBeTdKcEdNTjl5cHNYS1ppMW4yWHl6X3RIYnJ4a0VCeGc1OFdrVzA0R0pBTjNIT3dkNndsOTA4Z1Q3emkydmdISzJTLWFjc2NJYmY0bzR3OUxMRC1UYnh5enZPM3NSbWFWXzhFSGM1bTZBOHBQSmRDUQ?oc=5) | - | 미상 | LiveScore |
+| La Liga | [Injuries besiege Barcelona: Flick fears the worst](https://news.google.com/rss/articles/CBMingFBVV95cUxQalRCWEN1WXJ3N1NXUFI0LXh4VkYwWHhXRVd1eU1Bdy1wRTVNWll3MDBNWFZVSGVyeVRIMVg1WURZckFpNzVqNkxWMkF0YkJvUHVXNVNpM2UyUzFlMFlVNF9TVjlEckxJYTU4cE9fRDE5MHFURlQzMUs1VWlvTy1WTE0xQVZqaVNMZUk4RUh2b0h4UGN4VDJrZVlwZk1aZw?oc=5) | - | 미상 | Goal.com |
+| Serie A | [Injury blow for Black Caps as Rachin Ravindra ruled out of India ODIs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEpSRDRiRWJhYnFPeEpBbWtsUVVubkM5UjFDeXJEc2hQdFVWRWM1NzI2cFJtcTdaV1cwX1pyU1Y3NzA1X3NJeVc5eXQyanBybElhcGJyUkNiOXQxZnAzRi1qWDMxWGlfRm5nSjBIZ2l4VUVMbFQ1OHlXdzNmMGs4c3d3blJsWjhiMXVhVms5bG5qc3NDOTVZdUc2MmxaeE9k?oc=5) | - | 미상 | Stuff |
+| Premier League | [Portugal Primeira Liga Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMi1mRlJYS1k0dXJLTW1rMXpGZjVhMWJ1NHhadHBReGFnN3ZzeGxaQWl3NzhZdVJONVNkNEoyc0hsTTlWV3ZGTkV6c1YtejVTaEI2VGp2ZUxTTTVqMWY2UmZoRllyX2YzRVI1SzN5V2ZaSFJUem82RVBvOA?oc=5) | - | 미상 | Sportsgambler |
+| Premier League | ['God saved me': Taiwo Awoniyi shares importance of Christian faith after Premier League injury](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRjg0WXU0TmNpUXNQUVdGNHpnTWxkT3dGYWFKei1qQTJ6SVhwMWRLM1Z1MkxHSFBOSnlqMHI2TEpqZTdLX1JpY3RyOWtKNGRxNDBDZjU5N1Y2WHc4b2RTLUQ0X2tlRnNNNUhHSnlHZWNmdFJzQlNXeUx4UjNfMkZob0hfaDdrNDIwdTJtSWl5VWF1eXlpNXhvMFlCT09nXzhjWXdFVzAya2t1WkZmWGpmUDFmTU1rTDhMTVVxZTZta2lwUnZYbTlDQVRNQlpEc2x1bFNZ?oc=5) | - | 미상 | Premier Christian News |
+| Bundesliga | [Bayern Munich CEO says not to rush into January signings following Der Klassiker injuries](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUQtWWtuQWFYSFQ5bHV1cWNYRDk3WmZYT1hZTjhLOWNLcnRtNVVYeWJHVml2aDNzZ1hqOEZITG11NVlxdVpWNEdQNkRvMkJ6NTllWUF3dmtWQV9ubTBpb3YxQ29MVHY5ajc5MTUtNEhfOHhCLU96MmpQbUFueURDSlktUWR1eVJYaDFhaWNfV3Q4aFMtNWtKM0NGWkZuZFdrY1YtVDBEbWpNc2lvTmEtX1JnNkUtR05NYTdCNTZnaFkydGFkQVp5RXJYSXZSQmF6ZmpiYTBCRnl5MnFjWHpRdDl0ekE1dHN1VlRZZjhB?oc=5) | - | 미상 | Bavarian Football Works |
+| Premier League | [Gary Neville bemoans ‘nonsense’ Premier League injury rule during Liverpool vs Arsenal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamJiX1dwbVVMRzFSY0tPTVNibTFROV91SllaWUVYd19qOW1KX0pFdWRwTVhLeUVseFpWdEZ5My1qUmNjeXUwa1hDNHNOSmp3NF9qRlRrVkFRTk5kdUJYX2I1YUlDd2g0ZkNicWZGbE5SWDdVNlJsMDUwQnpHeHpWVXlWNEh5S2I4V3Q3OE85aF9UY21FUXl6ZzB4MDhQUzJxeWhDa1V6dGM?oc=5) | - | 미상 | https://gnyouth.net/ |
+| Serie A | [Lamar Jackson injury: Ravens QB ruled out vs. Bills with right thumb injury NFL](https://news.google.com/rss/articles/CBMitwFBVV95cUxQR00zeXFKbTBIek9lU1FrYVYtQ2lRWUltT25EcVExR3NkNEhBSzFoaFV6YlpoUE42eGhrV2g0dlNuaUZPY0dkOUdHVTdKRnZhWWt0YllHVXpQM0oxY3JrODhxNlRFN19vd0pYUVltWXZ6LWFfaHZrcWhrVThRSm41MHJyQlZudXFVcFNjMjd1QlZQc1l3ckpXbG9hNUI2aHNKc1AtbU5xckNJSnJNTHZTMDVBVUlVcHc?oc=5) | - | 미상 | Mix Vale |
+| Premier League | [Week 8 inactives and injuries: Emeka Egbuka, Carnell Tate, A.J. Brown ruled out](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTNlNVN6R2Jmc21ua2FFeDNxZ1VpamV4MGhIUEFDb1hXSTRFVkdMb09PQl9sNExpWXl0RzlySHdTY1Roa3V3T0JWOVp3a3otVklKZzFqX2QzTDBMdEE5UW9US2JfT1dySkFMOEJjMk1EbzNIUEpleVRFQ0YzRzNpTkI3MnE1VURxYnFNdnlzNjczcHRjV2c?oc=5) | - | 미상 | The New York Times |
+| La Liga | [Injury nightmare haunts Bayern after El Clasico](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wbFBicVVaZ256MUp2bEtNVXAwT0NUY2Q2THZQeXJucXA0SWpRSHJaeEhvcDVqN0tkVGhnckJ4MHRjRlpkTjI0X0pB?oc=5) | - | 미상 | Tembah Football |
+| La Liga | [Villarreal vs PSG Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmV3dU43STZuUWQ3X1gtUWpXTGlhS0Y1dDRsOXZ6NUtoN3pia2Z3Um54bnZvY1RaZE42NEdCYThjSXE2eWQtSjJGMlluSU1ZckFEODFHU3VuX3hROFhJV2ZzMTJnQnpfNGt6dEVOZnBELW9DNTRGb25IVFdVbUczc1pjR2NtMWFudVpn?oc=5) | - | 미상 | Khel Now |
+| La Liga | [Bayern Munich assistant coach: "Saibari's ankle injury looks fairly serious"](https://news.google.com/rss/articles/CBMibkFVX3lxTFBidFR5bTlkY0daNlZkdEdZekpnRW12X2JYNDBEaFpZR1FyUF9RTTR1Wl9ZSDNRMHctRjFFWlZuSDFxTEFkMW95Z1JaOFRKRzNXWDBHUkZoN1d3TnlfN1hKd1kyWFpvbFdmaW9XTENn?oc=5) | 발목 | 미상 | Elbotola |
+| Premier League | [Neville bemoans ‘nonsense’ Premier League rule after Kerkez injury](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVJjbnFWUmhUS0wwQWhTLXdtRWg4X3QzN0hjLWRxalFsbkpoTnJWOXRXZ2k2WjJ5d2lNMm9YX0p1SjJrWThpdG1TNGZWWkk2Zm9NTFYtcjNfUjdpcGV0QjN1eVJPZGlqelZ3LVZxWm00cVlxMFFiLXdQNTlkQ3EzOGdOQ09uYzZGQUZoUkpZajAyWU9sU2VyZmQyOGhneFBJSEpqeEZxUjF0LVFzdVhkYUVGaGVYRTQ?oc=5) | - | 미상 | The Independent |
+| La Liga | [Atletico Madrid vs Bayern Munich Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXVNazkycHZpajhHUEFoYlA5NGYtXzZUejR5REtLT2M3NTNJUE5fYlFrNnhxMGJvTDlJOVJ1YUhZb3RsRnJaeUp0LThYODVaZk9KSDFnMnpVN3B3dHRON1J4bDlTV25xRFRNOW1xOEhFcUllXzNXaEdoa1pZaVB2RUdqQkRtMUNNUzJGYWhWYkdLWDAzSkotVg?oc=5) | - | 미상 | Khel Now |
+| Serie A | [Marufa Akter to miss New Zealand tour, says Bangladesh Cricket Board](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFNZUWctcVc0Vm1TcGZkamx0NU9fTXpkd0hKLVNwa2VkX3hMT0w2eldLMlZPTFhiTEJ3c0lCNS1xdXM0WTZLc3ZTcVVNR2pNUUhMcWx4LXJqUFV2V2NJRFMwa1JEMFphSXpaX2EyNGx0OFBzNlF1MUlNbUYyWVprMnBnWF9JQWRPR2JwQnZONGppWTIxM054MFVNWVQybEg4Y1JXMFFDZUpYWFctajYxMUs4aFPSAbwBQVVfeXFMTWxmeWJMQVFwcGV0WFpvclh0NkRUT0ZjTGQzeDV2YTJkY3QwWUJfYWF2a1BWVGZPLUZzZXRTYnh1eWxmcHZWVjB2bXdLTVphaUx5S29uQ3djYlFkckdVcXpJZGdmbzJiQ0JsVGt3OUk1MHhaY29GVzZXOFAycFNaLUVPS0FneGxzUFk0WWlkMGJFMW82VUxWTEpjQkhuNmE3N0hSTWx6VGhaZzJTTnZ5UEs4ZXBxenRPenNuUTU?oc=5) | - | 미상 | CricTracker |
+| Serie A | [Injury to Frosinone striker after strong challenge fr…](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHRKOHpRQXkyVXR3MGZwbjdMRHoybW5BU1Y3NFZUX3hvRDE3dTVHSmFYVWMxOXpxaWFCbVZkSUpfMUlhZHNoNlhlU2h5cXpSTV9qMUlXWXluZHhzYV95V2swT2xKUVR4b1Z6aUN3cE1NY0ZtWHR4c05CNGZiUFBlTUE5NzFKbk95Yk5SUkF0ckVPcVU3eHUzWkhBM3VleXhfYkxZNEVPbkllWGJi?oc=5) | - | 미상 | YSscores |
+| La Liga | [Barcelona vs Aston Villa Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjQ1LVdxb0dBTUhvcGxqN1VxUWRhOVdXNTFBYkk5dFVTN2lBQ2FHcEdfV0hHYndjWFRNWjg0X3VsME1FSkVTS3ZkLU8ybThWNUU5VDljdDM5MG5DeFZGWWxoOVZ0d1h2RFBXUjQ5QXZDWi01S2xFMlF4RmVoVWZHaTVZRjlQdW9fV1IwOWVR?oc=5) | - | 미상 | Khel Now |
+| Serie A | [Ismael Saibari has surgery as Bayern München injury ‘to rule him out for months’](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlN6c2lESV9EMEJYLXpCWWZzUEk3STFvOS1GUFRUTTlNTHBQVXB3Ukg1d1U4TlZPamQ4REdSWGtiWnJVaFI0cUF6T2xCMk9DSU9UV2hrRFVFRHlURWFlM01XSUE0SlJjTEJ1MnFtMk1ka1FvTWdhclhhV0VhbmM0VDdjV0VuemVrdUNVamFHYjFtbEVtS0pPQVJkcy0tdjdzYWw0MXJkdUxXMmY5dDVOek1NMEpYb0cxNk1hNg?oc=5) | - | 중증 (8주 이상 / 수술 / 파열) | OneFootball |
+| La Liga | [Barcelona’s injury woes continue heading into Aston Villa clash](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaC0wdFYzLTFTeTRyeEFVOXRMQm11NE9CYXV1Ulp4Z1BPbVVUemQ0TFZ2dm9oX0Ewb1JiZlN4TENNbS1jOWtRMF82Sm55NHFJaHVwWk9QQ0kzYW5lY1ZyOEJrWGZJOHpSV3U4MDRpcnBMSjZyeGQtYkFUNWZtdGp0c0hQQnZuOFpOVEUtUWdnYnQ?oc=5) | - | 미상 | Yahoo Sports |
+| Ligue 1 | [Fantasy football Week 8: Injury news, lineup advice and Jonah Coleman’s role in Denver](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcURfWkNSVW9STHo1bGJYUDI1SUhlMHh0UW43QWFXRVJOUE1ESXhQOTBReVo4eXlpUkZLOFBUSUpIQ251cFRxc1dhX09sZG5Ed1VRdzExTUhWclBTc0I4RlRwbUNEYlBneEREYlY1NDZMcmRqYUhmbTdsaFRMYzdoNFFYWE5tZFlLUGd1ZWQ2V3Y5emRyblg3Vm40SzNSNWFaY2IzVg?oc=5) | - | 미상 | The New York Times |
+| Bundesliga | [A shock absence for Al-Sibari, and doubts surround Olise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVdtM0NWWndWU3RNak01cFM3TndyTHVxWHQ3ZnNqMHFVcHdiMi1uNnVRQUd5QlE5LWd6b3NrMDlyb3d4REpPRllNUWg3cm1ueVZaMUpEWS1lX19udHJyTDctN2RJenRQNXh6YUo3OExfYWZIYVFlU21rMTRsNm9VcFJPN213aTAyVmhIWkF2bG5rNGZrQmtlejZXUzNwZW9HVmVFcFk4TGxva2c?oc=5) | - | 경미 (2주 미만) | Goal.com |
+| Bundesliga | [Bayern Munich suffer double injury blow as Saibari undergoes surgery, Gnabry sidelined](https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3FjVUU2ZUcteUVWR3h1NGNrTUp6OFNvZEM3VlhZTnpKSDJlSUViMXhuX1JQZDM1MGlOOFBWcWhMekJRTER4dkJMNmpoX3JpRUdHeXdKVndHbXQ4d1llR2RCYkJRXzNYMkhrNnJQTnVPdUVHRVM1d2lUM0RsZjFubjNpcFkyMU5MU1kybHJGbU1DVEdZZk1tT1M2MEdJX3NYcjQxUWN4UHI3dGRJT2FmVVRMODJJMnQ4TEwtZw?oc=5) | - | 중증 (8주 이상 / 수술 / 파열) | The Hawk |
+| Serie A | [Pant's latest injury blow puts NZ Test in doubt](https://news.google.com/rss/articles/CBMingFBVV95cUxNRWFHUXNoOXJRZWxqSmFYOHBJTFR6V2V1dUxsR0otLXhINkFhVW5wN2JrNDZmTk5reC1FQ3BlUUU0aTdGczJST3FiNkFCV3NBcjFDYkVORElQZkZHaGZJUHRJYXlSSUdvUklfNXJzWWJLZThRMk92VFVUdW5seXFfXzk4VlQtVkZjTHB5YnFjSE9UVDhwMGozRjhXZDY4QdIBoAFBVV95cUxOMHJ2ellIV3ZXaU9XT3lFZFloRkVxOWYyYVBlQm5FUXV6Q19jajBXamkwT0tkLXQzNUJVcmNQQ3kwVlktNnFvVnBBd0t6V05RTG9Pc1JkNXdiYnNvNVpiSHZOOVlfNzFQMldfMEx5WVpuY011dEZXZFpmNFY1UlNqdDE5U0R6UkNKeGh6T0RCblpkUHRYN1pkaDd3UXVpXzM0?oc=5) | - | 경미 (2주 미만) | Rediff |
+| Bundesliga | [Bayern Munich Confirm Ismael Saibari Injury, Moroccan Midfielder Faces Three-Month Absence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXBYR0JycUtsVHBuRkZuWXRESVVGMEVxSXhPZk15OXhFbVZwMC1uVHZfU2FISnJJQkRGMlVTVDNhaGxJZE9Eb091dHBYcWp1cGdpZlFwTkZ5UExwdG9MZGxXZG90QjlaMlVrWWYteGtRamJ4YkE5SGpVT1BtVnlTVDFHMVFWa2RMdDJvWnJGeUpPNmJxRXFNVkNmdnA5VFhEMlZnd05LMWZZb3pxeFNXRk1BYUtQdVVDRFhTVWpPazF6ZWJteU52YzJlM2ZkalM2QUU1Qw?oc=5) | - | 중증 (8주 이상 / 수술 / 파열) · "three-month" | Morocco World News |
+| Bundesliga | [Ismael Saibari undergoes surgery for ligament tear as Bayern injury timelines surface](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjZYYXJUY29NdXI4QnZ5bjRKYlBxWHVQdG5BcldPcXRaSHV6b080WVFfNll6Z0REV2dKN2pqUkQ3QlBYV2cwaVNGLTlPT2tqMVpiLUhzSTZLX1FldE1ZT3JERUlkLUFGWG9iSUFRdDM3T2NibTZ0RVpMMkQ2RU85Z2hTbGk5UXVPalN4VlQwYWNhWEZj?oc=5) | - | 중증 (8주 이상 / 수술 / 파열) | Yahoo Sports |
+| Bundesliga | [Bayern Munich reveal Al-Sibari's injury and announce he will undergo surgery](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVp3VVI0STZhQ245UmI5aFJJVFJRTzBZTldTRWd4UkRkYzI0LWREUVk0cWFMZXh6QXVlYkY1Y1lvSV9ld1lUWTJ1NUZPQWJOTVlFM0djQ2dkWFJ4c2hWTHlNRUJ4SmpwQUl4RjJweHhyQURPTk41UzZsSzlWZWRqRGE3NXgxcnJWX1lxY2FvcmQ4czV4aUswTlZMTTZEOXQwSTNmZjVjUGMwMjdzaXJxNS1FcUQ0Umx5YUVrc0JiVTBCMkhGTlBr?oc=5) | - | 중증 (8주 이상 / 수술 / 파열) | Goal.com |
+| Bundesliga | [Bayern Munich Hit With Triple Injury Blow After Dortmund Draw](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkNmSzJyN0dxMGhRY25PN3oxVDE2N2ZwUlRxSl9hZ21CU3E4eEJybGVBYVdhLTBKcW5RSnJaV20zZG9UNVZaaDNiYUZLVkdmUEJObUNEaGxpYm5CenhwVy1TV0JPc09YM3RkVzRxX1ZfMnBqMktBdFYxbGg3aUduTlZyOS1ZME0?oc=5) | - | 미상 | Yahoo Sports |
+| Bundesliga | [Saibari undergoes ankle surgery as Gnabry suffers hamstring injury](https://news.google.com/rss/articles/CBMijAFBVV95cUxOT01kd242NWNtanlmRlRncWRhN0lYeDlHQ1ZtSDgzVTRkNlYwblZ3U2F2cDc5cW9pdnc1MUNxaFdEMVJsN2gwejVHX2YwbDJCQUdWMlMyWVMxN1E4OEV2NTN2a2RVMDVhdHBsYXhpbFpQSklBVXFjSDc2dnBKaXhsNHJOWFQ4Y3k0bmo4Rw?oc=5) | 햄스트링 | 중증 (8주 이상 / 수술 / 파열) | Bulinews |
+| La Liga | [Nigerian midfielder escapes serious injury after being knocked unconscious](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXBmT3lQaHg3ZGh2Y2Nub3lXbWxLVTBKaE0zOFA5M0Fxb3p5eXd0ZEJNZUZGeWpkOThwbE12NC1YVDFsazh6QndXdzdtdktNV0pkbzQ0eEc5QUsxSl9YN3h1ck40bmtwTWp2ZGtwTXlKOXVDXzhicXpxY08yeHoyRFlsSkpDVW0yckVOSWM5cm9hY2wzMEwxcA?oc=5) | - | 미상 | The Sun Nigeria |
 
 ## 오늘의 콘텐츠 후보 (우선순위 순)
 
-### 1. Commanders DT Daron Payne, potential trade deadline target, fractures foot: Source
-- 리그: Ligue 1 · 부위: **발 (중족골 등)** · 정도: **중증 (8주 이상 / 수술 / 파열)** · [출처](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzFXa2ZQbUo5ZTJ5c0twZTd4Vk5zYUI1Njd6bXZha1ZtVm9ZLWdON29pZFdVcFBqTDFpQ0ZyU0YtNVNvS1VBMDdjTUVDM3RhX1hzVlQyblgzUzlZeXN1YVlrd0hZQ2pzV0JGMVRac1NyalVNYThsME1rSHRPSXJIN0Nfb1QzYUZqZlJCMXdCM29aMC0yUmFWLQ?oc=5)
-- 콘텐츠 각도: Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.
-- 주의: Bone healing timelines are set by imaging, not feel.
+### 1. Saibari undergoes ankle surgery as Gnabry suffers hamstring injury
+- 리그: Bundesliga · 부위: **햄스트링** · 정도: **중증 (8주 이상 / 수술 / 파열)** · [출처](https://news.google.com/rss/articles/CBMijAFBVV95cUxOT01kd242NWNtanlmRlRncWRhN0lYeDlHQ1ZtSDgzVTRkNlYwblZ3U2F2cDc5cW9pdnc1MUNxaFdEMVJsN2gwejVHX2YwbDJCQUdWMlMyWVMxN1E4OEV2NTN2a2RVMDVhdHBsYXhpbFpQSklBVXFjSDc2dnBKaXhsNHJOWFQ4Y3k0bmo4Rw?oc=5)
+- 콘텐츠 각도: Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.
+- 주의: A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early.
 
-**촬영할 단계:** Phase 1 · Protect (boot / limited load)
-1. Toe mobility within the boot's limits
-2. Hip and core work seated
-3. Upper body to stay fit
+**촬영할 단계:** Phase 1 · Protect & activate (days 1–7)
+1. Pain-free isometric hamstring holds (bridge position, 5×20s)
+2. Gentle hip hinge with no load
+3. Walking at normal pace, no running
 
 <details><summary>전체 3단계</summary>
 
-- **Phase 1 · Protect (boot / limited load)**: Toe mobility within the boot's limits · Hip and core work seated · Upper body to stay fit
-- **Phase 2 · Foot strength**: Short-foot exercise · Towel scrunches, marble pick-ups · Calf raises progressing to single leg
-- **Phase 3 · Impact**: Walking → jogging on soft ground · Pogo hops · Cutting with proper boots
+- **Phase 1 · Protect & activate (days 1–7)**: Pain-free isometric hamstring holds (bridge position, 5×20s) · Gentle hip hinge with no load · Walking at normal pace, no running
+- **Phase 2 · Rebuild strength & length (weeks 2–4)**: Single-leg Romanian deadlift (bodyweight → light load) · Nordic hamstring curl, eccentric only, 3×4–6 · Sliding leg curls on a towel or slider
+- **Phase 3 · Return to sprinting (weeks 4+)**: Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions · A-skips and high-speed leg swings · Deceleration and change-of-direction drills at full speed
 
 </details>
 
 **캡션 (EN)**
 ```
-Another foot / metatarsal injury in the Ligue 1. Here's what the comeback looks like.
+Another hamstring injury in the Bundesliga. Here's what the comeback looks like.
 
-Most foot / metatarsal rehab has 3 stages. This is the stage that gets rushed:
-Phase 1 · Protect (boot / limited load)
-1. Toe mobility within the boot's limits
-2. Hip and core work seated
-3. Upper body to stay fit
+Most hamstring rehab has 3 stages. This is the stage that gets rushed:
+Phase 1 · Protect & activate (days 1–7)
+1. Pain-free isometric hamstring holds (bridge position, 5×20s)
+2. Gentle hip hinge with no load
+3. Walking at normal pace, no running
 
 ⚠️ General training education, not medical advice. If you're injured, see a physio first.
 
@@ -81,20 +77,20 @@ Phase 1 · Protect (boot / limited load)
 ```
 **캡션 (ES)**
 ```
-Otra lesión de pie / metatarso en Ligue 1. Así es la vuelta.
+Otra lesión de isquiotibiales en Bundesliga. Así es la vuelta.
 
-La rehabilitación de pie / metatarso tiene 3 fases. Esta es la que más se apresura:
-1. Toe mobility within the boot's limits
-2. Hip and core work seated
-3. Upper body to stay fit
+La rehabilitación de isquiotibiales tiene 3 fases. Esta es la que más se apresura:
+1. Pain-free isometric hamstring holds (bridge position, 5×20s)
+2. Gentle hip hinge with no load
+3. Walking at normal pace, no running
 
 ⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
 
-### 2. "The ankle and knee in danger": a shocking diagnosis for Sibari's injury
-- 리그: Bundesliga · 부위: **발목** · 정도: **미상** · [출처](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ21MdEdLQTVsSHNJdGpEZHFkVEhSNjAwYTg3QlVJeFBFcVQwaGxtZE92QnpFeG5sd04wd21JOFY3ekxWREQzM182RnJhMzdCN01NQlk3WlJCR3ZHelU5cVVScG1kcHV5eU9DRDQ5UlhhTXJ1bEJiS3VZX0paTzJDdXRaWVByZDJjLUV1M0ZESzlnWm9NQlVKZDVoMHBidGNBN0gxSHVKOXQ0UFoyTWs0NVRjb3VvdGoxb0E?oc=5)
+### 2. Bayern Munich assistant coach: "Saibari's ankle injury looks fairly serious"
+- 리그: La Liga · 부위: **발목** · 정도: **미상** · [출처](https://news.google.com/rss/articles/CBMibkFVX3lxTFBidFR5bTlkY0daNlZkdEdZekpnRW12X2JYNDBEaFpZR1FyUF9RTTR1Wl9ZSDNRMHctRjFFWlZuSDFxTEFkMW95Z1JaOFRKRzNXWDBHUkZoN1d3TnlfN1hKd1kyWFpvbFdmaW9XTENn?oc=5)
 - 콘텐츠 각도: Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.
 - 주의: Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.
 
@@ -113,7 +109,7 @@ La rehabilitación de pie / metatarso tiene 3 fases. Esta es la que más se apre
 
 **캡션 (EN)**
 ```
-Another ankle injury in the Bundesliga. Here's what the comeback looks like.
+Another ankle injury in the La Liga. Here's what the comeback looks like.
 
 Most ankle rehab has 3 stages. This is the stage that gets rushed:
 Phase 2 · Strength & balance (weeks 2–4)
@@ -127,7 +123,7 @@ Phase 2 · Strength & balance (weeks 2–4)
 ```
 **캡션 (ES)**
 ```
-Otra lesión de tobillo en Bundesliga. Así es la vuelta.
+Otra lesión de tobillo en La Liga. Así es la vuelta.
 
 La rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:
 1. Band eversion/inversion, 3×15
@@ -139,174 +135,37 @@ La rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
 
-### 3. Patriots rule out AJ Brown with knee injury. WR to miss his fifth game
-- 리그: Premier League · 부위: **무릎 (기타)** · 정도: **미상** · [출처](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU4xX1BhN244WmJtZTNodWwyUjMtRlYyRGhkZ0l1dG1NdU92S3d6aUJZNGdTajdoV0djSUJEQzhwZnJNckNNN2ZVTzU4VTZhaXhLem81QTlCcVpwemFlV1pPaV8ybnRSdG1PUmFKWjZPUGtSY3NaZXl2MmhsRXYtRkNVb3pVa1E1YkpXWVNiWQ?oc=5)
-- 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
-- 주의: Locking, giving way or significant swelling needs imaging.
-
-**촬영할 단계:** Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Settle & activate**: Quad sets, straight-leg raises · Stationary bike, no resistance, for range · Calf raises to keep the lower leg working
-- **Phase 2 · Strength**: Wall sits and goblet squats to pain-free depth · Step-downs for control · Single-leg Romanian deadlift
-- **Phase 3 · Return to running**: Jogging → striding progression · Lateral bounds with stuck landings · Change-of-direction ladder
-
-</details>
-
-**캡션 (EN)**
-```
-Another knee injury in the Premier League. Here's what the comeback looks like.
-
-Most knee rehab has 3 stages. This is the stage that gets rushed:
-Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-⚠️ General training education, not medical advice. If you're injured, see a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Otra lesión de rodilla en Premier League. Así es la vuelta.
-
-La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-
-### 4. Fikayo Tomori ruled out of Inter derby with thigh injury
-- 리그: Serie A · 부위: **허벅지 앞 (대퇴사두근)** · 정도: **미상** · [출처](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjZVMFp5OXh2b1ZULTEwOUZwY09kNHRwa0VLRlA5VFBrZlZYMEp2SkFWYnMxbktNUUZER25PUWlTR3FwUTFMQ2RDTWU5ZXRjaXFNYTM0c0tBRE9sRXltQ1JCSmNSQ2F2WVRDdXA0TDNFS1d6ajR5NTdOcVdkaHZSbFVqcjRkQ2dJc2hXb1lidEpQYkxqeTNmWERtV3FlVGRFcHVKNjVGVm5pRFlxOWEw?oc=5)
-- 콘텐츠 각도: Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.
-- 주의: A visible gap or bulge in the muscle needs imaging.
-
-**촬영할 단계:** Phase 2 · Strength
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect & activate**: Quad sets and straight-leg raises · Gentle kneeling hip-flexor stretch (pain-free) · Stationary bike, no resistance
-- **Phase 2 · Strength**: Reverse Nordic (eccentric quad), 3×6 · Split squats · Step-ups
-- **Phase 3 · Kick & sprint**: Kicking progression · Sprint build-ups · Deceleration drills
-
-</details>
-
-**캡션 (EN)**
-```
-Another quadriceps / thigh injury in the Serie A. Here's what the comeback looks like.
-
-Most quadriceps / thigh rehab has 3 stages. This is the stage that gets rushed:
-Phase 2 · Strength
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-⚠️ General training education, not medical advice. If you're injured, see a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Otra lesión de cuádriceps en Serie A. Así es la vuelta.
-
-La rehabilitación de cuádriceps tiene 3 fases. Esta es la que más se apresura:
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-
-### 5. Ancelotti Calls Up Raphinha to Brazil Squad as Reports Highlight Barcelona’s Injury Concerns
-- 리그: Serie A · 부위: **허벅지 앞 (대퇴사두근)** · 정도: **미상** · [출처](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ON3Z2Z3BvS01mQk56cENuYkl4ZTNGTldubHVSTjhXUk0xaWRqOHVXbWwtcWpGN3NOOXVaNXRMSkhWZ29TYjlTbQ?oc=5)
-- 콘텐츠 각도: Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.
-- 주의: A visible gap or bulge in the muscle needs imaging.
-
-**촬영할 단계:** Phase 2 · Strength
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect & activate**: Quad sets and straight-leg raises · Gentle kneeling hip-flexor stretch (pain-free) · Stationary bike, no resistance
-- **Phase 2 · Strength**: Reverse Nordic (eccentric quad), 3×6 · Split squats · Step-ups
-- **Phase 3 · Kick & sprint**: Kicking progression · Sprint build-ups · Deceleration drills
-
-</details>
-
-**캡션 (EN)**
-```
-Another quadriceps / thigh injury in the Serie A. Here's what the comeback looks like.
-
-Most quadriceps / thigh rehab has 3 stages. This is the stage that gets rushed:
-Phase 2 · Strength
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-⚠️ General training education, not medical advice. If you're injured, see a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Otra lesión de cuádriceps en Serie A. Así es la vuelta.
-
-La rehabilitación de cuádriceps tiene 3 fases. Esta es la que más se apresura:
-1. Reverse Nordic (eccentric quad), 3×6
-2. Split squats
-3. Step-ups
-
-⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-
 ## 부위 미분류 (헤드라인만으로 판단 불가)
 
-- Bundesliga: [Bundesliga: Ismael Saibari goes off injured during Der Klassiker](https://news.google.com/rss/articles/CBMilgFBVV95cUxPREtJMXNWeUpoRHpIVExIRzFxUlVsYzlxZzlIWEVmUTYxN1ZuTGZvV1EtVUNVWVhuQ3NpelZfaTBJQ2pSbkZlTEh3QUNmT1I5dDB3VFE2d2tqSVhyQmRLNTJsMUI4UGNuZVNfbmpwNTlBQzZ5UWdGRzVLZUloTFJWOVdjbzBRU0NHNUg4cWh6dGNoa0Z3NEE?oc=5)
+- Serie A: [Black Caps lose two star batters to injury ahead of India ODI series](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWlRPMzFSTlB6YzhFdXZ0NGUyUEZHSG91QXZVVndZdTlyLTFBMzBoODJ4WTJLbEpLTWJlZ18xbTVNeFFyNlplTDcySS0ySmZrMmJEUTJJN0k0cGRuemlZY3IxRDREblpHNWFGSjJWOU90T05aVTJLaXl2OU9TaWhzTGZYMDQxV053VWVWbEZJaG1RaXBRcng4ckRxb0thYjR1dmNZeVVRYXkydDBRX05RMlpBVFJLM1daTVBpNFREQXAtVjQzS0luWGZucFRjQ1YzZEdYc3dzTVpkank4d0pSWndpZXBPZ045eTQtaEcyMW0xVG9mRUE?oc=5)
+- Serie A: [Ravindra ruled out of Black Caps’ ODI series vs India](https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDR0THRoTEp4MTIzUU4zLXJBTFBZQk5zRWlsTmhDcjFNUlF4cEg2WWJKTU1zU0lOSVRSWnJ4ck9INU91SGxoTUFZRjZqQm5VeEhUcUk4aEcwbVZuVEVEX2hiNlB3eU5xT3VfcEVZd2RMb2NodmxBelhaMElrT0lRN0NOMzFkdW51YlFaOFE1bVdkQQ?oc=5)
+- Ligue 1: [Josh Allen makes history in Bills rout, Ravens back to square one after Lamar Jackson injury](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTG5KYVZmSDNIOWFLQkNUX1psOGNUNEZySy1tbkh3MHo4VU1WQUF2dTlvb1BYdVB1X2JjcmhUd3l0bEZBbHYweHd6UUNPaUZ5ejRGekhheTJialNJcjhUWUM2UUM3V0N3OWRScVV0SmQyTXg3N00yZVhBUFFPTU5LMnV5VW1PUW5tRVhN?oc=5)
+- Premier League: [Netherlands Eredivisie Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMie0FVX3lxTFA5V1R2UHlXQjdJblRtN2FHY2dsNlJzbU1mcTJuN3MydXBHZC16SU9IOG9xdkhLN2RnbTk0dG9GVnBicGo2blZabHUyZlJhUnV5b3hsUDVLZUpqREFiLTZjYmhNTFlIS1ByMzJKRjhLaVNkb3ExUjdGbC12QQ?oc=5)
+- Premier League: [Bundesliga Injuries & Suspensions](https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5)
 - Premier League: [Serie A Injuries & Suspensions](https://news.google.com/rss/articles/CBMib0FVX3lxTE14VkplOTQtczJWN0JEZFc1ZjU4M2FoVlZBM2pReTZXMmRfVXktMG05cXQ4UXBzanNVdW9SVm45RGYyNTI0VTc4eWV3eDNTQ3Joc05icVplSUVJaEJfelpEYVJ3dnRrVFctS1QzbC1sNA?oc=5)
-- Premier League: [Arsenal handed triple injury boost as three players travel to Liverpool](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHh1cFdPZ0JoQVo5TlRzUHhVelJ1aDl3bTBfQ3JPRXloRHJfUGZVNWc5emhfUkNRajBadjlQQ1hqVGJIRzhxRWppV0lGYUlkUVA2YUowWklydmFsTVc3cl9md2FhWnR6RzJxSlRKYUNhTGZSLVZVTVRuTzFEZW01R3J4V0JIYUFPZUVtYUY0STJpMy1tV0gzTXZWWmhYbWctMU1zU1hYTEpPSEtfVnc?oc=5)
-- Bundesliga: [Bundesliga Injuries & Suspensions](https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5)
-- Bundesliga: [Aaron Danks provides injury updates on Bayern Munich’s walking wounded](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkI4M0tlNXJ2S1lfX1A2SjZaR3pRSUNpVFRhcndtSEV5cVdTcEFwSmRSV01TTUczdEJ0S3kyTGRLeGRWTkU5OFpicnI4T0NEVFA0QU1wZ0llUWhJRU5iQmlpOXFFSFI4dFhJUERaWVhoZ2x1ME1uLW9PTnRlQ3dldkg3TVpBdTFtS2dnWHUxZ2ZyY1JkdXZnZnR3UDBBYy1kd3plQU56eVVvYUFjcG5XTnB6S3pWSmRUUXZiMkxyYUZJc1NhSExtcVEtUy1USkJiRTE1M3VR?oc=5)
-- Bundesliga: [Aaron Danks not concerned with injury situation ahead of Atlético Madrid tilt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZG1kR3E4bHUwSUxtX3Y4bUh3UGZORWx1WjJnV28zT0ZIU3A5M0QwV0ZwQ3N2Zy0tMDI1NUxhUkhSamVJVG9mUXUxaEw2RlNaejJ1Q3duZS1kNkhaTUVoRzkyQUU1NFpESzExdHd1SElJX182Uk5uNzlrRVRUWGh4YkE5OWl3SmJMeVRZVDJHLW9QcEhyYy1QN3JkSnowelF5NEtmN0dYNTVxcjNvNE5VX3htaXQ1TmRYd1hhVXpWcEZiTmxEcThsYmV5ZjY1d1JSbDJsR0VPT2dJUXJGbkQtYg?oc=5)
-- Bundesliga: [Joshua Kimmich’s rallying call amid Bayern Munich injury crisis](https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDJBcjI3dEFza04yOXVJNlNESHkyWDZpOUk1REJRc2xfZmxkZS1YWm9zdUxiRG9pQ3Z4Vk9iS0RqdHFQUW5aMXo5OEt6azdvTEJpOHJ1VUxMZzZWNVBoSXFycEdqaXZGeFhlSl9PRG5DWThicjRYUEJDcXFka1YzZmQ1V2R4YXNpVk9MbzRtVE9MRkNZQ05xNTlEQTFKVW83ZGdSUUhIZTJjMmtrNzZHcVUwemFwUWtqb05hZVZ1Y3Qza0IzOEVIRk5Rd0Q?oc=5)
-- Bundesliga: [Bayern Munich face anxious wait on Klassiker injuries to Ismael Saibari, Serge Gnabry and Michael Olise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGRob2hZT1pIeFlTZDVDNjBkamN3UTVTVU9UU25nMXVHOUEtWkI1aVlyRHFHaEZDanVuU2NUS2h2RFRTSHVkejNXbDBaUXh2OWRHWUpVRldPX0JEdjlmRlhPZDhjRk5DTUJKZGVXeDVrRFVmOThucGNiZWxIUFFTMGFXTGdtcjd6TWREQUNhVm9MZ0RzWVVEekFqOEM0WXVvc29vNXA2QnoxcG5rMENVREtfeWZfZnRoOWg5MQ?oc=5)
-- Bundesliga: [Halloween horror as Bayern Munich dropped points in Der Klassiker with three new injuries](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaklreHRhaVR0T1Z6RWpqaXBTWGZ0T3d1T3JKX1VLNXhyZkRtTTc3RldxazBLaGNpTEFuMUItUk1sY0x4SXM5QzRvSUdJQi1NVGx1N2lCVlQ3ZDVJdzQwSjUtck91bFVJM3RYSDFjV3lkVFZXM3V4Tl9KcjFMVzF3RWVZU1I5N1E3U2IwdGhGSkpkQXN4VEVVOXZUYmVHbnFlcnRfM1ZmT25WZkxwUElxT0J0T2hxcTZQdnZmLWpZTTRPLTY3WWIxSU9zcDFWbUg3X25xUHM3Wk9jUm9aZkRjejNUNmdlNE5od1dSYzdZVzA?oc=5)
-- Premier League: [Newcastle United vs Everton Preview, prediction, injury news & lineups | Premier League 2026-27](https://news.google.com/rss/articles/CBMijwFBVV95cUxNU3djWW0wdzR2djA2M3gwVERXOGp0STAwUjBVTkFwb01jQURRdUJRdWdNLW95Q0JrdHZ1MFE0TFFFRGVjb01qVkhUUGE5VVk4X0JKZzB0T3RSdWpZOURtXzBVVlhQWUlPSXAxUVgzbzZocXVVZE5oMEJZa01ubFhNQ0FvUkRjOTNCUUVyc2x6SQ?oc=5)
-- La Liga: [La Liga Injuries & Suspensions](https://news.google.com/rss/articles/CBMib0FVX3lxTFBLbXNZQ3hhR2R1dWR0OHBQR21mWmxTRmdCa09iVEFRR2x1QW9HanJxVFdzLVJJeXdKSWF1Y0Y2eWtidm9SaDFoZmRlM2dEN3RSY2pXdk1KRmtsT2EteURqaVJTaFBRekVsYUo5QXcyWQ?oc=5)
-- Ligue 1: [OL v Angers: home form to ease injury worries?](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVlrN09TQ0NYY2JNRjZYcFh3RGNfYnZ3VW0tWV9Pb00wN3VuODhjcV83SFFYdjEzQktmVDNSWUNpMnU2N0h0TlQzc0tmUFM3MUlkYVdqOGlYVF9LU1V3UUo1SkYtM2JZanFneFdoQkpicUt0VkNTZ2EtNmVhaURmd0RUQnZvaU5pRDd6eTln?oc=5)
-- Premier League: [Maxence Lacroix forced off as Chelsea face injury concern](https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFlLZmQ2YV9Db0VIZUpYcVJ1YVNzZkNxMXI4ZUItbWhzZHY2YjN6Z1BPMmJkNzl4dXdpUkVDRVhRMEFYNDItOUZ6M0tQU1ZUUjhTSTVpVVBhTDZVMFdYQVkwazN5N3pYUDlfUlBRajNnamc3bTZfU3FCUmFGQ09QMG1SZFptUQ?oc=5)
-- Serie A: [Red Bull Bragantino vs Santos Preview, prediction, injury news & lineups | Campeonato Brasileiro Série A 2026](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0FhQ3RnYkRUa0VFaWdvbW9WM2NabEg0VGROWDlQX04tUUFMcl9TMnBnM0dObmtZTHptZkFENVdMQkdHS210T2FMM01pdkdhcmQ4TW94M0F1VFFfLUU3Wmo0bGhGR1VUUjRuWlBmZ1VMSDcxS0xwUkVGVWVCWTZLbWlIUUU2cEVPVlhHUHVTNDRvZzBJT0t4SW51SjRNa3pTMm02MHVR?oc=5)
-- Serie A: [Fabregas: ‘Venezia will be difficult for Como, Kean injury happened with Italy’](https://news.google.com/rss/articles/CBMifEFVX3lxTFBCZk5iT21WQlhvNlVTZDg0dDJSb1Z2LU40bTFGeEpreWpxaUVsc1FjVVF1TUJZVy11Q2x2Ml9odThlTXBiYXdSb2pqcW5YcHVqbGVHTHlXVS1UazVNX1hCV2RGck05OS15U2x5U19VVFg5Q2M3NXg4UTBnX0jSAYIBQVVfeXFMUEVTQlVyNlpzLThvTkVvY1pVUkFKQzdWZGtJTU5NSEhDZFB4LWFQMnk2UV9CS0xiaGp1RGlVT2pCd2pseFJfWmxQUGl3V09SZV9RY0JPLTFMSUtEYy1QMGVzbjJWRzFPQWo2V2w0dHZ3OXg1M2NPWmlwUzlxRFFSM1BSdw?oc=5)
-- Premier League: [Bukayo Saka Ruled Out Of Sunday's EPL Match Away To Liverpool, As Injury Woes Continue](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdklyRG9Ra1hPUzZDcGtXLUhpdnFHbDhvNkhvVmJ5NU04TXJ4YlBKYzZWS0drSjdkNXlvQy1aN1N3eFJjUTZ5TEFBckFQWVo3azRlOVJMNkdMcE1TdDFFT2RYRFppdzhHR0FxQ0w3dEtiOVJMZ0FWd0FDeWVZMF8yU01zQzFfOUFGVGZfb0RxUW9iaDdidnkxTlFOdjRwWDl4Y1U1cElpbl9VbTliX09j?oc=5)
-- Premier League: [Premier League gameweek 9 injury list, all 20 clubs](https://news.google.com/rss/articles/CBMiigFBVV95cUxNR29vLWFnY0tFcGVmOVBzd3VzellPVGZ5WlFRS0VOWFBkVUxyNnRfa3YwX2Nia1NGa01XTTMzbkxZNHltQmo1bjVFaE9BQkVFdWZCZmZXTGJ3d2FjSGR3WkRLTExfY1ZYai1Oc1AxRkd2MDlKMmRjUjc3b01GMzNOd2cweWVlVklsT2c?oc=5)
-- Premier League: [Ligue 1 Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMicEFVX3lxTE1neS14WlNLaTF3ZFUwTTRpVFlETF9QZHRUUmszMEtUMk5fdG9YcEMwUVVwNXEzRDYya0EzU1N2SFh1bnhCb01YYmdwVmVLUy1tRVdrQmdXdVk0bWdSLWxxRnFFOUJDcEdNYW1HLTA0ZXg?oc=5)
-- Ligue 1: ["Another injury?", "What is going on?" - Chelsea fans left worried as star player misses Manchester United game](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVY4R3lxSF9FN0c3Q2I5UHh3OGxoMGRPdzc1V2ZyNUM3V2R0MEVFaXVLSTJNdGlvWG5SVzBNY1FjdkhGaHJiaGZ1ckZCVkdWQmViNHdEZzNabkdWQVRVbjBvckhneUY3X3pJaHlYWU42LXBkazhJYV8tY2pJWFBYLTRZWlcxWXkxNlp2ZHROTno2YWYzenR6ZVdtTEVvdmtzRXFjSVgxdG50U29jbWE2dFY1TGhZYUNROTBHZ3l6RnFwTExDeWdCLVBBcHNOUDloZ2tZdA?oc=5)
-- Serie A: [Serie A team news: injured and suspended players for Matchday 10](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGo5eF81UVJZSG1QV1AwaVJENm9mZUpreTBVTGxRWXZpOFpnVGNqM0VyVl8wOWRjR21HYzg0NWJQWGVsZ3duOEd2NzVEOUNSbWlSMWhtemRRdm9SWk1nZkd6cXFMSC1USWNEM0wtc0oya2xFbnVEMDBJb0xndF81eXltQzlJX2wyZ2pXbWdiSk1KSG9sLVg0UWlmWnFzSG1seWlCTUQydUxwcDQtS3RxUG9mejZYZnNPakJSYmNoY1hsNWQ5VVNaMmJ6R0lDa2tvNE14YzJ30gHbAUFVX3lxTE9JOHA4Z2tvdFhtWEl1UlBZOGVhcGtpZ2pmdUUydUNPWHMxem5KSUVZRlJWbElQa0tQRXV1LUxGQjdHUFBBZU1iSUNYSmVMcGhKem5Qd0tfU2Z4blNnYTFBYXlDZXZJTldaTU8zMmVuckFxSW9UMTlpSjMzUXN2X2hRWEQtZzEwUEVQa3BPN2QyU0NUWTI1aWRCd0lNV1JJd29ydzdpY2VKOThHcVNSRlBUaDRzNlI2aXZ2UlRxdkZ0SVFzVXRnWTh1V1RaZDlUZUFQazNBMXpDQk9ZYw?oc=5)
-- Ligue 1: [Blow for Gor Mahia as defender ruled out for at least one week](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpc3EzSlVqcV9RU2lRMWI4bk5jbjhpalh3TFVFUHpGWGg3QVgyRU5wRjBpSHBTUjN6V3U0ZmE1dGhqTS1uTldTRThCNzlLaU1NaW1NaFRteVZWZFZwOGdvTlhUbHlKOFpOZzJRQ3Y3N2EwTlNXQTNNX1JhM2ZEQmNrbE44Q1BfRjJGanJ6RE1JZFpoNEc4LWdn?oc=5)
-- Serie A: [Hardik Pandya injured again, ruled out of Australia A series: Scan reveals tibial bone stress; all-rounder'...](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOW9GS2haRnJ3aV9sb3hlczh2SHBCQVU2cGU5dW1Pb3lwY0NIUi1KNGhvSWxockNnVXRfbVF3dHRLNG5NUUMxdmp6TnV2QW5wU2xqV0RDM0F5RDVzdjVRclZCVnZjM2VNcVdwLVlaUERVZExOTWJlT21VNThfTExLUmlCSVk4MG45MEwxZ2gyU0NrV3l5dFFzUTdiX2c5YjdJNFpjQXR3QlhCR3FwQnIwa18xd1VMX2o2TG1GV0xB0gHDAUFVX3lxTE1nRjZ5ZTcycVZTbkYybFpwTW94dHh3ZEIzME9ZRmpfWFRGNUxqRE5EeHdfZVRyQ2cyTlhJN2lXc1FCeE5BSnp4eG45LVpiZi1wRk5wb2IxZnJ2OVRIaUREODNKU1prVFpGdVF2NHRobTQzYVQ5SVk1eTlFQmF6SmRvMkNrRmVFNWtmdjNQd1hnNXdGSjZ4b3paUndhWE5rLWRmMGZfTVhrT0tCbktNU1dxNXZGeGtLX1FSN29RdDFicmxNbw?oc=5)
-- Serie A: [BREAKING: India add in-form pacer after Prasidh Krishna gets ruled out of NZ vs IND 2026 ODI series](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWtndUJCcFprajVaX2FCWFI2aExaY0NkSURyaUhHMnpCY0RzQUNKLUF0dkZpX1RsajlpS2p2Wlh0SEswdElzUTBadjM3c1lnZVBBaUVvSVlGejBRWThJUDVXSEpoYzNGRkdqZlA4YU9FTUhEVjVzVkYtc2t5UlVkR2hidDhyMGhCNkwzYlZ3ekVVTjFkYjZKMUpCaE5UclVSSllLVFRia08xWEt0cXBvc3NxSjE3QnZJZC0wdXk2LWszTzd1?oc=5)
-- Ligue 1: ['Don't know how long': Xabi Alonso issues injury update on Jorrel Hato](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYkVCMGpxcC1zcnhEbDlZVzJaa0JfM3QtNkdJOEZTYVI2S1JXYjJZSXJpQm5RY1QzUkZRcldSaF9saEF4anRwbUVFWnE0aXRnalZhZzNlUjFqdGNiSTYtSjU1NUZFdFdsRzJtR0ZCQ1JtNFBHRmJvekdneHI5OGthWW15T0FqY1NrMEcxTzZ3cjM5TW50ZGFLZkZocFp3c0JyRWtBZ3gyWFM3THZrLUFr0gGvAUFVX3lxTE5iRUIwanFwLXNyeERsOVlXMlprQl8zdC02R0k4RlNhUjZLUldiMllJcmlCblFjVDNSRlFyV1JoX2xoQXhqdHBtRUVacTRpdGdqVmFnM2VSMWp0Y2JJNi1KNTU1RkV0V2xHMm1HRkJDUm00UEdGYm96R2d4cjk4a2FZbXlPQWpjU2swRzFPNndyMzlNbnRkYUtmRmhwWndzQnJFa0FneDJYUzdMdmstQWs?oc=5)
-- Ligue 1: [Le Havre vs PSG Today: Luis Enrique Missing Four Key Players, Hakimi Scores Hat-trick in 5-1 Paris Win](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEdIUVhRa09xNXdWSXNKaGZ5NjVMeDMxVXNSN1NiQU9IM2JkSEVhXzc0Tlo1d3RHeTJsLVNhV0RkdUJldmY3eFcySExnN0RfLTc0UFNOVWZ5X2phNkxlTjd0WHNGQXM2ZnE2WFpyYnNNZFAyYTN1T3gyZ3Badk9jdXlCZXA1dDktWDU2NjJac3EwSXF5Z2dPdXlrblhTMVNJTTV2TGtCNmlpQWFGbHRNMjFYRkFFS3dHOWJoYzRPNHF1ZmowM0t4d3dndw?oc=5)
-- La Liga: [UEFA Champions League Injuries & Suspensions](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QVV9oWldpc3Z2REtLbzg0bVA4Tnl3RXFpaTVERy1HMDU4alplWFpjNFdxdzBsRmpWLUk3R1V2Szd3ZE9vMTZhcVc2bHNPQ3dmcG9vbF9RdGx3NGV0UGdpX2UxRzduQ0tfOW8zZzRzTl9kcnJPMjJKTWVB?oc=5)
-- Ligue 1: [Barcelona turn to three academy prospects amid defensive injury crisis - report](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcU9JNFhDT2dNbUNJVjlnbEhwMk1UWmFQZHh2M3ZZX1RIN0pxZ0pKRHpCX0VfX3UxSUFkTG1PbjI4VzRGTjgtRUN6Y09tQzB6OWQ0T041Y1I3bXJmOXVVaHVKa1RPb0d6UVpSdzFCc1kybkhvVFE2UmJyaWJPZWt0bjk2SmhaOEk1U3BXWXBPR19naEFMM2VmLXQ0V2E4aE85Mm5LVmFMSzM4d2VCaXJKZzVIYjRmVy1lS2RIX1BR0gG-AUFVX3lxTE1xT0k0WENPZ01tQ0lWOWdsSHAyTVRaYVBkeHYzdllfVEg3SnFnSkpEekJfRV9fdTFJQWRMbU9uMjhXNEZOOC1FQ3pjT21DMHo5ZDRPTjVjUjdtcmY5dVVodUprVE9vR3pRWlJ3MUJzWTJuSG9UUTZSYnJpYk9la3RuOTZKaFo4STVTcFdZcE9HX2doQUwzZWYtdDRXYThoTzkybktWYUxLMzh3ZUJpckpnNUhiNGZXLWVLZEhfUFE?oc=5)
-- La Liga: [Team News: Barcelona vs. Alaves injury, suspension list, predicted XIs](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRExQVnNYT3pkeHl0TlZtWWg0dXdXVDBVbkhEVDJodW1hbzBZQTk2VExzelI3V0lFdGxrUHlINVE0d21ubi1hRGdnY1hNVVVTc2xlT0ZlRGhucFE2c3RxVmZJeGtvTHJzNVhxcVBBcVZ4RkRZbkVmenFKYmF4UFJxbFlwMlB0SHlyOVI5bkVxeG5sMkxfek5DbWVsLWJ6WjY4SV9TZ2dIT2g4Yy1nVVBNb0tENWxHNmE2M2ZBZWpZZGo1aTZvVG4xeTMzV01rSVNfcWtseXZwZzVodVRra2ZFWU5IQldBWWJW?oc=5)
-- La Liga: [Racing Santander vs Real Madrid early injury news as 3 ruled out and 1 doubt](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFl6Zjh2MDJ6cE1vY1FZSnNGazhoU3ZqdHlfaUJ5Q2dNV3RoUTRNX0xvV3pYb2ZvTHBlV28zYkc0by02UUc3RGxzYjUwUkd6TjN4X0IwVzdLUmQ5b0hUemFzMGNKUlpNSGpVcS13UFlGcVpFb1ZtNjlEZlpLR0QzcENwRFBWUDJhQXZjZXlUWWVJQ3Z3LXNTZGFaYTN2M1lFd19IOTdIelUwRWtoWXczdU5tV0VaUQ?oc=5)
-- La Liga: [Barcelona face defensive injury crisis ahead of Alaves clash](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVV3RmhIbjR0bmFydnhEclJuTzY2NVZJX25wQk9LMlZ0VjZlMnRFeTlWNzlsYlJkNS13Q08wdUhFbmZsSUlXRmZVSzlaRER1NkxEbi1HTkdiel9wOG5VYWY0cmkwZjFJV0EyV3JJeHZ6T0RfOTdhNTBuSlk5TC1vOHpuLWxUOURMbTlibmgtaUdpRXhfY3RDM0lKWTVCQng5SW1hZ3l2VTAyTzViT3owSDFjN2xfd2FTTU1wa2lmTDFUenkxTGxFQXZYMjZJX2wzbTU1Zl9wejJJOEM1cnNwRUJDZ0I?oc=5)
-- La Liga: [Barcelona star ruled out against Alavés: Raphinha's injury grabs the headlines](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2Z3RmVETERRMnl4Umg5enhVUXlvTXFWdm9mVlVabjZBOEtHUzEzRWdDSlEwdm1OeWdQRzh6RU5iRnMxTFdCMWxUSmZNdzRSNlNWZFR5cnlUTnVBeTdKcEdNTjl5cHNYS1ppMW4yWHl6X3RIYnJ4a0VCeGc1OFdrVzA0R0pBTjNIT3dkNndsOTA4Z1Q3emkydmdISzJTLWFjc2NJYmY0bzR3OUxMRC1UYnh5enZPM3NSbWFWXzhFSGM1bTZBOHBQSmRDUQ?oc=5)
+- La Liga: [Injuries besiege Barcelona: Flick fears the worst](https://news.google.com/rss/articles/CBMingFBVV95cUxQalRCWEN1WXJ3N1NXUFI0LXh4VkYwWHhXRVd1eU1Bdy1wRTVNWll3MDBNWFZVSGVyeVRIMVg1WURZckFpNzVqNkxWMkF0YkJvUHVXNVNpM2UyUzFlMFlVNF9TVjlEckxJYTU4cE9fRDE5MHFURlQzMUs1VWlvTy1WTE0xQVZqaVNMZUk4RUh2b0h4UGN4VDJrZVlwZk1aZw?oc=5)
+- Serie A: [Injury blow for Black Caps as Rachin Ravindra ruled out of India ODIs](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEpSRDRiRWJhYnFPeEpBbWtsUVVubkM5UjFDeXJEc2hQdFVWRWM1NzI2cFJtcTdaV1cwX1pyU1Y3NzA1X3NJeVc5eXQyanBybElhcGJyUkNiOXQxZnAzRi1qWDMxWGlfRm5nSjBIZ2l4VUVMbFQ1OHlXdzNmMGs4c3d3blJsWjhiMXVhVms5bG5qc3NDOTVZdUc2MmxaeE9k?oc=5)
+- Premier League: [Portugal Primeira Liga Injuries & Suspensions | Injury News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMi1mRlJYS1k0dXJLTW1rMXpGZjVhMWJ1NHhadHBReGFnN3ZzeGxaQWl3NzhZdVJONVNkNEoyc0hsTTlWV3ZGTkV6c1YtejVTaEI2VGp2ZUxTTTVqMWY2UmZoRllyX2YzRVI1SzN5V2ZaSFJUem82RVBvOA?oc=5)
+- Premier League: ['God saved me': Taiwo Awoniyi shares importance of Christian faith after Premier League injury](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRjg0WXU0TmNpUXNQUVdGNHpnTWxkT3dGYWFKei1qQTJ6SVhwMWRLM1Z1MkxHSFBOSnlqMHI2TEpqZTdLX1JpY3RyOWtKNGRxNDBDZjU5N1Y2WHc4b2RTLUQ0X2tlRnNNNUhHSnlHZWNmdFJzQlNXeUx4UjNfMkZob0hfaDdrNDIwdTJtSWl5VWF1eXlpNXhvMFlCT09nXzhjWXdFVzAya2t1WkZmWGpmUDFmTU1rTDhMTVVxZTZta2lwUnZYbTlDQVRNQlpEc2x1bFNZ?oc=5)
+- Bundesliga: [Bayern Munich CEO says not to rush into January signings following Der Klassiker injuries](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUQtWWtuQWFYSFQ5bHV1cWNYRDk3WmZYT1hZTjhLOWNLcnRtNVVYeWJHVml2aDNzZ1hqOEZITG11NVlxdVpWNEdQNkRvMkJ6NTllWUF3dmtWQV9ubTBpb3YxQ29MVHY5ajc5MTUtNEhfOHhCLU96MmpQbUFueURDSlktUWR1eVJYaDFhaWNfV3Q4aFMtNWtKM0NGWkZuZFdrY1YtVDBEbWpNc2lvTmEtX1JnNkUtR05NYTdCNTZnaFkydGFkQVp5RXJYSXZSQmF6ZmpiYTBCRnl5MnFjWHpRdDl0ekE1dHN1VlRZZjhB?oc=5)
+- Premier League: [Gary Neville bemoans ‘nonsense’ Premier League injury rule during Liverpool vs Arsenal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamJiX1dwbVVMRzFSY0tPTVNibTFROV91SllaWUVYd19qOW1KX0pFdWRwTVhLeUVseFpWdEZ5My1qUmNjeXUwa1hDNHNOSmp3NF9qRlRrVkFRTk5kdUJYX2I1YUlDd2g0ZkNicWZGbE5SWDdVNlJsMDUwQnpHeHpWVXlWNEh5S2I4V3Q3OE85aF9UY21FUXl6ZzB4MDhQUzJxeWhDa1V6dGM?oc=5)
+- Serie A: [Lamar Jackson injury: Ravens QB ruled out vs. Bills with right thumb injury NFL](https://news.google.com/rss/articles/CBMitwFBVV95cUxQR00zeXFKbTBIek9lU1FrYVYtQ2lRWUltT25EcVExR3NkNEhBSzFoaFV6YlpoUE42eGhrV2g0dlNuaUZPY0dkOUdHVTdKRnZhWWt0YllHVXpQM0oxY3JrODhxNlRFN19vd0pYUVltWXZ6LWFfaHZrcWhrVThRSm41MHJyQlZudXFVcFNjMjd1QlZQc1l3ckpXbG9hNUI2aHNKc1AtbU5xckNJSnJNTHZTMDVBVUlVcHc?oc=5)
+- Premier League: [Week 8 inactives and injuries: Emeka Egbuka, Carnell Tate, A.J. Brown ruled out](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTNlNVN6R2Jmc21ua2FFeDNxZ1VpamV4MGhIUEFDb1hXSTRFVkdMb09PQl9sNExpWXl0RzlySHdTY1Roa3V3T0JWOVp3a3otVklKZzFqX2QzTDBMdEE5UW9US2JfT1dySkFMOEJjMk1EbzNIUEpleVRFQ0YzRzNpTkI3MnE1VURxYnFNdnlzNjczcHRjV2c?oc=5)
+- La Liga: [Injury nightmare haunts Bayern after El Clasico](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wbFBicVVaZ256MUp2bEtNVXAwT0NUY2Q2THZQeXJucXA0SWpRSHJaeEhvcDVqN0tkVGhnckJ4MHRjRlpkTjI0X0pB?oc=5)
+- La Liga: [Villarreal vs PSG Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmV3dU43STZuUWQ3X1gtUWpXTGlhS0Y1dDRsOXZ6NUtoN3pia2Z3Um54bnZvY1RaZE42NEdCYThjSXE2eWQtSjJGMlluSU1ZckFEODFHU3VuX3hROFhJV2ZzMTJnQnpfNGt6dEVOZnBELW9DNTRGb25IVFdVbUczc1pjR2NtMWFudVpn?oc=5)
+- Premier League: [Neville bemoans ‘nonsense’ Premier League rule after Kerkez injury](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVJjbnFWUmhUS0wwQWhTLXdtRWg4X3QzN0hjLWRxalFsbkpoTnJWOXRXZ2k2WjJ5d2lNMm9YX0p1SjJrWThpdG1TNGZWWkk2Zm9NTFYtcjNfUjdpcGV0QjN1eVJPZGlqelZ3LVZxWm00cVlxMFFiLXdQNTlkQ3EzOGdOQ09uYzZGQUZoUkpZajAyWU9sU2VyZmQyOGhneFBJSEpqeEZxUjF0LVFzdVhkYUVGaGVYRTQ?oc=5)
+- La Liga: [Atletico Madrid vs Bayern Munich Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXVNazkycHZpajhHUEFoYlA5NGYtXzZUejR5REtLT2M3NTNJUE5fYlFrNnhxMGJvTDlJOVJ1YUhZb3RsRnJaeUp0LThYODVaZk9KSDFnMnpVN3B3dHRON1J4bDlTV25xRFRNOW1xOEhFcUllXzNXaEdoa1pZaVB2RUdqQkRtMUNNUzJGYWhWYkdLWDAzSkotVg?oc=5)
+- Serie A: [Marufa Akter to miss New Zealand tour, says Bangladesh Cricket Board](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFNZUWctcVc0Vm1TcGZkamx0NU9fTXpkd0hKLVNwa2VkX3hMT0w2eldLMlZPTFhiTEJ3c0lCNS1xdXM0WTZLc3ZTcVVNR2pNUUhMcWx4LXJqUFV2V2NJRFMwa1JEMFphSXpaX2EyNGx0OFBzNlF1MUlNbUYyWVprMnBnWF9JQWRPR2JwQnZONGppWTIxM054MFVNWVQybEg4Y1JXMFFDZUpYWFctajYxMUs4aFPSAbwBQVVfeXFMTWxmeWJMQVFwcGV0WFpvclh0NkRUT0ZjTGQzeDV2YTJkY3QwWUJfYWF2a1BWVGZPLUZzZXRTYnh1eWxmcHZWVjB2bXdLTVphaUx5S29uQ3djYlFkckdVcXpJZGdmbzJiQ0JsVGt3OUk1MHhaY29GVzZXOFAycFNaLUVPS0FneGxzUFk0WWlkMGJFMW82VUxWTEpjQkhuNmE3N0hSTWx6VGhaZzJTTnZ5UEs4ZXBxenRPenNuUTU?oc=5)
+- Serie A: [Injury to Frosinone striker after strong challenge fr…](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHRKOHpRQXkyVXR3MGZwbjdMRHoybW5BU1Y3NFZUX3hvRDE3dTVHSmFYVWMxOXpxaWFCbVZkSUpfMUlhZHNoNlhlU2h5cXpSTV9qMUlXWXluZHhzYV95V2swT2xKUVR4b1Z6aUN3cE1NY0ZtWHR4c05CNGZiUFBlTUE5NzFKbk95Yk5SUkF0ckVPcVU3eHUzWkhBM3VleXhfYkxZNEVPbkllWGJi?oc=5)
+- La Liga: [Barcelona vs Aston Villa Preview, prediction, injury news & lineups | Champions League 2026-27](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTjQ1LVdxb0dBTUhvcGxqN1VxUWRhOVdXNTFBYkk5dFVTN2lBQ2FHcEdfV0hHYndjWFRNWjg0X3VsME1FSkVTS3ZkLU8ybThWNUU5VDljdDM5MG5DeFZGWWxoOVZ0d1h2RFBXUjQ5QXZDWi01S2xFMlF4RmVoVWZHaTVZRjlQdW9fV1IwOWVR?oc=5)
+- Serie A: [Ismael Saibari has surgery as Bayern München injury ‘to rule him out for months’](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlN6c2lESV9EMEJYLXpCWWZzUEk3STFvOS1GUFRUTTlNTHBQVXB3Ukg1d1U4TlZPamQ4REdSWGtiWnJVaFI0cUF6T2xCMk9DSU9UV2hrRFVFRHlURWFlM01XSUE0SlJjTEJ1MnFtMk1ka1FvTWdhclhhV0VhbmM0VDdjV0VuemVrdUNVamFHYjFtbEVtS0pPQVJkcy0tdjdzYWw0MXJkdUxXMmY5dDVOek1NMEpYb0cxNk1hNg?oc=5)
+- La Liga: [Barcelona’s injury woes continue heading into Aston Villa clash](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaC0wdFYzLTFTeTRyeEFVOXRMQm11NE9CYXV1Ulp4Z1BPbVVUemQ0TFZ2dm9oX0Ewb1JiZlN4TENNbS1jOWtRMF82Sm55NHFJaHVwWk9QQ0kzYW5lY1ZyOEJrWGZJOHpSV3U4MDRpcnBMSjZyeGQtYkFUNWZtdGp0c0hQQnZuOFpOVEUtUWdnYnQ?oc=5)
+- Ligue 1: [Fantasy football Week 8: Injury news, lineup advice and Jonah Coleman’s role in Denver](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcURfWkNSVW9STHo1bGJYUDI1SUhlMHh0UW43QWFXRVJOUE1ESXhQOTBReVo4eXlpUkZLOFBUSUpIQ251cFRxc1dhX09sZG5Ed1VRdzExTUhWclBTc0I4RlRwbUNEYlBneEREYlY1NDZMcmRqYUhmbTdsaFRMYzdoNFFYWE5tZFlLUGd1ZWQ2V3Y5emRyblg3Vm40SzNSNWFaY2IzVg?oc=5)
+- Bundesliga: [A shock absence for Al-Sibari, and doubts surround Olise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVdtM0NWWndWU3RNak01cFM3TndyTHVxWHQ3ZnNqMHFVcHdiMi1uNnVRQUd5QlE5LWd6b3NrMDlyb3d4REpPRllNUWg3cm1ueVZaMUpEWS1lX19udHJyTDctN2RJenRQNXh6YUo3OExfYWZIYVFlU21rMTRsNm9VcFJPN213aTAyVmhIWkF2bG5rNGZrQmtlejZXUzNwZW9HVmVFcFk4TGxva2c?oc=5)
+- Bundesliga: [Bayern Munich suffer double injury blow as Saibari undergoes surgery, Gnabry sidelined](https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3FjVUU2ZUcteUVWR3h1NGNrTUp6OFNvZEM3VlhZTnpKSDJlSUViMXhuX1JQZDM1MGlOOFBWcWhMekJRTER4dkJMNmpoX3JpRUdHeXdKVndHbXQ4d1llR2RCYkJRXzNYMkhrNnJQTnVPdUVHRVM1d2lUM0RsZjFubjNpcFkyMU5MU1kybHJGbU1DVEdZZk1tT1M2MEdJX3NYcjQxUWN4UHI3dGRJT2FmVVRMODJJMnQ4TEwtZw?oc=5)
+- Serie A: [Pant's latest injury blow puts NZ Test in doubt](https://news.google.com/rss/articles/CBMingFBVV95cUxNRWFHUXNoOXJRZWxqSmFYOHBJTFR6V2V1dUxsR0otLXhINkFhVW5wN2JrNDZmTk5reC1FQ3BlUUU0aTdGczJST3FiNkFCV3NBcjFDYkVORElQZkZHaGZJUHRJYXlSSUdvUklfNXJzWWJLZThRMk92VFVUdW5seXFfXzk4VlQtVkZjTHB5YnFjSE9UVDhwMGozRjhXZDY4QdIBoAFBVV95cUxOMHJ2ellIV3ZXaU9XT3lFZFloRkVxOWYyYVBlQm5FUXV6Q19jajBXamkwT0tkLXQzNUJVcmNQQ3kwVlktNnFvVnBBd0t6V05RTG9Pc1JkNXdiYnNvNVpiSHZOOVlfNzFQMldfMEx5WVpuY011dEZXZFpmNFY1UlNqdDE5U0R6UkNKeGh6T0RCblpkUHRYN1pkaDd3UXVpXzM0?oc=5)
+- Bundesliga: [Bayern Munich Confirm Ismael Saibari Injury, Moroccan Midfielder Faces Three-Month Absence](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSXBYR0JycUtsVHBuRkZuWXRESVVGMEVxSXhPZk15OXhFbVZwMC1uVHZfU2FISnJJQkRGMlVTVDNhaGxJZE9Eb091dHBYcWp1cGdpZlFwTkZ5UExwdG9MZGxXZG90QjlaMlVrWWYteGtRamJ4YkE5SGpVT1BtVnlTVDFHMVFWa2RMdDJvWnJGeUpPNmJxRXFNVkNmdnA5VFhEMlZnd05LMWZZb3pxeFNXRk1BYUtQdVVDRFhTVWpPazF6ZWJteU52YzJlM2ZkalM2QUU1Qw?oc=5)
+- Bundesliga: [Ismael Saibari undergoes surgery for ligament tear as Bayern injury timelines surface](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjZYYXJUY29NdXI4QnZ5bjRKYlBxWHVQdG5BcldPcXRaSHV6b080WVFfNll6Z0REV2dKN2pqUkQ3QlBYV2cwaVNGLTlPT2tqMVpiLUhzSTZLX1FldE1ZT3JERUlkLUFGWG9iSUFRdDM3T2NibTZ0RVpMMkQ2RU85Z2hTbGk5UXVPalN4VlQwYWNhWEZj?oc=5)
+- Bundesliga: [Bayern Munich reveal Al-Sibari's injury and announce he will undergo surgery](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVp3VVI0STZhQ245UmI5aFJJVFJRTzBZTldTRWd4UkRkYzI0LWREUVk0cWFMZXh6QXVlYkY1Y1lvSV9ld1lUWTJ1NUZPQWJOTVlFM0djQ2dkWFJ4c2hWTHlNRUJ4SmpwQUl4RjJweHhyQURPTk41UzZsSzlWZWRqRGE3NXgxcnJWX1lxY2FvcmQ4czV4aUswTlZMTTZEOXQwSTNmZjVjUGMwMjdzaXJxNS1FcUQ0Umx5YUVrc0JiVTBCMkhGTlBr?oc=5)
+- Bundesliga: [Bayern Munich Hit With Triple Injury Blow After Dortmund Draw](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkNmSzJyN0dxMGhRY25PN3oxVDE2N2ZwUlRxSl9hZ21CU3E4eEJybGVBYVdhLTBKcW5RSnJaV20zZG9UNVZaaDNiYUZLVkdmUEJObUNEaGxpYm5CenhwVy1TV0JPc09YM3RkVzRxX1ZfMnBqMktBdFYxbGg3aUduTlZyOS1ZME0?oc=5)
+- La Liga: [Nigerian midfielder escapes serious injury after being knocked unconscious](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXBmT3lQaHg3ZGh2Y2Nub3lXbWxLVTBKaE0zOFA5M0Fxb3p5eXd0ZEJNZUZGeWpkOThwbE12NC1YVDFsazh6QndXdzdtdktNV0pkbzQ0eEc5QUsxSl9YN3h1ck40bmtwTWp2ZGtwTXlKOXVDXzhicXpxY08yeHoyRFlsSkpDVW0yckVOSWM5cm9hY2wzMEwxcA?oc=5)
