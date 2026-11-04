@@ -1,15 +1,24 @@
 name: Injury watch
 
-# 매일 한국 시간 오전 7시(UTC 22:00)에 5대 리그 부상 뉴스를 모아
+# 30분마다 5대 리그 부상 뉴스를 모아 새 소식은 텔레그램으로 알리고,
 # docs/injuries/ 에 재활 콘텐츠 초안을 저장합니다.
-# GitHub 저장소 → Actions 탭 → "Injury watch" → "Run workflow"로 수동 실행도 가능합니다.
+# 수동 실행: GitHub 저장소 → Actions → "Injury watch" → "Run workflow"
+#
+# 저장소 Settings → Secrets and variables → Actions 에 넣는 값 (모두 선택):
+#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  — 새 부상 소식 알림
+#   ANTHROPIC_API_KEY                      — 선수·부위·기간 추출 정확도 향상
+#   API_FOOTBALL_KEY                       — 구조화된 부상 데이터 (유료 플랜 필요할 수 있음)
 on:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: injury-watch
+  cancel-in-progress: false
 
 jobs:
   run:
@@ -19,9 +28,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collect injury news and draft content
+      - name: Install optional Anthropic SDK
+        run: pip install --quiet anthropic
+      - name: Collect, extract, alert, report
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python tools/injury_watch/injury_watch.py
-      - name: Commit report
+      - name: Commit report and state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -29,6 +45,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Injury watch: $(TZ=Asia/Seoul date +%F)"
+            git commit -m "Injury watch: $(TZ=Asia/Seoul date '+%F %H:%M')"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
             git push
           fi

@@ -1,0 +1,79 @@
+{
+  "_note": "뉴스 소스와 리그·클럽 사전. 클럽 이름이 헤드라인에 있어야 축구 뉴스로 인정하고 리그를 배정한다.",
+  "hours_back": 48,
+  "max_per_league": 10,
+  "max_new_alerts_per_run": 8,
+
+  "google_news_queries": [
+    "Premier League injury",
+    "Premier League ruled out injured",
+    "La Liga injury",
+    "LaLiga injured ruled out",
+    "Bundesliga injury",
+    "Bundesliga injured out weeks",
+    "Serie A football injury",
+    "Serie A injured ruled out",
+    "Ligue 1 injury",
+    "Ligue 1 injured ruled out",
+    "footballer hamstring injury weeks",
+    "footballer ACL injury",
+    "football ankle injury ruled out weeks"
+  ],
+
+  "rss_feeds": {
+    "BBC Sport Football": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "Sky Sports Football": "https://www.skysports.com/rss/12040",
+    "ESPN Soccer": "https://www.espn.com/espn/rss/soccer/news",
+    "The Guardian Football": "https://www.theguardian.com/football/rss"
+  },
+
+  "api_football": {
+    "_note": "구조화된 부상 데이터(선수·팀·사유). API_FOOTBALL_KEY 시크릿이 있을 때만 사용. 무료 플랜이 현재 시즌을 막으면 Pro($19/월) 필요.",
+    "enabled_if_key": true,
+    "league_ids": {"Premier League": 39, "La Liga": 140, "Bundesliga": 78, "Serie A": 135, "Ligue 1": 61}
+  },
+
+  "not_football": [
+    "nfl", "nba", "mlb", "nhl", "wnba", "cricket", "odi", "t20", "test match", "ipl",
+    "rugby", "nrl", "afl", "ufc", "boxing", "tennis", "golf", "f1", "formula 1",
+    "injured reserve", "\\bir\\b", "quarterback", "wide receiver", "running back", "linebacker",
+    "touchdown", "pitcher", "innings", "wicket", "point guard", "lakers", "pacers", "celtics", "knicks",
+    "cardinals", "ravens", "chiefs", "packers", "49ers", "cowboys", "eagles nfl", "yankees", "dodgers",
+    "cervical strain indiana", "fantasy football waiver", "college football", "ncaa"
+  ],
+
+  "clubs": {
+    "Premier League": [
+      "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", "Burnley", "Chelsea", "Crystal Palace",
+      "Everton", "Fulham", "Leeds", "Liverpool", "Manchester City", "Man City", "Manchester United", "Man United",
+      "Man Utd", "Newcastle", "Nottingham Forest", "Sunderland", "Tottenham", "Spurs", "West Ham", "Wolves", "Wolverhampton"
+    ],
+    "La Liga": [
+      "Real Madrid", "Barcelona", "Barca", "Atletico", "Atlético", "Athletic Club", "Athletic Bilbao", "Real Sociedad",
+      "Villarreal", "Real Betis", "Betis", "Sevilla", "Valencia", "Celta", "Osasuna", "Getafe", "Girona", "Mallorca",
+      "Rayo Vallecano", "Alaves", "Alavés", "Espanyol", "Levante", "Elche", "Oviedo"
+    ],
+    "Bundesliga": [
+      "Bayern", "Dortmund", "BVB", "Leverkusen", "RB Leipzig", "Leipzig", "Frankfurt", "Stuttgart", "Freiburg",
+      "Wolfsburg", "Gladbach", "Mönchengladbach", "Monchengladbach", "Hoffenheim", "Mainz", "Augsburg", "Werder Bremen",
+      "Bremen", "Union Berlin", "St. Pauli", "St Pauli", "Heidenheim", "Hamburg", "HSV", "Köln", "Koln", "Cologne"
+    ],
+    "Serie A": [
+      "Juventus", "Inter Milan", "Inter", "AC Milan", "Milan", "Napoli", "Roma", "Lazio", "Atalanta", "Fiorentina",
+      "Bologna", "Torino", "Udinese", "Genoa", "Cagliari", "Verona", "Hellas Verona", "Parma", "Lecce", "Como",
+      "Sassuolo", "Pisa", "Cremonese"
+    ],
+    "Ligue 1": [
+      "PSG", "Paris Saint-Germain", "Paris SG", "Marseille", "Lyon", "Monaco", "Lille", "Nice", "Lens", "Rennes",
+      "Strasbourg", "Toulouse", "Nantes", "Brest", "Auxerre", "Angers", "Le Havre", "Lorient", "Metz", "Paris FC"
+    ]
+  },
+
+  "league_aliases": {
+    "Premier League": ["premier league", "epl"],
+    "La Liga": ["la liga", "laliga"],
+    "Bundesliga": ["bundesliga"],
+    "Serie A": ["serie a"],
+    "Ligue 1": ["ligue 1", "ligue1"]
+  }
+}

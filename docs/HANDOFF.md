@@ -2,6 +2,12 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-04 — Claude Code (부상 자동화 v2)
+- 확인: Actions가 10/31부터 매일 실제로 실행됨. 문제: 크리켓·NFL 혼입, 부위 대부분 미분류, 같은 소식 중복
+- 한 일: 파이프라인 재구성 — 클럽 사전(110개)으로 축구만 필터, BBC/Sky/ESPN/Guardian RSS 추가, Claude 구조화 추출(키 있을 때), 선수+부위 기준 60일 기억(state.json), 새 소식만 텔레그램 알림(재활 단계·운동·영상 링크 포함), 30분 주기. API-Football 선택 연동. 구조·설정은 `docs/playbooks/injury-pipeline.md`
+- 사용자 할 일: GitHub Secrets에 TELEGRAM_BOT_TOKEN·TELEGRAM_CHAT_ID (알림), ANTHROPIC_API_KEY (정확도) 등록 → Actions 수동 실행 → `videos.json`에 원우 님 릴스 링크 채우기
+- 이 환경에서 외부 뉴스 접속이 막혀 실데이터 테스트는 Actions에서만 가능
+
 ## 2026-10-30 — Claude Code (부상 뉴스 자동화)
 - 한 일: `tools/injury_watch/` + `.github/workflows/injury-watch.yml`. 매일 07:00 KST에 5대 리그 부상 뉴스(Google News RSS) 수집 → 부위·정도 분류 → 재활 3단계·촬영 운동·EN/ES 캡션 초안을 `docs/injuries/`에 저장. 샘플 데이터로 검증 완료 (이 환경은 외부 접속 불가라 실데이터는 Actions 첫 실행으로 확인 필요)
 - 다음 할 일: Actions 첫 수동 실행으로 확인 → 원우 님이 `rehab_library.json` 운동 내용 검토 → ManyChat 설정 → 랜딩페이지 코멘트 반영

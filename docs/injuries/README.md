@@ -1,11 +1,14 @@
 # 부상 뉴스 → 재활 콘텐츠 자동화
 
-매일 한국 시간 오전 7시에 GitHub Actions가 `tools/injury_watch/injury_watch.py`를 실행해
+30분마다 GitHub Actions가 `tools/injury_watch/injury_watch.py`를 실행해
 5대 리그(프리미어리그·라리가·분데스리가·세리에A·리그앙)의 최근 48시간 부상 뉴스를 모으고,
-헤드라인에서 **부위**와 **정도**를 분류한 뒤 **재활 단계·촬영할 운동·영어/스페인어 캡션 초안**을 만들어 이 폴더에 저장합니다.
+축구 뉴스만 골라 **선수·클럽·부위·정도·기간**을 추출한 뒤 새 소식은 텔레그램으로 알리고, **재활 단계·촬영할 운동·영어/스페인어 캡션 초안**을 만들어 이 폴더에 저장합니다.
 
 - `YYYY-MM-DD.md` — 그날 보고서 (사람이 읽는 용도)
 - `latest.md` / `latest.json` — 가장 최근 결과
+- `state.json` — 이미 본 소식 기억 (자동 관리, 손대지 않음)
+
+전체 구조와 시크릿 설정: `docs/playbooks/injury-pipeline.md`
 
 ## 쓰는 법
 1. 아침에 `latest.md`를 연다 (claude.ai 프로젝트에서는 컨텍스트 동기화 후).
@@ -15,7 +18,8 @@
 
 ## 고치고 싶을 때
 - 운동 내용·단계: `tools/injury_watch/rehab_library.json`
-- 리그·검색어·수집 범위: `tools/injury_watch/config.json`
+- 뉴스 소스·검색어·클럽 사전: `tools/injury_watch/sources.json`
+- 운동 → 시연 영상 링크: `tools/injury_watch/videos.json`
 - 수동 실행: GitHub 저장소 → **Actions** → **Injury watch** → **Run workflow**
 
 ## 주의
