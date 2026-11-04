@@ -395,6 +395,258 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:hamburgsvvsborussiamonchengladbachpreviewpredictioninjurynewslineupsbu": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:laziodealtmattiazaccagniblowasclubconfirmsinjury": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:evertonvscoventrycitypreviewpredictioninjurynewslineupspremierleague20": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bournemouthhitwithdoubleinjuryblowaheadofspartapraguevisit": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:badnewsforlazioaszaccagniruledoutfor34weeksbyinjury": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "3-4 weeks",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:eplmanutdhitbyinjurysetbackaheadofvillaclash": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:opponentwatchatleticomadriddefensiveaceruledoutofbarcelonaclash": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:juventusyildizonhisinjuryitwilltakealittlelongerbutrecoveryisgoingwell": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:rodrisinjuryworriesbarcelonaaheadoftheatleticoclash": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:whoshouldreplaceinjuredrodriforbarcelonaagainstatleticomadrid": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonasrodritomisslaligaclashagainstatleticoduetoinjury": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonamidfielderrodriruledoutforamonthwithhamstringinjury": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "moderate",
+    "duration_weeks": 4.3,
+    "duration_phrase": "a month",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:majorinjuryblowrodriruledoutofatleticomadridshowdownasbarcelonaconfirm": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonaconfirmsrodrisinjuryashemissesclashagainstatlticomadrid": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:eplmanutdsuffermajorinjuryblowaheadofastonvillaclash": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:laligabarcelonasuffermajorinjuryblowaheadofatleticomadridclash": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:hewillmissaseriesofmatchesrodrisinjuryisworsethanbarcelonarevealed": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:sunderlandtrainingrevealsfiveinjuryabsenteesaheadofbigdinamozagrebshow": {
+   "first_seen": "2026-11-04T21:26:55.213337+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  }
 }
