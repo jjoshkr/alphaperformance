@@ -1,46 +1,60 @@
 [
   {
+    "league": "Premier League",
+    "title": "Why Arsenal asked NASA for help with ACL injuries",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lRVRHSVRiYjJsWXRNZlByZ213RnFhek5XV1pfSzEtTVRtNlpYWE9GeEFrc2lnUVNkRkdzV2xMeFdBVEZQc2lUTmRnbGtXc05sNGdmNHpmeldHVUhiNGxpZWRuZXl5TzFpd3Q5aGExTlBFa0Exc1VpWXNR?oc=5",
+    "source": "Arsenal Core",
+    "published": "2026-11-03T23:53:39+00:00",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": {
+      "hook_en": "Another knee (ACL/meniscus) injury in the Premier League. Here's what the comeback looks like.",
+      "phase_to_film": "Phase 1 · Post-surgery basics (weeks 0–6)",
+      "drills_to_film": [
+        "Quad sets and straight-leg raises",
+        "Heel slides for knee bend, patella mobilisation",
+        "Short-arc leg extension with no load"
+      ],
+      "all_phases": [
+        {
+          "name": "Phase 1 · Post-surgery basics (weeks 0–6)",
+          "drills": [
+            "Quad sets and straight-leg raises",
+            "Heel slides for knee bend, patella mobilisation",
+            "Short-arc leg extension with no load"
+          ]
+        },
+        {
+          "name": "Phase 2 · Strength & balance (months 2–5)",
+          "drills": [
+            "Split squats and step-ups, slow and controlled",
+            "Single-leg balance on an unstable surface",
+            "Leg press building to body-weight equivalent"
+          ]
+        },
+        {
+          "name": "Phase 3 · Plyometrics & return to play (months 6–9+)",
+          "drills": [
+            "Double-leg → single-leg hops with soft landings",
+            "Cutting and pivot drills, planned then reactive",
+            "Full-speed running and football-specific sessions"
+          ]
+        }
+      ],
+      "content_angle": "ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why the landing mechanics matter more than the surgery.",
+      "red_flags": "Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness.",
+      "caption_en": "Another knee (ACL/meniscus) injury in the Premier League. Here's what the comeback looks like.\n\nMost knee (ACL/meniscus) rehab has 3 stages. This is the stage that gets rushed:\nPhase 1 · Post-surgery basics (weeks 0–6)\n1. Quad sets and straight-leg raises\n2. Heel slides for knee bend, patella mobilisation\n3. Short-arc leg extension with no load\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
+      "caption_es": "Otra lesión de rodilla (ligamento cruzado / menisco) en Premier League. Así es la vuelta.\n\nLa rehabilitación de rodilla (ligamento cruzado / menisco) tiene 3 fases. Esta es la que más se apresura:\n1. Quad sets and straight-leg raises\n2. Heel slides for knee bend, patella mobilisation\n3. Short-arc leg extension with no load\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
+    }
+  },
+  {
     "league": "Serie A",
-    "title": "'The NFL Report' provides an injury update on Jack Campbell",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTk9CXzZNYTdoSUlCVlk0dzhPbE5TZjQyOWxVQjFHMm9aamhVLXhQeFhDTzJiRV9OelEydFRpNll2Um9vVWdjd0NwSDYxd1Q3dFRZR29ZZ0xVRWV3MXBEU19YRjNZTksybGVDQm5DYjcxTEd5amJzY2EtVmxJemoyY05oMW0?oc=5",
-    "source": "Yahoo Sports",
-    "published": "2026-11-03T00:15:22+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "MLS Injuries & Suspensions | Injury Report",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdmlQellrWFVnaENZTnRsODVGTzFGVXZUZ1c1UUxMN2VQV1I0SjRRRTZqNkdPRGFNQ3ZIZzlBNVFuLTNKVHkwVW45UDZjSElSWFZicEMtaER4U0tjcVB1MDcyekluZlE?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T23:49:24+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "Football Injuries & Suspensions | Injury News",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yWFA4SFM3Y25fNUp2RFFIWUs3cE0xejhqWUlzSHByc0N2Mmh2ZlN1VUdFYjVhNE9TWUZKRE5IR3JqRGZTa01xSU5OUmxLVFdhWFF3c1RtNF85Unk3?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T23:19:58+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Bayern Munich CEO says not to rush into January signings following Der Klassiker injuries",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRUQtWWtuQWFYSFQ5bHV1cWNYRDk3WmZYT1hZTjhLOWNLcnRtNVVYeWJHVml2aDNzZ1hqOEZITG11NVlxdVpWNEdQNkRvMkJ6NTllWUF3dmtWQV9ubTBpb3YxQ29MVHY5ajc5MTUtNEhfOHhCLU96MmpQbUFueURDSlktUWR1eVJYaDFhaWNfV3Q4aFMtNWtKM0NGWkZuZFdrY1YtVDBEbWpNc2lvTmEtX1JnNkUtR05NYTdCNTZnaFkydGFkQVp5RXJYSXZSQmF6ZmpiYTBCRnl5MnFjWHpRdDl0ekE1dHN1VlRZZjhB?oc=5",
-    "source": "Bavarian Football Works",
-    "published": "2026-11-02T22:15:00+00:00",
+    "title": "Rodri injury mars easy win for Barcelona over Emery's Villa in front of Prince William",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZjF6bHFVelVoeFlpeklRTUNUMlQtdGFQdWU2eGQxNjRxMGNqbHpka2VNTWJUUlFGaEs5ek5GbExlaDhFM3FqWmVqX2d5VjAtWjV1WWpmQnEybjBJNlpJZ3Znc2dYT1B5eHBHUHRBUDZKOW5Ub01kcVc0VjJkZlE?oc=5",
+    "source": "Yahoo",
+    "published": "2026-11-03T23:16:40+00:00",
     "body_part": null,
     "severity": "unknown",
     "duration_weeks": null,
@@ -49,10 +63,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Norway Eliteserien Injuries & Suspensions | Injury News",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MUjN0cVFkbmpSdmxUeWpNZWxlRGlRYzFGRGJ6cU1keFRlOVhZa1hrLVdRcnVLbzFnWUhhZmt4OWdzeTFrZHhGQUNwdEV4aEpVOTZJYkVKbmEyOXJjUEh0Z1BZWTBVTFhIZk9qSlg4NG9ZWjVORnc?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T22:09:05+00:00",
+    "title": "Carlos Baleba injury: Manchester United midfielder limps off vs. Roma",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFBud1RXUXNQamwzV29qYlVSUXhZbmRZcm16Q0llNkhEMFJVMDhzQ01EZVphZ3VKalFMcTg1d0tDWWNRVXpyQTByelA1WFltMlVSRV9qdFBfWXB3MG1aMEFKNTVhcHhYM0lDbjFvbUJoQW5ld3NwUXlKVEVFRkthVk8wX0ZIODVlMWdWTVNIcGNXTzdvbkN6ei1zbHpwbjFQLWNGVVlqQjBzX0pZeWQ2YUdXUGdQUlBqS2hr?oc=5",
+    "source": "USA Today",
+    "published": "2026-11-03T23:09:00+00:00",
     "body_part": null,
     "severity": "unknown",
     "duration_weeks": null,
@@ -60,11 +74,59 @@
     "draft": null
   },
   {
-    "league": "La Liga",
-    "title": "Bayern, Chelsea and more: All fixtures PSG Women captain Sakina Karchaoui could miss with fresh injury",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVhjSDVkQnN4MVI4SHFEN1R5dkg1bmEzeWZvYkgtcXZxNlltVy1DSzUxSTBfUWJmYzlsWE4tbWdVQXFCcklTYmNZcUhLUldXaGR1eDMycUxtNHBaWlNtVnhOUjBSeWJKS2Nab0tSUktma09nS2hsQnp1bGpOal9iYllUekpleXBuTDY3VjFpdVVYY3RqUUc4ZlhR0gGaAUFVX3lxTE5NWGNINWRCc3gxUjhIcUQ3VHl2SDVuYTN5Zm9iSC1xdnE2WW1XLUNLNTFJMF9RYmZjOWxYTi1tZ1VBcUJySVNiY1lxSEtSV1doZHV4MzJxTG00cFpaU21WeE5SMFJ5YkpLY1pvS1JSS2ZrT2dLaGxCenVsak5qX2JiWVR6SmV5cG5MNjdWMWl1VVhjdGpRRzhmWFE?oc=5",
-    "source": "Tribuna.com",
-    "published": "2026-11-02T21:45:00+00:00",
+    "league": "Premier League",
+    "title": "USMNT Injuries: Every Player Doubtful, Ruled Out of Concacaf Nations League Quarterfinals",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb21lNW1EQXBWd3RScVllN3daWFZtYVJ3ZjlhWEVfdTJTTWUtM0xHZmdRalo0dk1VS1NLbUV4QUcwLWdFamdoV1Z4R090cjF4ZHJtVzZUMUhqRDU5YzMxVjhJYkxubG9SSjBVNm5FXzlCWTdWMXBYTHdOc21hemZwYTA3WkxWaHVVSGM1UGNfUGxjNnB0clg4dWI5YWJlaGhkU2FoMEZBU0hkbDRzOUtQbGVkLTV1RVpuZ19RT0pVZHF1cDFiSlJfOHczYw?oc=5",
+    "source": "FotMob",
+    "published": "2026-11-03T23:00:01+00:00",
+    "body_part": null,
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "Lazio Receive Triple Injury Boost Ahead of Napoli Clash",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTVwR3BQTmV5WXg2bDVGU1pOOW11d0h4QTh1NF9wa0dfVTlfQVFKX01wTUJOUENuTmxNWVhaS2o4cEFpMy1Kd0ctWXNBQUlzc01FV24xdkNITXkxOC1scmlYVmpwX3dPcFJCZWYzSGlZQUtfdEFhRXlWSTJKYkIyM05PLWpUSnVBRTliZlZGMzV6aThWMDFSUUVMSFZOaE5ZNTVHNFlYbmRWRkFaYTNmU0NiaUZxRGFmaUNz?oc=5",
+    "source": "LiveScore",
+    "published": "2026-11-03T22:52:37+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Premier League",
+    "title": "Bundesliga Injuries & Suspensions",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5",
+    "source": "Sportsgambler",
+    "published": "2026-11-03T22:16:35+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Premier League",
+    "title": "Man United handed major injury blow with Liverpool clash on horizon",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFBiTExTTFFBQWo0NHQxMDlqaGxBTHAyTWlRWHp3TjQ4VlMycGVXa3cxOHUwNEZYNmR3bTVPWU14UDV0VnNyaFRwZ3VoN1Noc3luejNfYzZENnotMjZ1ekVfeTdzUXlnSTNPT1Z6Zzg2VDFpYTVTd0tOR1RBdS1VOG14eUI0UWQ0MUowbFhSYjNOUlJEXzBaMDJUd0rSAaIBQVVfeXFMTVRIY0p2ZlJKbmdnTXotTmlnNndLMnBTei1ydS1abEJUdFNmb3ZPUUhXSWsxbWZtVldveW94bXhZaUgxZGN5dVNOS0UxRFpWa3V6U3hiQkZHc05HUkxSTm1UZ21kVjRuMmdhS0xHOFJad21vSkE3YjcwcFZwNE41Z2NjbTZpWldoQkVSd3VueG15NW9HT0ZRcUJEbVZWMXl3cmJR?oc=5",
+    "source": "Liverpool.com",
+    "published": "2026-11-03T22:09:53+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "Brazil Série A Injuries & Suspensions",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15SU4zUVdKcE0tYU81TXJEYm1YdXJBaWl5UmQ1VEhkeVluWkxtZlpkR1NWSnJKdkg3SURtSEtuX3RLeER3UjhWN1NhZTBoTkUzMFNVZURCWmoyelZrTHVVbU05UGNoclVJSjhnUnJ1QVI?oc=5",
+    "source": "Sportsgambler",
+    "published": "2026-11-03T22:00:51+00:00",
     "body_part": null,
     "severity": "unknown",
     "duration_weeks": null,
@@ -76,7 +138,19 @@
     "title": "Serie A Injuries & Suspensions",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14VkplOTQtczJWN0JEZFc1ZjU4M2FoVlZBM2pReTZXMmRfVXktMG05cXQ4UXBzanNVdW9SVm45RGYyNTI0VTc4eWV3eDNTQ3Joc05icVplSUVJaEJfelpEYVJ3dnRrVFctS1QzbC1sNA?oc=5",
     "source": "Sportsgambler",
-    "published": "2026-11-02T21:37:54+00:00",
+    "published": "2026-11-03T21:45:04+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "La Liga",
+    "title": "Barcelona hit by Rodri injury scare ahead of Atletico Madrid clash",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjFHSFpEdmNieks3dWNmallRdTBYWE53X1pGbHpGamFMUDJrQ3BpcXRoM2I5SlpnSFkycXVtSHpjNVhLMXZYdGtuNUhYYWhjbGdIV2RWVUFYVGQ1dndaU1NWczBOMXE1UFJkMmNRVDRWOE4tS1dHOFBGa0tJWmZaLWU0Wk5xcGRNdGszYVI0dl81U01UWTlRNzlMT2ktQQ?oc=5",
+    "source": "Barca Blaugranes",
+    "published": "2026-11-03T21:23:31+00:00",
     "body_part": null,
     "severity": "unknown",
     "duration_weeks": null,
@@ -85,15 +159,419 @@
   },
   {
     "league": "Premier League",
-    "title": "Premier League Injuries & Suspensions",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uaGFvWDU2dWs4LVVpSXBXcTJjNFRlTFpfbjB4b240Tml5cmZqQ3loeUM1S1FXcjZaVy1hLWxMRjF6aDdMX3NOUjRUUXRmYTFtalhnTFExRXJDNVNSTElRSzAzdVBjbUVGYmZVT2t6ZkFfaHd0WXU5czd2Zw?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T21:14:30+00:00",
+    "title": "Manchester United dealt major injury blow as star limps off in Champions League",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk5OWldsYm92NjR3ZGQzdXpGcDltYUtERkI0a2gwN3B2S1pmMWMwZGhCblp1Y0w5bTJlNWZyMzBnSHFoYm9yZXJkRWZHNUZ2eEdUaHF5aFNGU3FsN3hwNk9BUUxYS2V6YkpGTlo5X0dmenhWN1ZzbHZuN3pTNEJCTDlxaUYwUG1Ea1ZYbXV3?oc=5",
+    "source": "Yahoo Sports",
+    "published": "2026-11-03T21:22:52+00:00",
     "body_part": null,
     "severity": "unknown",
     "duration_weeks": null,
     "duration_phrase": null,
     "draft": null
+  },
+  {
+    "league": "Premier League",
+    "title": "Mikel Arteta confirms huge William Saliba injury boost for Arsenal",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjBYREtYNzQzX21pVHNocnlKM1ROQnVOWFlHdnpEZ3ZhaHc3ZG41dzluSUR4YmdwSUhZYXZqdGlMYktjbk1ScmMyTkgyNVlJLTY5Mm42VXFBWUI5LU9hb3Jmbk5Bek5ibUlZSGN1T1RCbnVwV01XbDF4Y2RRRDdjYVF4b0Y0WDZwdHVpZlZGRndKMmVtN0NvQTBqeGVuVHBVWGp3LS1VMkxsZ1ZZb2EtR0diUXVKRjlwZklnZzdSN2U1Vkc4TXgtZjdfcWY0TGs1VWJKU3FWek0?oc=5",
+    "source": "LiveScore",
+    "published": "2026-11-03T20:33:20+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Cardinals Place Jeremiyah Love on Injured Reserve With High Ankle Sprain",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HbnFzUkxkMGZYNmxNcnAxelFzQnpBcENOYW9nQlh0LUJXU0J4OGt3Z2ZuUC0wQTNTRWw0X0VTYW1wRDhMNVc5MlBHUTZjaUZwRFpwRkE2S0dXb2J2d0VZSnlIYUpsMjFSRFQw?oc=5",
+    "source": "Total Apex Sports",
+    "published": "2026-11-03T20:07:11+00:00",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": {
+      "hook_en": "Another ankle injury in the Ligue 1. Here's what the comeback looks like.",
+      "phase_to_film": "Phase 2 · Strength & balance (weeks 2–4)",
+      "drills_to_film": [
+        "Band eversion/inversion, 3×15",
+        "Single-leg balance, eyes open → closed",
+        "Standing calf raises, double → single leg"
+      ],
+      "all_phases": [
+        {
+          "name": "Phase 1 · Protect & move (days 1–7)",
+          "drills": [
+            "Ankle alphabet for pain-free range",
+            "Towel scrunches and toe spreads",
+            "Weight-bearing as tolerated, seated calf raises"
+          ]
+        },
+        {
+          "name": "Phase 2 · Strength & balance (weeks 2–4)",
+          "drills": [
+            "Band eversion/inversion, 3×15",
+            "Single-leg balance, eyes open → closed",
+            "Standing calf raises, double → single leg"
+          ]
+        },
+        {
+          "name": "Phase 3 · Return to cutting (weeks 4+)",
+          "drills": [
+            "Pogo hops → single-leg hops",
+            "Lateral hops with stuck landings",
+            "Reactive change-of-direction drills"
+          ]
+        }
+      ],
+      "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
+      "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
+      "caption_en": "Another ankle injury in the Ligue 1. Here's what the comeback looks like.\n\nMost ankle rehab has 3 stages. This is the stage that gets rushed:\nPhase 2 · Strength & balance (weeks 2–4)\n1. Band eversion/inversion, 3×15\n2. Single-leg balance, eyes open → closed\n3. Standing calf raises, double → single leg\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
+      "caption_es": "Otra lesión de tobillo en Ligue 1. Así es la vuelta.\n\nLa rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:\n1. Band eversion/inversion, 3×15\n2. Single-leg balance, eyes open → closed\n3. Standing calf raises, double → single leg\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
+    }
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Max Eberl gives much needed update on Bayern Munich's injury crisis",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjF6Wmc0bjJhd0F1VFNiMnJ4SEc2SUQ4eXR6UVlhVml2VWtEcEtuckZxbElmbzVvQ1JMdDQ0djFnTkRldmxLR1E2WVZIWG5BU2MzSjF1bE9uOFNDQ25IaXBLSVlqMzlNeHRLLTdmOW1aUm1RMFIxY05BWjk0VXZDUWFJWnd1VUhicFhzS2xuR3hNekgwVXJWSENLSGRNUk94LXMwYlZqX3NqZDQtWG5yN2NPUUtZRHBoT3VPTnUwSDFGeUc5MVNUZ3pSWFlMZmM3dFE?oc=5",
+    "source": "LiveScore",
+    "published": "2026-11-03T19:47:46+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Tyrell Malacia Injury: Training away from group",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU0tcXlqYTRueURaSDhwOGJDT2R0eVBKbXVfdmxOamxRQnJHMlRzdWFJQVUtZDU0ZEloYU11d2prcmNJeE0xYU1YR1NyazdIOGpORjExQ3RmU1pEcVR2b1BOMXljZ3JjYTdjc0JaMVlrT2ZqSk4wVldYV2NZN2hrZXhCMVJaczlOOEdHTy1lSlpvdzB4VjBMX0pZTQ?oc=5",
+    "source": "RotoWire",
+    "published": "2026-11-03T18:13:09+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "News | Bayern dealt major injury blow as Ismael Saibari faces four months out",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzUzcXJHQ2EwU1cxRDI1a0lFZDdRcHVvX1FEbHhLSUJ6bG9nU3dWWHhiZVdrOTQxVXZtSkMzclVaQ3A0cVE2V1hJTUNGeUNMNklLTjFPbEJ2VUJtdVZXS3JZbGNRM09pa1BpOXJtRFRidlZRdzV3ell2WUo0RDNFUjhLYno2azFEalRFaFJRTGo4SFd3QkltSzNEOXNTekFsSWtqZXdn?oc=5",
+    "source": "Vodacom Soccer",
+    "published": "2026-11-03T18:00:00+00:00",
+    "body_part": null,
+    "severity": "severe",
+    "duration_weeks": 17.2,
+    "duration_phrase": "four months",
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "News | Harry Kane: 'Bayern Munich have emerged stronger from injury crisis'",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWxJZnRENE5TMEFGWHVNLVhqSVlFanF6Qi1FMWxSUXY4ZmdkekpMbEJQaTlCN3U4bnBqaS1mVGs0Y3Rkb1F5eXJ3akxKSWdNbGpqTUZTdDNlOTA2bFV0TV93NG1TZUM4NmdydHVkTkZmUENDblBabFBBWnRkRFo0UzBYa2ZvREZRd0ZfXzkxVU5aUXEtMzBlVW1WNmIwNnc?oc=5",
+    "source": "Vodacom Soccer",
+    "published": "2026-11-03T18:00:00+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Rennes striker Esteban Lepaul unlikely to make France squad due to injury",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1ZNbV9HWERla1VNZlFzRHpTYjRDNXVzUVQ3bjZqdVZJVjRmclYwcmNhcTB2WldHcHJXZzdMbjkwT2VTQ21MMWxPR2dvMVByaFA1ekZTZFZtLTB3Z1RkU3lNbG8tUmgxYlV4ajV1RW9iaHMtQlpZYjJlNkZVdjQ0bUVEc21yN1AyQlFzMV9XdmVyc1hlZDRTcFhXX1lrMDg5SGpjWk5FMHJEbk9SbDZGQl90LTB2Qmdz?oc=5",
+    "source": "Get French Football News",
+    "published": "2026-11-03T16:46:04+00:00",
+    "body_part": "quad",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": {
+      "hook_en": "Another quadriceps / thigh injury in the Ligue 1. Here's what the comeback looks like.",
+      "phase_to_film": "Phase 2 · Strength",
+      "drills_to_film": [
+        "Reverse Nordic (eccentric quad), 3×6",
+        "Split squats",
+        "Step-ups"
+      ],
+      "all_phases": [
+        {
+          "name": "Phase 1 · Protect & activate",
+          "drills": [
+            "Quad sets and straight-leg raises",
+            "Gentle kneeling hip-flexor stretch (pain-free)",
+            "Stationary bike, no resistance"
+          ]
+        },
+        {
+          "name": "Phase 2 · Strength",
+          "drills": [
+            "Reverse Nordic (eccentric quad), 3×6",
+            "Split squats",
+            "Step-ups"
+          ]
+        },
+        {
+          "name": "Phase 3 · Kick & sprint",
+          "drills": [
+            "Kicking progression",
+            "Sprint build-ups",
+            "Deceleration drills"
+          ]
+        }
+      ],
+      "content_angle": "Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.",
+      "red_flags": "A visible gap or bulge in the muscle needs imaging.",
+      "caption_en": "Another quadriceps / thigh injury in the Ligue 1. Here's what the comeback looks like.\n\nMost quadriceps / thigh rehab has 3 stages. This is the stage that gets rushed:\nPhase 2 · Strength\n1. Reverse Nordic (eccentric quad), 3×6\n2. Split squats\n3. Step-ups\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
+      "caption_es": "Otra lesión de cuádriceps en Ligue 1. Así es la vuelta.\n\nLa rehabilitación de cuádriceps tiene 3 fases. Esta es la que más se apresura:\n1. Reverse Nordic (eccentric quad), 3×6\n2. Split squats\n3. Step-ups\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
+    }
+  },
+  {
+    "league": "La Liga",
+    "title": "La Liga 2 Injuries & Suspensions",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vUThPRmJQMVBrQm1LTkl2V2QxY0ZaeHpOSERnT3htdGV4THFFRGMtVk9ndUdRRlpDaTRLTjVVOEhfdWtuZG5oYmdlRDlJZ09lc1VidlY3c0RvME42bS10RFpQenYxcjNSSXhkcGZIRTVoQQ?oc=5",
+    "source": "Sportsgambler",
+    "published": "2026-11-03T14:54:28+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Why will Marcus Rashford & Luke Shaw miss Man United vs AS Roma Champions League 2026-27 clash?",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjNaM1RrZk04Z2ExQkp4QW93Q0Z6anp0RFczal9qVk0tSXFvSzUtLXNLcFh5dmIwOGlNNFNVbGw3SVFNdDF2UkJjQ0haRTVnUkExMWVGWVdIeU9mQUtCVzJsb2tZQmtodWs4emoycWRvaDlHeUFWLWRBeTFtR05DU0V4V293aEw1NExZMHRQeFFLNWp2Q3ZxRldEWTFlQXh4dGpkSTI1Z3NGVXo3M2c?oc=5",
+    "source": "Khel Now",
+    "published": "2026-11-03T13:04:00+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "Fresh Injury Concern Emerges in New Zealand Camp Before Series Opener",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUp1bjhaZHRpYjFpQTQ3dFZBRjl0dTJ5bkxjVXhOY3Q2ZG15X1oyV0hGWU5FeTA4bTk4U3FFWE0ySERZdzFueW9EUEZkLXlvRjVGX3R6QkRHcmduUGQwVzljZjNyek5VcUpvcUpVc1diWTV4WG1YS0NUUzZlQ1NOMGZtQ3AyZHdHX0NsN3hHc1VWbzZjSDVnai1IekxjLXJrTWtQOGxiX2JGWWpJenBPMHMtbEpUckx2X1BvN9IBwgFBVV95cUxQazBBRkpkSHN6QjQ1OGtUUTREcHZVUkhfemNrNmxjNHhvNkxPZnYzcF9FY08tNlNJMldZZEEtT1hwSFRldnpoSzk1SXd5NElrekJuM1JybFh4ejBGUUpvUm9xV0lMLWVwdUszME4zVHZreDRYNEJYNlRmdFNPcWV5XzlPQVhQVnN1NlBtZ2JaTVZvVDdnSTNvSHpVZThobU9jaFYwTkIwS0MxZlAyYWYzUkNvQjY5a2p4UWpZTVZweUQ0QQ?oc=5",
+    "source": "SportsCafe.in",
+    "published": "2026-11-03T11:19:47+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "Injury blow for New Zealand as Devon Conway ruled out of India ODIs with concussion",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHVkdXRfYzNLMmhRT3hEN0RvX1I4YVBiM3RONnhZeXlpV1djelJZeVVVcUptX1RTQURobDhzUzVzS1RZNHlIX2RJcHl5T2pXN3A1c1NIR0pvQTQteHdxRWdGa1FaQW8wRnh4WEwwSTRDcnlETTVpOTNZbU1BSHRudklqR1RRcmYyZnJFeHVjNzZrR2VXVDdILTZKek5jdjZPbVAybXRtOWRMd9IBrwFBVV95cUxQMzZrV3NvV2RQNE9UR0MwMllSZzR5cnJqSXZtTTlUeTlKUG5PbnJ1ZEVxNGM0cFJDN2wtc29FM0YxcTN2TzZJbUljX3h3ZmZJUWgwNi1fRXRZTjZrN0dIazlXaW04SFRESnpYZ0lhOGVlZmF4MlN2Q19XWnRLaWtiQ3RlcFBmR05ZNFp4S2tPYzJGXzdWQzhoYWpwNDAydlJZbl91Rjhia3BIcmRTVDVZ?oc=5",
+    "source": "WION",
+    "published": "2026-11-03T10:58:00+00:00",
+    "body_part": "concussion",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": {
+      "hook_en": "Another concussion / head injury in the Serie A. Here's what the comeback looks like.",
+      "phase_to_film": "Stage 2 · Light aerobic → sport-specific",
+      "drills_to_film": [
+        "Stationary bike at low heart rate",
+        "Jogging without heading or contact",
+        "Passing and movement drills"
+      ],
+      "all_phases": [
+        {
+          "name": "Stage 1 · Rest & symptom-limited activity (24–48h)",
+          "drills": [
+            "No training",
+            "Light daily activity only",
+            "Screen and noise limits as advised"
+          ]
+        },
+        {
+          "name": "Stage 2 · Light aerobic → sport-specific",
+          "drills": [
+            "Stationary bike at low heart rate",
+            "Jogging without heading or contact",
+            "Passing and movement drills"
+          ]
+        },
+        {
+          "name": "Stage 3 · Full training → match",
+          "drills": [
+            "Non-contact training",
+            "Full contact after medical clearance",
+            "Match play"
+          ]
+        }
+      ],
+      "content_angle": "Educational only: explain the graded return-to-play protocol. No exercise 'recommendations'.",
+      "red_flags": "Worsening headache, vomiting, confusion or drowsiness are emergencies. Never give training advice for a head injury.",
+      "caption_en": "Another concussion / head injury in the Serie A. Here's what the comeback looks like.\n\nMost concussion / head rehab has 3 stages. This is the stage that gets rushed:\nStage 2 · Light aerobic → sport-specific\n1. Stationary bike at low heart rate\n2. Jogging without heading or contact\n3. Passing and movement drills\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
+      "caption_es": "Otra lesión de conmoción cerebral en Serie A. Así es la vuelta.\n\nLa rehabilitación de conmoción cerebral tiene 3 fases. Esta es la que más se apresura:\n1. Stationary bike at low heart rate\n2. Jogging without heading or contact\n3. Passing and movement drills\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
+    }
+  },
+  {
+    "league": "Serie A",
+    "title": "Rachin Ravindra and Mark Chapman ruled out of India ODI series with injuries",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU05yRDBaRU4wN193V1JTZWtNZ1czQmJnaW9GenlLT3FuWUhzRXJDM2haRGhkS0c1MWFoU2RWYnA5SVY5clVWZDNPM0pySjl5UXFfNm84ODh5S2pQOFBTTDNBTHRaeXBDRi13ZVd4WFdzUFR4N09lYkpqQ0llZkduWXIwTU5nUlZQamR5NGx6a1drVUZCTUljcmZsNGNJYl9IcUFsSmJhWkgwMFE?oc=5",
+    "source": "HeraldLIVE",
+    "published": "2026-11-03T09:38:03+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Explosive suspicion! Is the injury to Bayern Munich’s Jamal Musiala worse than thought?",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZDdhREkwV1BJVHczM3hYdkpnWjdQSElxNU8xWG9BQnFPd2VOa0RmM0J5MVFGRjE5dWhnbVM5R08xQkxMYkJIMHpMeE9FWm91S0E1QmZjLWdqWDVRdjZlYUZSUHkzRXhHVXhXNVN6Si1nazJ1SnloRU9WZDQyUU15alZzNmhDSkhtYmt5QXFWMHIzMnJTRHF0MDF3X3Zsdzd6cTY3WlBXRkxlNENKZGN4YW1ialJEcTNiSGVqYW1TOGtnOWh1N3pEY2d4eFl6SVNwelItTEFaV0lFN3Z0?oc=5",
+    "source": "LiveScore",
+    "published": "2026-11-03T08:11:10+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "New Zealand’s injury woes deepen as opener ruled out of 1st ODI against India",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXF3T21sS2tLcnlxNHF3YXVYUGdsQTQ4cHpIbWNFVFpPQUxHeUZQTEJpV3hJSmhOTlByeHhELTdJOU9xalZFTGQ4SHFyX2tXcTdUbTcwQ2w0TnctYXQ0WmRRdWpQTWlkcmItM3J0ckNvVVJZbm1NeEVpU1pyaklHZG53aGExNF8zbDZQb2hNZnlzZlVJVXUwVHJzQ21JZ0tjWlFkaGJ2OFFKQnBmM0xwSndESmgtajhvRTh6UDk0UmhXRHpYMm9PeE5R0gHPAUFVX3lxTE0tNzI0SlNjVjlUOEsyUlNac1V6cWc3NzRRTkFzd1YzbEowbEtZX3dDdnpvRDIxYmJsNUY1dXdhaXhXcHByYUJ1d21NWGp0cXZIMjI2LVF4Zk8wWU16RVp0RkpaWVhyak5EQ1FjVE8weloteXg1d0V6ekd1QzhMYVZ2RDNYTW9neWIxQnVEQ3UyMVJmenE5NVgzUm4waUxNcU9aa0l2WEhCbjktVjViRlZMbnU5c0doZjlqT0o2S1hIbl96eEdaUEpTb2NieVVvQQ?oc=5",
+    "source": "News9live",
+    "published": "2026-11-03T08:04:54+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Bayern Munich: Explosive suspicion! Musiala’s injury worse than thought?",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXF1TFRuZ28yMG5xX1cyNmtrQlJSbTR3MzJlcVhfaGdQZjJETHNfUXhPSTNCV3VVS0R2S0dQMkwzSzAxV0dRRW1aQ2FfenJXci1VTk8xbVVWNC1WNmRhbVFQWDBBSWlRWGlVb0tlc0dwT0hzRGFGUTBPMURtQVR6aVpwR0paMi1BdFVyeDdDUWNuNXp0RWpvSGV4M2Uxem5UcmdmUXhtNjJzajg4N0NlV2JPOXlTcE5vc1Q0dnlIZ1VWbnAtV1ZaTw?oc=5",
+    "source": "Goal.com",
+    "published": "2026-11-03T08:03:18+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Worrying suspicion! Is Bayern Munich’s Jamal Musiala’s injury worse than thought?",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXFiM0xYZnh6blVONXJLckJocm5scS1KVEprV1I5eWJMOWJOWXBfdXdOcEFReXdlNmllbWREVXBwVjM4ZEd4MTFXWlRMT2FVZFRIOWc1b3JILXFFNTR3c0NIVVB3Sm9nMDdtVDNNdGxsdFlHNGtiM1U4eEdyMFJNOXNBLTF4Z25JRjk2OVVzRUt5WWw5WXBmcDhINHVvYjFCWDBxYmo1emhfLVhtdVZJdTg1TnJSMVVhMllSWXN2enpjaVc2NmU4WHI2SQ?oc=5",
+    "source": "Goal.com",
+    "published": "2026-11-03T08:03:18+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Bundesliga",
+    "title": "Bayern Munich: Alarming suspicion! Is Musiala’s injury worse than thought?",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzduenM2R09ZemN3SzZsS2Izajl3dENVeHJHTkdUbHpFMGwtTlpGYkxfSEluUElpaHEzVHcxaDZTaEpHbk94UXlpY1p5QUxEZ3o4MlpNR0dzNTJZN0tvYkxadFF0VFRoNElUTUpjVWtPS0FPRWZQNGE3X0thNDQwZ0NtMWktNHFHVkh6U2FjN05Wd2tiY3c3WkVSLUNiQVdTdlRLQlJoR1JJV1JxY2x6SkU4bjhnU3dxSzFpVDFWaHlSUmc0alZ3?oc=5",
+    "source": "Goal.com",
+    "published": "2026-11-03T08:03:18+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Serie A",
+    "title": "Devon Conway ruled out of New Zealand-India ODI series opener",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDNjTWVFR3UxbmE5QVNmNUh0SGlyWHRmVWUwV0w1NTV1RHdOelJlZldlM3pXbzlacHFfblFMSTBWRC0taVZfcHdNUjlRUHBLVnFINW9vck9DRW5FampqTmNCb0VuM3lVbDR5TDdRaEN6SEpvRmNxN2tJUFQ1RXZBcEFfQkhBaG1q?oc=5",
+    "source": "A Sports",
+    "published": "2026-11-03T07:27:53+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Lamar Jackson to undergo thumb surgery and will be placed on IR 'The NFL Report'",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWRWb08weHp3UDBpTEVQNk9zR3o1d0FpbElIY2VOVm5MQ1h3eEs5THVOT2dyWEFWU3c5ck91UUI3azBrdUhBVEVZRGhIcG9vbGVEZXIydGNNQjhXTGVpNVFYNDJyTzNzMzBXaWhISHVlWlBQWEpGQnNZWnhGZ29wazlKaTF2Q3VMVUE?oc=5",
+    "source": "Yahoo Sports",
+    "published": "2026-11-03T00:24:27+00:00",
+    "body_part": null,
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Can PSG win a third straight Champions League without injured Kvaratskhelia?",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnJaMzA3SmlsM1dBNktHOUpSUFBxaU4yY0Vlb28ybXNfNDZWWDViM0x5X2FxYzFMU1dGcWlyVVBaN0RET2dqdG9wY1kxeGgwczROWFQ5RkFPeXpwMjI5R2N1ZDM2RDNfRkw1bUg3Vy1fTUcxcGdkVnNIeVVWdUhIV0RvRXZfbzBlenR4b2ZuWGw3T2p3ZVNlWGE4U2RVWGNJVHhJX3B4YTZHVER5ZUg1cWJQZ0hZRGZJR3fSAboBQVVfeXFMT0JyWjMwN0ppbDNXQTZLRzlKUlBQcWlOMmNFZW9vMm1zXzQ2Vlg1YjNMeV9hcWMxTFNXRnFpclVQWjdERE9nanRvcGNZMXhoMHM0TlhUOUZBT3l6cDIyOUdjdWQzNkQzX0ZMNW1IN1ctX01HMXBnZFZzSHlVVnVISFdEb0V2X28wZXp0eG9mblhsN09qd2VTZVhhOFNkVVhjSVR4SV9weGE2R1REeWVINXFiUGdIWURmSUd3?oc=5",
+    "source": "NST Online",
+    "published": "2026-11-02T23:39:49+00:00",
+    "body_part": null,
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": null
+  },
+  {
+    "league": "Ligue 1",
+    "title": "Lamar Jackson Thumb Injury Update, Huntley Turf Toe",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0NqQjdzWl9GR0haM3ljaVBycUp0Y3VmSUhvRkUzd3hXQ25pYmRGSFFacGliQ1hzR2dmZkUxTFJsZFYyOFl3WFdBTWRnNTEyeDA0M0lZeTZ3b3RiX2dQR0dXNnZkY01FVWE2VTRVZHhRMU82bEpXZ3NqV1V4TU5pZnRjclpvQm1f?oc=5",
+    "source": "Yahoo Sports",
+    "published": "2026-11-02T21:12:50+00:00",
+    "body_part": "foot",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "draft": {
+      "hook_en": "Another foot / metatarsal injury in the Ligue 1. Here's what the comeback looks like.",
+      "phase_to_film": "Phase 2 · Foot strength",
+      "drills_to_film": [
+        "Short-foot exercise",
+        "Towel scrunches, marble pick-ups",
+        "Calf raises progressing to single leg"
+      ],
+      "all_phases": [
+        {
+          "name": "Phase 1 · Protect (boot / limited load)",
+          "drills": [
+            "Toe mobility within the boot's limits",
+            "Hip and core work seated",
+            "Upper body to stay fit"
+          ]
+        },
+        {
+          "name": "Phase 2 · Foot strength",
+          "drills": [
+            "Short-foot exercise",
+            "Towel scrunches, marble pick-ups",
+            "Calf raises progressing to single leg"
+          ]
+        },
+        {
+          "name": "Phase 3 · Impact",
+          "drills": [
+            "Walking → jogging on soft ground",
+            "Pogo hops",
+            "Cutting with proper boots"
+          ]
+        }
+      ],
+      "content_angle": "Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.",
+      "red_flags": "Bone healing timelines are set by imaging, not feel.",
+      "caption_en": "Another foot / metatarsal injury in the Ligue 1. Here's what the comeback looks like.\n\nMost foot / metatarsal rehab has 3 stages. This is the stage that gets rushed:\nPhase 2 · Foot strength\n1. Short-foot exercise\n2. Towel scrunches, marble pick-ups\n3. Calf raises progressing to single leg\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
+      "caption_es": "Otra lesión de pie / metatarso en Ligue 1. Así es la vuelta.\n\nLa rehabilitación de pie / metatarso tiene 3 fases. Esta es la que más se apresura:\n1. Short-foot exercise\n2. Towel scrunches, marble pick-ups\n3. Calf raises progressing to single leg\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
+    }
   },
   {
     "league": "La Liga",
@@ -206,467 +684,5 @@
       "caption_en": "Another quadriceps / thigh injury in the Ligue 1. Here's what the comeback looks like.\n\nMost quadriceps / thigh rehab has 3 stages. This is the stage that gets rushed:\nPhase 1 · Protect & activate\n1. Quad sets and straight-leg raises\n2. Gentle kneeling hip-flexor stretch (pain-free)\n3. Stationary bike, no resistance\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
       "caption_es": "Otra lesión de cuádriceps en Ligue 1. Así es la vuelta.\n\nLa rehabilitación de cuádriceps tiene 3 fases. Esta es la que más se apresura:\n1. Quad sets and straight-leg raises\n2. Gentle kneeling hip-flexor stretch (pain-free)\n3. Stationary bike, no resistance\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
     }
-  },
-  {
-    "league": "Premier League",
-    "title": "Bundesliga Injuries & Suspensions",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5V1BOZDRNUGkzR3BwUFZqS1VCVzlPSWJFcllYRjRkVEltQnR4dWRfdDVjcHYtUWxHckU3X3Y1Wks2MHEtSzV5VTdSWkpsdFFGYnlCZDJ3b2hKcjRnYngxOE9fbVJ3c1d3QlVSeGJqQ1pCODZVVFE?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T20:28:52+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Kane braces for Atlético test in Champions League after Bayern hit by injuries",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmLWlJQXlnTTBJcnhzWVpNMVY3YXAwUW1rLVlRS1NXODZBWmtwRG40RGxfZC1nT2pucGt4TkszLTRqQWxGR3E3LVBYLXNPYzhsOUNqLTJ2bjZEZFZ4dmZDUUZFWmNvLXpodld0RGRVQjE0TnVTbFBZRUtqakVlQQ?oc=5",
-    "source": "Yahoo",
-    "published": "2026-11-02T20:14:33+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Ismael Saibari Out For Three Months After Ankle Surgery",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEFsS1hMenlzdGJPeGhIX3kxc0JTMVFRWUhFLWEycWVONG52Z2NQanBicy1WemlibGg4UGk1Rl9OQnVSbzBMaUJQTVZjb0FQR1MxX1kwTFBsSGZSbkcyTDA2WjRJZkxFZGd2eDBNZl9LaWVnQWNxNnNjX0JOQkQ5WGNSa3BMWDZ5aHc?oc=5",
-    "source": "Sportscape Magazine",
-    "published": "2026-11-02T20:02:34+00:00",
-    "body_part": "ankle",
-    "severity": "severe",
-    "duration_weeks": 12.9,
-    "duration_phrase": "three months",
-    "draft": {
-      "hook_en": "Another ankle injury in the Bundesliga. Here's what the comeback looks like.",
-      "phase_to_film": "Phase 1 · Protect & move (days 1–7)",
-      "drills_to_film": [
-        "Ankle alphabet for pain-free range",
-        "Towel scrunches and toe spreads",
-        "Weight-bearing as tolerated, seated calf raises"
-      ],
-      "all_phases": [
-        {
-          "name": "Phase 1 · Protect & move (days 1–7)",
-          "drills": [
-            "Ankle alphabet for pain-free range",
-            "Towel scrunches and toe spreads",
-            "Weight-bearing as tolerated, seated calf raises"
-          ]
-        },
-        {
-          "name": "Phase 2 · Strength & balance (weeks 2–4)",
-          "drills": [
-            "Band eversion/inversion, 3×15",
-            "Single-leg balance, eyes open → closed",
-            "Standing calf raises, double → single leg"
-          ]
-        },
-        {
-          "name": "Phase 3 · Return to cutting (weeks 4+)",
-          "drills": [
-            "Pogo hops → single-leg hops",
-            "Lateral hops with stuck landings",
-            "Reactive change-of-direction drills"
-          ]
-        }
-      ],
-      "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
-      "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
-      "caption_en": "Another ankle injury in the Bundesliga. Here's what the comeback looks like.\n\nMost ankle rehab has 3 stages. This is the stage that gets rushed:\nPhase 1 · Protect & move (days 1–7)\n1. Ankle alphabet for pain-free range\n2. Towel scrunches and toe spreads\n3. Weight-bearing as tolerated, seated calf raises\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
-      "caption_es": "Otra lesión de tobillo en Bundesliga. Así es la vuelta.\n\nLa rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:\n1. Ankle alphabet for pain-free range\n2. Towel scrunches and toe spreads\n3. Weight-bearing as tolerated, seated calf raises\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
-    }
-  },
-  {
-    "league": "Premier League",
-    "title": "William Saliba back in Arsenal training after 'absolutely smashing' injury recovery",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFVRd3FGdXdBVUNxS0hmY1hHYlpHQWJ2Z05zZVF6WFd1eEcyZVlaNDBzWlhSdzVldGxQNW9od1hGRVAtbTJKbkExd0dyTDBqZ3IydG1xWTlEZXhoREhEZ085aTVGWGFVLWNieTJTa2p1RXRuZS0yeWx2V1NibVUwSmxST083YzBCampWWUM2bEgzZV9tSFhfek1YM3BkUjR2aU1HVmcyMGd5ajVzM1dxaldNM2U0Q2NVN0FFVTFSNVJfUW94U1JHbDRQeWVjT1ZBbXZnTGJzNDQ2QQ?oc=5",
-    "source": "Sports Mole",
-    "published": "2026-11-02T20:02:17+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Morocco’s Niger qualifiers hit by injuries to Saibari, Ounahi and Riad",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWhXaFFuSmM5dTVGaE1sQjZiaTlGTVA4SldtYlc2Q00tNFlaMGlfaHU3YVJpOWg2LW9FV2xqb0xTSWhtNW9rV3hlSWpvNVZfeGlET3RNU2Q5djBvUnlJVmc1T3R4WUVOQ2lIN2p3aC1kU1g1WlFpWk5wTjRXemdGaTRxOEpVbFo4RF8tRFl4Z0I5Yk1KOTAyMEFEWQ?oc=5",
-    "source": "GhanaSoccernet",
-    "published": "2026-11-02T19:49:12+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Ligue 1",
-    "title": "Drayk Bowen injury: Notre Dame LB out vs. Miami",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40dk95UExjWEYwdEFISkZfVTBZcmNnalYySlB1N3F0OTQyaXZKT2d5WnZfT3NaeXU4UVFFYnRKc3puZGtkMmNNTmp6eTFSZDVwSkVjOXRlVndaTTA?oc=5",
-    "source": "Total Apex Sports",
-    "published": "2026-11-02T19:49:03+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Premier League",
-    "title": "Arsenal handed HUGE William Saliba injury boost",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUF94Z1JZb29rMmZJVllRZDFfVnJ2ajMxN3RsaG01dWg0LXlpd0VQYTlfZ1BRWnlZYjhCeV9RY3dqNkFldmNHVl9BV2NuSWNIeVJOTzlhdmdQMjM0d3E4ejVyOTFlQ1VyT1VFLXp6TzMyTF9DOW44a1hVdkdfOENJUHkyVGZOQmNTUTdWVXNhbWc?oc=5",
-    "source": "now.arsenal",
-    "published": "2026-11-02T19:45:51+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Premier League",
-    "title": "La Liga Injuries & Suspensions",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLbXNZQ3hhR2R1dWR0OHBQR21mWmxTRmdCa09iVEFRR2x1QW9HanJxVFdzLVJJeXdKSWF1Y0Y2eWtidm9SaDFoZmRlM2dEN3RSY2pXdk1KRmtsT2EteURqaVJTaFBRekVsYUo5QXcyWQ?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T19:30:15+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Premier League",
-    "title": "Michael Carrick confirms Man United injury news ahead of AS Roma clash",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPay1vZXZVM2FubVRBdHgwMkt2WEhGYW1Dd1V6SnJjMWJiN256TmpxTHNIS2ZzRFdwTGFGMjZXLTNMQlVVRGdLSnZyTktWdDdBN19OeUw2Tko4VFNDMlBBVHY1VFZPWkwxQXk5d3dXc1JpRTM3R2JEMVJ1TVJkWkVHM0piN3J5bjJqSWVWXzFFcExydkZWRWFkNTVDNFppd0JKVVlzQmJR?oc=5",
-    "source": "EPL Index",
-    "published": "2026-11-02T19:20:56+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Ravindra ruled out of Black Caps' ODI series vs India",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDR0THRoTEp4MTIzUU4zLXJBTFBZQk5zRWlsTmhDcjFNUlF4cEg2WWJKTU1zU0lOSVRSWnJ4ck9INU91SGxoTUFZRjZqQm5VeEhUcUk4aEcwbVZuVEVEX2hiNlB3eU5xT3VfcEVZd2RMb2NodmxBelhaMElrT0lRN0NOMzFkdW51YlFaOFE1bVdkQQ?oc=5",
-    "source": "1News",
-    "published": "2026-11-02T18:22:47+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Ismael Saibari Faces Up to Four Months on Sidelines After Ankle Surgery",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVms1TVlLNUR2TEM5MXJYVGRpSDlRV0V4dmJQOHpWTVRfNzVSd0s1NTQ3U2VYQU5yZnhDODZmTHVPNHBwempmcFBVTUZzS1Z2SS1zN2NNcWR1MkhGckVrNjFkWGI1UHNJTkZ3M2FQaUdWTU1ZRjY2dG5XMWE1TVU1dU9oR1RQZ0wzVVc3aWtHMmktY1N5N0lFZXVyVjA5UFJmWkp2b3lyNTZxbFAwN1N0U0ZId1M5TlZrTWYyYw?oc=5",
-    "source": "Morocco World News",
-    "published": "2026-11-02T18:14:44+00:00",
-    "body_part": "ankle",
-    "severity": "severe",
-    "duration_weeks": 17.2,
-    "duration_phrase": "four months",
-    "draft": {
-      "hook_en": "Another ankle injury in the Bundesliga. Here's what the comeback looks like.",
-      "phase_to_film": "Phase 1 · Protect & move (days 1–7)",
-      "drills_to_film": [
-        "Ankle alphabet for pain-free range",
-        "Towel scrunches and toe spreads",
-        "Weight-bearing as tolerated, seated calf raises"
-      ],
-      "all_phases": [
-        {
-          "name": "Phase 1 · Protect & move (days 1–7)",
-          "drills": [
-            "Ankle alphabet for pain-free range",
-            "Towel scrunches and toe spreads",
-            "Weight-bearing as tolerated, seated calf raises"
-          ]
-        },
-        {
-          "name": "Phase 2 · Strength & balance (weeks 2–4)",
-          "drills": [
-            "Band eversion/inversion, 3×15",
-            "Single-leg balance, eyes open → closed",
-            "Standing calf raises, double → single leg"
-          ]
-        },
-        {
-          "name": "Phase 3 · Return to cutting (weeks 4+)",
-          "drills": [
-            "Pogo hops → single-leg hops",
-            "Lateral hops with stuck landings",
-            "Reactive change-of-direction drills"
-          ]
-        }
-      ],
-      "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
-      "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
-      "caption_en": "Another ankle injury in the Bundesliga. Here's what the comeback looks like.\n\nMost ankle rehab has 3 stages. This is the stage that gets rushed:\nPhase 1 · Protect & move (days 1–7)\n1. Ankle alphabet for pain-free range\n2. Towel scrunches and toe spreads\n3. Weight-bearing as tolerated, seated calf raises\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
-      "caption_es": "Otra lesión de tobillo en Bundesliga. Así es la vuelta.\n\nLa rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:\n1. Ankle alphabet for pain-free range\n2. Towel scrunches and toe spreads\n3. Weight-bearing as tolerated, seated calf raises\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
-    }
-  },
-  {
-    "league": "Ligue 1",
-    "title": "Ryan Pulock Injury: Islanders D-Man Out 2-4",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ySW9SZURqbmNfZ29WS0kzYm5UTzE3WjFFUG5YU1JLTzA1QW4yRWx5bFQ5aTdCLWR6X04xVGFBNnZYNGJsanJtbnJMNzZaR2hsYnlBZFBtd2kzdG8?oc=5",
-    "source": "Total Apex Sports",
-    "published": "2026-11-02T16:43:58+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Ligue 1",
-    "title": "NFL Monday Medical Report Recap: Ravens Lose Lamar Jackson, Campbell Suffers Scary Neck Injury",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVJySkNTN3FnaHpOVzZoSjhaNkNuR2lGRUh5T2JJV2ptUVpzT1ZBcDg0RkoyY2xaNFJRNEFkMW54ZXVGZ0hWSFNOWDQ2TG05YTZsZzAyY211LVQxTGVRMWJXMEtPZHFfekhvMGpTV19FcjhsT3d6RnZPY2lybDVTNmtuSDVlUExpWUdBX0syXzk3VEZlRWd3VENFdFRGanB0dnUyYWRoWHhRX2VwSS1YODk0QV9pNkkyeUZjUU90S1hkZ0Nz?oc=5",
-    "source": "Lineups",
-    "published": "2026-11-02T16:40:08+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Parma, new injury for Bernabé: how long will he be out?",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGN0LVpWbDhZOEJXWVZYWXB6MjRqTGJSZzMzdkMwQlZ6M3I1eS0zWjBaQ20tX0tzZ0w1STZaMGx4Nk0tWjktRkZvZWFKNTF1OFJEUnFRTFMxUzczOWFrakJnamRRNHNFTk52TVM5UXBhb3JGa1NmLXlBY19ydG54a09MV2lZc1R1UG5YNXFrQlIxYmcxck90d1pOYTRaQzNJeWoyNGJPNjcxYnVL?oc=5",
-    "source": "LiveScore",
-    "published": "2026-11-02T16:38:44+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Napoli face an injury crisis! Di Lorenzo and Olivera sidelined too as Allegri considers youth players",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT0taVGVmM2NGN1h5T2lfZlpGV3pzcDM3dnE2XzNvYmxxbXhhbXJyTkl2OFhpS2F5QV9qX3ZXcWxSWk9rSDN0ZjFGYnNEN2VoMW9kR0t3RDl0UjdHbm1sWnBWckdrZXQwVWNIVDhZbU9ISGhoejg5RmpjTUZEWGRSSjEyclNhZ1RmWl9aUXVITUVFMmZBNEs2Y3pob0toaTEwY3ZqS0NBS3dnVGw4aVBkVGVocXk4RC1zUHNLMmFaSXJrQklFNHpqS1ctNVl1TjZZdXVzc1dR0gHbAUFVX3lxTE5VMzJaczVXVnZGa213a0E2b213a1NrZHROdkFvY0ZZMTEydmRPcGVFd3Nta3NkTDNxYVBqRTBuaUVSeUU3emlRVGlJd2tQMXA0N20weTRKdjZsRXRVaEVtbHBtMmZFOHpzSWVzdEM1Q0hZQllVYU5sa05HN3F1cUVON09ldW44UU9ZWWtaRUNLNHhYMU5qUExGLXZsNTFvVHg4VzlQQm5CTGx0MENTQTVYem1RYUY5MFlSSUlKeUdscE9NQWxNcDRtYkNpT0h1elREdU8yLTFVdE1TOA?oc=5",
-    "source": "La Gazzetta dello Sport",
-    "published": "2026-11-02T16:31:28+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Ligue 1",
-    "title": "Can PSG win a third straight Champions League without injured Kvaratskhelia?",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGtTbk9WNzc1eTdTVE56QjM0V2xRcS10M1ZZSVJHemgxS2RiQ180T2NFMEtfb0xSc2JyZjljZ3NvUDV4ZGExVXh3VjM4WF9yaDVhbmh6WHhsNTZldU40NkF4X1M5VDhBWGJPbTh4Wi1VQ1lmek9aSlBDaUZ2aUI0QmRBUGNuUy1XTlVPa0JTS0RyNTQ4U0tJQUFCTUtNZUx1NGc?oc=5",
-    "source": "eNCA",
-    "published": "2026-11-02T16:10:45+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Ismael Saibari Injury Update: Moroccan Midfielder Faces Three to Four Months Out",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXBUakYtdzI5WTRJMm1qcFpCaGFfM2VtUHlKVW1sNmF0REstOVRQZU1kaUlIZGJqeDBsXzhFN1hRSjRZVEFvR2FtR1Q0aHIwVFpDdHFKQkxuUE9Ibld3QTAxcndxbF82dGZwcmR4RWc5MUNZQWM1Rklhc3ZCd2JaNUdXYWR5ZDlfWFd6cTYzczJXcUgxTDhoZlNuX2FVY0N0UExXVm1Pbm43TWdKdHc?oc=5",
-    "source": "Dailysports",
-    "published": "2026-11-02T16:00:34+00:00",
-    "body_part": null,
-    "severity": "severe",
-    "duration_weeks": 17.2,
-    "duration_phrase": "four months",
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Raimondo, test results: multi-ligament injury involving bruising and a sprain of the left ankle",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcURGRExlZENrQ3pQOS1tQS1TREhtSXBCVjBkS21WYkR0djhUVmlQRDdGb2lzVEpkNnBqd0tKcGpEeXYtTWNzeDJBQXNZV1o0TWxHOWNEcHNfekhIYnk5UGNLZk5EeGRmUlN4WXB5cXdFUGYwY3N4azJycnc1ZUN3b2hfSmJuamMzaEx4NUpsRjM3bEhpMG1adll6Y1V3TUswUWZyWUZBaTJHcXAya0tVVFdSTzh0ZTc4NXhMdUhuRzVtYkVQaGQySXVYdGdCd1hO?oc=5",
-    "source": "Goal.com",
-    "published": "2026-11-02T15:57:38+00:00",
-    "body_part": "ankle",
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": {
-      "hook_en": "Another ankle injury in the Serie A. Here's what the comeback looks like.",
-      "phase_to_film": "Phase 2 · Strength & balance (weeks 2–4)",
-      "drills_to_film": [
-        "Band eversion/inversion, 3×15",
-        "Single-leg balance, eyes open → closed",
-        "Standing calf raises, double → single leg"
-      ],
-      "all_phases": [
-        {
-          "name": "Phase 1 · Protect & move (days 1–7)",
-          "drills": [
-            "Ankle alphabet for pain-free range",
-            "Towel scrunches and toe spreads",
-            "Weight-bearing as tolerated, seated calf raises"
-          ]
-        },
-        {
-          "name": "Phase 2 · Strength & balance (weeks 2–4)",
-          "drills": [
-            "Band eversion/inversion, 3×15",
-            "Single-leg balance, eyes open → closed",
-            "Standing calf raises, double → single leg"
-          ]
-        },
-        {
-          "name": "Phase 3 · Return to cutting (weeks 4+)",
-          "drills": [
-            "Pogo hops → single-leg hops",
-            "Lateral hops with stuck landings",
-            "Reactive change-of-direction drills"
-          ]
-        }
-      ],
-      "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
-      "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
-      "caption_en": "Another ankle injury in the Serie A. Here's what the comeback looks like.\n\nMost ankle rehab has 3 stages. This is the stage that gets rushed:\nPhase 2 · Strength & balance (weeks 2–4)\n1. Band eversion/inversion, 3×15\n2. Single-leg balance, eyes open → closed\n3. Standing calf raises, double → single leg\n\n⚠️ General training education, not medical advice. If you're injured, see a physio first.\n\n💬 Comment SPEED for my 6-week speed program (for healthy players).",
-      "caption_es": "Otra lesión de tobillo en Serie A. Así es la vuelta.\n\nLa rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:\n1. Band eversion/inversion, 3×15\n2. Single-leg balance, eyes open → closed\n3. Standing calf raises, double → single leg\n\n⚠️ Educación general, no consejo médico. Si estás lesionado, consulta a un fisio primero.\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos)."
-    }
-  },
-  {
-    "league": "Serie A",
-    "title": "Chelsea Scout Monza Striker Amid Joao Pedro Injury: Reports",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFBKZkEwUDVmMUhjR0dsQWxTTnZINXhacUpSdnRRNEpuaVJWR1oyY21EQlZEbDNBNHNsenNjckpzQU5rdi03NEstbDZEUHFEX01QS091ejJaNm16eDBNekkwVVNqMUtOSjZ4REItYUZMRUFtcDA1aTNMaVBOY2hGZjFucnZlc1NsQThjaXRzYU9LU29DYzlmLUtqZw?oc=5",
-    "source": "Chelsea FC Online",
-    "published": "2026-11-02T15:08:52+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Bayern boss gives fresh injury update on Olise and Neuer ahead of Atletico Madrid trip",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnJjbGRVdFhWSGRsbkZDTWVRSVhvZmpodmtvWmQ1aWgzT1VNSHJXeHB6dVh0QjFGUU9aY2tJSXA0NW0wRzlZTjZkMkNETnR6MUszMGNFaTU5WHVJTmRfQmxPY1dMUEpqQl91dXBscjNQU3A0N2JIS2RhUDFHU0t5ZVpFa2NmNGNnam5jSldIbGdQOXl0X1oya1FVblJybmJ3SXZB?oc=5",
-    "source": "Bulinews",
-    "published": "2026-11-02T14:55:00+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Ligue 1",
-    "title": "Lamar's thumb injury derails Ravens season",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkNSS0U3SW5WMmhNVGlfZldldTI1YVUwNmczSTdCYmpRZVVoRElNMmZmNkw4NUdTakYwM19DSmx6OVl4OHlqTWwzVUVMeVN0N2F0MjN6NWNmdlZaYUtITERGbnRoaENLdDd3NXV1bGltMDU5QVBWSEJ6Q014MDJubnBaZGdnX2FR?oc=5",
-    "source": "Yahoo Sports",
-    "published": "2026-11-02T14:49:58+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Ligue 1",
-    "title": "Isaac Howard Injury: Oilers Forward Day to Day",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzTHNEd3cxSDFnNWZKXzdjRTF3VXpac21VXy1GRGQzN0dEWHRGclNHWFQ4RkF4RFU1dm9FQmEzU1NzenRRTGJxUE5MNzZrMXQ2dFVxQnEyUGI3RjVI?oc=5",
-    "source": "Total Apex Sports",
-    "published": "2026-11-02T14:39:28+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Bayern dealt major injury blow as Ismael Saibari faces three-month absence",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUlhd2p4bnF4eVZjRjJ2ZnFtS2M4bV9IUWRDdGFnVFp1QkJMdEhJY1dPMVFBblJVQkpoWEFkdHAxZDE5NGRLNDNUUkZvbnROQU1kUzhsRk1wZEZFZTNRWHQ3VmtsVXprbE5oM2g5bFItZjRoZnc3RUVwaWF4RUtuN3lfY2RsUDk2NWZPS0QtYTRhOWpadV9IWWlrQm15NTVZQ2djaXU1dnFqVGlkN1hPajViTk5Rdm1nN2hDQjdOUENNZFhNR0psNw?oc=5",
-    "source": "Business Upturn",
-    "published": "2026-11-02T13:12:40+00:00",
-    "body_part": null,
-    "severity": "severe",
-    "duration_weeks": 12.9,
-    "duration_phrase": "three-month",
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "Kounde, Garcia & Olmo - Barcelona injury news for Aston Villa Champions League 2026-27 clash",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0RDZ2V4TzVXZmFXd1cxTkpYT2VrMkVGb2txWFNRWHYwdVpGTnV2QkZQSGxCM0pVVDFnM0xvVWNwWFFSUzNhajFOX1VSNl9NcV9VMF9aVWN4TS0zWE1FYXVIaVlTZ2pHV1hEQnhVbW1oWDQwZXNkTEZjTy1GMy1pWmV3VEN3UzVLWl9vRnZxNFdtU3BnMFE?oc=5",
-    "source": "Khel Now",
-    "published": "2026-11-02T12:14:00+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Serie A",
-    "title": "Brazil Série A Injuries & Suspensions",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15SU4zUVdKcE0tYU81TXJEYm1YdXJBaWl5UmQ1VEhkeVluWkxtZlpkR1NWSnJKdkg3SURtSEtuX3RLeER3UjhWN1NhZTBoTkUzMFNVZURCWmoyelZrTHVVbU05UGNoclVJSjhnUnJ1QVI?oc=5",
-    "source": "Sportsgambler",
-    "published": "2026-11-02T12:02:49+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "Sarr injury setback clouds Senegal’s November Africa Cup of Nations qualifiers",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXZub0dLQU12X3NybWphcW45SXdVeGlGMjQ1QVJfbUk4QU9MQThEaW9wcjhzRmRhQThfbzU0RnRIVS1WejNHNm5zb2M3X2NLdDl1UDUzakp1UmxNRm5TNDhIbW1HQmljd1NVRU92LVViTkJwRG9UOHdtSDd2VUdIZ1gwLUQ2MEk3QjljSnJrUmhYb09RaHRsMEFiR2dEVGg5TTg1TVdxVQ?oc=5",
-    "source": "GhanaSoccernet",
-    "published": "2026-11-02T11:13:52+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "Maroan Sannadi injured at his peak",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzZuYzJuNkFueWt1QnN0MUkxcDBQOFRURkw4WlJBRTQ1VnNwcU5VLTgzaHk1WVcwaXV6eXhvYWRZelBSTTdGaDIwQmxMdU4zMWZ1WWdJRHFCWjhBREdvTnBKRWt3QWlpVHdvWVNxXzJxc18zdzkwUzVHdnd5R2RqYnQ4eW8?oc=5",
-    "source": "Comuniate",
-    "published": "2026-11-02T09:00:07+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "La Liga",
-    "title": "Kevin De Bruyne and Giovanni Di Lorenzo suffer injuries against Juventus",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3BCMlEzOVpwQVo0Wl9kQkhNUUJfOWNuLXd2SWwtMFZ0aUpjc25nVjg3d3RxMnhjR19MVW5WRjJOc29HbjJxb0dkZ2xTWHotNXdhNmpjdWQtZk91b0JMUkZmV0VXaG9yWi16ZEZVX1ZJX2twODFZQWVjNC1YTEQwM2d0REVsOHJaY1phWThLMzVwU2hxcWhmZnNOVGstWHc4WE41a2ZwTGNNYlg2WlZWcEQ2dldWQjTSAbcBQVVfeXFMT0dwQjJRMzlacEFaNFpfZEJITVFCXzljbi13dklsLTBWdGlKY3NuZ1Y4N3d0cTJ4Y0dfTFVuVkYyTnNvR24ycW9HZGdsU1h6LTV3YTZqY3VkLWZPdW9CTFJGZldFV2hvclotemRGVV9WSV9rcDgxWUFlYzQtWExEMDNndERFbDhyWmNaYVk4SzM1cFNocXFoZmZzTlRrLVh3OFhONWtmcExjTWJYNlpWVnBENnZXVkI0?oc=5",
-    "source": "Tribuna.com",
-    "published": "2026-11-02T06:10:00+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
-  },
-  {
-    "league": "Bundesliga",
-    "title": "Bayern Munich won’t take risks with Michael Olise, Frenchman could miss Atlético Madrid match",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcjVUS0dfSW43ckVDSGRvNS1pMFh1ekpUTjFGak5NWmlPOEFGMVJTTE05cHlVY2Q0NENxM0RHVlRRZWNnbExhbEdpaXBmdDZ6cDFGenA5Ykl1NzZTQ2NtbTc4MzlqM1lHWU9GZU5jZHMwbW5NbXR0a1FBOWhvZUlfY0c0X3JYb2NxN0JCQlJmRjg2bklhbHI0ZGZDVHhjUXVWLUwxMGV1bHUxOHIzMHQ0R2RTVTcxTUZUcGVya184RjU1UEYzWVFlOTlkc2FQdWdJWjNhYnN3Q3pLdFpXTmdvUzdQLUVlUWlJaWRKVVJRS2FXYlgxOFU5TzVjaw?oc=5",
-    "source": "Bavarian Football Works",
-    "published": "2026-11-02T05:15:00+00:00",
-    "body_part": null,
-    "severity": "unknown",
-    "duration_weeks": null,
-    "duration_phrase": null,
-    "draft": null
   }
 ]
