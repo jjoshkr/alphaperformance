@@ -598,6 +598,17 @@ def main():
 
     # Alerts: new entities only, most severe first, capped per run
     alerts = [i for i in final if i["key"] in new_keys]
+    # First run with a chat id configured: say hello and send the 3 most relevant current items as a sample
+    if os.environ.get("TELEGRAM_CHAT_ID") and not state.get("alerts_started") and not args.no_notify:
+        try:
+            send_telegram("✅ <b>AlphaBot 부상 알림 시작</b>\n30분마다 5대 리그 부상 뉴스를 확인하고, 새 소식만 보냅니다. "
+                          "아래는 지금 수집된 소식 중 샘플 3건입니다.")
+            state["alerts_started"] = datetime.now(timezone.utc).isoformat()
+            sample = [i for i in final if i["rehab"] and i["key"] not in new_keys]
+            sample.sort(key=lambda i: {"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]])
+            alerts = sample[:3] + alerts
+        except Exception as e:
+            errors.append(f"Telegram hello: {e}")
     alerts.sort(key=lambda i: {"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]])
     sent = 0
     if not args.no_notify:
