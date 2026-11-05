@@ -419,7 +419,8 @@ def rehab_block(i, lib, videos):
                   + "\n".join(f"{n}. {d['name']}" for n, d in enumerate(drills, 1))
                   + "\n\n⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero."
                   + "\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).")
-    return {"part_ko": entry["ko"], "part_en": entry["en"], "phase": phase["name"], "drills": drills,
+    return {"part_ko": entry["ko"], "part_en": entry["en"], "phase": phase["name"], "phase_goal": phase.get("goal", ""),
+            "anatomy": entry.get("anatomy", {}), "drills": drills,
             "all_phases": entry["phases"], "content_angle": entry["content_angle"],
             "red_flags": entry["red_flags"], "caption_en": caption_en, "caption_es": caption_es}
 
@@ -442,13 +443,44 @@ def telegram_message(i):
     if i.get("summary_en"):
         lines.append(f"<i>{tg_escape(i['summary_en'])}</i>")
     if r:
+        a = r.get("anatomy") or {}
+        if a:
+            lines += ["", f"🧠 <b>어디·무슨 근육</b>", f"위치: {tg_escape(a.get('location', ''))}",
+                      f"근육: {tg_escape(a.get('muscles', ''))}", f"집중: {tg_escape(a.get('focus', ''))}"]
         lines += ["", f"🏃 재활 단계: <b>{tg_escape(r['phase'])}</b>"]
+        if r.get("phase_goal"):
+            lines.append(f"목표: {tg_escape(r['phase_goal'])}")
         for n, d in enumerate(r["drills"], 1):
             v = f" — <a href=\"{tg_escape(d['video'])}\">영상</a>" if d["video"] else " — 영상 촬영 필요"
             lines.append(f"{n}. {tg_escape(d['name'])}{v}")
         lines += ["", f"🎯 각도: {tg_escape(r['content_angle'])}", f"⚠️ {tg_escape(r['red_flags'])}"]
     lines.append("\n<i>자동 초안 · 게시 전 원우 님 검토 · 의료 조언 아님</i>")
     return "\n".join(lines)
+
+
+def discover_telegram_chats():
+    """No TELEGRAM_CHAT_ID yet: find everyone who messaged the bot and tell them their chat id."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    if not token or os.environ.get("TELEGRAM_CHAT_ID"):
+        return []
+    data = json.loads(fetch(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20))
+    chats = {}
+    for u in data.get("result", []):
+        msg = u.get("message") or u.get("channel_post") or u.get("my_chat_member", {}) or {}
+        chat = msg.get("chat") or {}
+        if chat.get("id"):
+            chats[chat["id"]] = chat.get("title") or chat.get("username") or chat.get("first_name") or ""
+    for cid, name in chats.items():
+        text = (f"✅ AlphaBot 연결 확인\n\n이 대화방의 ID: <code>{cid}</code>\n\n"
+                "GitHub 저장소 → Settings → Secrets and variables → Actions 에\n"
+                "이름 <b>TELEGRAM_CHAT_ID</b>, 값 위 숫자로 등록하면 부상 알림이 여기로 옵니다.")
+        body = urllib.parse.urlencode({"chat_id": cid, "text": text, "parse_mode": "HTML"}).encode()
+        try:
+            urllib.request.urlopen(urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body, headers=UA), timeout=20)
+        except Exception as e:
+            print(f"Telegram setup message to {cid} failed: {e}", file=sys.stderr)
+    print(f"Telegram chat ids found: {list(chats) or 'none (send the bot a message first)'}")
+    return list(chats)
 
 
 def send_telegram(text):
@@ -486,12 +518,16 @@ def build_report(items, new_keys, errors, today):
         who = " · ".join(x for x in [i.get("player"), i.get("club")] if x) or i["title"]
         L += [f"### {n}. {who} — {r['part_ko']} ({SEVERITY_KO[i['severity']]})",
               f"- [{i['title']}]({i['link']}) · {i['league']} · {i['source']}",
-              f"- 콘텐츠 각도: {r['content_angle']}", f"- 주의: {r['red_flags']}", "",
-              f"**촬영할 단계:** {r['phase']}"]
+              f"- 콘텐츠 각도: {r['content_angle']}", f"- 주의: {r['red_flags']}", ""]
+        a = r.get("anatomy") or {}
+        if a:
+            L += ["**어디·무슨 근육**", f"- 위치: {a.get('location', '')}", f"- 근육: {a.get('muscles', '')}",
+                  f"- 집중: {a.get('focus', '')}", ""]
+        L += [f"**촬영할 단계:** {r['phase']}" + (f" — {r['phase_goal']}" if r.get("phase_goal") else "")]
         L += [f"{k}. {d['name']}" + (f" — [영상]({d['video']})" if d["video"] else " — 영상 촬영 필요")
               for k, d in enumerate(r["drills"], 1)]
         L += ["", "<details><summary>전체 3단계</summary>", ""]
-        L += [f"- **{p['name']}**: " + " · ".join(p["drills"]) for p in r["all_phases"]]
+        L += [f"- **{p['name']}** — {p.get('goal', '')}: " + " · ".join(p["drills"]) for p in r["all_phases"]]
         L += ["", "</details>", "", "**캡션 (EN)**", "```", r["caption_en"], "```", "**캡션 (ES)**", "```", r["caption_es"], "```", ""]
     if errors:
         L += ["## 수집 오류", ""] + [f"- {e}" for e in errors] + [""]
@@ -549,6 +585,10 @@ def main():
     alerts.sort(key=lambda i: {"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]])
     sent = 0
     if not args.no_notify:
+        try:
+            discover_telegram_chats()
+        except Exception as e:
+            errors.append(f"Telegram setup: {e}")
         for i in alerts[: src["max_new_alerts_per_run"]]:
             try:
                 if send_telegram(telegram_message(i)):

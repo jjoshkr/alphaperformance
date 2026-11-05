@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-05 — Claude Code (부상 자동화 보강)
+- 한 일: 부위별 해부 정보(위치·근육·집중 근육)와 단계별 목표를 한국어로 `rehab_library.json`에 추가, 알림·보고서에 표시. 텔레그램 채팅 ID를 봇이 직접 알려 주는 기능(토큰만 등록 후 봇에게 메시지 → Actions 실행). 비축구 종목 제외어 보강
+- 사용자 상태: 텔레그램 봇 생성 완료 (AlphaBot / @AlphaperformanceBot). 시크릿 등록 전
+- 다음 할 일: TELEGRAM_BOT_TOKEN 등록 → 봇에게 메시지 → Actions 실행 → 답장 받은 ID를 TELEGRAM_CHAT_ID로 등록
+
 ## 2026-11-04 — Claude Code (부상 자동화 v2)
 - 확인: Actions가 10/31부터 매일 실제로 실행됨. 문제: 크리켓·NFL 혼입, 부위 대부분 미분류, 같은 소식 중복
 - 한 일: 파이프라인 재구성 — 클럽 사전(110개)으로 축구만 필터, BBC/Sky/ESPN/Guardian RSS 추가, Claude 구조화 추출(키 있을 때), 선수+부위 기준 60일 기억(state.json), 새 소식만 텔레그램 알림(재활 단계·운동·영상 링크 포함), 30분 주기. API-Football 선택 연동. 구조·설정은 `docs/playbooks/injury-pipeline.md`
