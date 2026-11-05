@@ -749,6 +749,118 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:mikelartetaisusingnasatohelpfixarsenalsinjurywoeswithgoogleandapplehel": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:dortmundbossesgiveinjuryupdateonguirassyaftersubstitutionagainstbetis": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalconsultednasagoogleandappleinbidtocutinjuries": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:wonderkid17dubbednextkvaratskheliawhosjoiningarsenalfor4mfacingmonthso": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:liverpooldealtmajorinjuryblowasiraolaadmitsstarplayercouldmissnextfour": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "four weeks",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:mikelartetaissuesupdateonezrikonsaafterreportedkneeinjuryinarsenalwinv": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:romerosuffersnewmuscleinjurywillmissatlticomatchvsbarcelona": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:rodriruledoutbarcelonafaceatlticowithoutstar": {
+   "first_seen": "2026-11-05T09:06:39.741774+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  }
 }
