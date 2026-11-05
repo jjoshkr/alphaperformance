@@ -861,6 +861,104 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:mikelartetaprovidesezrikonsainjuryupdateasarsenaldefenderlimpsoffdurin": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:rioferdinandnamesmanchesterunitedstarwhomuststepupafterbalebainjury": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:fitagainwilliamsalibavsinformezrikonsawhostartsforarsenalasfranceinter": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "back",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:koundstillinjuredatbarcelonaandlikelytomissfranceduty": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:rodrioutofatlticotripwithhamstringinjuryassimeonechaseslaligawinsrecor": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonaconfirmsrodrihamstringinjury": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonamidfielderrodrihasminorhamstringinjurywillmisssundaystriptoat": {
+   "first_seen": "2026-11-05T11:40:41.596152+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  }
 }
