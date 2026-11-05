@@ -959,6 +959,168 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:renschinjurydetailsconfirmedafterearlysubstitutioninmanchesterunitedde": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:zaccagniinjuryruleshimoutforlazioforuptoyallashoot": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:manutdinjurynewsvsastonvillabalebadoubtmartinezbanned": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:freshleedsspursinjurynewscalvertlewinsetbackleaves4out6doubts": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:nikokovaissuesserhouguirassyupdateafterstrikersinjuryinborussiadortmun": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "nottinghamforest:unknown": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "title": "Man City vs Nottingham Forest injury news confirms 3 out and 1 doubt"
+  },
+  "title:mancityvsnottinghamforestinjurynewsconfirms3outand1doubt": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": "Nottingham Forest",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:allegricallslazioafinalasnapoliinjuriesmount": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:laziotoswitchtijjaninoslinwideafterzaccagniinjurypinamontiincontention": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:salibakonsajoopedrolatestfplinjurynewsforgameweek10aheadofarsenalvhull": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:nunotavaresleaveslaziosweatingaftermissingtraining": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "ansufati:unknown": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "title": "Ansu Fati sidelined until 2027 with fresh injury at AS Monaco – reports"
+  },
+  "title:ansufatisidelineduntil2027withfreshinjuryatasmonacoreports": {
+   "first_seen": "2026-11-05T17:34:40.663751+00:00",
+   "facts": {
+    "player": "Ansu Fati",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  }
 }
