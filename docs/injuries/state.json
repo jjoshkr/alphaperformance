@@ -647,6 +647,108 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:dortmundforwardguirassyleavesinjuredagainstrealbetisinchampionsleague": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "ezrikonsa:unknown": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "title": "Ezri Konsa injury update after Arsenal beat Slavia Prague in Champions League"
+  },
+  "title:ezrikonsainjuryupdateafterarsenalbeatslaviapragueinchampionsleague": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalsurvivelateslaviascareforhardfoughtwin": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:sloppyarsenalsurvivesecondhalfscaretobeatslaviaprague": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:sevillavsalavespreviewpredictioninjurynewslineupslaliga202627": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonaconfirmrodrisabsenceafterhamstringinjury": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:sunderlandcountfiveinjuriesasrgislebrisassessesoptionsbeforedinamozagr": {
+   "first_seen": "2026-11-05T01:43:48.210545+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  }
 }
