@@ -182,6 +182,8 @@ def parse_rss(xml_bytes, feed_name):
             source = source or src_in_title.strip()
         try:
             when = parsedate_to_datetime(pub) if pub else None
+            if when is not None and when.tzinfo is None:  # some feeds omit the timezone
+                when = when.replace(tzinfo=timezone.utc)
         except Exception:
             when = None
         items.append({"title": title.strip(), "link": link, "snippet": desc[:300],
