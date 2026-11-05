@@ -468,10 +468,21 @@ def discover_telegram_chats():
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     if not token or os.environ.get("TELEGRAM_CHAT_ID"):
         return []
-    data = json.loads(fetch(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20))
+    token = token.strip()
+    me = json.loads(fetch(f"https://api.telegram.org/bot{token}/getMe", timeout=20)).get("result", {})
+    print(f"Telegram bot: @{me.get('username')} ({me.get('first_name')})")
+    info = json.loads(fetch(f"https://api.telegram.org/bot{token}/getWebhookInfo", timeout=20)).get("result", {})
+    if info.get("url"):
+        print(f"Telegram webhook is set ({info['url']}); getUpdates would be blocked, deleting it")
+        fetch(f"https://api.telegram.org/bot{token}/deleteWebhook", timeout=20)
+    data = json.loads(fetch(f"https://api.telegram.org/bot{token}/getUpdates?limit=100", timeout=20))
+    updates = data.get("result", [])
+    print(f"Telegram getUpdates: ok={data.get('ok')} updates={len(updates)} "
+          f"types={sorted({k for u in updates for k in u if k != 'update_id'})}")
     chats = {}
-    for u in data.get("result", []):
-        msg = u.get("message") or u.get("channel_post") or u.get("my_chat_member", {}) or {}
+    for u in updates:
+        msg = (u.get("message") or u.get("edited_message") or u.get("channel_post")
+               or u.get("my_chat_member") or u.get("chat_member") or {})
         chat = msg.get("chat") or {}
         if chat.get("id"):
             chats[chat["id"]] = chat.get("title") or chat.get("username") or chat.get("first_name") or ""
