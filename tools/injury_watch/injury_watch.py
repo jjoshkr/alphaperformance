@@ -66,7 +66,10 @@ NUMBER_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, 
 DURATION_RE = re.compile(
     r"(\d+|one|two|three|four|five|six|seven|eight|nine|ten|twelve|several|a few|couple of|a)\s*(?:to|-|–)?\s*(\d+)?\s*(day|week|month)s?", re.I)
 INJURY_SIGNALS = r"injur|out for|ruled out|sidelined|\bmiss|\bblow\b|setback|surgery|fracture|\btear\b|\btorn\b|strain|\bknock\b|limp|stretcher|withdraw|doubt|scare|crisis"
-NOT_INJURY = r"\breturn|back in training|fit again|recovered|comeback|available again|injury-free|transfer|\bsigns?\b|\bloan\b|sack|appoint|boost|handed .* boost|all-clear|green light|injuries & suspensions|injuries and suspensions"
+NOT_INJURY = (r"\breturn|back in training|fit again|recovered|comeback|available again|injury-free|transfer|\bsigns?\b|\bloan\b"
+              r"|sack|appoint|boost|all-clear|green light|injuries & suspensions|injuries and suspensions"
+              r"|preview|prediction|lineups?|line-ups?|team news|emerged stronger|injury woes|injury record|injury crisis"
+              r"|\bnasa\b|wonderkid|joining|survive|hard-fought")
 PLAYER_RE = re.compile(
     r"\b([A-Z][a-zA-Z'’\-]+(?: (?:de|van|der|di|da|van der|von)?\s?[A-Z][a-zA-Z'’\-]+){0,2})\s+"
     r"(?:injury|suffers|ruled out|out for|sidelined|to miss|faces|limps|set to miss|could miss|will miss|injured|stretchered|withdraws|undergoes|out with|a doubt)",
