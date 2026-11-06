@@ -1,269 +1,605 @@
 {
   "_note": "부위별 해부·재활 정보. 콘텐츠 초안용 일반 지식이며 게시 전 원우 님(재활 전공)이 검토·수정. 의료 조언 아님. drills 문구는 videos.json의 키와 같아야 함.",
-
   "hamstring": {
-    "ko": "햄스트링", "es": "isquiotibiales", "en": "hamstring",
+    "ko": "햄스트링",
+    "es": "isquiotibiales",
+    "en": "hamstring",
     "anatomy": {
       "location": "허벅지 뒤쪽. 엉덩이 아래 뼈(좌골결절)에서 시작해 무릎 뒤를 지나 정강이뼈·종아리뼈에 붙는다.",
       "muscles": "대퇴이두근(biceps femoris, 바깥쪽) · 반건양근(semitendinosus, 안쪽 위) · 반막양근(semimembranosus, 안쪽 깊은 층). 고관절을 펴고 무릎을 굽힌다.",
       "focus": "전력 질주 중 부상은 대부분 대퇴이두근 장두(long head)다. 다리를 앞으로 뻗으며 발이 땅에 닿기 직전, 근육이 늘어나며 버티는 순간(편심성) 찢어진다. 그래서 늘어나면서 버티는 힘(Nordic curl, RDL)과 고관절 신전력, 골반 안정이 핵심이다."
     },
     "phases": [
-      {"name": "Phase 1 · Protect & activate (days 1–7)", "goal": "통증 없이 근육을 깨운다. 붓기·통증 관리, 등척성(움직임 없이 힘주기)으로 근육 위축 방지, 정상 보행 회복.",
-       "drills": ["Pain-free isometric hamstring holds (bridge position, 5×20s)", "Gentle hip hinge with no load", "Walking at normal pace, no running"]},
-      {"name": "Phase 2 · Rebuild strength & length (weeks 2–4)", "goal": "늘어난 길이에서 버티는 힘을 만든다. 대퇴이두근 편심성 근력 + 고관절 신전력. 재발 방지의 핵심 단계.",
-       "drills": ["Single-leg Romanian deadlift (bodyweight → light load)", "Nordic hamstring curl, eccentric only, 3×4–6", "Sliding leg curls on a towel or slider"]},
-      {"name": "Phase 3 · Return to sprinting (weeks 4+)", "goal": "부상 당시 속도까지 단계적으로 노출한다. 60%→90% 스프린트, 감속·방향 전환까지 통과해야 복귀.",
-       "drills": ["Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions", "A-skips and high-speed leg swings", "Deceleration and change-of-direction drills at full speed"]}
+      {
+        "name": "Phase 1 · Protect & activate (days 1–7)",
+        "goal": "통증 없이 근육을 깨운다. 붓기·통증 관리, 등척성(움직임 없이 힘주기)으로 근육 위축 방지, 정상 보행 회복.",
+        "drills": [
+          "Pain-free isometric hamstring holds (bridge position, 5×20s)",
+          "Gentle hip hinge with no load",
+          "Walking at normal pace, no running"
+        ]
+      },
+      {
+        "name": "Phase 2 · Rebuild strength & length (weeks 2–4)",
+        "goal": "늘어난 길이에서 버티는 힘을 만든다. 대퇴이두근 편심성 근력 + 고관절 신전력. 재발 방지의 핵심 단계.",
+        "drills": [
+          "Single-leg Romanian deadlift (bodyweight → light load)",
+          "Nordic hamstring curl, eccentric only, 3×4–6",
+          "Sliding leg curls on a towel or slider"
+        ]
+      },
+      {
+        "name": "Phase 3 · Return to sprinting (weeks 4+)",
+        "goal": "부상 당시 속도까지 단계적으로 노출한다. 60%→90% 스프린트, 감속·방향 전환까지 통과해야 복귀.",
+        "drills": [
+          "Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions",
+          "A-skips and high-speed leg swings",
+          "Deceleration and change-of-direction drills at full speed"
+        ]
+      }
     ],
     "content_angle": "Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.",
-    "red_flags": "A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early."
+    "red_flags": "A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early.",
+    "content_fit": 5,
+    "content_fit_why": "스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임"
   },
-
   "knee_acl": {
-    "ko": "무릎 (십자인대/반월판)", "es": "rodilla (ligamento cruzado / menisco)", "en": "knee (ACL/meniscus)",
+    "ko": "무릎 (십자인대/반월판)",
+    "es": "rodilla (ligamento cruzado / menisco)",
+    "en": "knee (ACL/meniscus)",
     "anatomy": {
       "location": "무릎 관절 한가운데. 허벅지뼈(대퇴골)와 정강이뼈(경골)를 X자로 잇는 두 인대 중 앞쪽이 전방십자인대(ACL). 반월판은 그 사이의 C자 연골 쿠션.",
       "muscles": "인대는 근육이 아니라 스스로 수축하지 못한다. 무릎을 지키는 근육은 대퇴사두근(앞, 특히 내측광근) · 햄스트링(뒤, 정강이뼈가 앞으로 밀리는 걸 막아 ACL을 돕는다) · 둔근(무릎이 안으로 꺾이는 걸 막는다).",
       "focus": "ACL은 착지·급정지·방향 전환에서 무릎이 안으로 무너질 때(knee valgus) 다친다. 수술 후에는 ① 대퇴사두근 활성(수술 직후 급격히 약해짐) ② 햄스트링·둔근 근력 ③ 착지 기술 순으로 쌓는다. 달력이 아니라 근력 대칭(건측 대비 90%)과 홉 테스트가 복귀 기준."
     },
     "phases": [
-      {"name": "Phase 1 · Post-surgery basics (weeks 0–6)", "goal": "무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.",
-       "drills": ["Quad sets and straight-leg raises", "Heel slides for knee bend, patella mobilisation", "Short-arc leg extension with no load"]},
-      {"name": "Phase 2 · Strength & balance (months 2–5)", "goal": "양쪽 다리 근력 차이를 줄이고 한 다리 균형을 만든다. 둔근·햄스트링으로 무릎 정렬을 잡는 법을 배운다.",
-       "drills": ["Split squats and step-ups, slow and controlled", "Single-leg balance on an unstable surface", "Leg press building to body-weight equivalent"]},
-      {"name": "Phase 3 · Plyometrics & return to play (months 6–9+)", "goal": "점프 착지와 방향 전환에서 무릎이 안으로 무너지지 않게 한다. 계획된 동작 → 반응 동작 → 경기 속도.",
-       "drills": ["Double-leg → single-leg hops with soft landings", "Cutting and pivot drills, planned then reactive", "Full-speed running and football-specific sessions"]}
+      {
+        "name": "Phase 1 · Post-surgery basics (weeks 0–6)",
+        "goal": "무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.",
+        "drills": [
+          "Quad sets and straight-leg raises",
+          "Heel slides for knee bend, patella mobilisation",
+          "Short-arc leg extension with no load"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength & balance (months 2–5)",
+        "goal": "양쪽 다리 근력 차이를 줄이고 한 다리 균형을 만든다. 둔근·햄스트링으로 무릎 정렬을 잡는 법을 배운다.",
+        "drills": [
+          "Split squats and step-ups, slow and controlled",
+          "Single-leg balance on an unstable surface",
+          "Leg press building to body-weight equivalent"
+        ]
+      },
+      {
+        "name": "Phase 3 · Plyometrics & return to play (months 6–9+)",
+        "goal": "점프 착지와 방향 전환에서 무릎이 안으로 무너지지 않게 한다. 계획된 동작 → 반응 동작 → 경기 속도.",
+        "drills": [
+          "Double-leg → single-leg hops with soft landings",
+          "Cutting and pivot drills, planned then reactive",
+          "Full-speed running and football-specific sessions"
+        ]
+      }
     ],
     "content_angle": "ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why landing mechanics matter more than the surgery.",
-    "red_flags": "Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness."
+    "red_flags": "Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness.",
+    "content_fit": 3,
+    "content_fit_why": "관심은 높지만 9개월 과정이라 교육형. 착지 기술 시연으로 풀면 좋음"
   },
-
   "knee_other": {
-    "ko": "무릎 (기타)", "es": "rodilla", "en": "knee",
+    "ko": "무릎 (기타)",
+    "es": "rodilla",
+    "en": "knee",
     "anatomy": {
       "location": "무릎 관절 주변. 안쪽 인대(MCL), 슬개골 아래 힘줄(슬개건), 관절 연골 등.",
       "muscles": "대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.",
       "focus": "무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다."
     },
     "phases": [
-      {"name": "Phase 1 · Settle & activate", "goal": "통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.",
-       "drills": ["Quad sets, straight-leg raises", "Stationary bike, no resistance, for range", "Calf raises to keep the lower leg working"]},
-      {"name": "Phase 2 · Strength", "goal": "통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.",
-       "drills": ["Wall sits and goblet squats to pain-free depth", "Step-downs for control", "Single-leg Romanian deadlift"]},
-      {"name": "Phase 3 · Return to running", "goal": "달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.",
-       "drills": ["Jogging → striding progression", "Lateral bounds with stuck landings", "Change-of-direction ladder"]}
+      {
+        "name": "Phase 1 · Settle & activate",
+        "goal": "통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.",
+        "drills": [
+          "Quad sets, straight-leg raises",
+          "Stationary bike, no resistance, for range",
+          "Calf raises to keep the lower leg working"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength",
+        "goal": "통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.",
+        "drills": [
+          "Wall sits and goblet squats to pain-free depth",
+          "Step-downs for control",
+          "Single-leg Romanian deadlift"
+        ]
+      },
+      {
+        "name": "Phase 3 · Return to running",
+        "goal": "달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.",
+        "drills": [
+          "Jogging → striding progression",
+          "Lateral bounds with stuck landings",
+          "Change-of-direction ladder"
+        ]
+      }
     ],
     "content_angle": "The knee is usually the victim: show how the hip and ankle take load off it.",
-    "red_flags": "Locking, giving way or significant swelling needs imaging."
+    "red_flags": "Locking, giving way or significant swelling needs imaging.",
+    "content_fit": 3,
+    "content_fit_why": "부위가 모호하면 훅이 약함"
   },
-
   "ankle": {
-    "ko": "발목", "es": "tobillo", "en": "ankle",
+    "ko": "발목",
+    "es": "tobillo",
+    "en": "ankle",
     "anatomy": {
       "location": "발목 바깥쪽 복사뼈 주변. 발이 안으로 꺾일 때 바깥쪽 인대(전거비인대 ATFL, 종비인대 CFL)가 늘어나거나 찢어진다. 복사뼈 위쪽이 아프면 '하이 앵클(syndesmosis)'로 더 오래 걸린다.",
       "muscles": "비골근(peroneals, 종아리 바깥쪽 — 발이 안으로 꺾이는 걸 막는다) · 비복근·가자미근(종아리) · 전경골근(정강이 앞).",
       "focus": "인대는 늘어나면 돌아오지 않으므로 그 역할을 근육과 균형 감각(고유수용감각)이 대신해야 한다. 비골근 강화 + 한 발 균형이 재발 방지의 핵심. 발목 염좌 재발률이 높은 이유는 이 단계를 건너뛰기 때문."
     },
     "phases": [
-      {"name": "Phase 1 · Protect & move (days 1–7)", "goal": "붓기 관리, 통증 없는 범위에서 움직여 뻣뻣함 방지, 가능한 만큼 체중 싣기.",
-       "drills": ["Ankle alphabet for pain-free range", "Towel scrunches and toe spreads", "Weight-bearing as tolerated, seated calf raises"]},
-      {"name": "Phase 2 · Strength & balance (weeks 2–4)", "goal": "비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.",
-       "drills": ["Band eversion/inversion, 3×15", "Single-leg balance, eyes open → closed", "Standing calf raises, double → single leg"]},
-      {"name": "Phase 3 · Return to cutting (weeks 4+)", "goal": "점프 착지와 옆 방향 반응 동작에서 발목이 버티게 한다.",
-       "drills": ["Pogo hops → single-leg hops", "Lateral hops with stuck landings", "Reactive change-of-direction drills"]}
+      {
+        "name": "Phase 1 · Protect & move (days 1–7)",
+        "goal": "붓기 관리, 통증 없는 범위에서 움직여 뻣뻣함 방지, 가능한 만큼 체중 싣기.",
+        "drills": [
+          "Ankle alphabet for pain-free range",
+          "Towel scrunches and toe spreads",
+          "Weight-bearing as tolerated, seated calf raises"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength & balance (weeks 2–4)",
+        "goal": "비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.",
+        "drills": [
+          "Band eversion/inversion, 3×15",
+          "Single-leg balance, eyes open → closed",
+          "Standing calf raises, double → single leg"
+        ]
+      },
+      {
+        "name": "Phase 3 · Return to cutting (weeks 4+)",
+        "goal": "점프 착지와 옆 방향 반응 동작에서 발목이 버티게 한다.",
+        "drills": [
+          "Pogo hops → single-leg hops",
+          "Lateral hops with stuck landings",
+          "Reactive change-of-direction drills"
+        ]
+      }
     ],
     "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
-    "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline."
+    "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
+    "content_fit": 4,
+    "content_fit_why": "가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능"
   },
-
   "groin": {
-    "ko": "사타구니 / 내전근", "es": "ingle / aductores", "en": "groin / adductor",
+    "ko": "사타구니 / 내전근",
+    "es": "ingle / aductores",
+    "en": "groin / adductor",
     "anatomy": {
       "location": "허벅지 안쪽 위, 치골(골반 앞 아래)에서 허벅지 안쪽으로 내려가는 부위.",
       "muscles": "내전근군 — 장내전근(adductor longus, 가장 자주 다침) · 단내전근 · 대내전근 · 치골근 · 박근. 다리를 안으로 모으고 킥·방향 전환에서 골반을 잡는다. 복근(복직근·복사근)과 치골에서 만나 힘을 주고받는다.",
       "focus": "축구 특유의 부상(킥, 옆으로 밀기, 방향 전환). 장내전근의 편심성 근력 + 복근과의 협응이 핵심. Copenhagen plank가 내전근 부상을 크게 줄였다는 연구가 있다."
     },
     "phases": [
-      {"name": "Phase 1 · Calm it down", "goal": "통증 없는 등척성으로 내전근을 깨우고, 복근·골반 안정 시작.",
-       "drills": ["Adductor isometric squeeze with a ball, 5×30s", "Hip flexor and adductor gentle mobility", "Core bracing: dead bugs"]},
-      {"name": "Phase 2 · Strength", "goal": "내전근 편심성 근력. Copenhagen plank를 짧은 레버에서 긴 레버로.",
-       "drills": ["Copenhagen plank, short lever → long lever", "Side-lying hip adduction", "Lateral lunges, slow"]},
-      {"name": "Phase 3 · Football loads", "goal": "옆 방향 이동과 킥을 단계적으로 복귀. 짧은 패스 → 긴 패스 → 전력 방향 전환.",
-       "drills": ["Lateral shuffles and crossover steps", "Kicking progression: short → long passes", "Full-speed cutting"]}
+      {
+        "name": "Phase 1 · Calm it down",
+        "goal": "통증 없는 등척성으로 내전근을 깨우고, 복근·골반 안정 시작.",
+        "drills": [
+          "Adductor isometric squeeze with a ball, 5×30s",
+          "Hip flexor and adductor gentle mobility",
+          "Core bracing: dead bugs"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength",
+        "goal": "내전근 편심성 근력. Copenhagen plank를 짧은 레버에서 긴 레버로.",
+        "drills": [
+          "Copenhagen plank, short lever → long lever",
+          "Side-lying hip adduction",
+          "Lateral lunges, slow"
+        ]
+      },
+      {
+        "name": "Phase 3 · Football loads",
+        "goal": "옆 방향 이동과 킥을 단계적으로 복귀. 짧은 패스 → 긴 패스 → 전력 방향 전환.",
+        "drills": [
+          "Lateral shuffles and crossover steps",
+          "Kicking progression: short → long passes",
+          "Full-speed cutting"
+        ]
+      }
     ],
     "content_angle": "The Copenhagen plank cut groin injuries by ~40% in studies. Show the 3 levels.",
-    "red_flags": "Pain with coughing or deep core pressure can mean a sports hernia rather than a muscle strain."
+    "red_flags": "Pain with coughing or deep core pressure can mean a sports hernia rather than a muscle strain.",
+    "content_fit": 5,
+    "content_fit_why": "축구 고유 부상. Copenhagen plank 3단계는 저장·공유가 많은 '따라 하는' 형식"
   },
-
   "calf": {
-    "ko": "종아리", "es": "pantorrilla / gemelo", "en": "calf",
+    "ko": "종아리",
+    "es": "pantorrilla / gemelo",
+    "en": "calf",
     "anatomy": {
       "location": "종아리 뒤쪽. 무릎 뒤에서 아킬레스건을 거쳐 발뒤꿈치뼈까지.",
       "muscles": "비복근(gastrocnemius, 겉층 두 갈래 — 특히 안쪽 갈래가 자주 다침) · 가자미근(soleus, 깊은 층, 달리기에서 가장 큰 힘을 낸다). 둘이 합쳐져 아킬레스건이 된다.",
       "focus": "무릎을 편 채 하는 카프 레이즈는 비복근, 무릎을 굽힌 채 하는 카프 레이즈는 가자미근을 훈련한다. 28세 이후 종아리 부상이 늘어나는 이유는 가자미근 근력 저하와 관련이 깊어 두 가지를 모두 해야 한다."
     },
     "phases": [
-      {"name": "Phase 1 · Protect & load lightly", "goal": "가자미근부터 가볍게 깨우고 발목 가동 범위 유지.",
-       "drills": ["Seated calf raises (soleus), 3×15", "Ankle range of motion", "Walking on flat ground"]},
-      {"name": "Phase 2 · Strength", "goal": "비복근(무릎 편 채)과 가자미근(무릎 굽힌 채) 모두 한 다리로 천천히 내리는 편심성 근력.",
-       "drills": ["Standing calf raises, double → single leg, slow eccentric", "Bent-knee calf raises for soleus", "Farmer's walk on toes"]},
-      {"name": "Phase 3 · Elastic & sprint", "goal": "발목의 탄성(스프링)을 회복해 스프린트 속도로 돌아간다.",
-       "drills": ["Pogo jumps for ankle stiffness", "Skipping and bounding", "Sprint build-ups"]}
+      {
+        "name": "Phase 1 · Protect & load lightly",
+        "goal": "가자미근부터 가볍게 깨우고 발목 가동 범위 유지.",
+        "drills": [
+          "Seated calf raises (soleus), 3×15",
+          "Ankle range of motion",
+          "Walking on flat ground"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength",
+        "goal": "비복근(무릎 편 채)과 가자미근(무릎 굽힌 채) 모두 한 다리로 천천히 내리는 편심성 근력.",
+        "drills": [
+          "Standing calf raises, double → single leg, slow eccentric",
+          "Bent-knee calf raises for soleus",
+          "Farmer's walk on toes"
+        ]
+      },
+      {
+        "name": "Phase 3 · Elastic & sprint",
+        "goal": "발목의 탄성(스프링)을 회복해 스프린트 속도로 돌아간다.",
+        "drills": [
+          "Pogo jumps for ankle stiffness",
+          "Skipping and bounding",
+          "Sprint build-ups"
+        ]
+      }
     ],
     "content_angle": "Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.",
-    "red_flags": "Sudden calf pain with swelling or warmth needs a check for a clot before any rehab."
+    "red_flags": "Sudden calf pain with swelling or warmth needs a check for a clot before any rehab.",
+    "content_fit": 4,
+    "content_fit_why": "28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅"
   },
-
   "achilles": {
-    "ko": "아킬레스건", "es": "tendón de Aquiles", "en": "Achilles",
+    "ko": "아킬레스건",
+    "es": "tendón de Aquiles",
+    "en": "Achilles",
     "anatomy": {
       "location": "발뒤꿈치 바로 위, 종아리 근육이 발뒤꿈치뼈(종골)에 붙는 굵은 힘줄.",
       "muscles": "비복근 + 가자미근이 합쳐진 힘줄. 근육이 아니라 힘줄이라 혈류가 적어 회복이 느리다.",
       "focus": "파열은 수술 또는 보조기로 붙이는 의료 단계가 먼저. 이후 핵심은 '무겁고 천천히' 하는 카프 레이즈로 힘줄에 다시 부하를 견디는 능력을 만드는 것. 탄성(점프) 훈련은 마지막."
     },
     "phases": [
-      {"name": "Phase 1 · Medical phase (surgery or boot, weeks 0–8)", "goal": "의료진 지시대로 보호. 발가락·무릎 가동과 상체·체간 훈련으로 체력 유지.",
-       "drills": ["Protected weight-bearing as prescribed", "Toe and knee range of motion", "Upper-body and core training to stay fit"]},
-      {"name": "Phase 2 · Tendon loading (months 2–5)", "goal": "힘줄에 무겁고 느린 부하. 앉아서 → 서서 → 계단 끝에서 내리기.",
-       "drills": ["Seated → standing calf raises, slow heavy", "Heel raises off a step, eccentric focus", "Balance and gait retraining"]},
-      {"name": "Phase 3 · Elastic return (months 6–10+)", "goal": "낮은 점프부터 탄성을 회복하고 스프린트·방향 전환까지.",
-       "drills": ["Pogo jumps, low → higher", "Skipping, bounding, hops", "Sprint and cutting progression"]}
+      {
+        "name": "Phase 1 · Medical phase (surgery or boot, weeks 0–8)",
+        "goal": "의료진 지시대로 보호. 발가락·무릎 가동과 상체·체간 훈련으로 체력 유지.",
+        "drills": [
+          "Protected weight-bearing as prescribed",
+          "Toe and knee range of motion",
+          "Upper-body and core training to stay fit"
+        ]
+      },
+      {
+        "name": "Phase 2 · Tendon loading (months 2–5)",
+        "goal": "힘줄에 무겁고 느린 부하. 앉아서 → 서서 → 계단 끝에서 내리기.",
+        "drills": [
+          "Seated → standing calf raises, slow heavy",
+          "Heel raises off a step, eccentric focus",
+          "Balance and gait retraining"
+        ]
+      },
+      {
+        "name": "Phase 3 · Elastic return (months 6–10+)",
+        "goal": "낮은 점프부터 탄성을 회복하고 스프린트·방향 전환까지.",
+        "drills": [
+          "Pogo jumps, low → higher",
+          "Skipping, bounding, hops",
+          "Sprint and cutting progression"
+        ]
+      }
     ],
     "content_angle": "Achilles ruptures end careers when the tendon never gets heavy slow loading back: show the progression.",
-    "red_flags": "A rupture is a surgical/medical decision; any content must stay educational."
+    "red_flags": "A rupture is a surgical/medical decision; any content must stay educational.",
+    "content_fit": 2,
+    "content_fit_why": "의료 단계가 길어 시연이 제한적"
   },
-
   "quad": {
-    "ko": "허벅지 앞 (대퇴사두근)", "es": "cuádriceps", "en": "quadriceps / thigh",
+    "ko": "허벅지 앞 (대퇴사두근)",
+    "es": "cuádriceps",
+    "en": "quadriceps / thigh",
     "anatomy": {
       "location": "허벅지 앞쪽. 골반·허벅지뼈에서 시작해 슬개골을 지나 정강이뼈에 붙는다.",
       "muscles": "대퇴직근(rectus femoris, 가운데 — 유일하게 고관절까지 걸쳐 있어 킥에서 가장 자주 다침) · 외측광근 · 내측광근 · 중간광근. 무릎을 펴고 다리를 앞으로 든다.",
       "focus": "킥 동작에서 다리를 뒤로 젖혔다가 앞으로 차는 순간 대퇴직근이 늘어나며 찢어진다. 늘어나면서 버티는 힘(Reverse Nordic)과 고관절 굴곡 근력, 그리고 킥 동작의 단계적 복귀가 핵심."
     },
     "phases": [
-      {"name": "Phase 1 · Protect & activate", "goal": "통증 없이 대퇴사두근을 깨우고 무릎·고관절 가동 유지.",
-       "drills": ["Quad sets and straight-leg raises", "Gentle kneeling hip-flexor stretch (pain-free)", "Stationary bike, no resistance"]},
-      {"name": "Phase 2 · Strength", "goal": "대퇴직근 편심성 근력(Reverse Nordic)과 한 다리 근력.",
-       "drills": ["Reverse Nordic (eccentric quad), 3×6", "Split squats", "Step-ups"]},
-      {"name": "Phase 3 · Kick & sprint", "goal": "짧은 킥부터 긴 킥까지, 그리고 스프린트·감속.",
-       "drills": ["Kicking progression", "Sprint build-ups", "Deceleration drills"]}
+      {
+        "name": "Phase 1 · Protect & activate",
+        "goal": "통증 없이 대퇴사두근을 깨우고 무릎·고관절 가동 유지.",
+        "drills": [
+          "Quad sets and straight-leg raises",
+          "Gentle kneeling hip-flexor stretch (pain-free)",
+          "Stationary bike, no resistance"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength",
+        "goal": "대퇴직근 편심성 근력(Reverse Nordic)과 한 다리 근력.",
+        "drills": [
+          "Reverse Nordic (eccentric quad), 3×6",
+          "Split squats",
+          "Step-ups"
+        ]
+      },
+      {
+        "name": "Phase 3 · Kick & sprint",
+        "goal": "짧은 킥부터 긴 킥까지, 그리고 스프린트·감속.",
+        "drills": [
+          "Kicking progression",
+          "Sprint build-ups",
+          "Deceleration drills"
+        ]
+      }
     ],
     "content_angle": "Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.",
-    "red_flags": "A visible gap or bulge in the muscle needs imaging."
+    "red_flags": "A visible gap or bulge in the muscle needs imaging.",
+    "content_fit": 4,
+    "content_fit_why": "킥 동작과 연결. Reverse Nordic은 시각적으로 강함"
   },
-
   "hip": {
-    "ko": "고관절", "es": "cadera", "en": "hip",
+    "ko": "고관절",
+    "es": "cadera",
+    "en": "hip",
     "anatomy": {
       "location": "골반과 허벅지뼈가 만나는 공 모양 관절. 사타구니 앞쪽 깊은 곳.",
       "muscles": "대둔근·중둔근(엉덩이, 추진력과 골반 안정) · 장요근(고관절 굴곡근, 다리를 앞으로 든다) · 깊은 외회전근. 관절 테두리 연골(관절순)이 다치면 '찝히는' 통증.",
       "focus": "중둔근이 약하면 한 발로 설 때 골반이 기울고 무릎·사타구니로 부담이 간다. 둔근 활성 → 한 다리 근력 → 옆 방향 파워 순."
     },
     "phases": [
-      {"name": "Phase 1 · Mobility & activation", "goal": "고관절 가동 범위 회복과 둔근 활성.",
-       "drills": ["90/90 hip switches", "Glute bridges", "Clamshells"]},
-      {"name": "Phase 2 · Strength", "goal": "한 다리에서 골반을 수평으로 잡는 중둔근·대둔근 근력.",
-       "drills": ["Single-leg glute bridge", "Lateral band walks", "Bulgarian split squats"]},
-      {"name": "Phase 3 · Football loads", "goal": "옆 방향 점프와 방향 전환, 스프린트.",
-       "drills": ["Lateral bounds", "Cutting drills", "Sprinting"]}
+      {
+        "name": "Phase 1 · Mobility & activation",
+        "goal": "고관절 가동 범위 회복과 둔근 활성.",
+        "drills": [
+          "90/90 hip switches",
+          "Glute bridges",
+          "Clamshells"
+        ]
+      },
+      {
+        "name": "Phase 2 · Strength",
+        "goal": "한 다리에서 골반을 수평으로 잡는 중둔근·대둔근 근력.",
+        "drills": [
+          "Single-leg glute bridge",
+          "Lateral band walks",
+          "Bulgarian split squats"
+        ]
+      },
+      {
+        "name": "Phase 3 · Football loads",
+        "goal": "옆 방향 점프와 방향 전환, 스프린트.",
+        "drills": [
+          "Lateral bounds",
+          "Cutting drills",
+          "Sprinting"
+        ]
+      }
     ],
     "content_angle": "Hip strength protects the knee and the groin: 3 glute drills.",
-    "red_flags": "Deep groin pinch with hip flexion can be labral; imaging decides."
+    "red_flags": "Deep groin pinch with hip flexion can be labral; imaging decides.",
+    "content_fit": 3,
+    "content_fit_why": "둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음"
   },
-
   "foot": {
-    "ko": "발 (중족골 등)", "es": "pie / metatarso", "en": "foot / metatarsal",
+    "ko": "발 (중족골 등)",
+    "es": "pie / metatarso",
+    "en": "foot / metatarsal",
     "anatomy": {
       "location": "발등 가운데의 긴 뼈 5개(중족골)와 발바닥. 축구에서는 5번(새끼발가락 쪽) 중족골 피로골절이 잦다.",
       "muscles": "발 내재근(발바닥 안의 작은 근육들, 아치 유지) · 족저근막 · 종아리 근육(발목을 통해 발에 힘 전달).",
       "focus": "뼈는 시간이 필요하므로 보조기 기간에는 '발을 쓰지 않고' 고관절·체간·상체로 체력을 지킨다. 이후 발 아치 근육(short-foot)과 종아리를 키워 충격을 분산한다."
     },
     "phases": [
-      {"name": "Phase 1 · Protect (boot / limited load)", "goal": "뼈가 붙는 동안 발을 보호하고 나머지 몸의 체력 유지.",
-       "drills": ["Toe mobility within the boot's limits", "Hip and core work seated", "Upper body to stay fit"]},
-      {"name": "Phase 2 · Foot strength", "goal": "발 아치 근육과 종아리 근력 회복.",
-       "drills": ["Short-foot exercise", "Towel scrunches, marble pick-ups", "Calf raises progressing to single leg"]},
-      {"name": "Phase 3 · Impact", "goal": "부드러운 바닥부터 충격 노출, 점프, 축구화 신고 방향 전환.",
-       "drills": ["Walking → jogging on soft ground", "Pogo hops", "Cutting with proper boots"]}
+      {
+        "name": "Phase 1 · Protect (boot / limited load)",
+        "goal": "뼈가 붙는 동안 발을 보호하고 나머지 몸의 체력 유지.",
+        "drills": [
+          "Toe mobility within the boot's limits",
+          "Hip and core work seated",
+          "Upper body to stay fit"
+        ]
+      },
+      {
+        "name": "Phase 2 · Foot strength",
+        "goal": "발 아치 근육과 종아리 근력 회복.",
+        "drills": [
+          "Short-foot exercise",
+          "Towel scrunches, marble pick-ups",
+          "Calf raises progressing to single leg"
+        ]
+      },
+      {
+        "name": "Phase 3 · Impact",
+        "goal": "부드러운 바닥부터 충격 노출, 점프, 축구화 신고 방향 전환.",
+        "drills": [
+          "Walking → jogging on soft ground",
+          "Pogo hops",
+          "Cutting with proper boots"
+        ]
+      }
     ],
     "content_angle": "Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.",
-    "red_flags": "Bone healing timelines are set by imaging, not feel."
+    "red_flags": "Bone healing timelines are set by imaging, not feel.",
+    "content_fit": 2,
+    "content_fit_why": "뼈 부상. '보조기 기간에 할 운동' 정도"
   },
-
   "back": {
-    "ko": "허리 / 등", "es": "espalda / lumbar", "en": "back",
+    "ko": "허리 / 등",
+    "es": "espalda / lumbar",
+    "en": "back",
     "anatomy": {
       "location": "허리(요추 5개)와 골반 위. 디스크·관절·근육 어디든 문제가 될 수 있다.",
       "muscles": "척추기립근(허리 뒤 세로 근육) · 다열근(척추 바로 옆 깊은 근육) · 복횡근·복사근(코르셋처럼 감싸는 체간 근육) · 둔근·햄스트링(골반을 통해 허리와 연결).",
       "focus": "축구 선수의 허리 통증은 고관절이 뻣뻣하거나 체간이 약해 허리가 대신 움직일 때 많다. 고관절 가동 + 체간 안정(안티 회전) + 힙 힌지 패턴이 핵심."
     },
     "phases": [
-      {"name": "Phase 1 · Move gently", "goal": "통증 없는 범위에서 움직이고 깊은 체간 근육을 깨운다.",
-       "drills": ["Cat-cow and pelvic tilts", "Walking", "Dead bugs"]},
-      {"name": "Phase 2 · Core & hinge", "goal": "허리를 고정한 채 고관절로 숙이는 패턴(힙 힌지)과 체간 안정.",
-       "drills": ["Bird dogs", "Side planks", "Hip hinge with dowel"]},
-      {"name": "Phase 3 · Load & rotate", "goal": "무게를 든 힙 힌지, 회전 파워, 스프린트·킥 복귀.",
-       "drills": ["Romanian deadlift", "Pallof press and rotational med-ball throws", "Sprinting and kicking"]}
+      {
+        "name": "Phase 1 · Move gently",
+        "goal": "통증 없는 범위에서 움직이고 깊은 체간 근육을 깨운다.",
+        "drills": [
+          "Cat-cow and pelvic tilts",
+          "Walking",
+          "Dead bugs"
+        ]
+      },
+      {
+        "name": "Phase 2 · Core & hinge",
+        "goal": "허리를 고정한 채 고관절로 숙이는 패턴(힙 힌지)과 체간 안정.",
+        "drills": [
+          "Bird dogs",
+          "Side planks",
+          "Hip hinge with dowel"
+        ]
+      },
+      {
+        "name": "Phase 3 · Load & rotate",
+        "goal": "무게를 든 힙 힌지, 회전 파워, 스프린트·킥 복귀.",
+        "drills": [
+          "Romanian deadlift",
+          "Pallof press and rotational med-ball throws",
+          "Sprinting and kicking"
+        ]
+      }
     ],
     "content_angle": "Back pain in footballers is usually a hip-mobility and core-control problem: 3 drills.",
-    "red_flags": "Leg numbness, weakness or bladder changes are emergencies."
+    "red_flags": "Leg numbness, weakness or bladder changes are emergencies.",
+    "content_fit": 2,
+    "content_fit_why": "축구 특화성이 낮음"
   },
-
   "shoulder": {
-    "ko": "어깨 / 쇄골", "es": "hombro / clavícula", "en": "shoulder / collarbone",
+    "ko": "어깨 / 쇄골",
+    "es": "hombro / clavícula",
+    "en": "shoulder / collarbone",
     "anatomy": {
       "location": "어깨 관절(공 모양 관절)과 쇄골. 넘어지며 팔을 짚거나 어깨로 떨어질 때 탈구·쇄골 골절이 흔하다.",
       "muscles": "회전근개 4개(극상근·극하근·소원근·견갑하근, 관절을 중심에 잡아 둔다) · 견갑골 안정근(승모근·전거근) · 삼각근.",
       "focus": "축구는 다리로 뛰므로 어깨 부상 중에도 하체 훈련은 계속한다. 어깨는 회전근개·견갑 안정 → 밀기 → 넘어지기 연습 순."
     },
     "phases": [
-      {"name": "Phase 1 · Protect", "goal": "어깨를 보호하며 팔꿈치·손목 움직임 유지. 하체 훈련은 계속.",
-       "drills": ["Pendulum swings", "Elbow and wrist movement", "Lower-body training continues (bike, legs)"]},
-      {"name": "Phase 2 · Range & strength", "goal": "가동 범위 회복과 회전근개·견갑 근력.",
-       "drills": ["Wall slides", "Band external rotation", "Scapular push-ups"]},
-      {"name": "Phase 3 · Contact readiness", "goal": "밀기 근력과 안전하게 넘어지는 기술, 접촉 훈련 복귀.",
-       "drills": ["Push-up progressions", "Landing and falling drills", "Contact in training"]}
+      {
+        "name": "Phase 1 · Protect",
+        "goal": "어깨를 보호하며 팔꿈치·손목 움직임 유지. 하체 훈련은 계속.",
+        "drills": [
+          "Pendulum swings",
+          "Elbow and wrist movement",
+          "Lower-body training continues (bike, legs)"
+        ]
+      },
+      {
+        "name": "Phase 2 · Range & strength",
+        "goal": "가동 범위 회복과 회전근개·견갑 근력.",
+        "drills": [
+          "Wall slides",
+          "Band external rotation",
+          "Scapular push-ups"
+        ]
+      },
+      {
+        "name": "Phase 3 · Contact readiness",
+        "goal": "밀기 근력과 안전하게 넘어지는 기술, 접촉 훈련 복귀.",
+        "drills": [
+          "Push-up progressions",
+          "Landing and falling drills",
+          "Contact in training"
+        ]
+      }
     ],
     "content_angle": "Shoulder injuries don't stop leg training: show the 'train around it' week.",
-    "red_flags": "Dislocations and fractures follow the surgeon's timeline."
+    "red_flags": "Dislocations and fractures follow the surgeon's timeline.",
+    "content_fit": 1,
+    "content_fit_why": "축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도"
   },
-
   "concussion": {
-    "ko": "뇌진탕 / 머리", "es": "conmoción cerebral", "en": "concussion / head",
+    "ko": "뇌진탕 / 머리",
+    "es": "conmoción cerebral",
+    "en": "concussion / head",
     "anatomy": {
       "location": "뇌. 머리 충돌로 뇌가 두개골 안에서 흔들려 일시적으로 기능이 흐트러진 상태.",
       "muscles": "근육 부상이 아니다. 운동으로 '치료'할 수 없고 단계별 복귀 절차(증상 없는 상태에서 하나씩 올리기)를 따른다. 예방 차원에서 목 근력이 연구되고 있다.",
       "focus": "콘텐츠는 복귀 절차 설명에 그친다. 운동 추천을 하지 않는다."
     },
     "phases": [
-      {"name": "Stage 1 · Rest & symptom-limited activity (24–48h)", "goal": "증상 관리. 훈련 없음.",
-       "drills": ["No training", "Light daily activity only", "Screen and noise limits as advised"]},
-      {"name": "Stage 2 · Light aerobic → sport-specific", "goal": "증상이 없을 때만 한 단계씩. 헤딩·접촉 없이.",
-       "drills": ["Stationary bike at low heart rate", "Jogging without heading or contact", "Passing and movement drills"]},
-      {"name": "Stage 3 · Full training → match", "goal": "의료진 허가 후 접촉 훈련, 그다음 경기.",
-       "drills": ["Non-contact training", "Full contact after medical clearance", "Match play"]}
+      {
+        "name": "Stage 1 · Rest & symptom-limited activity (24–48h)",
+        "goal": "증상 관리. 훈련 없음.",
+        "drills": [
+          "No training",
+          "Light daily activity only",
+          "Screen and noise limits as advised"
+        ]
+      },
+      {
+        "name": "Stage 2 · Light aerobic → sport-specific",
+        "goal": "증상이 없을 때만 한 단계씩. 헤딩·접촉 없이.",
+        "drills": [
+          "Stationary bike at low heart rate",
+          "Jogging without heading or contact",
+          "Passing and movement drills"
+        ]
+      },
+      {
+        "name": "Stage 3 · Full training → match",
+        "goal": "의료진 허가 후 접촉 훈련, 그다음 경기.",
+        "drills": [
+          "Non-contact training",
+          "Full contact after medical clearance",
+          "Match play"
+        ]
+      }
     ],
     "content_angle": "Educational only: explain the graded return-to-play protocol. No exercise 'recommendations'.",
-    "red_flags": "Worsening headache, vomiting, confusion or drowsiness are emergencies. Never give training advice for a head injury."
+    "red_flags": "Worsening headache, vomiting, confusion or drowsiness are emergencies. Never give training advice for a head injury.",
+    "content_fit": 0,
+    "content_fit_why": "운동 추천 금지. 교육 설명만"
   },
-
   "muscle_general": {
-    "ko": "근육 (부위 미상)", "es": "muscular", "en": "muscle (unspecified)",
+    "ko": "근육 (부위 미상)",
+    "es": "muscular",
+    "en": "muscle (unspecified)",
     "anatomy": {
       "location": "클럽이 '근육 문제'라고만 발표한 경우. 축구에서는 햄스트링 > 내전근 > 대퇴사두근 > 종아리 순으로 흔하다.",
       "muscles": "미확정.",
       "focus": "정확한 부위가 확인되면 해당 항목으로 다시 알림이 간다. 그전에는 상세 콘텐츠를 만들지 않는다."
     },
     "phases": [
-      {"name": "Phase 1 · Protect & isometrics", "goal": "통증 없는 등척성과 보행.",
-       "drills": ["Pain-free isometric holds for the affected muscle", "Light mobility", "Walking"]},
-      {"name": "Phase 2 · Eccentric strength", "goal": "해당 근육의 편심성 근력.",
-       "drills": ["Slow eccentric loading of the muscle", "Single-leg strength work", "Core"]},
-      {"name": "Phase 3 · Speed", "goal": "스프린트와 포지션별 동작 복귀.",
-       "drills": ["Sprint build-ups", "Plyometrics", "Position-specific drills"]}
+      {
+        "name": "Phase 1 · Protect & isometrics",
+        "goal": "통증 없는 등척성과 보행.",
+        "drills": [
+          "Pain-free isometric holds for the affected muscle",
+          "Light mobility",
+          "Walking"
+        ]
+      },
+      {
+        "name": "Phase 2 · Eccentric strength",
+        "goal": "해당 근육의 편심성 근력.",
+        "drills": [
+          "Slow eccentric loading of the muscle",
+          "Single-leg strength work",
+          "Core"
+        ]
+      },
+      {
+        "name": "Phase 3 · Speed",
+        "goal": "스프린트와 포지션별 동작 복귀.",
+        "drills": [
+          "Sprint build-ups",
+          "Plyometrics",
+          "Position-specific drills"
+        ]
+      }
     ],
     "content_angle": "Follow-up post once the club confirms the exact muscle.",
-    "red_flags": "Wait for the specific diagnosis before any detailed content."
+    "red_flags": "Wait for the specific diagnosis before any detailed content.",
+    "content_fit": 1,
+    "content_fit_why": "부위 확인 전에는 보류"
   }
 }

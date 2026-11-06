@@ -506,6 +506,7 @@ def rehab_block(i, lib, videos):
                   + "\n\n⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero."
                   + "\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).")
     return {"part_ko": entry["ko"], "part_en": entry["en"], "phase": phase["name"], "phase_goal": phase.get("goal", ""),
+            "content_fit": entry.get("content_fit", 0), "content_fit_why": entry.get("content_fit_why", ""),
             "anatomy": entry.get("anatomy", {}), "drills": drills,
             "all_phases": entry["phases"], "content_angle": entry["content_angle"],
             "red_flags": entry["red_flags"], "caption_en": caption_en, "caption_es": caption_es}
@@ -539,7 +540,9 @@ def telegram_message(i):
         for n, d in enumerate(r["drills"], 1):
             v = f" — <a href=\"{tg_escape(d['video'])}\">영상</a>" if d["video"] else " — 영상 촬영 필요"
             lines.append(f"{n}. {tg_escape(d['name'])}{v}")
-        lines += ["", f"🎯 각도: {tg_escape(r['content_angle'])}", f"⚠️ {tg_escape(r['red_flags'])}"]
+        lines += ["", f"🎯 각도: {tg_escape(r['content_angle'])}",
+                  f"📈 채널 적합도: {'★' * r['content_fit']}{'☆' * (5 - r['content_fit'])} — {tg_escape(r['content_fit_why'])}",
+                  f"⚠️ {tg_escape(r['red_flags'])}"]
     lines.append("\n<i>자동 초안 · 게시 전 원우 님 검토 · 의료 조언 아님</i>")
     return "\n".join(lines)
 
@@ -606,10 +609,19 @@ def build_report(items, new_keys, errors, today):
             sev = SEVERITY_KO[i["severity"]] + (f" · \"{i['duration_phrase']}\"" if i.get("duration_phrase") else "")
             L.append(f"| {new} | {i['league']} | {who} | {part} | {sev} | [{i['title']}]({i['link']}) ({i['source']}) | {i['extractor']} |")
         L.append("")
-    cands = [i for i in items if i["rehab"]]
-    cands.sort(key=lambda i: ({"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]], i["key"] not in new_keys))
+    cands = [i for i in items if i["rehab"] and i.get("player") and i["rehab"]["content_fit"] > 0]
+    # Which injuries make the best @alpha_football_rehab reels: channel fit first, then severity, then novelty
+    cands.sort(key=lambda i: (-i["rehab"]["content_fit"], {"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]],
+                              i["key"] not in new_keys))
+    seen_players = set()
+    cands = [i for i in cands if not (player_key(i["player"]) in seen_players or seen_players.add(player_key(i["player"])))]
     if cands:
-        L += ["## 오늘의 콘텐츠 후보 (우선순위 순)", ""]
+        L += ["## 오늘의 콘텐츠 후보 (채널 적합도 순)", "",
+              "| 순위 | 선수 | 부위 | 적합도 | 이유 |", "|---|---|---|---|---|"]
+        for n, i in enumerate(cands[:5], 1):
+            r = i["rehab"]
+            L.append(f"| {n} | {i['player']} | {r['part_ko']} | {'★' * r['content_fit']} | {r['content_fit_why']} |")
+        L.append("")
     for n, i in enumerate(cands[:5], 1):
         r = i["rehab"]
         who = " · ".join(x for x in [i.get("player"), i.get("club")] if x) or i["title"]
