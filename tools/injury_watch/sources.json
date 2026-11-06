@@ -1,8 +1,8 @@
 {
   "_note": "뉴스 소스와 리그·클럽 사전. 클럽 이름이 헤드라인에 있어야 축구 뉴스로 인정하고 리그를 배정한다.",
   "hours_back": 48,
-  "max_per_league": 10,
-  "max_new_alerts_per_run": 8,
+  "max_per_league": 12,
+  "max_new_alerts_per_run": 5,
   "google_news_queries": [
     "Premier League injury",
     "Premier League ruled out injured",
@@ -21,7 +21,15 @@
   "rss_feeds": {
     "BBC Sport Football": "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "Sky Sports Football": "https://www.skysports.com/rss/12040",
-    "The Guardian Football": "https://www.theguardian.com/football/rss"
+    "Guardian Premier League": "https://www.theguardian.com/football/premierleague/rss",
+    "Guardian La Liga": "https://www.theguardian.com/football/laligafootball/rss",
+    "Guardian Bundesliga": "https://www.theguardian.com/football/bundesligafootball/rss",
+    "Guardian Serie A": "https://www.theguardian.com/football/serieafootball/rss",
+    "Guardian Ligue 1": "https://www.theguardian.com/football/ligue1football/rss",
+    "Football Italia": "https://football-italia.net/feed/",
+    "Get French Football News": "https://www.getfootballnewsfrance.com/feed/",
+    "Get Spanish Football News": "https://www.getfootballnewsspain.com/feed/",
+    "Get German Football News": "https://www.getfootballnewsgermany.com/feed/"
   },
   "api_football": {
     "_note": "구조화된 부상 데이터(선수·팀·사유). API_FOOTBALL_KEY 시크릿이 있을 때만 사용. 무료 플랜이 현재 시즌을 막으면 Pro($19/월) 필요.",
@@ -251,5 +259,29 @@
       "ligue 1",
       "ligue1"
     ]
+  },
+  "overflow_when_more_new": true,
+  "fetch_article_body": true,
+  "article_max_chars": 1500,
+  "source_rank": {
+    "bbc": 5,
+    "sky sports": 5,
+    "the guardian": 5,
+    "guardian": 5,
+    "reuters": 5,
+    "the athletic": 5,
+    "espn": 4,
+    "football italia": 4,
+    "get french football news": 4,
+    "get spanish football news": 4,
+    "get german football news": 4,
+    "goal.com": 3,
+    "goal": 3,
+    "90min": 2,
+    "livescore": 2,
+    "yahoo": 2,
+    "sportsgambler": 0,
+    "sports mole": 1,
+    "givemesport": 1
   }
 }

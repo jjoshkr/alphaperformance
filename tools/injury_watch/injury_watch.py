@@ -131,6 +131,15 @@ def rule_player(text):
     return " ".join(tokens[-3:] if len(tokens) > 3 else tokens)
 
 
+def find_player(i):
+    """Player name from the headline first, then the snippet, then the article body."""
+    for text in (i.get("title", ""), i.get("snippet", ""), (i.get("body") or "")[:800]):
+        name = rule_player(text) if text else None
+        if name:
+            return name
+    return None
+
+
 def looks_like_injury(text):
     t = text.lower()
     return bool(re.search(INJURY_SIGNALS, t)) and not re.search(NOT_INJURY, t)
@@ -189,6 +198,21 @@ def parse_rss(xml_bytes, feed_name):
         items.append({"title": title.strip(), "link": link, "snippet": desc[:300],
                       "source": source or feed_name, "feed": feed_name, "published": when})
     return items
+
+
+def fetch_article_body(link, max_chars=1500):
+    """Plain text of the article's first paragraphs. Google News links are redirects we can't follow; skip them."""
+    if not link or "news.google.com" in link:
+        return ""
+    try:
+        raw = fetch(link, timeout=12).decode("utf-8", "ignore")
+    except Exception:
+        return ""
+    raw = re.sub(r"(?is)<(script|style|noscript|nav|header|footer|aside).*?</\1>", " ", raw)
+    paras = re.findall(r"(?is)<p[^>]*>(.*?)</p>", raw)
+    text = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", x)) for x in paras)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:max_chars]
 
 
 def collect_api_football(src, errors):
@@ -303,7 +327,10 @@ EXTRACT_SYSTEM = (
     "You extract structured facts about football (soccer) player injuries from news headlines and snippets. "
     "Use only what the text states; put null when a field is not stated. Do not guess a body part from the club or player. "
     "Only the five leagues Premier League, La Liga, Bundesliga, Serie A, Ligue 1 count; players of those clubs injured on "
-    "international duty still count under their club's league. Everything else (NFL, cricket, basketball, rugby) is not a football injury."
+    "international duty still count under their club's league. Everything else (NFL, cricket, basketball, rugby) is not a football injury. "
+    "player must be the injured player's full name (first and last) as the text identifies him; if the text names only a surname you can "
+    "complete it only when the club context makes the player unambiguous, otherwise return the surname as written. "
+    "If the text does not identify which player is injured, player must be null."
 )
 
 
@@ -317,7 +344,14 @@ def extract_with_claude(items):
         print("anthropic SDK not installed; using rule-based extraction", file=sys.stderr)
         return None
     client = anthropic.Anthropic()
-    lines = [f"[{n}] {i['title']}" + (f" — {i['snippet']}" if i.get("snippet") else "") for n, i in enumerate(items)]
+    lines = []
+    for n, i in enumerate(items):
+        line = f"[{n}] HEADLINE: {i['title']}"
+        if i.get("snippet"):
+            line += f"\n    SNIPPET: {i['snippet']}"
+        if i.get("body"):
+            line += f"\n    ARTICLE: {i['body']}"
+        lines.append(line)
     try:
         response = client.beta.messages.create(
             model="claude-opus-5-5",
@@ -369,7 +403,7 @@ def extract(items):
         else:
             bp = rule_body_part(text)
             sev, weeks, phrase = rule_severity(text, bp)
-            i.update({"player": i.get("player") or rule_player(i["title"]), "club": i.get("club"),
+            i.update({"player": i.get("player") or find_player(i), "club": i.get("club"),
                       "body_part": bp, "severity": sev, "duration_weeks": weeks, "duration_phrase": phrase,
                       "summary_en": None, "extractor": "rules"})
         if not i.get("league"):
@@ -439,7 +473,7 @@ def telegram_message(i):
     r = i["rehab"]
     dur = f" · {i['duration_phrase']}" if i.get("duration_phrase") else (
         f" · 약 {i['duration_weeks']}주" if i.get("duration_weeks") else "")
-    head = f"🚑 <b>{tg_escape(i.get('player') or '선수 미확인')}</b>"
+    head = f"🚑 <b>{tg_escape(i.get('player'))}</b>"
     if i.get("club"):
         head += f" · {tg_escape(i['club'])}"
     lines = [head + f" · {tg_escape(i['league'])}",
@@ -545,6 +579,10 @@ def build_report(items, new_keys, errors, today):
         L += ["", "<details><summary>전체 3단계</summary>", ""]
         L += [f"- **{p['name']}** — {p.get('goal', '')}: " + " · ".join(p["drills"]) for p in r["all_phases"]]
         L += ["", "</details>", "", "**캡션 (EN)**", "```", r["caption_en"], "```", "**캡션 (ES)**", "```", r["caption_es"], "```", ""]
+    unconfirmed = [i for i in items if not i.get("player")]
+    if unconfirmed:
+        L += ["## 선수 미확인 (알림 보내지 않음)", ""]
+        L += [f"- {i['league']}: [{i['title']}]({i['link']}) ({i['source']})" for i in unconfirmed] + [""]
     if errors:
         L += ["## 수집 오류", ""] + [f"- {e}" for e in errors] + [""]
     return "\n".join(L)
@@ -575,6 +613,9 @@ def main():
             i.update(prev["facts"]); cached.append(i)
         else:
             fresh.append(i)
+    if src.get("fetch_article_body"):
+        for i in fresh[:30]:
+            i["body"] = fetch_article_body(i["link"], src.get("article_max_chars", 1500))
     extracted = extract(fresh) + cached
     extracted.sort(key=lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
 
@@ -596,15 +637,27 @@ def main():
                                         "duration_phrase", "summary_en", "extractor")}
         state["seen"].setdefault("title:" + i["title_key"], {"first_seen": now_iso, "facts": facts})
 
-    # Alerts: new entities only, most severe first, capped per run
-    alerts = [i for i in final if i["key"] in new_keys]
+    # Alerts: new items with a confirmed player only, one per player (best-sourced article wins)
+    def alert_score(i):
+        srcname = (i.get("source") or "").lower()
+        rank = max((v for k, v in src.get("source_rank", {}).items() if k in srcname), default=1)
+        return ((i["body_part"] != "unknown") * 10 + (i.get("duration_weeks") is not None) * 5
+                + (i.get("extractor") == "claude") * 3 + rank + (1 if i.get("summary_en") else 0))
+
+    by_player = {}
+    for i in final:
+        if i["key"] in new_keys and i.get("player"):
+            pk = re.sub(r"[^a-z]", "", i["player"].lower())
+            if pk not in by_player or alert_score(i) > alert_score(by_player[pk]):
+                by_player[pk] = i
+    alerts = list(by_player.values())
     # First run with a chat id configured: say hello and send the 3 most relevant current items as a sample
     if os.environ.get("TELEGRAM_CHAT_ID") and not state.get("alerts_started") and not args.no_notify:
         try:
             send_telegram("✅ <b>AlphaBot 부상 알림 시작</b>\n30분마다 5대 리그 부상 뉴스를 확인하고, 새 소식만 보냅니다. "
                           "아래는 지금 수집된 소식 중 샘플 3건입니다.")
             state["alerts_started"] = datetime.now(timezone.utc).isoformat()
-            sample = [i for i in final if i["rehab"] and i["key"] not in new_keys]
+            sample = [i for i in final if i["rehab"] and i.get("player") and i["key"] not in new_keys]
             sample.sort(key=lambda i: {"severe": 0, "moderate": 1, "minor": 2, "unknown": 3}[i["severity"]])
             alerts = sample[:3] + alerts
         except Exception as e:
@@ -616,7 +669,10 @@ def main():
             discover_telegram_chats()
         except Exception as e:
             errors.append(f"Telegram setup: {e}")
-        for i in alerts[: src["max_new_alerts_per_run"]]:
+        cap = src["max_new_alerts_per_run"]
+        if src.get("overflow_when_more_new") and len(alerts) > cap:
+            cap = len(alerts)  # a busy 3-hour window: send them all rather than drop real news
+        for i in alerts[:cap]:
             try:
                 if send_telegram(telegram_message(i)):
                     sent += 1

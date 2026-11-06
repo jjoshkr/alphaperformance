@@ -1,6 +1,6 @@
 # 부상 뉴스 → 재활 콘텐츠 자동화
 
-30분마다 GitHub Actions가 `tools/injury_watch/injury_watch.py`를 실행해
+3시간마다 GitHub Actions가 `tools/injury_watch/injury_watch.py`를 실행해
 5대 리그(프리미어리그·라리가·분데스리가·세리에A·리그앙)의 최근 48시간 부상 뉴스를 모으고,
 축구 뉴스만 골라 **선수·클럽·부위·정도·기간**을 추출한 뒤 새 소식은 텔레그램으로 알리고, **재활 단계·촬영할 운동·영어/스페인어 캡션 초안**을 만들어 이 폴더에 저장합니다.
 

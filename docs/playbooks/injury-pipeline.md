@@ -13,7 +13,9 @@
 
 ## 2. 파이프라인
 ```
-[수집] Google News RSS 13개 검색어 + BBC/Sky/ESPN/Guardian RSS (+ API-Football)
+[수집] Google News RSS 13개 검색어 + BBC/Sky/Guardian(리그별)/Football Italia/Get Football News(FR·ES·DE) RSS (+ API-Football)
+   ↓
+[본문] 직접 링크 기사는 본문 앞부분(1,500자)을 읽어 선수 이름 확인에 사용 (Google News 링크는 본문 불가)
    ↓
 [필터] 부상 헤드라인만 · 축구만(리그·클럽 사전 110개 클럽) · 복귀/이적/"boost" 제외 · 중복 제거
    ↓
@@ -22,11 +24,12 @@
    ↓
 [기억] docs/injuries/state.json — 선수+부위 기준으로 60일간 기억, 같은 소식은 다시 알리지 않음
    ↓
-[알림] 새 소식만 텔레그램 → 선수·부위·정도·기간 + 재활 단계 + 촬영할 운동 3개 + 시연 영상 링크
+[알림] 선수 이름이 확인된 새 소식만, 선수당 1건(부위·기간이 있는 신뢰 매체 기사 우선), 기본 최대 5건 — 3시간 안에 그 이상이면 전부 발송
+        선수·부위·정도·기간 + 어디·무슨 근육 + 재활 단계·목표 + 촬영할 운동 3개 + 시연 영상 링크
    ↓
 [보고서] docs/injuries/날짜.md · latest.md · latest.json (캡션 EN/ES 포함)
 ```
-- 실행 주기: GitHub Actions 30분마다 (`.github/workflows/injury-watch.yml`), 수동 실행 가능
+- 실행 주기: GitHub Actions 3시간마다 (`.github/workflows/injury-watch.yml`), 수동 실행 가능
 - 파일: `tools/injury_watch/injury_watch.py`(코드) · `sources.json`(소스·클럽 사전) · `rehab_library.json`(재활 운동) · `videos.json`(운동→영상 링크)
 
 ## 3. 한 번만 하는 설정 (GitHub 저장소 → Settings → Secrets and variables → Actions → New repository secret)
@@ -52,6 +55,6 @@
 4. 캡션은 `latest.md`의 EN/ES 초안 사용. 경기 영상은 쓰지 않고 뉴스는 링크로만
 
 ## 7. 한계
-- 헤드라인에 부위가 없으면 "미분류"로 남는다 (규칙 기반일 때 특히). Claude 키를 넣으면 크게 개선.
+- 선수 이름이 확인되지 않은 소식은 알림을 보내지 않고 보고서의 '선수 미확인'에만 남는다. 규칙 기반은 헤드라인·본문에 이름이 성+이름으로 적혀 있을 때만 잡는다. ANTHROPIC_API_KEY를 넣으면 Claude가 본문을 읽고 이름·부위·기간을 채운다.
 - 모든 운동 내용은 일반 예시. 의료 조언이 아니며 게시물에도 그 문구를 유지.
 - GitHub는 60일간 저장소 활동이 없으면 예약 실행을 멈춘다.
