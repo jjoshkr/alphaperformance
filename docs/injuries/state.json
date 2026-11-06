@@ -1265,6 +1265,20 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:ueclatalanta11kairatalmatydeacrisisdragsonwithmeagrepoint": {
+   "first_seen": "2026-11-06T02:16:17.764997+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
