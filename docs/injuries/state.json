@@ -1473,6 +1473,388 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:xabialonsosweatingoveranotherchelseainjuryaheadofsunderlandclash": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalinjuryupdatelatestonezrikonsabukayosakaandmoreaheadofhullcitycl": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:premierleagueinjurysuspensionlistforgameweek10moisescaicedolisandromar": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:chelseainjurynewsmartinezandcaicedofacelatedecisions": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "lorenzo:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "Napoli captain Di Lorenzo to miss Lazio clash through injury"
+  },
+  "title:napolicaptaindilorenzotomisslazioclashthroughinjury": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Di Lorenzo",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "baleba:hamstring": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "Carlos Baleba injury update following hamstring injury against Roma"
+  },
+  "title:carlosbalebainjuryupdatefollowinghamstringinjuryagainstroma": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Carlos Baleba",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:premierleaguenewsunitedsbalebaoutforweeksmarescabacksdonnarumma": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Baleba",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:carlosbalebainjurycarrickfearsworstafterromawin": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Carlos Baleba",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:doublearsenalinjuryupdateprehullcityclash": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalinjurynewsassakaandkonsaupdatesdelivered": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalinjurynewssakaandkonsaupdatesdeliveredaheadofhullclash": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "chergui:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "Samir Chergui Injury: Ruled out against Auxerre"
+  },
+  "title:samircherguiinjuryruledoutagainstauxerre": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Samir Chergui",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:rodriinjuryraisesfreshconcernaheadofatleticoclash": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Rodri",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "yahoo:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "7 players who could miss Fulham vs Newcastle United as Jaissle searches for solution"
+  },
+  "title:7playerswhocouldmissfulhamvsnewcastleunitedasjaisslesearchesforsolutio": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Yahoo",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:mikelartetaoffersezrikonsaupdateafterarsenalinjuryscare": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "jimenez:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "‘Still got bundles’ - Raul Jimenez injury blow ‘gutting’ for Mexican striker as ex-Wolves star explains why proven Premier League star has plenty to offer"
+  },
+  "title:stillgotbundlesrauljimenezinjuryblowguttingformexicanstrikerasexwolves": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Raul Jimenez",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:xabialonsorevealschelseainjuryblowaheadofsunderlandpremierleagueclash": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "akliouche:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "Hakimi, Akliouche to miss PSG’s Ligue 1 clash against Troyes"
+  },
+  "title:hakimiakliouchetomisspsgsligue1clashagainsttroyes": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Akliouche",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "christensen:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "Denmark boss Brian Riemer opens up on Andreas Christensen injury absence as Barcelona star misses Nations League squad"
+  },
+  "title:denmarkbossbrianriemeropensuponandreaschristenseninjuryabsenceasbarcel": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:guirassyruledoutofdortmundsbundesligaclashwithelversberg": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Guirassy",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:serhouguirassycouldmisselversbergclashinthebundesligaonsaturday": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Serhou Guirassy",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:serhouguirassytomissborussiadortmundsnextgameduetoinjurythediagnosis": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Serhou Guirassy",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:psgsmaghnesakliouchetomissoutonfrancesquadwithinjury": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Maghnes Akliouche",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "allegri:unknown": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "title": "De Laurentiis arrives for Napoli crisis talks as Allegri faces growing scrutiny"
+  },
+  "title:delaurentiisarrivesfornapolicrisistalksasallegrifacesgrowingscrutiny": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": "Allegri",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcasrodrimissesatleticovisitwithhamstringinjury": {
+   "first_seen": "2026-11-06T19:01:55.449843+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
