@@ -1037,7 +1037,7 @@
   "title:mancityvsnottinghamforestinjurynewsconfirms3outand1doubt": {
    "first_seen": "2026-11-05T17:34:40.663751+00:00",
    "facts": {
-    "player": "Nottingham Forest",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -1343,6 +1343,136 @@
   "yildiz:unknown": {
    "first_seen": "2026-11-06T02:20:21.361723+00:00",
    "title": "Juventus, Yildiz on his injury: “It will take a little longer, but recovery is going well”"
+  },
+  "title:newsrodriinjuryruleshimoutofbarcelonasatleticoshowdown": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": "Rodri",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:leedsunitedvstottenhaminjurynewsas6ruledoutand3doubts": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:manutdvsastonvillainjurynewsas8ruledoutand3doubts": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:serieaunavailableplayersinjuredandsuspendedformatchday11": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:crystalpalacevsliverpoolinjurynewsas8ruledoutand1doubt": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:arsenalvshullcityinjurynewsas9ruledoutand2doubts": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:sunderlandvschelseainjurynewsas8ruledoutand5doubts": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "rooney:unknown": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "title": "'Putting his doubters in their place' - Rooney lands pundit of year award"
+  },
+  "title:puttinghisdoubtersintheirplacerooneylandspunditofyearaward": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": "Wayne Rooney",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:laligabarcelonasrodriruledoutofatleticomadridclashwithhamstringinjury": {
+   "first_seen": "2026-11-06T10:30:19.317816+00:00",
+   "facts": {
+    "player": "Rodri",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
