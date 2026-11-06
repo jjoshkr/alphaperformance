@@ -70,7 +70,7 @@ NOT_INJURY = (r"\breturn|back in training|fit again|recovered|comeback|available
               r"|sack|appoint|boost|all-clear|green light|injuries & suspensions|injuries and suspensions"
               r"|preview|prediction|lineups?|line-ups?|team news|emerged stronger|injury woes|injury record|injury crisis"
               r"|\bnasa\b|wonderkid|joining|survive|hard-fought|things to look|\bfpl\b|fantasy|injury-time|stoppage-time"
-              r"|opens door|opportunity for|chance for")
+              r"|opens door|opportunity for|chance for|\b\d+-\d+\b|player ratings|talking points")
 PLAYER_RE = re.compile(
     r"\b([A-Z][a-zA-Z'’\-]+(?: (?:de|van|der|di|da|van der|von)?\s?[A-Z][a-zA-Z'’\-]+){0,2})\s+"
     r"(?:injury|suffers|ruled out|out for|sidelined|to miss|faces|limps|set to miss|could miss|will miss|injured|stretchered|withdraws|undergoes|out with|a doubt)",
@@ -137,7 +137,7 @@ SURNAME_AFTER = re.compile(
     r"on (?:his|her) injury)")
 # "update on Guirassy", "blow for Calvert-Lewin", "issues Serhou Guirassy update", "Barcelona confirms Rodri"
 SURNAME_BEFORE = re.compile(
-    r"(?i:update on|news on|blow for|blow as|concern over|concern for|worry over|fears over|fears for|scare for|setback for|"
+    r"(?i:update on|news on|blow for|concern over|concern for|worry over|fears over|fears for|scare for|setback for|"
     r"without|loses?|confirms?|issues|gives|provides|delivers|on)\s+([A-Z][a-zA-Z\-]{3,}(?: [A-Z][a-zA-Z\-]{2,})?)")
 
 
@@ -176,10 +176,14 @@ def player_key(name):
 
 def find_player(i):
     """Player name from the headline first, then the snippet, then the article body."""
-    for text in (i.get("title", ""), i.get("snippet", ""), (i.get("body") or "")[:800]):
+    for text in (i.get("title", ""), i.get("snippet", "")):
         name = rule_player(text) if text else None
         if name:
             return name
+    body = (i.get("body") or "")[:800]
+    name = rule_player(body) if body else None
+    if name and (" " in name or body.count(name) >= 2):
+        return name
     return None
 
 
@@ -649,6 +653,10 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     state_path = out_dir / "state.json"
     state = load_state(state_path)
+    for rec in state["seen"].values():
+        f = rec.get("facts") or {}
+        if f.get("player") and all(t.lower() in PLAYER_STOP or t.lower() in COMMON_WORDS for t in f["player"].split()):
+            f["player"] = None  # re-extract next time
 
     items, errors = collect(src, HERE / "sample_feed.xml" if args.sample else None)
     # Only unseen headlines go to the extractor (saves API cost); seen ones reuse stored facts
