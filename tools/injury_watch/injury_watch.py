@@ -69,7 +69,8 @@ INJURY_SIGNALS = r"injur|out for|ruled out|sidelined|\bmiss|\bblow\b|setback|sur
 NOT_INJURY = (r"\breturn|back in training|fit again|recovered|comeback|available again|injury-free|transfer|\bsigns?\b|\bloan\b"
               r"|sack|appoint|boost|all-clear|green light|injuries & suspensions|injuries and suspensions"
               r"|preview|prediction|lineups?|line-ups?|team news|emerged stronger|injury woes|injury record|injury crisis"
-              r"|\bnasa\b|wonderkid|joining|survive|hard-fought")
+              r"|\bnasa\b|wonderkid|joining|survive|hard-fought|things to look|\bfpl\b|fantasy|injury-time|stoppage-time"
+              r"|opens door|opportunity for|chance for")
 PLAYER_RE = re.compile(
     r"\b([A-Z][a-zA-Z'’\-]+(?: (?:de|van|der|di|da|van der|von)?\s?[A-Z][a-zA-Z'’\-]+){0,2})\s+"
     r"(?:injury|suffers|ruled out|out for|sidelined|to miss|faces|limps|set to miss|could miss|will miss|injured|stretchered|withdraws|undergoes|out with|a doubt)",
@@ -117,18 +118,60 @@ PLAYER_STOP = {"is", "why", "how", "will", "can", "does", "the", "star", "news",
                "atletico", "tottenham", "newcastle", "everton", "villa", "aston", "leipzig", "leverkusen"}
 
 
+COMMON_WORDS = {"fresh", "major", "latest", "breaking", "weekend", "season", "preview", "opponent", "watch", "final",
+                "series", "club", "team", "coach", "boss", "manager", "striker", "winger", "defender", "midfielder",
+                "keeper", "goalkeeper", "captain", "forward", "player", "players", "squad", "crisis", "woes", "news",
+                "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "january", "february",
+                "march", "april", "may", "june", "july", "august", "september", "october", "november", "december",
+                "world", "cup", "nations", "international", "derby", "clash", "match", "game", "things", "bosses",
+                "england", "france", "spain", "germany", "italy", "brazil", "argentina", "portugal", "korea",
+                "dutch", "french", "spanish", "german", "italian", "english", "fulham", "palace", "forest",
+                "things", "concern", "double", "triple", "key", "big", "huge", "another", "second", "first",
+                "ruled", "out", "confirms", "confirm", "confirmed", "dealt", "blow", "injury", "injured", "injuries",
+                "sidelined", "suffers", "suffered", "faces", "doubt", "update", "issues", "gives", "setback", "scare"}
+# "Rodri injury", "Zaccagni ruled out", "Baleba Doubt", "Joelinton out"
+SURNAME_AFTER = re.compile(
+    r"\b([A-Z][a-zA-Z\-]{3,}(?: [A-Z][a-zA-Z\-]{2,})?)\s+"
+    r"(?i:injury(?! (?:update|news|latest|table|list|round-?up))|injured|ruled out|out\b|sidelined|blow|setback|suffers|suffered|"
+    r"limps|stretchered|to miss|will miss|could miss|faces|a doubt|doubt|undergoes|has\b|set for|picks up|"
+    r"on (?:his|her) injury)")
+# "update on Guirassy", "blow for Calvert-Lewin", "issues Serhou Guirassy update", "Barcelona confirms Rodri"
+SURNAME_BEFORE = re.compile(
+    r"(?i:update on|news on|blow for|blow as|concern over|concern for|worry over|fears over|fears for|scare for|setback for|"
+    r"without|loses?|confirms?|issues|gives|provides|delivers|on)\s+([A-Z][a-zA-Z\-]{3,}(?: [A-Z][a-zA-Z\-]{2,})?)")
+
+
+def _clean_name(tokens):
+    bad = lambda t: t.lower() in PLAYER_STOP or t.lower() in COMMON_WORDS
+    while tokens and bad(tokens[0]):
+        tokens = tokens[1:]
+    while tokens and bad(tokens[-1]):
+        tokens = tokens[:-1]
+    if not tokens or any(bad(t) for t in tokens):
+        return None
+    if len(tokens) == 1 and len(tokens[0]) < 4:
+        return None
+    return " ".join(tokens[-3:] if len(tokens) > 3 else tokens)
+
+
 def rule_player(text):
     text = re.sub(r"[’']s\b", "", text)  # "Musiala's injury" -> "Musiala injury"
     m = PLAYER_RE.search(text)
-    if not m:
-        return None
-    tokens = m.group(1).strip().split()
-    # drop leading club/filler words: "Bayern Munich Jamal Musiala" -> "Jamal Musiala"
-    while tokens and tokens[0].lower() in PLAYER_STOP:
-        tokens = tokens[1:]
-    if len(tokens) < 2 or any(t.lower() in PLAYER_STOP for t in tokens):
-        return None
-    return " ".join(tokens[-3:] if len(tokens) > 3 else tokens)
+    if m:
+        name = _clean_name(m.group(1).strip().split())
+        if name and " " in name:
+            return name
+    for pat in (SURNAME_BEFORE, SURNAME_AFTER):
+        for m in pat.finditer(text):
+            name = _clean_name(m.group(1).strip().split())
+            if name:
+                return name
+    return None
+
+
+def player_key(name):
+    """Same player whether written 'Calvert-Lewin' or 'Dominic Calvert-Lewin': key on the surname."""
+    return re.sub(r"[^a-z]", "", name.split()[-1].lower()) if name else ""
 
 
 def find_player(i):
@@ -415,7 +458,7 @@ def extract(items):
 # ---------------------------------------------------------------- state / dedupe
 def entity_key(i):
     if i.get("player"):
-        return re.sub(r"[^a-z]", "", i["player"].lower()) + ":" + (i.get("body_part") or "unknown")
+        return player_key(i["player"]) + ":" + (i.get("body_part") or "unknown")
     return "title:" + i["title_key"]
 
 
@@ -597,6 +640,9 @@ def main():
     args = ap.parse_args()
 
     src = json.loads((HERE / "sources.json").read_text(encoding="utf-8"))
+    for clubs in src["clubs"].values():
+        for c in clubs:
+            PLAYER_STOP.update(w.lower().strip(".") for w in c.split())
     lib = json.loads((HERE / "rehab_library.json").read_text(encoding="utf-8")); lib.pop("_note", None)
     videos = json.loads((HERE / "videos.json").read_text(encoding="utf-8")); videos.pop("_note", None)
     out_dir = Path(args.out) if args.out else OUT_DIR
@@ -609,7 +655,7 @@ def main():
     fresh, cached = [], []
     for i in items:
         prev = state["seen"].get("title:" + i["title_key"])
-        if prev and prev.get("facts"):
+        if prev and prev.get("facts") and prev["facts"].get("player"):
             i.update(prev["facts"]); cached.append(i)
         else:
             fresh.append(i)
@@ -644,12 +690,16 @@ def main():
         return ((i["body_part"] != "unknown") * 10 + (i.get("duration_weeks") is not None) * 5
                 + (i.get("extractor") == "claude") * 3 + rank + (1 if i.get("summary_en") else 0))
 
-    by_player = {}
+    by_player, fullest = {}, {}
     for i in final:
         if i["key"] in new_keys and i.get("player"):
-            pk = re.sub(r"[^a-z]", "", i["player"].lower())
+            pk = player_key(i["player"])
             if pk not in by_player or alert_score(i) > alert_score(by_player[pk]):
                 by_player[pk] = i
+            if len(i["player"]) > len(fullest.get(pk, "")):
+                fullest[pk] = i["player"]  # show the fullest name any article used
+    for pk, i in by_player.items():
+        i["player"] = fullest[pk]
     alerts = list(by_player.values())
     # First run with a chat id configured: say hello and send the 3 most relevant current items as a sample
     if os.environ.get("TELEGRAM_CHAT_ID") and not state.get("alerts_started") and not args.no_notify:
