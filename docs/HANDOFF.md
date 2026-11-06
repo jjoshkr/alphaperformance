@@ -2,6 +2,10 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-06 — Claude Code (텔레그램 알림 가동)
+- 상태: TELEGRAM_BOT_TOKEN·TELEGRAM_CHAT_ID 등록 완료. 11:10 KST 실행에서 축구 부상 29건 수집, 알림 8건 발송 (인사 + 샘플 3건 + 새 소식). 이후 30분마다 새 소식만 발송
+- 남은 것: ANTHROPIC_API_KEY (선수·부위 정확도, 선택), API_FOOTBALL_KEY (선택), 원우 님 `rehab_library.json` 검토, `videos.json` 릴스 링크, ManyChat, 랜딩페이지 코멘트
+
 ## 2026-11-05 — Claude Code (부상 자동화 보강)
 - 한 일: 부위별 해부 정보(위치·근육·집중 근육)와 단계별 목표를 한국어로 `rehab_library.json`에 추가, 알림·보고서에 표시. 텔레그램 채팅 ID를 봇이 직접 알려 주는 기능(토큰만 등록 후 봇에게 메시지 → Actions 실행). 비축구 종목 제외어 보강
 - 사용자 상태: 텔레그램 봇 생성 완료 (AlphaBot / @AlphaperformanceBot). 시크릿 등록 전
