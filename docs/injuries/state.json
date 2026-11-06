@@ -1279,6 +1279,70 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "joelinton:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Fulham vs Newcastle injury news: Joelinton out and Ramsey banned"
+  },
+  "calvertlewin:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "'A little setback' - Farke's injury update on Calvert-Lewin"
+  },
+  "grealish:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Everton vs Coventry injury news: Grealish out as Branthwaite faces check"
+  },
+  "fati:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Ansu Fati Suffers Another Injury Setback at Monaco as Club Makes Major Decision"
+  },
+  "kossoun:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "UECL | Atalanta 1-1 Kairat Almaty: Dea crisis drags on with meagre point"
+  },
+  "rensch:muscle_general": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Roma, Rensch blow: muscle injury, 20 days out"
+  },
+  "rensch:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Rensch injury details confirmed after early substitution in Manchester United defeat"
+  },
+  "zaccagni:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Zaccagni injury rules him out for Lazio for up to… | Yalla Shoot"
+  },
+  "baleba:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Man Utd Injury News vs Aston Villa: Baleba Doubt, Martinez Banned"
+  },
+  "guirassy:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Niko Kovač issues Serhou Guirassy update after striker's injury in Borussia Dortmund's UEFA Champions League win over Real Betis"
+  },
+  "forest:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Man City vs Nottingham Forest injury news confirms 3 out and 1 doubt"
+  },
+  "konsa:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Mikel Arteta provides Ezri Konsa injury update as Arsenal defender limps off during Slavia Prague victory"
+  },
+  "rodri:hamstring": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Rodri out of Atlético trip with hamstring injury as Simeone chases LaLiga wins record"
+  },
+  "iraola:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Liverpool dealt major injury blow as Iraola admits star player could miss next four weeks"
+  },
+  "rodri:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Rodri ruled out: Barcelona face Atlético without star"
+  },
+  "yildiz:unknown": {
+   "first_seen": "2026-11-06T02:20:21.361723+00:00",
+   "title": "Juventus, Yildiz on his injury: “It will take a little longer, but recovery is going well”"
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
