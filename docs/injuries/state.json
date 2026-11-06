@@ -1121,6 +1121,151 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:fulhamvsnewcastleinjurynewsjoelintonoutandramseybanned": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:alittlesetbackfarkesinjuryupdateoncalvertlewin": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:evertonvscoventryinjurynewsgrealishoutasbranthwaitefacescheck": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:premierleague10thingstolookoutforthisweekend": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:manutdnewsbalebainjuryopensdoorfortielemansagainstformerclubastonvilla": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:ansufatisuffersanotherinjurysetbackatmonacoasclubmakesmajordecision": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:kamadaearnspalaceinjurytimehoffenheimdrawandofferssagerespite": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:romarenschblowmuscleinjury20daysout": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "moderate",
+    "duration_weeks": 2.9,
+    "duration_phrase": "20 days",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "dominiccalvertlewin:unknown": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "title": "Dominic Calvert-Lewin injury concern revealed ahead of Leeds vs Tottenham"
+  },
+  "title:dominiccalvertlewininjuryconcernrevealedaheadofleedsvstottenham": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": "Dominic Calvert-Lewin",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:allegricallslazioafinalasnapolisinjuriesmount": {
+   "first_seen": "2026-11-06T02:10:18.401842+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
- }
+ },
+ "alerts_started": "2026-11-06T02:10:19.141584+00:00"
 }
