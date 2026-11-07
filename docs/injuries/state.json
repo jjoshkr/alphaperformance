@@ -1947,6 +1947,144 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "caicedo:unknown": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "title": "Chelsea face fresh injury worry as Moises Caicedo doubtful and duo ruled out for Sunderland"
+  },
+  "title:chelseafacefreshinjuryworryasmoisescaicedodoubtfulandduoruledoutforsun": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:barcelonafanfavouriteemergesasstrongoptiontoreplaceinjuredrodriagainst": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:chelseahandedfurtherinjuryconcernafterkeyduoruledoutofsunderlandtest": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "thomas:unknown": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "title": "Lampard's update on Bobby Thomas fitness and other injury concerns"
+  },
+  "title:lampardsupdateonbobbythomasfitnessandotherinjuryconcerns": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": "Bobby Thomas",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:psgdealtanotherinjuryblowbeforetroyesmatch": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "flick:unknown": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "title": "Hansi Flick has two doubts for his Barcelona starting XI to face Atlético Madrid"
+  },
+  "title:hansiflickhastwodoubtsforhisbarcelonastartingxitofaceatlticomadrid": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": "Hansi Flick",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:michaelcarrickmustunleash48mmanutdstarvsastonvillaafterfreshinjuryblow": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:chelseainjurynewsemilianomartinezmoisescaicedoupdateprovidedaheadofsun": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:mikelartetagivesezrikonsainjuryupdateaheadofarsenalvshull": {
+   "first_seen": "2026-11-07T09:43:10.475267+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
