@@ -2289,6 +2289,148 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "guehi:unknown": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "title": "Man City injury news: Enzo Maresca issues Marc Guehi, Josko Gvardiol update after Nottingham Forest defeat"
+  },
+  "title:mancityinjurynewsenzomarescaissuesmarcguehijoskogvardiolupdateafternot": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:reynawasfitandfiringforstrasbourghislatestinjuryisaheartbreakerfortheu": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "neuer:unknown": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "title": "Joshua Kimmich suspects Bayern Munich captain Manuel Neuer suffered serious injury"
+  },
+  "title:joshuakimmichsuspectsbayernmunichcaptainmanuelneuersufferedseriousinju": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bayernmunichstarmanuelneuerleavesmilestonematchvsmainzwithinjury": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:manuelneuermakesbayernmunichhistorybutsuffersanotherinjuryscareagainst": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "reyna:unknown": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "title": "Giovanni Reyna injury news: Strasbourg star scores, exits game as Stoke City man called into USMNT place"
+  },
+  "title:giovannireynainjurynewsstrasbourgstarscoresexitsgameasstokecitymancall": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": "Giovanni Reyna",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:oppositioninsightforgenoamilanforminjuriespredictedxiandmore": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:laligabarcasgarciafitforatleticoclashasdefensivecrisiseases": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "farke:unknown": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "title": "Leeds predicted XI vs Tottenham: Farke faces serious injury concerns as Whites look to end winless run"
+  },
+  "title:leedspredictedxivstottenhamfarkefacesseriousinjuryconcernsaswhiteslook": {
+   "first_seen": "2026-11-07T21:35:00.206987+00:00",
+   "facts": {
+    "player": "Farke",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
