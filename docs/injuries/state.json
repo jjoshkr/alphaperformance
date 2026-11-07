@@ -1855,6 +1855,98 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:guirassyoutfordortmundagainstelversberg": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": "Guirassy",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:ezrikonsainjuryartetarevealsworryingarsenalupdate": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:psgloseanotherattackertoinjuryafterdoublecalfblowtakesoutimprovingsumm": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "calf",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:eplcarrickconfirmsmajorinjuryblowaheadofmanutdvsastonvilla": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "five:unknown": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "title": "Tottenham Injury News: Bergvall and Savio Update as Five Ruled Out for Leeds"
+  },
+  "title:tottenhaminjurynewsbergvallandsavioupdateasfiveruledoutforleeds": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": "Five",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "nuamah:muscle_general": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "title": "Nuamah faces fitness race for Lyon and Ghana after muscle injury"
+  },
+  "title:nuamahfacesfitnessraceforlyonandghanaaftermuscleinjury": {
+   "first_seen": "2026-11-07T00:41:42.659607+00:00",
+   "facts": {
+    "player": "Nuamah",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
