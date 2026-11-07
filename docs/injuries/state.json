@@ -2085,6 +2085,210 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "title:manuelneuerinjuryupdatebayernmunichgoalkeeperforcedoffwithfootissueaga": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:wemanagedhisminuteshansiflickdefendshisselectionpolicyafterbarcelonalo": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": "Rodri",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:tottenhammathysteloncrutchesasrobertodezerbifearsbadinjuryinhugeblow": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:mainz05furiousequaliseragainstbayernmunichruledoutmanuelneuersubstitut": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "greenwood:unknown": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "title": "Jeglertz on Greenwood and Moorhouse injury blow"
+  },
+  "title:jeglertzongreenwoodandmoorhouseinjuryblow": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": "Greenwood",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:breakingbayernmunichstarmanuelneuerleavesmilestonematchvsmainzwithinju": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:injuredwelshreplacedbyporteousinscotlandsquad": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:napolicancelallegripressconferenceraisingdoubtoverfuture": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:tottenhamdealtlatestattackinginjuryblowaftervarmadnessatleeds": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:newromainjuryworryformancinigolliniandmoreaftermanchesteruniteddefeat": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:hugepremierleaguerowtelinjuredclearredcardmissed": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:premierleagueuproartelinjuredaclearredcardmissed": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:okaforsleedswinneraddsinsulttotelsinjuryfortottenhamasbogleescapesred": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "cambiaso:unknown": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "title": "Juventus suffer Cambiaso blow but could recover two players for Fiorentina"
+  },
+  "title:juventussuffercambiasoblowbutcouldrecovertwoplayersforfiorentina": {
+   "first_seen": "2026-11-07T17:34:49.072088+00:00",
+   "facts": {
+    "player": "Cambiaso",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
