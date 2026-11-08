@@ -2463,6 +2463,156 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "muniz:unknown": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Last season difficult with injury and miscarriage - Muniz"
+  },
+  "title:lastseasondifficultwithinjuryandmiscarriagemuniz": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Rodrigo Muniz",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "piero:unknown": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Juventus legend Del Piero suffers injury during Zurich All-Star Game"
+  },
+  "title:juventuslegenddelpierosuffersinjuryduringzurichallstargame": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Del Piero",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "gvardiol:unknown": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Maresca provides injury update on Gvardiol and Guehi"
+  },
+  "title:marescaprovidesinjuryupdateongvardiolandguehi": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Gvardiol",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:itsnotgoodmanuelneuerinjurynightmareandhorrorerrorovershadowsrecordbre": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "hamstring:hamstring": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Update: Flick Defends Rodri Workload After Barcelona Hamstring Injury"
+  },
+  "title:updateflickdefendsrodriworkloadafterbarcelonahamstringinjury": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Hamstring",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:spursnewstodayboglecomplainttelinjuryanddezerbireaction8november": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "off:unknown": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Neuer Off Injured After Becoming Bayern's Oldest Bundesliga Player"
+  },
+  "title:neueroffinjuredafterbecomingbayernsoldestbundesligaplayer": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Neuer Off",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "steur:unknown": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "title": "Jaissle on Newcastle’s draw with Fulham, Steur injury worry and Dedic incident"
+  },
+  "title:jaissleonnewcastlesdrawwithfulhamsteurinjuryworryanddedicincident": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": "Steur",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:psgtomissaklioucheandhakimiforligue1matchagainsttroyes": {
+   "first_seen": "2026-11-08T12:55:46.749814+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
