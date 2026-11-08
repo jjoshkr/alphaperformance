@@ -2613,6 +2613,222 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "tear:foot": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "title": "Manuel Neuer Injury Update: Bayern Munich Goalkeeper Set For Six-Week Absence After Suffering Right Foot Tendon Tear"
+  },
+  "title:manuelneuerinjuryupdatebayernmunichgoalkeepersetforsixweekabsenceafter": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Tear",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "moderate",
+    "duration_weeks": 6,
+    "duration_phrase": "six-week",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:hitsandmissesalissonbacktohisbestwhilechelseagobacktosquareone": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bayernadmitmusialasmega25millionsalaryhasbecomeadilemmaamidinjuryhell": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bundesligagoalkeeperneuerjoinsbayernslonginjurylist": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "anton:unknown": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "title": "Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up"
+  },
+  "title:officialwaldemarantonwithdrawsfromgermanysquadridlebakuearnslatecallup": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Waldemar Anton",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bayernmunichconfirmmanuelneuerpartialtendontear": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:englandawaitguehiscanresultsafterinjuryconcern": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:manuelneuerexpectedtobesidelinedforsixweeks": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 6,
+    "duration_phrase": "six weeks",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "xhaka:unknown": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "title": "Sunderland suffer Granit Xhaka injury blow against Chelsea as Regis Le Bris forced into early change"
+  },
+  "title:sunderlandsuffergranitxhakainjuryblowagainstchelseaasregislebrisforced": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Granit Xhaka",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:neuerexpectedtomisstwomonthswithinjuryinhugeblowtobayernmunich": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 8.6,
+    "duration_phrase": "two months",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "neuer:foot": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "title": "Bayern keeper Manuel Neuer set to miss two months with foot injury: reports"
+  },
+  "title:bayernkeepermanuelneuersettomisstwomonthswithfootinjuryreports": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "severe",
+    "duration_weeks": 8.6,
+    "duration_phrase": "two months",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:bayerngoalkeepermanuelneuerexpectedtomiss2monthswithrightfootinjury": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "severe",
+    "duration_weeks": 8.6,
+    "duration_phrase": "2 months",
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "sutalo:unknown": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "title": "Lazio, Sutalo injured against Napoli: what happened"
+  },
+  "title:laziosutaloinjuredagainstnapoliwhathappened": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Sutalo",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:usmntstargioreynasuffersmajorinjurysetbackreplacedjustdaysbeforenovemb": {
+   "first_seen": "2026-11-08T19:24:37.596072+00:00",
+   "facts": {
+    "player": "Reyna",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
