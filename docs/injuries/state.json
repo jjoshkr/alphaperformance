@@ -2431,6 +2431,38 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "despite:unknown": {
+   "first_seen": "2026-11-08T05:00:28.103095+00:00",
+   "title": "Hansi Flick Defends Barcelona’s Load Management of Rodri Despite Fresh Injury"
+  },
+  "title:hansiflickdefendsbarcelonasloadmanagementofrodridespitefreshinjury": {
+   "first_seen": "2026-11-08T05:00:28.103095+00:00",
+   "facts": {
+    "player": "Despite",
+    "club": null,
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:usmntannouncesgiovannireynareplacementafterunfortunateinjurynews": {
+   "first_seen": "2026-11-08T05:00:28.103095+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
