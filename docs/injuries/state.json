@@ -2829,6 +2829,70 @@
     "summary_en": null,
     "extractor": "rules"
    }
+  },
+  "standard:unknown": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "title": "Nottingham Forest trials blood test which could warn athletes of injury risk"
+  },
+  "title:nottinghamforesttrialsbloodtestwhichcouldwarnathletesofinjuryrisk": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "facts": {
+    "player": "Evening Standard",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:spallettijuventuswallowindoubtandloseconfidence": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "title:telinjuryfearasokaforslategoalendstottenhamswinningrunatleeds": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
+  },
+  "usmnt:unknown": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "title": "Jack McGlynn replaces injured Gio Reyna on USMNT roster vs. Haiti"
+  },
+  "title:jackmcglynnreplacesinjuredgioreynaonusmntrostervshaiti": {
+   "first_seen": "2026-11-09T00:37:28.047517+00:00",
+   "facts": {
+    "player": "USMNT",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": null,
+    "extractor": "rules"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
