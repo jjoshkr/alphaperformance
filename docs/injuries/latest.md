@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-09 20:03 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-10 07:03 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,73 +6,78 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | Bundesliga | Schalke | - | 미상 | [Terrible collision in the Bundesliga, two Schalke stars are injured](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmV2WFh4VnlONEhfc0dBNEZocDZERVA0U19CWnR6dGRUV3FRSHhWT0pRTS1qV0ZCTUhial90UXk5b2lERVdydjhDUG9PbGFjQWUyMGdQYXNDNndRVlF6MVJSaVB6VWxjckFBcEdqeEM5VTlJb3h3NmFZWGp4OVJNNEpsektyQUlPazF4R2dwVzJBZHlOckRvZDRuZ0NOQ1VjQkZr?oc=5) (Gazeta Express) | claude |
-| 🆕 | Bundesliga | Karius | - | 미상 | [Horror in the Bundesliga: Karius and Gosens injured after bloody collision](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUF4ekU3ak0zX0szbGZwb1FuUlhQeFhBVmt6RGktVmFyQWY3NU5YN0NfZmVoZUdNVkVGMUU2b3kzT3FZWmZmendnNXhQS2NJVFVTU25IclFFVGFRSnR0QS1yOFRtbmtRR3VSbmV6OWs4anpRc0Jfa0VSNjlZWU1vV01lRFlWMlk5d3ZIMmZBMHlhQW1IUXFOdDg1WUlYVGl2X3dBSDVORVg5WWhaak9TNktmenQ4b19Fa3RsT19maw?oc=5) (Goal.com) | claude |
+| 🆕 | La Liga | Barcelona | - | 미상 | [Barcelona star forced out of international duty with injury](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEJTZlZ6a0pRUDR3UTVmbjRYSkdzcGh0Umc0YllyM1YzaDRNWTM4YnByXzEyVTg0WlNtcFVpSm51SlBOQnJpaWYwYVpPdTNxaXBwelF1dmJrb0RtM2tLdXFBNlhpcW5EQjMwUFdCQTAybHpRRnh3TDVNVEZwM2N1anh1bWo1Q2FENnJuUlZqUUlGbTA?oc=5) (Yahoo Sports) | claude |
+| 🆕 | Premier League | Ceadach O'Neill · Arsenal | - | 미상 | [NI's O'Neill ruled out of Nations League matches](https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss) (BBC Sport Football) | claude |
+| 🆕 | Serie A | Bonny · Inter | - | 미상 | [Inter striker Bonny ruled out of Ivory Coast squad through injury](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUhiMlNxb1plLS02enBzRExDdWhJRDI3UlppN1VzenEtZXlqeW53UGtUdXRsRVUtNlpTYXNTZUdNUThMVTRBbnNsaXpBN3FIejExaE00N2VBRnYtclN5OENEM2FfRlA0RnZoNnhlVWNaMDhXczFjLUpBTHRuWnZ3Z3pEOUtDTDQ3QjgzQk5PcTNoMXRGMDVRZ3EwRDllbjFwVVRGUGs4cHNEcW9mYjBsbTFHZDBoNEJfay01WDFBdDM1eUdlelBIVDhB?oc=5) (LiveScore) | claude |
+| 🆕 | Bundesliga | Dähne · Heidenheim | - | 중증 (8주 이상 / 수술 / 파열) | [Heidenheim shot-stopper Dähne suffers fractured finger against Hannover 96](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcms0RERSZU51ZHFEb0NaZzVPNUtUdmh0eGJod3F3ZHJBR0tPeVVWUThVMXVmZ09wTjZ0UzY0S1pETWV3UXE5dUNfdXMtWEFiSGRpRndVWlNNNVVEYjlOcnROTGNSZk5neXM1d1FDNlhoQ3NSX3FhTWJjZkFjLVM1SmhaR09XcG9sV0drV2lubjZfSjdScFcwXy1lZw?oc=5) (Bulinews) | claude |
+| 🆕 | Premier League | Virgil van Dijk · Liverpool | - | 미상 | [Virgil van Dijk injury latest as official statement released after Liverpool skipper suffers fitness blow](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUllTV1pQQXFvZzYxaURHN09zdDhJRUZWZVZ1SnlUbE1XZXc0dmdqX1NnbTBPdVZFdTJnT1pDbDJJelN3QmVXOE9hb2FrNjcwTERRMXoySG85LWNhZFl6Z3JJQTRVeW5qcjVXTW9YMk1EbkxxWXZtRWVaVVVxT25fam5BMA?oc=5) (Yahoo) | claude |
+| 🆕 | Ligue 1 | Aleksandr Golovin · Monaco | 종아리 | 미상 | [Monaco’s Aleksandr Golovin sustains calf injury](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWhNYlB3VFFXWXFOcVlnc2ZZME9zZ1NHZjRKbzBiTmRYd051c0U0Wk0wZ2RlSWpGM1FfLWoxZ21UUWVkaWVUemw0SDM1ZkJ6dmpOMXhBLW5OU3pvUXgtcWRxYUk0b1BfaVBRVE0teWQ4ZV81TGxLa2JwQ3gwQU9KU1lYeU5lc2Y1YXpzMG5IcVhNRGJw?oc=5) (Get French Football News) | claude |
+| 🆕 | Premier League | Dominik Szoboszlai · Liverpool | 무릎 (기타) | 미상 | [Szoboszlai a doubt for Nations League conclusion](https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss) (BBC Sport Football) | claude |
+| 🆕 | Serie A | Nuno Tavares · Lazio | - | 미상 | [New Nuno Tavares injury to force Lazio star out of Portugal squad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbUI3SmJFR3Z0TkladUZGZ19aNEwzeFAyeEx3eVBaMTJ3NGtqOXBNcndsbmRuZTdaVlRkLTAxb3YzT3BxX1UtVHRtelA5c0Z4bFVNMEo0aEEwRWxSZTN6ZHIxR2xMaXNueHFwejAwaG1nTzJ2Zzk3S0tveWFVXzVCdGk2ajBJVWhyREY3TFRoZkFxR2EyS3NadUl6aERCbGI0QnVaY0w3WEFEV19CUHgtelJLQ1RlVUE2R1dXNlVoMEdORmVLQTJPaGUtVnBvZw?oc=5) (LiveScore) | claude |
+|  | Ligue 1 | Reyna | - | 미상 | [USMNT Ligue 1 match day 10 recap: Reyna scores again but picks up an injury](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnhsNXlYYmxnaGxfd29WbFlUYzVjVkNmc3F1Y0hnMnNNWGVHWk9ZRU52aWF4d1BpUVgxUktMMUFBcVA1Z1Z0OUJQTW5vVlB6bnU3aWM1M18zR2trTHVVejZibWc2TkdRYjlhcFNzM3hVMTZiU1RfVFZtRE1hcEo2MjR4MjlIaDNQTFRXa3RHaTBnbnBCMlBkNzRiR3NMOWFodktPVkVtYlJtdmUyNmtIbjBaVE5pbTgwYWhndXpPQnh3aVJYcUdQZnREaFIwVlFDczRMMUdRVU9xNC1CMGc?oc=5) (LiveScore) | claude |
+| 🆕 | Serie A | Pierre Kalulu · Juventus | - | 미상 | [Sael Kumbedi gets the call! Wolfsburg starlet replaces injured Juventus defender Pierre Kalulu in France squad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjlnN2VrR3Y3OXBFZkowaEw1Zk93d1FYQWdhbU53TERzcjMyWnBmenN0UHEwckxhbmE0akQ4cVhkZkNTWExEVnNoaWViMzRFT1BlUVZZemRPdUpGRF93aWJXSGZnbWpMMzJIYlVqS1c0a2NjTE1jRDlQRWVKVm9Wa0c3NFRFcDVsQ0NHcXNBVVhrUTJ2Y2pOSnN6RThxOVptS0ZBcjRiLUhEUXJvcWtia21kVHE5RkN2NUhkczN0M3hDek45SzBId3VuVnM2R3FNWUFQOF8xYmlDWFE4cUJ5TF90ejR1QmU3NllyeEVNUmpUVTQtcVN0S3N3?oc=5) (LiveScore) | claude |
+| 🆕 | Serie A | Lazio | - | 미상 | [Lazio Full-Back Won’t Join National Team After Sustaining Injury in Napoli](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlZpcDhicnRUZnN2WWlyOUwtejFfaGZ6eFM1THI0R25EMXY0N3Jid1o4LTdwVkttUDEtMlNGTGV1OHJWMThDTkhUSnljY1FTU1g0MXBZQmtIWmE3NGdMNG45OHpJay04TW1TUDZrNGxMcFRFR01pSy1WLWlVOHU4V2poY3ZjTFVTUHpicGFoaDFWME82RzE5T1NoT043Z1R6S1BaWUE3cEZhakt2MlZSZGRweXoyX0NucWRGb09vZU1oS25MR3oxN21wVjRWYXVxamlJ?oc=5) (LiveScore) | claude |
+| 🆕 | Serie A | Pierre Kalulu · Juventus | - | 미상 | [Kumbedi gets first France call up to replace injured Kalulu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE12SlVpSGFJb0hEZW5QVzBPYmZSU3B4emZ1QlQzQ1lhRERzOERMclp5UGJyVkZTY09ZVlIweUwyU1h0di0tZ0d3dEhsZUY5Q1NRaTl6anlPRWU2end0amhQUHd2MnFtTV9OekdYM1NkeWswOWR3ZVpxenZUeF95YjMzeG1MLXYzNW9PYTBJMERERkdGSjBRTTN1NFNOT0VNd2w0UDBMcjhEdw?oc=5) (Reuters) | claude |
+|  | Premier League | Marc Guehi · Manchester City | - | 미상 | [England Squad Update: Dan Burn Replaces Injured Marc Guehi Ahead Of Croatia And Spain Nations League Fixtures](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXAzYkZvM0ZLVmdCUlVfSXhFUVFCYkdONEtMcmhtcE9vSXlOWVdMNFNKUTZKQjl1eEFnRno5QzhfckxJWkk1cjAxVjNrN3VxZUxnSGlJaERGeDdfNVR3WDBrTThLUDIzUUlXYVk2QmVuaDBETzAxSDZDbFpfVXJlbVI4SkZUbE01N1llOVlJN1JyeTlTcVAxOENvOHI5b1pNdEhHOE9WazFRRkpLcFFXUmdIdThNalRrWUZ4aVRBQ1pRN1pYdThSb21NVnBtZVBqVVNvTlg1dXVDenM2dEZNMVlud1pONEZLLXfSAe8BQVVfeXFMTnUtYVhTNU03NGZyRUdJZ2E2ZUZ1Y0YtMjlOdEJIM0l1NWZPclV5VVpCZ1lsQjM4d2I2Um9kdW9Lbjg1YXZ4TXNScUk4NWo2aXpBZGo1VW1nQW83Q2N3MTJIUUYtUE5fcm10eFNhWWZRUVZwX1VQTEwtWU9zaTQxOGxmdTlVMVpMWVRCQ1JGSE1Ub29xZnFRTDFWQmlrOFBFR1ZGT2luZEd2Si1aWXRYUjB2Wm9YSE5XNjlTY0dKVWJKVHB0UmR2OTNES2JkX0wxdlpjOWdpWV9LT0ZyTlB0S0dhazJ1cEpLQ2lTZ1l3RjA?oc=5) (The Sunday Guardian) | claude |
+|  | Premier League | Granit Xhaka · Sunderland | - | 미상 | [Switzerland captain Granit Xhaka to miss Nations League games after injury with Sunderland](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb05qc1RJVnlSbmVvMGpDcVBjNFhlSS1ySmpmSGpLTlJGRlowcVBlMXI5d3NTSFhpQzJhNTAxdlNGU0JwWGJmdmxubDB3THBTUGpvTjJ0QUtkSzF1TXhWcXE1aFY4V2FMakFXUUx5VU5jcDljYlFVTnZDWVpSR0RjcjZYZWczTjlWYWthZ1BDeGRodi0zWmZBTXg0UFlYV1lrZ3Y4aGNNLWVsVlh1Y0JjcW9XUG1kM2RfRWNN?oc=5) (www.the-messenger.com) | claude |
+|  | Premier League | Marc Guehi · Manchester City | - | 미상 | [Dan Burn Replaces Injured Guehi in England Squad for Croatia, Spain](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUJwYWVNZXV5M18xazFSanJxRWNWdkhYRnFwMnhJSDhIQ1M5d0phdFdOTHRVVzh6cVoxdGpRNXdPelNua0NoLUpVa19UOGkzU1hfYnd2TmhNa09wLV9nTEJLVGQxRVlING95QTc4cUwwclc3VGsxWDFadUE0VHVzMzVnMUl2LTNuSTZsY0JWbw?oc=5) (The False 9) | claude |
+| 🆕 | La Liga | Lamine Yamal · Barcelona | 무릎 (기타) | 미상 | [Lamine Yamal knee injury: Barcelona winger out of Spain’s Nations League match](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmdwYks4ek1FTE9oRzdDTlZkaVpLUzd1YmtIa0QyZmFIeFFxV0hyckhzY2pQNWt2OXNhcWlPZ05DQXdkcC14NTZvVkZzZlFQZWpGMXIzaGxJUWVTWnNuckpHRlVWdFhxVm9HYlZoUlhZTEk1WmNRc3l5NUZwSTJXcld3QXBEYkRmdGpnVmNwTkVQYm12N1g1VVVDMHc3YjZKcWlLZTlyZHgtTFZxc29aUEhrazFvXy1pS2lyMFV4UHVIYWc4R3BON3NQdk5xSUlwSmNHdtIB2gFBVV95cUxNdHBnM2ZlaWJMUUU2SWJRM2Q3NDAxSzNkLU1mVkhscXhCQ3Rxd2xPRUNnaTVsSVJhZkVQVUxoYXJxZGE2bWdMcXhCbVhzR1Zlb0lxakpLMFJLcXFXSWpDNzNPYnR5OGdnN0ZrS2lSN3VqRWpTTC1fN3pldjh6TlY1cFR4NURBNjBWd0NVZzZqeWstQWlUdkREb3prYUJSWW1SOTM2Ul9DQlpFZERUZWxTMmJXbHp4T1RrLVh2SUZSdWJIMzJld0h0NG9zT18tZGVxeElLaS1LaXFldw?oc=5) (Mathrubhumi English) | claude |
+|  | Premier League | Marc Guehi · Manchester City | 고관절 | 미상 | [Burn replaces injured Guehi in England squad](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss) (BBC Sport Football) | claude |
+| 🆕 | Serie A | Pierre Kalulu · Juventus | - | 미상 | [Juventus, Kalulu injured: he will not join France’s training camp](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUtDbEpDVlVrUmE1U01aeUwxLW1jSEZBV2hYaWRfN28zQ0t3cUFIbkRlS0J2WFZQU2FuT3F1ZGRPSWNaMkJGZE5IUi1fWXJFVlVDOElvVTAtdnZLTGo3UnZET2FmMHo1Q242MHRZUEZpb3FDWWhvWE5sMTA3cllJTDJOdDlGNjlfLTNCVlNrQkVRdjZlcUdNLVhheU9GX2RBYWdVd1E0U0hiMGxOQVpKNGc4MmdPVExTYldB?oc=5) (LiveScore) | claude |
+| 🆕 | La Liga | Lamine Yamal · Barcelona | - | 미상 | [Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVVJZMkt3VHdOY0ZvRTVOdF9EQUlPSjdZX0tsSnIyR0ZaZ1EwOWdaaGhmRnJ2bkRpTHV0NDJBMzQ3QlBIakVXN2lTUV8wUlJXbjB5SkU4blJPSmFudVJhMjM3NFhJSnVwb0tueVFmNXlheW1XcjVhMnRGYkp4TU55bQ?oc=5) (Yahoo Sports) | claude |
+| 🆕 | La Liga | Lamine Yamal · Barcelona | - | 미상 | [Lamine Yamal ruled out of Spain’s game against Czechia: Is the Barcelona star injured?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlFZa1owT0hlbFp0eE5admlNQUY0ckVwTnpQZlVHSEVDbGZVTGtPemZfMzRBTkVvcklSUUZOckxOYXY5dEhwX19zcXgxTURTend4bG9rMEYwSFJhQUxvSjRKdU9SNkJUZ0FaSEJUZVpBRGdwSFdSOFpVSmxpdzZyMmJuMkpvNzlFUkdMQVVmc0ktNHRZdHpBRHUwNUNEZ3JyMHgzQ0FpelltQmVWQV83bTR0X29ya2FwNDZzV2phM3k5RUsxZ3hPaW95MHVXZEXSAc8BQVVfeXFMTmZRWWtaME9IZWxadHhOWnZpTUFGNHJFcE56UGZVR0hFQ2xmVUxrT3pmXzM0QU5Fb3JJUlFGTnJMTmF2OXRIcF9fc3F4MU1EU3p3eGxvazBGMEhSYUFMb0o0SnVPUjZCVGdBWkhCVGVaQURncEhXUjhaVUpsaXc2cjJibjJKbzc5RVJHTEFVZnNJLTR0WXR6QUR1MDVDRGdycjB4M0NBaXpZbUJlVkFfN200dF9vcmthcDQ2c1dqYTN5OUVLMWd4T2lveTB1V2RF?oc=5) (Diario AS) | claude |
+| 🆕 | Premier League | Harry Maguire · Manchester United | - | 미상 | [Carrick explains Maguire injury](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGgwb3JRRzdGd3dtQkwtRFUxUkEzT0ZLSVpMdnNlVkRsbGxnYzJqeVFzclFjcUJILTZQVjJDX2UyMnBJUGJVcEg3R2l5Q2d0ZDl3RTN6ZnNoUHRsS2xlbnd2N2ttcE8yRm8zVXBzU1BSWWpWREFpWDBMVHo1dWRDM29aSQ?oc=5) (Premier League) | claude |
+|  | Bundesliga | Karius | - | 미상 | [Horror in the Bundesliga: Karius and Gosens injured after bloody collision](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUF4ekU3ak0zX0szbGZwb1FuUlhQeFhBVmt6RGktVmFyQWY3NU5YN0NfZmVoZUdNVkVGMUU2b3kzT3FZWmZmendnNXhQS2NJVFVTU25IclFFVGFRSnR0QS1yOFRtbmtRR3VSbmV6OWs4anpRc0Jfa0VSNjlZWU1vV01lRFlWMlk5d3ZIMmZBMHlhQW1IUXFOdDg1WUlYVGl2X3dBSDVORVg5WWhaak9TNktmenQ4b19Fa3RsT19maw?oc=5) (Goal.com) | claude |
 |  | Premier League | - | - | 미상 | [Michael Carrick confirms injury setback to player who’s started all 10 Premier League games this season](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ25Mb2VfcnFOY21LUUhCT3VDYnlUWWpjYTRhby1scEQzbnhJVkY4YzdfeVg4SW5naHJraW5PLWxBVVFaT3F0S1Flci1ZeWNsT2tqdDhGeFViUHotME5QaFMzenlnTHBIY19nSHE2QklKVkZMaWFQVlhPRjdSWFR4Wm5Hd004RWctOEpKMl93VTRCUQ?oc=5) (Yahoo Sports) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | 발 (중족골 등) | 중증 (8주 이상 / 수술 / 파열) · "2 months" | [Bayern goalkeeper Manuel Neuer expected to miss 2 months with right foot injury](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHJCTjg2ZDVqTzBLenpET3Q0a1ZxTm9FSExVbkxMN3ZXZHIxaUlWXzNLbDVUTG1XNFN5Sl95b0NqOXlsYmsxaHptQ1NDeGdDU2N5eWtVd3BZZXVBT0dvUV95UERjdU5EZ0xfRFJXU0tJS2s0Y3JuaUN4OVNaOVYyaGhyRGhyNmJoLUZSaEhNc2ZMTWNabmZ0cFF6LU9kYjVoUkRvLUE4NTJrekh0czI2Q0JoRDVmTUx5RDlJWmx5SnRVQlNYUlFIbEppNklEejBNTlJnWDdTeUhBREE?oc=5) (The Washington Post) | claude |
-|  | Ligue 1 | Aleksandr Golovin · Monaco | - | 미상 | [Le Mans and Monaco Draw in Ligue 1, Golovin Substituted Due to Injury](https://news.google.com/rss/articles/CBMiekFVX3lxTE5haUIzellNdzhjTThVVXBUNHpGa2FncGRkaEwxZGxOZTZ2Qkw1WnZXVnBWQ3Q2V0ZyRjRJaEdSUVpwaTg2anR0Vm9fQ0FqcWxpTENSM19nNVhIVTNraVVDaXU4SGd2aFB5STJEcGZNemxMSFJuVFJyVXZR?oc=5) (Telecom Asia Sport) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | 발 (중족골 등) | 중간 (2~8주) · "Six-Week" | [Manuel Neuer Injury Update: Bayern Munich Goalkeeper Set For Six-Week Absence After Suffering Right Foot Tendon Tear](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQXFxZmdVTGVfNFBEVllZb28tVXUtREExN29NaGg1OXFiOE5GYnQySWhYN1hRekVkZ2c3N3EtT05KVDVpR29zcFVqbElKMEZJSXc4Q1BIYkFCRFNvYnBXNlYyM2VCYy14REJqX1hWcEhoT3dOUDBzR3FZNFNNZ2owekRlTUt3dTVzZWZIamFNaVJvVUIyLXFIcUxTdGQtMXVvZXFXLW4xRktIcE5YTWMtdU9XQjV2WmJ6NnFZUklWWFB0dUZkQkY2WkJmbjEwZTRtb3RsVDRZYzRocFZaYnRhcVRSUGpOejE4dFpnRDA0emJyLWPSAfgBQVVfeXFMTllLLTFMaURZT05TQ2FpQWoxMnZMWkZMR0hhLWFCQU9TNGdCbUVxUXN0cVFmeTUyamNkSDktRUtnbWoyYWN5MXVDRzZzTFJGN0Mzc3pDVFN1emF4YnJVTlZHTWFOX05tLTlvUDNpS251YzdGc1BRNnpQTWZkM3RuMWhsYXI2VDR2a1AwbEZ3aENNaWF2SGpuRTlKdzZfTmo5MmxweHpRb3U2RVN4ZnVfY29ja2pQeGYwSURzSWtqVGg4bUxWTU1aYnNuUW5OcDYyQUU0eGtiaks0R0FzVkEzdnVfVE8yRUIyZl9xWmhkcE5hcjdLWEI5Mi0?oc=5) (The Sunday Guardian) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Bundesliga: Goalkeeper Neuer joins Bayern’s long injury list](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTURlYTFtTVduWTB1VWV5VUxBME1yZTg5QS00QVdIU1JXTzdkemMxbnNZd0liUzhOLWJYYnlydWpJbXJ0MUJDWURLSnB5TjJ5ZTZKQUpRbm9aTjBadWRHZjVvZXlxTktRYTlkQWRCM3NkMTFnQlpjQTNOdDFRQUdnQ3U4dU56UQ?oc=5) (Punch Newspapers) | claude |
-| 🆕 | Bundesliga | Waldemar Anton · Borussia Dortmund | 근육 (부위 미상) | 미상 | [Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up](https://www.getfootballnewsgermany.com/2026/germany-anton-baku-gruda-raum/) (Get German Football News) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | 발 (중족골 등) | 미상 | [Bayern Munich confirm Manuel Neuer partial tendon tear](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFo1ZFJFbnlzeVdSYlNtSDNtZWJEMXdvMWxUaXJNWEplVTlicGg1LTlzazh5ZVhmQkItY0dMcHhudk9HOExTbVBIQndhY3ZXdWVQRElfdnc4NVd3Q2NjQnlXd3NJZDlKZTZQOE5PTjVPWkJHc1ppNk9ublJwc21mbHBRVUl2RVNrNlViX21xdzFTU3BnRThDZHNVUjdMWDQwN29JekJmUW9vcnBXdTZJYjc3WFpXYTFJam1vcUVXbw?oc=5) (Bundesliga | official website) | claude |
-|  | Premier League | Marc Guehi · Manchester City | 고관절 | 미상 | [England await Guehi scan results after injury concern](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss) (BBC Sport Football) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | 발 (중족골 등) | 중간 (2~8주) · "six weeks" | [Manuel Neuer expected to be sidelined for six weeks](https://www.getfootballnewsgermany.com/2026/manuel-neuer-injury-2026/) (Get German Football News) | claude |
+|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Bundesliga: Goalkeeper Neuer joins Bayern's long injury list](https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVIxUzh4ZFlpTnBuSElINVRDR2hHNFplQVktZkY3eDRkYlJNaTFmWjVvVWRjLVROd19Na3I1VjJjUVF5ekxUMm84MW5IVVVvZE42d29hTXN6X3hkOElMQTBRRENJb3VReUdsMUdMZHhXbU5ObE9zSTB5Y1ZaaHZVTlB2ZDNIcnlwVjJmNzFwZmlWbkpJOGJGQmFPc1l4QUxI?oc=5) (Head Topics) | claude |
+|  | Bundesliga | Waldemar Anton | - | 미상 | [Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up](https://www.getfootballnewsgermany.com/2026/germany-anton-baku-gruda-raum/) (Get German Football News) | claude |
+|  | Premier League | Marc Guehi · Manchester City | - | 미상 | [England: Dan Burn replaces injured Marc Guehi in squad for Nations League games](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CS1hENUpWSWU2Sm53dThnMzNtTENYZDdFU09vNWZNTmhIVXVKVVRWcjcxaWdURWxCQkFMRlZpTUxfbHlkelV2WTdfTy1GSnA2VEV0MjdSTnlvZnFMQVd4dWNsV2JObXFD?oc=5) (BBC) | claude |
+|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 중간 (2~8주) · "six weeks" | [Manuel Neuer expected to be sidelined for six weeks](https://www.getfootballnewsgermany.com/2026/manuel-neuer-injury-2026/) (Get German Football News) | claude |
 |  | Premier League | Granit Xhaka · Sunderland | - | 미상 | [Sunderland suffer Granit Xhaka injury blow against Chelsea as Regis Le Bris forced into early change](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMG9LTV9WQTFEeEpPQ3hGNkRHTGxoemRneWR1S0pzTnFjLTJCYkkyU1J5NDVqcXVKU2p3cGNsWmhLTnEyLUxjaFBXdm05U1R3WmhUTFFxOXA0X1R6QzFZSDVQaUp2bmFCT04ydGlCOUR4NDVYX3JRMzlxUXIyUHk4UEZjX3ptZmdZTU1mdHUxeVFudjVsaTctbFVDWVVrN1Zlb3BDbHlJMXNQdC1QaEp1UzZ5aGFGcFJsOGNZRkNoWlo4d3ItU1dGbUxfMHljeDBzc3dXbU1KVQ?oc=5) (Sports Mole) | claude |
 |  | Bundesliga | Manuel Neuer · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) · "two months" | [Neuer expected to miss two months with injury in huge blow to Bayern Munich](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnZ1SWVYUUpVNTFDWWhXWThrU1pmODJXbWJYWFVpakRuZEtoX2k4ZWIydWVoWWE4cWF5T2RJbG1tM2VreG1HaGF4aEJEandaZzFydS15VnRMUnhiVVZDVlV1V0tJeTFiOTMwMmhJa0JhLXRKN18xek9DT2Z3OXZWU2JTd1UwckVockFoYTZMSjYxRUlYN1F0WDVHZDhKS2ZaVEtMSllRTUZxdklFTm55WjI4U2pGeVJheUlhb1hDQjF6dmwxMkFFX3dEc0s0VVU?oc=5) (Flashscore.co.za) | claude |
-|  | Serie A | Sutalo · Lazio | - | 미상 | [Lazio, Sutalo injured against Napoli: what happened](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWpfSERpZXhKc0lQYS11QkRTN1BidlRSRVVuQWRPZWhVbzhfZEVCV3dVcXNUbHg1dXdoUVRKOGpyUlF0by1zS2hDQ05KUkxHcDQ0b1Z0YTFBYXJGMGFObG1YejlESFkxVlllZDcyRUFuUTVvazVZSmtCVEdDNGtfNUdJUDlYTEJhWnJLSGVhdUZYT09xb0JjUmtBZ3oxOEpER3gxOUMzdEFwQQ?oc=5) (LiveScore) | claude |
-|  | La Liga | Rodri · Barcelona | 햄스트링 | 미상 | [Rodri ruled out of Atletico clash with hamstring injury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWsydUtLLU1ydk52ampwN2w5a205b1k5dE0tY1dHOTFBWHl4WmxCMkt1RkxzZGRxZE1veG9QUXpPOHVWVUw5Mm9rU2VOaE1NMEsyN1JKTkp6V2JHY3BBa3dfM0NVQWl4Qmp0cGxpS3ZnOS1xZFpVNWQ1Yzh2MEh3MndraHdOWEpKSExQamRKN3BFY2wxcDZCbjNTSlduOGEzbUR4LWNKQnA?oc=5) (The Daily Star) | claude |
-|  | Ligue 1 | Giovanni Reyna · Strasbourg | - | 미상 | [USMNT Announces Giovanni Reyna Replacement After Unfortunate Injury News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFo3aUhYUXNNTU9qdjdDcllBSzJ1N19NUUE0Y1NDWG9aNUJhNmZTWjY0ZzFoMEhfQ05uNEc4X2J3V1pmUUVzcFI5eXJLOUllVkN4NmtzZ2pUR3ZHYndSNC12dzFrWWpveFlXSVUyY0d2NDl4TXI3UTFLZHpDa1NVMVVHTFcyOXBhM3hiTGZ6V3NVSkdjRHc?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | Steur · Newcastle | - | 미상 | [Jaissle on Newcastle’s draw with Fulham, Steur injury worry and Dedic incident](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR05EdGl2ZFZFVXcwUE5NWjRiaEFmNlNzVWE4dTJ4Mkx0bTdzX0lRQnpLUHRrQW1GVXNwUzNpdmlBUVgzaTJiRmw5S3BuNmRIQkx4aVJDbUc4alV3RXFSNHJScXFBUEN3SXRYMVphaGZ6bVBDT3hEMmFXcnlMNkVESERGa0VjSEk4ay1EU0R0dWszUDFZRXI4QjRMeEV6T1dxZFRaeWNxamgya0t4RXh5Y01ya1FpZUNVM1lyY0dVQVFxRnhJZk9qbVVpZWZIY2Exc2lZZF9HTG5EMnM?oc=5) (LiveScore) | claude |
-|  | Ligue 1 | Giovanni Reyna · Strasbourg | - | 미상 | [Reyna was fit and firing for Strasbourg. His latest injury is a heartbreaker for the USMNT star](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX00wUGV1M1hsWHd5MkZhSlEzOFA5OXV0MmQ1X2dYMGV1OVFRU21JajlJWHNvQzRBMEFfWGlyX3JBQjdxb0RlckNHRmNVbmRrWHJDUVZjWEkydjF0SHVuRzVDd2k3YVhMREZLRURpTUJYbkNUUjU4S2h6MzhlQndON2tqWXZZR0lHaGpJWGh3UjI5b3BwMWMyODdLNFlDb19Kdjh5clU3dUd1MkY0aVBMMGZYSDFxakRWNS16YzF3?oc=5) (ESPN) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Joshua Kimmich suspects Bayern Munich captain Manuel Neuer suffered serious injury](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV2FnQTViWkxxc1ZrR2RGMzg4aGluTm5kYmF0Sm5qaXMwYVFXU1ZMWDVfeWh6OXRYd1FUQlhxSnRNenpQcnV4ZzhwVXNWSV9YTjFCNDlzcGhQeVFNaVF0Tk9IT29xTVp4aDkyc0NZTHFhbVdNTkMyVTRDOW4wdy1lai1BbXF2T215RU5aTmhpUmptZ01Pb0RQOFRSbDlrMFpoc2JQdEtNLUQ5Ri1adkhoVkotLW8xc0poYU5Kc25QSDUwdmpiYVlXcEpUTkdyc0RDcDBPZkw5OXNxbEpfeVgxUm50UC01eG8?oc=5) (Bavarian Football Works) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Manuel Neuer Makes Bayern Munich History but Suffers Another Injury Scare Against Mainz](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVU1idHNxRlREdmp6aDJRZ05QRjBnTG1yWDdLRUwwTjZWVnJvOVFPdjA5b1VqSDZvWjcxVXpfSXhEWUpVREpZanZpdGhIWTdXY3BnUzhkZ1gwNHVmcGtaTlhQN3N0NkFYTXJ6SVJxMWJpcktZS3U4ZDBucUxLZUpJVlNZeG5EZkk1TENZUGQ3YTFaRFFiTW5wZVJ5elNKaTN3dGZBTXJOb0lvS1hxUGRldXhxWE1UTkVPWDNUclNyS0Q4RFp4WWRqTmxXTmJMcTk2QVBJVHN4MWNRNUEwUGtGNA?oc=5) (beIN SPORTS) | claude |
-|  | Ligue 1 | Giovanni Reyna · Strasbourg | - | 미상 | [Jack McGlynn replaces injured Gio Reyna on USMNT roster vs. Haiti](https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEdmNmhGMnlMbU1pcEpkNFBWUnlJY2Q0ekRtSVAzOEU3bGlrbEpFcW9TekI5aVlzTnJMVF9nWlgwYXl3WHpHZjZrVWxINnNOSVNEZEp4ZW1LcDNTNDB6M0tVQ2ZTWmdjMXV1dk1hYXhuakNZc2diM1dLZm02cnk2azJLZFk0cS1MV1E?oc=5) (Yahoo Sports) | claude |
-|  | Ligue 1 | Giovanni Reyna · Strasbourg | - | 미상 | [Giovanni Reyna injury news: Strasbourg star scores, exits game as Stoke City man called into USMNT place](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDNpZU1Db1E3WFRqbG9EVFFWU0FRRUNrMVdULXNQRkF3LTlrSGY2ZXlBdS1IUnRLWWZIbWVpVjNCVHlvTWhmLUg2Q3hWOFlpc2V0dVgzUXo0QV9ZT1lzTGw0ejViYnhKMElDLTZ6b2hKWmpiU0RjS3pjM29hcWkxNk5NZXE0cGRQYzVRVXZZc0hPSG9pNV94eUN4T3ZVNmVmRVZsN0xKS3d1akZzQjBCM3JyNGQ3NWxmSFVYVmdiT0xEeFV1UVNLZ1ZoZFpLa1EwZTBpMWJ3dw?oc=5) (NBC Sports) | claude |
-|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Mainz 05 furious! Equaliser against Bayern Munich ruled out – Manuel Neuer substituted due to injury after an acrobatic leap](https://news.google.com/rss/articles/CBMijgJBVV95cUxPSWtGclp0dTd3MjhxVU9Ja2NBNnE1TzF3d2E0MXZqSUlURzJWdjMxekg5TDRSVmVEMVM3Q3RHUlcyNjZ2R1FuRzY4UUdncVhQYUM2MDZyQW00N0FVamw0TWs4VXdhNk9yc0ZKQ1NxUWNRejBtMFR6RFR1a1lrM0xUc25na3NkVDlwanREam9OelNzTWZ5ZTN5S21ib3I5SWludV9LNVdEVkl5N1VwVjRPdWJzcjJkbGNvRm53V21QUlVKSEJsY29kTFphZmV0eDd1OXlNb3FVYkh6V1JQUkl5eUV1V0xhT0h2aWlhMWFMSEVhbkhBY0VnOGZKaTBvLUVma0luNkhTRnkwbGE5eUE?oc=5) (LiveScore) | claude |
-|  | Serie A | Roma | - | 미상 | [New Roma injury worry for Mancini, Gollini and more after Manchester United defeat](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaF85ZFFKTXpLcVd0SjJRT2lwVERUWGlEanZ0eW54QlVaeVJ3WXRSVDJaRDVaYW02RVdsaTExRzhzZTlNZHVTTG1zWG84ZmlKQ3BOUERfUHVhSG5wZ2ZzbEROOFB5MEw5NHFTLWcteU9jdGxUMWpEcEl6eGlnQnMwdGJaOGwxRlBKdDRXLXlveWo0QkxqdjVTX0xVUVdib2RYLWtWODR5T2RoSC1SaUx6c0xTeFFRQlg5Q3BZNENlSFc1d2hiQnh4cmdRdXdtZ2tZel9YSkhidlA4VlJVQmgxMGFZdw?oc=5) (LiveScore) | claude |
-|  | Premier League | Tel | - | 미상 | [📸 Premier League uproar: Tel injured, a clear red card missed?](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZuTjFQQXRTSm00a1gtM2JrRHo4V2thSDM0ZlR3V2JMNzBtOHBNNDFidUhneGtLZ1Jscy03ZXBXZmZWMEswVGZhZl8wUkxhbENZMTRWMmZlaXBlU2lFRExBZlNQQjN1SkQweXpJS1RmYUpiLXQ5SjF3U19JNTRraXdibEtaRU1NM3c?oc=5) (Yahoo Sports) | claude |
+|  | Bundesliga | Manuel Neuer · Bayern Munich | - | 미상 | [Neuer Off Injured After Becoming Bayern's Oldest Bundesliga Player](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51QnZjb1VEZ3BBdHhsbE5oRGR0YkVXRjRfamhrd3h4RnExY3NBQ01iWmhUY3Fwd1plc0hqc3dRMWU1aTgwRmtSRjNKVlJSSWhzVmF6NHRUbTVwUjh6?oc=5) (Bernama) | claude |
 
 ## 오늘의 콘텐츠 후보 (채널 적합도 순)
 
 | 순위 | 선수 | 부위 | 적합도 | 이유 |
 |---|---|---|---|---|
-| 1 | Rodri | 햄스트링 | ★★★★★ | 스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임 |
-| 2 | Marc Guehi | 고관절 | ★★★ | 둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음 |
-| 3 | Manuel Neuer | 발 (중족골 등) | ★★ | 뼈 부상. '보조기 기간에 할 운동' 정도 |
-| 4 | Waldemar Anton | 근육 (부위 미상) | ★ | 부위 확인 전에는 보류 |
+| 1 | Aleksandr Golovin | 종아리 | ★★★★ | 28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅 |
+| 2 | Dominik Szoboszlai | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
+| 3 | Lamine Yamal | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
+| 4 | Marc Guehi | 고관절 | ★★★ | 둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음 |
 
-### 1. Rodri · Barcelona — 햄스트링 (미상)
-- [Rodri ruled out of Atletico clash with hamstring injury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWsydUtLLU1ydk52ampwN2w5a205b1k5dE0tY1dHOTFBWHl4WmxCMkt1RkxzZGRxZE1veG9QUXpPOHVWVUw5Mm9rU2VOaE1NMEsyN1JKTkp6V2JHY3BBa3dfM0NVQWl4Qmp0cGxpS3ZnOS1xZFpVNWQ1Yzh2MEh3MndraHdOWEpKSExQamRKN3BFY2wxcDZCbjNTSlduOGEzbUR4LWNKQnA?oc=5) · La Liga · The Daily Star
-- 콘텐츠 각도: Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.
-- 주의: A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early.
+### 1. Aleksandr Golovin · Monaco — 종아리 (미상)
+- [Monaco’s Aleksandr Golovin sustains calf injury](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWhNYlB3VFFXWXFOcVlnc2ZZME9zZ1NHZjRKbzBiTmRYd051c0U0Wk0wZ2RlSWpGM1FfLWoxZ21UUWVkaWVUemw0SDM1ZkJ6dmpOMXhBLW5OU3pvUXgtcWRxYUk0b1BfaVBRVE0teWQ4ZV81TGxLa2JwQ3gwQU9KU1lYeU5lc2Y1YXpzMG5IcVhNRGJw?oc=5) · Ligue 1 · Get French Football News
+- 콘텐츠 각도: Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.
+- 주의: Sudden calf pain with swelling or warmth needs a check for a clot before any rehab.
 
 **어디·무슨 근육**
-- 위치: 허벅지 뒤쪽. 엉덩이 아래 뼈(좌골결절)에서 시작해 무릎 뒤를 지나 정강이뼈·종아리뼈에 붙는다.
-- 근육: 대퇴이두근(biceps femoris, 바깥쪽) · 반건양근(semitendinosus, 안쪽 위) · 반막양근(semimembranosus, 안쪽 깊은 층). 고관절을 펴고 무릎을 굽힌다.
-- 집중: 전력 질주 중 부상은 대부분 대퇴이두근 장두(long head)다. 다리를 앞으로 뻗으며 발이 땅에 닿기 직전, 근육이 늘어나며 버티는 순간(편심성) 찢어진다. 그래서 늘어나면서 버티는 힘(Nordic curl, RDL)과 고관절 신전력, 골반 안정이 핵심이다.
+- 위치: 종아리 뒤쪽. 무릎 뒤에서 아킬레스건을 거쳐 발뒤꿈치뼈까지.
+- 근육: 비복근(gastrocnemius, 겉층 두 갈래 — 특히 안쪽 갈래가 자주 다침) · 가자미근(soleus, 깊은 층, 달리기에서 가장 큰 힘을 낸다). 둘이 합쳐져 아킬레스건이 된다.
+- 집중: 무릎을 편 채 하는 카프 레이즈는 비복근, 무릎을 굽힌 채 하는 카프 레이즈는 가자미근을 훈련한다. 28세 이후 종아리 부상이 늘어나는 이유는 가자미근 근력 저하와 관련이 깊어 두 가지를 모두 해야 한다.
 
-**촬영할 단계:** Phase 2 · Rebuild strength & length (weeks 2–4) — 늘어난 길이에서 버티는 힘을 만든다. 대퇴이두근 편심성 근력 + 고관절 신전력. 재발 방지의 핵심 단계.
-1. Single-leg Romanian deadlift (bodyweight → light load) — 영상 촬영 필요
-2. Nordic hamstring curl, eccentric only, 3×4–6 — 영상 촬영 필요
-3. Sliding leg curls on a towel or slider — 영상 촬영 필요
+**촬영할 단계:** Phase 2 · Strength — 비복근(무릎 편 채)과 가자미근(무릎 굽힌 채) 모두 한 다리로 천천히 내리는 편심성 근력.
+1. Standing calf raises, double → single leg, slow eccentric — 영상 촬영 필요
+2. Bent-knee calf raises for soleus — 영상 촬영 필요
+3. Farmer's walk on toes — 영상 촬영 필요
 
 <details><summary>전체 3단계</summary>
 
-- **Phase 1 · Protect & activate (days 1–7)** — 통증 없이 근육을 깨운다. 붓기·통증 관리, 등척성(움직임 없이 힘주기)으로 근육 위축 방지, 정상 보행 회복.: Pain-free isometric hamstring holds (bridge position, 5×20s) · Gentle hip hinge with no load · Walking at normal pace, no running
-- **Phase 2 · Rebuild strength & length (weeks 2–4)** — 늘어난 길이에서 버티는 힘을 만든다. 대퇴이두근 편심성 근력 + 고관절 신전력. 재발 방지의 핵심 단계.: Single-leg Romanian deadlift (bodyweight → light load) · Nordic hamstring curl, eccentric only, 3×4–6 · Sliding leg curls on a towel or slider
-- **Phase 3 · Return to sprinting (weeks 4+)** — 부상 당시 속도까지 단계적으로 노출한다. 60%→90% 스프린트, 감속·방향 전환까지 통과해야 복귀.: Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions · A-skips and high-speed leg swings · Deceleration and change-of-direction drills at full speed
+- **Phase 1 · Protect & load lightly** — 가자미근부터 가볍게 깨우고 발목 가동 범위 유지.: Seated calf raises (soleus), 3×15 · Ankle range of motion · Walking on flat ground
+- **Phase 2 · Strength** — 비복근(무릎 편 채)과 가자미근(무릎 굽힌 채) 모두 한 다리로 천천히 내리는 편심성 근력.: Standing calf raises, double → single leg, slow eccentric · Bent-knee calf raises for soleus · Farmer's walk on toes
+- **Phase 3 · Elastic & sprint** — 발목의 탄성(스프링)을 회복해 스프린트 속도로 돌아간다.: Pogo jumps for ankle stiffness · Skipping and bounding · Sprint build-ups
 
 </details>
 
 **캡션 (EN)**
 ```
-Rodri (Barcelona): hamstring injury. Here's what the comeback usually looks like.
+Aleksandr Golovin (Monaco): calf injury. Here's what the comeback usually looks like.
 
-Most hamstring rehab has 3 stages. This is the one that gets rushed:
-Phase 2 · Rebuild strength & length (weeks 2–4)
-1. Single-leg Romanian deadlift (bodyweight → light load)
-2. Nordic hamstring curl, eccentric only, 3×4–6
-3. Sliding leg curls on a towel or slider
+Most calf rehab has 3 stages. This is the one that gets rushed:
+Phase 2 · Strength
+1. Standing calf raises, double → single leg, slow eccentric
+2. Bent-knee calf raises for soleus
+3. Farmer's walk on toes
 
 ⚠️ General training education, not medical advice. Injured? See a physio first.
 
@@ -80,20 +85,122 @@ Phase 2 · Rebuild strength & length (weeks 2–4)
 ```
 **캡션 (ES)**
 ```
-Rodri (Barcelona): lesión de isquiotibiales. Así suele ser la vuelta.
+Aleksandr Golovin (Monaco): lesión de pantorrilla / gemelo. Así suele ser la vuelta.
 
-La rehabilitación de isquiotibiales tiene 3 fases. Esta es la que más se apresura:
-1. Single-leg Romanian deadlift (bodyweight → light load)
-2. Nordic hamstring curl, eccentric only, 3×4–6
-3. Sliding leg curls on a towel or slider
+La rehabilitación de pantorrilla / gemelo tiene 3 fases. Esta es la que más se apresura:
+1. Standing calf raises, double → single leg, slow eccentric
+2. Bent-knee calf raises for soleus
+3. Farmer's walk on toes
 
 ⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
 
-### 2. Marc Guehi · Manchester City — 고관절 (미상)
-- [England await Guehi scan results after injury concern](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss) · Premier League · BBC Sport Football
+### 2. Dominik Szoboszlai · Liverpool — 무릎 (기타) (미상)
+- [Szoboszlai a doubt for Nations League conclusion](https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss) · Premier League · BBC Sport Football
+- 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
+- 주의: Locking, giving way or significant swelling needs imaging.
+
+**어디·무슨 근육**
+- 위치: 무릎 관절 주변. 안쪽 인대(MCL), 슬개골 아래 힘줄(슬개건), 관절 연골 등.
+- 근육: 대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.
+- 집중: 무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다.
+
+**촬영할 단계:** Phase 2 · Strength — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.
+1. Wall sits and goblet squats to pain-free depth — 영상 촬영 필요
+2. Step-downs for control — 영상 촬영 필요
+3. Single-leg Romanian deadlift — 영상 촬영 필요
+
+<details><summary>전체 3단계</summary>
+
+- **Phase 1 · Settle & activate** — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.: Quad sets, straight-leg raises · Stationary bike, no resistance, for range · Calf raises to keep the lower leg working
+- **Phase 2 · Strength** — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.: Wall sits and goblet squats to pain-free depth · Step-downs for control · Single-leg Romanian deadlift
+- **Phase 3 · Return to running** — 달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.: Jogging → striding progression · Lateral bounds with stuck landings · Change-of-direction ladder
+
+</details>
+
+**캡션 (EN)**
+```
+Dominik Szoboszlai (Liverpool): knee injury. Here's what the comeback usually looks like.
+
+Most knee rehab has 3 stages. This is the one that gets rushed:
+Phase 2 · Strength
+1. Wall sits and goblet squats to pain-free depth
+2. Step-downs for control
+3. Single-leg Romanian deadlift
+
+⚠️ General training education, not medical advice. Injured? See a physio first.
+
+💬 Comment SPEED for my 6-week speed program (for healthy players).
+```
+**캡션 (ES)**
+```
+Dominik Szoboszlai (Liverpool): lesión de rodilla. Así suele ser la vuelta.
+
+La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
+1. Wall sits and goblet squats to pain-free depth
+2. Step-downs for control
+3. Single-leg Romanian deadlift
+
+⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
+
+💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+
+### 3. Lamine Yamal · Barcelona — 무릎 (기타) (미상)
+- [Lamine Yamal knee injury: Barcelona winger out of Spain’s Nations League match](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmdwYks4ek1FTE9oRzdDTlZkaVpLUzd1YmtIa0QyZmFIeFFxV0hyckhzY2pQNWt2OXNhcWlPZ05DQXdkcC14NTZvVkZzZlFQZWpGMXIzaGxJUWVTWnNuckpHRlVWdFhxVm9HYlZoUlhZTEk1WmNRc3l5NUZwSTJXcld3QXBEYkRmdGpnVmNwTkVQYm12N1g1VVVDMHc3YjZKcWlLZTlyZHgtTFZxc29aUEhrazFvXy1pS2lyMFV4UHVIYWc4R3BON3NQdk5xSUlwSmNHdtIB2gFBVV95cUxNdHBnM2ZlaWJMUUU2SWJRM2Q3NDAxSzNkLU1mVkhscXhCQ3Rxd2xPRUNnaTVsSVJhZkVQVUxoYXJxZGE2bWdMcXhCbVhzR1Zlb0lxakpLMFJLcXFXSWpDNzNPYnR5OGdnN0ZrS2lSN3VqRWpTTC1fN3pldjh6TlY1cFR4NURBNjBWd0NVZzZqeWstQWlUdkREb3prYUJSWW1SOTM2Ul9DQlpFZERUZWxTMmJXbHp4T1RrLVh2SUZSdWJIMzJld0h0NG9zT18tZGVxeElLaS1LaXFldw?oc=5) · La Liga · Mathrubhumi English
+- 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
+- 주의: Locking, giving way or significant swelling needs imaging.
+
+**어디·무슨 근육**
+- 위치: 무릎 관절 주변. 안쪽 인대(MCL), 슬개골 아래 힘줄(슬개건), 관절 연골 등.
+- 근육: 대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.
+- 집중: 무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다.
+
+**촬영할 단계:** Phase 2 · Strength — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.
+1. Wall sits and goblet squats to pain-free depth — 영상 촬영 필요
+2. Step-downs for control — 영상 촬영 필요
+3. Single-leg Romanian deadlift — 영상 촬영 필요
+
+<details><summary>전체 3단계</summary>
+
+- **Phase 1 · Settle & activate** — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.: Quad sets, straight-leg raises · Stationary bike, no resistance, for range · Calf raises to keep the lower leg working
+- **Phase 2 · Strength** — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.: Wall sits and goblet squats to pain-free depth · Step-downs for control · Single-leg Romanian deadlift
+- **Phase 3 · Return to running** — 달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.: Jogging → striding progression · Lateral bounds with stuck landings · Change-of-direction ladder
+
+</details>
+
+**캡션 (EN)**
+```
+Lamine Yamal (Barcelona): knee injury. Here's what the comeback usually looks like.
+
+Most knee rehab has 3 stages. This is the one that gets rushed:
+Phase 2 · Strength
+1. Wall sits and goblet squats to pain-free depth
+2. Step-downs for control
+3. Single-leg Romanian deadlift
+
+⚠️ General training education, not medical advice. Injured? See a physio first.
+
+💬 Comment SPEED for my 6-week speed program (for healthy players).
+```
+**캡션 (ES)**
+```
+Lamine Yamal (Barcelona): lesión de rodilla. Así suele ser la vuelta.
+
+La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
+1. Wall sits and goblet squats to pain-free depth
+2. Step-downs for control
+3. Single-leg Romanian deadlift
+
+⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
+
+💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+
+### 4. Marc Guehi · Manchester City — 고관절 (미상)
+- [Burn replaces injured Guehi in England squad](https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss) · Premier League · BBC Sport Football
 - 콘텐츠 각도: Hip strength protects the knee and the groin: 3 glute drills.
 - 주의: Deep groin pinch with hip flexion can be labral; imaging decides.
 
@@ -143,110 +250,8 @@ La rehabilitación de cadera tiene 3 fases. Esta es la que más se apresura:
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
 
-### 3. Manuel Neuer · Bayern Munich — 발 (중족골 등) (중증 (8주 이상 / 수술 / 파열))
-- [Bayern goalkeeper Manuel Neuer expected to miss 2 months with right foot injury](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHJCTjg2ZDVqTzBLenpET3Q0a1ZxTm9FSExVbkxMN3ZXZHIxaUlWXzNLbDVUTG1XNFN5Sl95b0NqOXlsYmsxaHptQ1NDeGdDU2N5eWtVd3BZZXVBT0dvUV95UERjdU5EZ0xfRFJXU0tJS2s0Y3JuaUN4OVNaOVYyaGhyRGhyNmJoLUZSaEhNc2ZMTWNabmZ0cFF6LU9kYjVoUkRvLUE4NTJrekh0czI2Q0JoRDVmTUx5RDlJWmx5SnRVQlNYUlFIbEppNklEejBNTlJnWDdTeUhBREE?oc=5) · Bundesliga · The Washington Post
-- 콘텐츠 각도: Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.
-- 주의: Bone healing timelines are set by imaging, not feel.
-
-**어디·무슨 근육**
-- 위치: 발등 가운데의 긴 뼈 5개(중족골)와 발바닥. 축구에서는 5번(새끼발가락 쪽) 중족골 피로골절이 잦다.
-- 근육: 발 내재근(발바닥 안의 작은 근육들, 아치 유지) · 족저근막 · 종아리 근육(발목을 통해 발에 힘 전달).
-- 집중: 뼈는 시간이 필요하므로 보조기 기간에는 '발을 쓰지 않고' 고관절·체간·상체로 체력을 지킨다. 이후 발 아치 근육(short-foot)과 종아리를 키워 충격을 분산한다.
-
-**촬영할 단계:** Phase 1 · Protect (boot / limited load) — 뼈가 붙는 동안 발을 보호하고 나머지 몸의 체력 유지.
-1. Toe mobility within the boot's limits — 영상 촬영 필요
-2. Hip and core work seated — 영상 촬영 필요
-3. Upper body to stay fit — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect (boot / limited load)** — 뼈가 붙는 동안 발을 보호하고 나머지 몸의 체력 유지.: Toe mobility within the boot's limits · Hip and core work seated · Upper body to stay fit
-- **Phase 2 · Foot strength** — 발 아치 근육과 종아리 근력 회복.: Short-foot exercise · Towel scrunches, marble pick-ups · Calf raises progressing to single leg
-- **Phase 3 · Impact** — 부드러운 바닥부터 충격 노출, 점프, 축구화 신고 방향 전환.: Walking → jogging on soft ground · Pogo hops · Cutting with proper boots
-
-</details>
-
-**캡션 (EN)**
-```
-Manuel Neuer (Bayern Munich): foot / metatarsal injury. Here's what the comeback usually looks like.
-
-Most foot / metatarsal rehab has 3 stages. This is the one that gets rushed:
-Phase 1 · Protect (boot / limited load)
-1. Toe mobility within the boot's limits
-2. Hip and core work seated
-3. Upper body to stay fit
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Manuel Neuer (Bayern Munich): lesión de pie / metatarso. Así suele ser la vuelta.
-
-La rehabilitación de pie / metatarso tiene 3 fases. Esta es la que más se apresura:
-1. Toe mobility within the boot's limits
-2. Hip and core work seated
-3. Upper body to stay fit
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-
-### 4. Waldemar Anton · Borussia Dortmund — 근육 (부위 미상) (미상)
-- [Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up](https://www.getfootballnewsgermany.com/2026/germany-anton-baku-gruda-raum/) · Bundesliga · Get German Football News
-- 콘텐츠 각도: Follow-up post once the club confirms the exact muscle.
-- 주의: Wait for the specific diagnosis before any detailed content.
-
-**어디·무슨 근육**
-- 위치: 클럽이 '근육 문제'라고만 발표한 경우. 축구에서는 햄스트링 > 내전근 > 대퇴사두근 > 종아리 순으로 흔하다.
-- 근육: 미확정.
-- 집중: 정확한 부위가 확인되면 해당 항목으로 다시 알림이 간다. 그전에는 상세 콘텐츠를 만들지 않는다.
-
-**촬영할 단계:** Phase 2 · Eccentric strength — 해당 근육의 편심성 근력.
-1. Slow eccentric loading of the muscle — 영상 촬영 필요
-2. Single-leg strength work — 영상 촬영 필요
-3. Core — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect & isometrics** — 통증 없는 등척성과 보행.: Pain-free isometric holds for the affected muscle · Light mobility · Walking
-- **Phase 2 · Eccentric strength** — 해당 근육의 편심성 근력.: Slow eccentric loading of the muscle · Single-leg strength work · Core
-- **Phase 3 · Speed** — 스프린트와 포지션별 동작 복귀.: Sprint build-ups · Plyometrics · Position-specific drills
-
-</details>
-
-**캡션 (EN)**
-```
-Waldemar Anton (Borussia Dortmund): muscle (unspecified) injury. Here's what the comeback usually looks like.
-
-Most muscle (unspecified) rehab has 3 stages. This is the one that gets rushed:
-Phase 2 · Eccentric strength
-1. Slow eccentric loading of the muscle
-2. Single-leg strength work
-3. Core
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Waldemar Anton (Borussia Dortmund): lesión de muscular. Así suele ser la vuelta.
-
-La rehabilitación de muscular tiene 3 fases. Esta es la que más se apresura:
-1. Slow eccentric loading of the muscle
-2. Single-leg strength work
-3. Core
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-
 ## 선수 미확인 (알림 보내지 않음)
 
-- Bundesliga: [Terrible collision in the Bundesliga, two Schalke stars are injured](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmV2WFh4VnlONEhfc0dBNEZocDZERVA0U19CWnR6dGRUV3FRSHhWT0pRTS1qV0ZCTUhial90UXk5b2lERVdydjhDUG9PbGFjQWUyMGdQYXNDNndRVlF6MVJSaVB6VWxjckFBcEdqeEM5VTlJb3h3NmFZWGp4OVJNNEpsektyQUlPazF4R2dwVzJBZHlOckRvZDRuZ0NOQ1VjQkZr?oc=5) (Gazeta Express)
+- La Liga: [Barcelona star forced out of international duty with injury](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEJTZlZ6a0pRUDR3UTVmbjRYSkdzcGh0Umc0YllyM1YzaDRNWTM4YnByXzEyVTg0WlNtcFVpSm51SlBOQnJpaWYwYVpPdTNxaXBwelF1dmJrb0RtM2tLdXFBNlhpcW5EQjMwUFdCQTAybHpRRnh3TDVNVEZwM2N1anh1bWo1Q2FENnJuUlZqUUlGbTA?oc=5) (Yahoo Sports)
+- Serie A: [Lazio Full-Back Won’t Join National Team After Sustaining Injury in Napoli](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlZpcDhicnRUZnN2WWlyOUwtejFfaGZ6eFM1THI0R25EMXY0N3Jid1o4LTdwVkttUDEtMlNGTGV1OHJWMThDTkhUSnljY1FTU1g0MXBZQmtIWmE3NGdMNG45OHpJay04TW1TUDZrNGxMcFRFR01pSy1WLWlVOHU4V2poY3ZjTFVTUHpicGFoaDFWME82RzE5T1NoT043Z1R6S1BaWUE3cEZhakt2MlZSZGRweXoyX0NucWRGb09vZU1oS25MR3oxN21wVjRWYXVxamlJ?oc=5) (LiveScore)
 - Premier League: [Michael Carrick confirms injury setback to player who’s started all 10 Premier League games this season](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ25Mb2VfcnFOY21LUUhCT3VDYnlUWWpjYTRhby1scEQzbnhJVkY4YzdfeVg4SW5naHJraW5PLWxBVVFaT3F0S1Flci1ZeWNsT2tqdDhGeFViUHotME5QaFMzenlnTHBIY19nSHE2QklKVkZMaWFQVlhPRjdSWFR4Wm5Hd004RWctOEpKMl93VTRCUQ?oc=5) (Yahoo Sports)
-- Serie A: [New Roma injury worry for Mancini, Gollini and more after Manchester United defeat](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaF85ZFFKTXpLcVd0SjJRT2lwVERUWGlEanZ0eW54QlVaeVJ3WXRSVDJaRDVaYW02RVdsaTExRzhzZTlNZHVTTG1zWG84ZmlKQ3BOUERfUHVhSG5wZ2ZzbEROOFB5MEw5NHFTLWcteU9jdGxUMWpEcEl6eGlnQnMwdGJaOGwxRlBKdDRXLXlveWo0QkxqdjVTX0xVUVdib2RYLWtWODR5T2RoSC1SaUx6c0xTeFFRQlg5Q3BZNENlSFc1d2hiQnh4cmdRdXdtZ2tZel9YSkhidlA4VlJVQmgxMGFZdw?oc=5) (LiveScore)

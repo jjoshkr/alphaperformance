@@ -2997,6 +2997,358 @@
   "anton:muscle_general": {
    "first_seen": "2026-11-09T11:03:06.179588+00:00",
    "title": "Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up"
+  },
+  "title:barcelonastarforcedoutofinternationaldutywithinjury": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player has withdrawn from international duty due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "oneill:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "NI's O'Neill ruled out of Nations League matches"
+  },
+  "title:nisoneillruledoutofnationsleaguematches": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Ceadach O'Neill",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal forward Ceadach O'Neill has left the Northern Ireland squad for two Nations League games because of injury.",
+    "extractor": "claude"
+   }
+  },
+  "bonny:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Inter striker Bonny ruled out of Ivory Coast squad through injury"
+  },
+  "title:interstrikerbonnyruledoutofivorycoastsquadthroughinjury": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Bonny",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter striker Bonny has been withdrawn from the Ivory Coast squad due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "dhne:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Heidenheim shot-stopper Dähne suffers fractured finger against Hannover 96"
+  },
+  "title:heidenheimshotstopperdhnesuffersfracturedfingeragainsthannover96": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Dähne",
+    "club": "Heidenheim",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Heidenheim goalkeeper Dähne fractured a finger in a match against Hannover 96.",
+    "extractor": "claude"
+   }
+  },
+  "dijk:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Virgil van Dijk injury latest as official statement released after Liverpool skipper suffers fitness blow"
+  },
+  "title:virgilvandijkinjurylatestasofficialstatementreleasedafterliverpoolskip": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Virgil van Dijk",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An official statement was issued after Liverpool captain Virgil van Dijk suffered a fitness problem.",
+    "extractor": "claude"
+   }
+  },
+  "golovin:calf": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Monaco’s Aleksandr Golovin sustains calf injury"
+  },
+  "title:monacosaleksandrgolovinsustainscalfinjury": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Aleksandr Golovin",
+    "club": "Monaco",
+    "league": "Ligue 1",
+    "body_part": "calf",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Monaco's Aleksandr Golovin has picked up a calf injury.",
+    "extractor": "claude"
+   }
+  },
+  "szoboszlai:knee_other": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Szoboszlai a doubt for Nations League conclusion"
+  },
+  "title:szoboszlaiadoubtfornationsleagueconclusion": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool's Dominik Szoboszlai faces tests on a knee problem ahead of Hungary's Nations League games.",
+    "extractor": "claude"
+   }
+  },
+  "tavares:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "New Nuno Tavares injury to force Lazio star out of Portugal squad"
+  },
+  "title:newnunotavaresinjurytoforcelaziostaroutofportugalsquad": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Nuno Tavares",
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lazio's Nuno Tavares has a new injury that will keep him out of the Portugal squad.",
+    "extractor": "claude"
+   }
+  },
+  "title:usmntligue1matchday10recapreynascoresagainbutpicksupaninjury": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Reyna",
+    "club": null,
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "American player Reyna scored in Ligue 1 but sustained an injury.",
+    "extractor": "claude"
+   }
+  },
+  "kalulu:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Sael Kumbedi gets the call! Wolfsburg starlet replaces injured Juventus defender Pierre Kalulu in France squad"
+  },
+  "title:saelkumbedigetsthecallwolfsburgstarletreplacesinjuredjuventusdefenderp": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Pierre Kalulu",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Juventus defender Pierre Kalulu is injured and replaced in the France squad by Sael Kumbedi.",
+    "extractor": "claude"
+   }
+  },
+  "title:laziofullbackwontjoinnationalteamaftersustaininginjuryinnapoli": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": null,
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Lazio full-back will miss national team duty after an injury against Napoli.",
+    "extractor": "claude"
+   }
+  },
+  "title:kumbedigetsfirstfrancecalluptoreplaceinjuredkalulu": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Pierre Kalulu",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kumbedi earns a first France call-up in place of the injured Kalulu.",
+    "extractor": "claude"
+   }
+  },
+  "title:englandsquadupdatedanburnreplacesinjuredmarcguehiaheadofcroatiaandspai": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Marc Guehi is injured and replaced in the England squad by Dan Burn.",
+    "extractor": "claude"
+   }
+  },
+  "title:switzerlandcaptaingranitxhakatomissnationsleaguegamesafterinjurywithsu": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Granit Xhaka",
+    "club": "Sunderland",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Granit Xhaka will miss Switzerland's Nations League games after getting injured with Sunderland.",
+    "extractor": "claude"
+   }
+  },
+  "title:danburnreplacesinjuredguehiinenglandsquadforcroatiaspain": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Dan Burn comes into the England squad for the injured Guehi.",
+    "extractor": "claude"
+   }
+  },
+  "yamal:knee_other": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Lamine Yamal knee injury: Barcelona winger out of Spain’s Nations League match"
+  },
+  "title:lamineyamalkneeinjurybarcelonawingeroutofspainsnationsleaguematch": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona's Lamine Yamal will miss a Spain Nations League game with a knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:burnreplacesinjuredguehiinenglandsquad": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manchester City defender Marc Guehi withdrew from the England squad with a hip injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:juventuskaluluinjuredhewillnotjoinfrancestrainingcamp": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Pierre Kalulu",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Injured Juventus defender Kalulu will not report to France's camp.",
+    "extractor": "claude"
+   }
+  },
+  "yamal:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Lamine Yamal to miss Spain vs Czechia after sustaining injury during Barcelona’s win over Atletico"
+  },
+  "title:lamineyamaltomissspainvsczechiaaftersustaininginjuryduringbarcelonaswi": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal will miss Spain against Czechia after being hurt in Barcelona's win over Atletico.",
+    "extractor": "claude"
+   }
+  },
+  "title:lamineyamalruledoutofspainsgameagainstczechiaisthebarcelonastarinjured": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal has been ruled out of Spain's match against Czechia.",
+    "extractor": "claude"
+   }
+  },
+  "maguire:unknown": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "title": "Carrick explains Maguire injury"
+  },
+  "title:carrickexplainsmaguireinjury": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Harry Maguire",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Michael Carrick explained the nature of Maguire's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:englanddanburnreplacesinjuredmarcguehiinsquadfornationsleaguegames": {
+   "first_seen": "2026-11-09T22:03:19.162994+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Dan Burn replaces the injured Marc Guehi in England's squad.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
