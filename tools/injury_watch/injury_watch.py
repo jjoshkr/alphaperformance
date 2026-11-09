@@ -128,7 +128,14 @@ COMMON_WORDS = {"fresh", "major", "latest", "breaking", "weekend", "season", "pr
                 "dutch", "french", "spanish", "german", "italian", "english", "fulham", "palace", "forest",
                 "things", "concern", "double", "triple", "key", "big", "huge", "another", "second", "first",
                 "ruled", "out", "confirms", "confirm", "confirmed", "dealt", "blow", "injury", "injured", "injuries",
-                "sidelined", "suffers", "suffered", "faces", "doubt", "update", "issues", "gives", "setback", "scare"}
+                "sidelined", "suffers", "suffered", "faces", "doubt", "update", "issues", "gives", "setback", "scare",
+                # body parts and injury words that headlines capitalise
+                "hamstring", "tear", "torn", "knee", "ankle", "groin", "calf", "achilles", "thigh", "quad", "hip", "foot",
+                "back", "shoulder", "concussion", "muscle", "muscular", "ligament", "tendon", "fracture", "absence",
+                # outlets, squads, filler
+                "evening", "standard", "yahoo", "sports", "sport", "usmnt", "england", "germany", "squad", "roster",
+                "off", "despite", "five", "four", "three", "six", "official", "exclusive", "report", "live", "legend",
+                "captain", "goalkeeper", "star", "ace", "boss", "chief", "owner", "workload", "defends"}
 # "Rodri injury", "Zaccagni ruled out", "Baleba Doubt", "Joelinton out"
 SURNAME_AFTER = re.compile(
     r"\b([A-Z][a-zA-Z\-]{3,}(?: [A-Z][a-zA-Z\-]{2,})?)\s+"
@@ -397,11 +404,11 @@ def extract_with_claude(items):
         if i.get("snippet"):
             line += f"\n    SNIPPET: {i['snippet']}"
         if i.get("body"):
-            line += f"\n    ARTICLE: {i['body']}"
+            line += f"\n    ARTICLE: {i['body'][:700]}"
         lines.append(line)
     try:
         response = client.beta.messages.create(
-            model="claude-opus-5-5",
+            model=os.environ.get("INJURY_WATCH_MODEL") or "claude-opus-5-5",
             max_tokens=16000,
             betas=["server-side-fallback-2026-07-01"],
             fallbacks="default",
@@ -659,6 +666,8 @@ def main():
     for clubs in src["clubs"].values():
         for c in clubs:
             PLAYER_STOP.update(w.lower().strip(".") for w in c.split())
+    for m in src.get("managers", []):
+        PLAYER_STOP.update(w.lower() for w in m.split())
     lib = json.loads((HERE / "rehab_library.json").read_text(encoding="utf-8")); lib.pop("_note", None)
     videos = json.loads((HERE / "videos.json").read_text(encoding="utf-8")); videos.pop("_note", None)
     out_dir = Path(args.out) if args.out else OUT_DIR

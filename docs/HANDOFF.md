@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-09 — Claude Code (오탐 보강, 모델 설정)
+- 발견: 규칙 추출이 'Evening Standard', 'Tear', 'Hamstring', 'Neuer Off', 'USMNT', 감독(Flick·Allegri·Farke) 등을 선수로 잡음
+- 한 일: 감독 목록·매체·부위어·필러를 이름 제외어에 추가, 레전드 경기·검사 기사 제외. 추출 모델을 GitHub Variables `INJURY_WATCH_MODEL`로 선택 가능(비우면 claude-opus-5-5). Claude 입력은 본문 700자로 제한
+- 사용자 결정 대기: ANTHROPIC_API_KEY 추가 여부(Max 플랜과 별도 결제임을 안내), 모델 선택(Opus vs Haiku)
+
 ## 2026-11-06 — Claude Code (콘텐츠 추천)
 - 사용자 결정: Anthropic API는 당분간 쓰지 않음 (비용). 규칙 기반 유지
 - 한 일: 부위별 채널 적합도(content_fit)를 보고서·알림에 표시. 이번 주 추천 `docs/content/2026-11-06_injury-content-plan.md` (Rodri 햄스트링, Guirassy 도르트문트 현장, Ansu Fati 재발, Zaccagni+Rensch 주차별, Calvert-Lewin)

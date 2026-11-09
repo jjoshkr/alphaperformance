@@ -6,7 +6,8 @@ name: Injury watch
 #
 # 저장소 Settings → Secrets and variables → Actions 에 넣는 값 (모두 선택):
 #   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  — 새 부상 소식 알림
-#   ANTHROPIC_API_KEY                      — 선수·부위·기간 추출 정확도 향상
+#   ANTHROPIC_API_KEY                      — 선수·부위·기간 추출 정확도 향상 (별도 결제, Max 플랜과 무관)
+# Variables 탭: INJURY_WATCH_MODEL — 추출 모델 (비우면 claude-opus-5-5)
 #   API_FOOTBALL_KEY                       — 구조화된 부상 데이터 (유료 플랜 필요할 수 있음)
 on:
   schedule:
@@ -36,6 +37,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          INJURY_WATCH_MODEL: ${{ vars.INJURY_WATCH_MODEL }}
         run: python tools/injury_watch/injury_watch.py
       - name: Commit report and state
         run: |
