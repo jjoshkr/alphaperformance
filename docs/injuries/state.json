@@ -2961,6 +2961,42 @@
     "summary_en": "Carrick said Baleba will be out for an extended period.",
     "extractor": "claude"
    }
+  },
+  "title:terriblecollisioninthebundesligatwoschalkestarsareinjured": {
+   "first_seen": "2026-11-09T11:03:06.179588+00:00",
+   "facts": {
+    "player": null,
+    "club": "Schalke",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Two Schalke players were hurt in a collision during a Bundesliga match.",
+    "extractor": "claude"
+   }
+  },
+  "karius:unknown": {
+   "first_seen": "2026-11-09T11:03:06.179588+00:00",
+   "title": "Horror in the Bundesliga: Karius and Gosens injured after bloody collision"
+  },
+  "title:horrorinthebundesligakariusandgosensinjuredafterbloodycollision": {
+   "first_seen": "2026-11-09T11:03:06.179588+00:00",
+   "facts": {
+    "player": "Karius",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Karius and Gosens were both hurt in a bloody collision in a Bundesliga match.",
+    "extractor": "claude"
+   }
+  },
+  "anton:muscle_general": {
+   "first_seen": "2026-11-09T11:03:06.179588+00:00",
+   "title": "Official | Waldemar Anton withdraws from Germany squad, Ridle Baku earns late call-up"
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
