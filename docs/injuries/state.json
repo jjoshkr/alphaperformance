@@ -1675,7 +1675,7 @@
   "title:7playerswhocouldmissfulhamvsnewcastleunitedasjaisslesearchesforsolutio": {
    "first_seen": "2026-11-06T19:01:55.449843+00:00",
    "facts": {
-    "player": "Yahoo",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -1831,7 +1831,7 @@
   "title:delaurentiisarrivesfornapolicrisistalksasallegrifacesgrowingscrutiny": {
    "first_seen": "2026-11-06T19:01:55.449843+00:00",
    "facts": {
-    "player": "Allegri",
+    "player": null,
     "club": null,
     "league": "Serie A",
     "body_part": "unknown",
@@ -1919,7 +1919,7 @@
   "title:tottenhaminjurynewsbergvallandsavioupdateasfiveruledoutforleeds": {
    "first_seen": "2026-11-07T00:41:42.659607+00:00",
    "facts": {
-    "player": "Five",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -2033,7 +2033,7 @@
   "title:hansiflickhastwodoubtsforhisbarcelonastartingxitofaceatlticomadrid": {
    "first_seen": "2026-11-07T09:43:10.475267+00:00",
    "facts": {
-    "player": "Hansi Flick",
+    "player": null,
     "club": null,
     "league": "La Liga",
     "body_part": "unknown",
@@ -2421,7 +2421,7 @@
   "title:leedspredictedxivstottenhamfarkefacesseriousinjuryconcernsaswhiteslook": {
    "first_seen": "2026-11-07T21:35:00.206987+00:00",
    "facts": {
-    "player": "Farke",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -2439,7 +2439,7 @@
   "title:hansiflickdefendsbarcelonasloadmanagementofrodridespitefreshinjury": {
    "first_seen": "2026-11-08T05:00:28.103095+00:00",
    "facts": {
-    "player": "Despite",
+    "player": null,
     "club": null,
     "league": "La Liga",
     "body_part": "unknown",
@@ -2489,7 +2489,7 @@
   "title:juventuslegenddelpierosuffersinjuryduringzurichallstargame": {
    "first_seen": "2026-11-08T12:55:46.749814+00:00",
    "facts": {
-    "player": "Del Piero",
+    "player": null,
     "club": null,
     "league": "Serie A",
     "body_part": "unknown",
@@ -2539,7 +2539,7 @@
   "title:updateflickdefendsrodriworkloadafterbarcelonahamstringinjury": {
    "first_seen": "2026-11-08T12:55:46.749814+00:00",
    "facts": {
-    "player": "Hamstring",
+    "player": null,
     "club": null,
     "league": "La Liga",
     "body_part": "hamstring",
@@ -2621,7 +2621,7 @@
   "title:manuelneuerinjuryupdatebayernmunichgoalkeepersetforsixweekabsenceafter": {
    "first_seen": "2026-11-08T19:24:37.596072+00:00",
    "facts": {
-    "player": "Tear",
+    "player": null,
     "club": null,
     "league": "Bundesliga",
     "body_part": "foot",
@@ -2837,7 +2837,7 @@
   "title:nottinghamforesttrialsbloodtestwhichcouldwarnathletesofinjuryrisk": {
    "first_seen": "2026-11-09T00:37:28.047517+00:00",
    "facts": {
-    "player": "Evening Standard",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -2883,7 +2883,7 @@
   "title:jackmcglynnreplacesinjuredgioreynaonusmntrostervshaiti": {
    "first_seen": "2026-11-09T00:37:28.047517+00:00",
    "facts": {
-    "player": "USMNT",
+    "player": null,
     "club": null,
     "league": "Premier League",
     "body_part": "unknown",
@@ -2892,6 +2892,74 @@
     "duration_phrase": null,
     "summary_en": null,
     "extractor": "rules"
+   }
+  },
+  "title:michaelcarrickconfirmsinjurysetbacktoplayerwhosstartedall10premierleag": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Michael Carrick confirmed an injury setback to an unnamed player who has started every league game this season.",
+    "extractor": "claude"
+   }
+  },
+  "golovin:unknown": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "title": "Le Mans and Monaco Draw in Ligue 1, Golovin Substituted Due to Injury"
+  },
+  "title:lemansandmonacodrawinligue1golovinsubstitutedduetoinjury": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "facts": {
+    "player": "Aleksandr Golovin",
+    "club": "Monaco",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Golovin was forced off injured during Monaco's draw with Le Mans.",
+    "extractor": "claude"
+   }
+  },
+  "guehi:hip": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "title": "England await Guehi scan results after injury concern"
+  },
+  "title:bayerngoalkeepermanuelneuerexpectedtomisstwomonthswithrightfootinjury": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "severe",
+    "duration_weeks": 8,
+    "duration_phrase": "two months",
+    "summary_en": "Neuer is expected to be sidelined about two months with a right foot problem.",
+    "extractor": "claude"
+   }
+  },
+  "tel:unknown": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "title": "📸 Premier League uproar: Tel injured, a clear red card missed?"
+  },
+  "title:willbeabitlongermanutddealtmassiveinjuryblowasmichaelcarrickconfirms70": {
+   "first_seen": "2026-11-09T08:12:11.574080+00:00",
+   "facts": {
+    "player": "Carlos Baleba",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Carrick said Baleba will be out for an extended period.",
+    "extractor": "claude"
    }
   }
  },
