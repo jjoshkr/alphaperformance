@@ -684,7 +684,11 @@ def main():
     fresh, cached = [], []
     for i in items:
         prev = state["seen"].get("title:" + i["title_key"])
-        if prev and prev.get("facts") and prev["facts"].get("player"):
+        facts_ok = bool(prev and prev.get("facts") and prev["facts"].get("player"))
+        # Once Claude is available, re-read items that only the keyword rules handled (no club / body part yet)
+        if facts_ok and os.environ.get("ANTHROPIC_API_KEY") and prev["facts"].get("extractor") == "rules":
+            facts_ok = False
+        if facts_ok:
             i.update(prev["facts"]); cached.append(i)
         else:
             fresh.append(i)

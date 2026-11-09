@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-09 — Claude Code (Claude 추출 가동)
+- 확인: Max 플랜 월 $100 API 크레딧 포함(2026-10-07~, 공식 문서). ANTHROPIC_API_KEY 등록 완료, 17:12 KST 실행에서 Claude 추출 동작 — 성+이름·클럽·부위·기간 채워짐 (예: Manuel Neuer · Bayern · 발 · 6~8주, Marc Guehi · hip, Rodri · hamstring). 모델 기본 claude-opus-5-5
+- 한 일: 규칙으로만 처리됐던 기존 항목은 Claude가 있을 때 한 번 다시 읽도록 변경
+- 남은 것: videos.json 릴스 링크, 원우 님 rehab_library 검토, ManyChat, 랜딩페이지 코멘트
+
 ## 2026-11-09 — Claude Code (오탐 보강, 모델 설정)
 - 발견: 규칙 추출이 'Evening Standard', 'Tear', 'Hamstring', 'Neuer Off', 'USMNT', 감독(Flick·Allegri·Farke) 등을 선수로 잡음
 - 한 일: 감독 목록·매체·부위어·필러를 이름 제외어에 추가, 레전드 경기·검사 기사 제외. 추출 모델을 GitHub Variables `INJURY_WATCH_MODEL`로 선택 가능(비우면 claude-opus-5-5). Claude 입력은 본문 700자로 제한
