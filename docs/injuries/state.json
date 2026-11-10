@@ -3423,6 +3423,178 @@
     "summary_en": "Hungary released an update on Dominik Szoboszlai's injury.",
     "extractor": "claude"
    }
+  },
+  "title:liverpooltolddominikszoboszlaiinjurylatestasstatementreleased": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool received an injury update on Dominik Szoboszlai via an official statement.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalhandedezrikonsafitnessupdateasdefenderruledoutofenglandclash": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ezri Konsa has been ruled out of an England match with an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:confirmedliverpoolstarundergoingmedicaltestsafterlatestinjuryblow": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Liverpool player is having medical tests after a new injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalyoungsterceadachoneillsuffersinjurysetbackafternorthernirelandw": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Ceadach O'Neill",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal youngster Ceadach O'Neill picked up an injury after leaving the Northern Ireland squad.",
+    "extractor": "claude"
+   }
+  },
+  "title:hungaryprovidesdominikszoboszlaiinjuryupdateafterliverpoolstarpickedup": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Hungary updated on Szoboszlai's knock sustained against Crystal Palace.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalstarruledoutofenglandvscroatia24yearoldreceivesmaidencallupasre": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Arsenal player misses England's game against Croatia, with a replacement called up.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalhandedezrikonsainjuryupdateafterunusualsquadannouncement": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An injury update on Ezri Konsa followed an unusual England squad announcement.",
+    "extractor": "claude"
+   }
+  },
+  "title:bonnyjoinslautaroonintersinjurylistbeforeatalantaandstuttgart": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Bonny",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bonny has joined Lautaro on Inter's injury list ahead of two matches.",
+    "extractor": "claude"
+   }
+  },
+  "title:eberlrejectstalkofpromotingurbigasbayernlose40yearoldneuertoinjuryagai": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Manuel Neuer",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern have lost Manuel Neuer to injury again while declining to promote Urbig.",
+    "extractor": "claude"
+   }
+  },
+  "tel:ankle": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "title": "Spurs News Today: Mathys Tel Ankle Injury, Bogle Complaint and Leeds Defeat (10 November)"
+  },
+  "title:spursnewstodaymathystelankleinjuryboglecomplaintandleedsdefeat10novemb": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Mathys Tel",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Mathys Tel has an ankle injury according to a Spurs news roundup.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpooloninternationaldutyszoboszlaidoubtvandijkout": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": "Virgil van Dijk",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Van Dijk is out and Szoboszlai is doubtful during the international break.",
+    "extractor": "claude"
+   }
+  },
+  "title:sevenlazioplayerscalledupforinternationalbreakasinjuredduopullout": {
+   "first_seen": "2026-11-10T16:52:03.162753+00:00",
+   "facts": {
+    "player": null,
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Two injured Lazio players withdrew from international duty.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
