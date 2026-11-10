@@ -3595,6 +3595,98 @@
     "summary_en": "Two injured Lazio players withdrew from international duty.",
     "extractor": "claude"
    }
+  },
+  "title:realmadridsuffercriticalinjuryblowjustdaysintonovemberinternationalbre": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Real Madrid have suffered an injury setback early in the November international break.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridstarleavesnationalteamcampaftertraininggroundinjury": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Real Madrid player left his national team camp after getting hurt in training.",
+    "extractor": "claude"
+   }
+  },
+  "tchouameni:unknown": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "title": "Real Madrid Midfielder Aurelien Tchouameni Picks up Injury Scare"
+  },
+  "title:realmadridmidfielderaurelientchouamenipicksupinjuryscare": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": "Aurelien Tchouameni",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aurelien Tchouameni of Real Madrid has had an injury scare.",
+    "extractor": "claude"
+   }
+  },
+  "thuram:unknown": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "title": "Zidane Calls Up Bournemouth Player After Marcus Thuram Injury"
+  },
+  "title:zidanecallsupbournemouthplayeraftermarcusthuraminjury": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": "Marcus Thuram",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Marcus Thuram's injury led to a Bournemouth player being called up by Zidane.",
+    "extractor": "claude"
+   }
+  },
+  "title:intersufferinjuryblowasangeyoanbonnyfacesfourweeksoutreports": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": "Ange-Yoan Bonny",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "four weeks",
+    "summary_en": "Inter's Ange-Yoan Bonny is reportedly set to miss about four weeks through injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bournemouthstargetsfirstenglandcallupafterezrikonsablow": {
+   "first_seen": "2026-11-10T22:57:44.602258+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ezri Konsa's withdrawal led to a Bournemouth player's first England call-up.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
