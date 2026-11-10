@@ -3349,6 +3349,80 @@
     "summary_en": "Dan Burn replaces the injured Marc Guehi in England's squad.",
     "extractor": "claude"
    }
+  },
+  "title:virgilvandijkinjuryexplainedasliverpoolcaptainpullsoutofnetherlandssqu": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "facts": {
+    "player": "Virgil van Dijk",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool captain Virgil van Dijk has withdrawn from the Netherlands squad due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolwingervictormunozhandedspainrecallafterlamineyamalinjurysetba": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An injury setback for Lamine Yamal has led Spain to recall Liverpool winger Victor Munoz.",
+    "extractor": "claude"
+   }
+  },
+  "title:netherlandsprovideinjuryupdateonliverpoolcaptainvirgilvandijk": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "facts": {
+    "player": "Virgil van Dijk",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "The Netherlands gave an update on Virgil van Dijk's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:lebrisissuesxhakainjuryupdate": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "facts": {
+    "player": "Granit Xhaka",
+    "club": "Sunderland",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Sunderland coach Regis Le Bris gave an update on Granit Xhaka's injury.",
+    "extractor": "claude"
+   }
+  },
+  "szoboszlai:unknown": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "title": "Liverpool receive new Dominik Szoboszlai injury update as Hungary issue social media statement"
+  },
+  "title:liverpoolreceivenewdominikszoboszlaiinjuryupdateashungaryissuesocialme": {
+   "first_seen": "2026-11-10T06:27:12.146147+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Hungary released an update on Dominik Szoboszlai's injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
