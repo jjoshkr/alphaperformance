@@ -3701,6 +3701,92 @@
     "summary_en": "Liverpool are waiting to learn whether Dominik Szoboszlai has picked up an injury.",
     "extractor": "claude"
    }
+  },
+  "lukaku:unknown": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "title": "Lukaku out of Belgium squad against Turkiye, major doubt to face Italy"
+  },
+  "title:lukakuoutofbelgiumsquadagainstturkiyemajordoubttofaceitaly": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "facts": {
+    "player": "Romelu Lukaku",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Romelu Lukaku will miss Belgium's Nations League game against Turkiye and is doubtful for the match against Italy.",
+    "extractor": "claude"
+   }
+  },
+  "elanga:unknown": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "title": "'Strange' - Anthony Elanga issues Newcastle United injury update after being ruled out of four matches"
+  },
+  "title:strangeanthonyelangaissuesnewcastleunitedinjuryupdateafterbeingruledou": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "facts": {
+    "player": "Anthony Elanga",
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Anthony Elanga gives an update on his injury, which has ruled him out for four Newcastle matches.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalyoungstersuffersnorthernirelandinjurysetback": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed young Arsenal player picked up an injury while with Northern Ireland.",
+    "extractor": "claude"
+   }
+  },
+  "konsa:knee_other": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "title": "Arsenal News Today: Konsa Knee Injury, Nusa Interest and Saka Update (11 November)"
+  },
+  "title:arsenalnewstodaykonsakneeinjurynusainterestandsakaupdate11november": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An Arsenal news roundup mentions a knee injury to Konsa among other items.",
+    "extractor": "claude"
+   }
+  },
+  "stankovic:unknown": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "title": "Inter midfielder Aleksandar Stankovic forced to leave Serbia squad with injury"
+  },
+  "title:intermidfielderaleksandarstankovicforcedtoleaveserbiasquadwithinjury": {
+   "first_seen": "2026-11-11T13:45:29.278051+00:00",
+   "facts": {
+    "player": "Aleksandar Stankovic",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter midfielder Aleksandar Stankovic left the Serbia squad because of injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
