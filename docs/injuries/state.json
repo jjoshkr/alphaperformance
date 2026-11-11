@@ -3787,6 +3787,152 @@
     "summary_en": "Inter midfielder Aleksandar Stankovic left the Serbia squad because of injury.",
     "extractor": "claude"
    }
+  },
+  "mbapp:unknown": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "title": "Real Madrid star to miss next international fixture"
+  },
+  "title:realmadridstartomissnextinternationalfixture": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Kylian Mbappé",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kylian Mbappé will miss France's Nations League match against Italy due to a fitness issue.",
+    "extractor": "claude"
+   }
+  },
+  "thuram:muscle_general": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "title": "Inter relief at Thuram injury, but muscular issues becoming a problem"
+  },
+  "title:interreliefatthuraminjurybutmuscularissuesbecomingaproblem": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Marcus Thuram",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter are relieved about Thuram's injury, though muscle problems are piling up at the club.",
+    "extractor": "claude"
+   }
+  },
+  "longoni:unknown": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "title": "PSG goalkeeper Longoni suffers fresh injury setback, pulls out of Italy U19 national duty"
+  },
+  "title:psggoalkeeperlongonisuffersfreshinjurysetbackpullsoutofitalyu19nationa": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Longoni",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG goalkeeper Longoni has withdrawn from Italy U19 duty after a new injury setback.",
+    "extractor": "claude"
+   }
+  },
+  "title:ezrikonsaruledoutastuchelcallsupenglandreplacement": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ezri Konsa has withdrawn from the England squad and a replacement was called up.",
+    "extractor": "claude"
+   }
+  },
+  "larsen:unknown": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "title": "Pierre Sage’s Palace Crisis Worsens With Strand Larsen Injury Withdrawal"
+  },
+  "title:pierresagespalacecrisisworsenswithstrandlarseninjurywithdrawal": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Jørgen Strand Larsen",
+    "club": "Crystal Palace",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Strand Larsen has withdrawn through injury, adding to Palace's problems.",
+    "extractor": "claude"
+   }
+  },
+  "barrenetxea:hamstring": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "title": "Real Sociedad’s Barrenetxea needs surgery on hamstring injury"
+  },
+  "title:realsociedadsbarrenetxeaneedssurgeryonhamstringinjury": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Ander Barrenetxea",
+    "club": "Real Sociedad",
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ander Barrenetxea requires surgery for a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:laziolosenunotavaresandsutaloforatleast3weekstofreshinjury": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Nuno Tavares",
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 3,
+    "duration_phrase": "3 weeks",
+    "summary_en": "Lazio will be without Nuno Tavares and Sutalo for at least three weeks due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:realsociedadsbarrenetxeatoundergosurgeryonseverehamstringinjury": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Ander Barrenetxea",
+    "club": "Real Sociedad",
+    "league": "La Liga",
+    "body_part": "hamstring",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ander Barrenetxea will have surgery on a serious hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:interbonnyoutforamonthchivudowntojust3strikers": {
+   "first_seen": "2026-11-11T21:47:03.883304+00:00",
+   "facts": {
+    "player": "Ange-Yoan Bonny",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "a month",
+    "summary_en": "Bonny will miss about a month, leaving Inter with three strikers.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
