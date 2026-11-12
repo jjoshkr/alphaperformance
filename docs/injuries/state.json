@@ -4135,6 +4135,98 @@
     "summary_en": "Johan Manzambi was sent back to his club from international duty with an injury.",
     "extractor": "claude"
    }
+  },
+  "title:sobbingandoniiraolablamedforliverpoolslatestinjuryblow": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool have suffered another injury setback, with manager Andoni Iraola reportedly being blamed.",
+    "extractor": "claude"
+   }
+  },
+  "aynaoui:unknown": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "title": "Leipzig Confirm El Aynaoui’s Injury Is Not Serious"
+  },
+  "title:leipzigconfirmelaynaouisinjuryisnotserious": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": "El Aynaoui",
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Leipzig said El Aynaoui's injury is not a serious one.",
+    "extractor": "claude"
+   }
+  },
+  "title:60mastonvillastarsenthomefrominternationaldutyinmajorinjuryblow": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Aston Villa player valued at £60m has left international duty because of an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvilladealtmajorinjuryblowasstarwithdrawsfrominternationalduty": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Aston Villa player has pulled out of international duty with an injury.",
+    "extractor": "claude"
+   }
+  },
+  "kiala:unknown": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "title": "Bayern talent Kiala suffers injury setback while on German U-19 duty"
+  },
+  "title:bayerntalentkialasuffersinjurysetbackwhileongermanu19duty": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": "Kiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Young Bayern player Kiala picked up an injury while playing for Germany's under-19 side.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolmanagerandoniiraolaleftsobbingasdominikszoboszlaiinjuryroweru": {
+   "first_seen": "2026-11-12T23:19:19.421530+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A dispute has arisen over an injury to Liverpool's Dominik Szoboszlai during the international break.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
