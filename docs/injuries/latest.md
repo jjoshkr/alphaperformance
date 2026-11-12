@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-12 20:21 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-13 02:25 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,28 +6,23 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | Premier League | Liverpool | 발 (중족골 등) | 미상 | [Liverpool forward spotted wearing protective boot in fresh injury concern](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29Oc1FTeVBlTEdPQ2lkaG1XNDRWNTRpZDFaWGZ3bzlpTDBtZlFuQUlnQzFzNFRWMVlISDlzZFE2UWk5VlAyOVQtUDFHQ3hwQ3RYZFJpaU51Uzd5ck9UN3FDWXJabDljTnRraDNtbi1OakNnODFwOTMyRmxQMWlqalNZYmxGZWp6WHRIY1FWWEs5SmREQ3B6SkJOM0JfNDdYNHFpSl9tX0hUODFxMXBBX0F3?oc=5) (DaveOCKOP) | claude |
+| 🆕 | Premier League | Johan Manzambi · Aston Villa | - | 미상 | [Johan Manzambi injury concern as Aston Villa star withdraws from national team](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZFVqd2ZlUl9UOWdHdUZtcUhHV25zQ293bW9xOEJ4dE9aaUg3cFZfbEZnUDI0U2FKaEdMS3RCRFdZYzZVMWQ1ZXdJVnJIMXRTU0pvUC1mUERlTUZRSVV6cFpvOVVLZTZLREx4eUdNcmpJcWdLUnloQUs2QjBUWTNJOEVSMDZsUW11bmNKQkpXMzhJT0ZUbUxpYUxxT18tYzBud0FaS3hIaVgxRVEtRXBOTGw5eHpucXN4YmQ1X3huU242ZnQ2djNGck9fdHpra0RpMDl6bXFqQk8zeXBVZ3NkbzRGaXhWZlE?oc=5) (LiveScore) | claude |
+| 🆕 | Premier League | Johan Manzambi · Aston Villa | - | 미상 | [Johan Manzambi injury update as Aston Villa star sent home from international duty](https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0FteVgwaFk2REtmMVV4a3kyV1RMZUxHcW83c1JXaUUtN1lZWjBlUDRBSjhtYzZwOFJCUlBqelo0X1JGc0dLRWppQS1GN0N2c1ZRbDlOLTRvaXo1b0h6NkpkbDE1aV9oOUxFbV9ZUGVWMUZtWWc1V0pYSFdvTlJhRkhpTGRPc0hjWkE?oc=5) (Yahoo Sports) | claude |
+|  | Premier League | Liverpool | 발 (중족골 등) | 미상 | [Liverpool forward spotted wearing protective boot in fresh injury concern](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29Oc1FTeVBlTEdPQ2lkaG1XNDRWNTRpZDFaWGZ3bzlpTDBtZlFuQUlnQzFzNFRWMVlISDlzZFE2UWk5VlAyOVQtUDFHQ3hwQ3RYZFJpaU51Uzd5ck9UN3FDWXJabDljTnRraDNtbi1OakNnODFwOTMyRmxQMWlqalNZYmxGZWp6WHRIY1FWWEs5SmREQ3B6SkJOM0JfNDdYNHFpSl9tX0hUODFxMXBBX0F3?oc=5) (DaveOCKOP) | claude |
 |  | Premier League | Moises Caicedo · Chelsea | - | 미상 | [Chelsea star Moises Caicedo delivers worrying injury update to Ecuadorian media](https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3lBbGQyREpSRVliQTd4MEJEVWk1dU9Tei1hRmhOdG5qNmp0WC12cWFXdWZqTmhpLUpNZ1Ficl9wQjRtbHMwd2VtRUZGVlRBQ0g3LVZ5RGlranY3UElQN0M5YjZvVGo3eGFfcTd6bWxlbFVQT1lIZ1RiY3hEQjZzWnA1blBNLUZ5UTNrSnVqUnJEQ1JtdDRsMkpDaElfc01EQkdUWEF0d3BJa2NzSUI4SE9fNTZxaHBSVzdMLThB?oc=5) (The Chelsea Chronicle) | claude |
-| 🆕 | La Liga | Kylian Mbappe · Real Madrid | - | 미상 | [Blow for France! Real Madrid superstar Kylian Mbappe ruled out of crucial Italy clash as Zinedine Zidane refuses to take risks](https://news.google.com/rss/articles/CBMijgJBVV95cUxNNUNPWjJXTUJWamVMcFUwbHRvT3p2VzBaTFpKSVlObEhEMVNCNkF0WXE5eTAyc3M2MkpXa0JoVkJvQ29Qb1NKWnJ6c0VlcnJ2MlZ5NVZmaUxOQWpVTk1XYmhvTFdIekY5c0tpRFNYWGszM19jcHBtWTRuU0dyWXJDc1Z1RVVpS2pMUEk4NkZ0NnZnYzZsQ3hYeGUxdXhCZE4xbGo5LWo3XzdTREdhdFZkMDFISzU4MU12WHY2OVdYaFlPbG4wMFFXRmkwSllLSTdkeWhjRkp3Z0E0SjZ3X3h6cmNPQURYemUyUmtsYUpyMTZfSW5DVGN3Uy1QcUtjRHpRZ2t1S0toTzM5a2doUXc?oc=5) (LiveScore) | claude |
+|  | La Liga | Kylian Mbappe · Real Madrid | - | 미상 | [Blow for France! Real Madrid superstar Kylian Mbappe ruled out of crucial Italy clash as Zinedine Zidane refuses to take risks](https://news.google.com/rss/articles/CBMijgJBVV95cUxNNUNPWjJXTUJWamVMcFUwbHRvT3p2VzBaTFpKSVlObEhEMVNCNkF0WXE5eTAyc3M2MkpXa0JoVkJvQ29Qb1NKWnJ6c0VlcnJ2MlZ5NVZmaUxOQWpVTk1XYmhvTFdIekY5c0tpRFNYWGszM19jcHBtWTRuU0dyWXJDc1Z1RVVpS2pMUEk4NkZ0NnZnYzZsQ3hYeGUxdXhCZE4xbGo5LWo3XzdTREdhdFZkMDFISzU4MU12WHY2OVdYaFlPbG4wMFFXRmkwSllLSTdkeWhjRkp3Z0E0SjZ3X3h6cmNPQURYemUyUmtsYUpyMTZfSW5DVGN3Uy1QcUtjRHpRZ2t1S0toTzM5a2doUXc?oc=5) (LiveScore) | claude |
 |  | La Liga | Aurélien Tchouaméni · Real Madrid | 사타구니 / 내전근 | 미상 | [Tchouaméni not ruled out of Celta clash despite adductor recurrence with France](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGdvRk1oTFMzSE40OHR2dmZwMVN2RExkZGZFb2F4Nzk1MldhcGhJUWJGdF9Cak9WVFV5c0lWYXdQWkFQRjFxOW5zWVRzcElySEl2UFUwWUJFTm01SkYyVEdDUFdCVGE4T1RsZkhRbmRVb3o5QVNxSzhFSUNmZXkxOQ?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | Chelsea | - | 중증 (8주 이상 / 수술 / 파열) | [“Consulted specialists” - NT doctor opens up on Chelsea player’s ‘major injury’](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkpwbm5xTFZfc2FjWGZKdUxCLXlJcjhteVhCYkJwZW1tQm41VHBDcUh6aGZEWFQ4blRJSFRraWlDRllqdHlxT01vdVlqWWFCUnBnQnNDUDc1SEVIalhQZXJRb04xVG40Q3B0REFtUXc4X0RVU1E3MENKejJScWdJa1RtUFBqTlVNYUFTRkhVTXRQdzlXVHNIb0lBTDU4ZTRMRGI0M3Bvb3QwTXl1b2VCSE9IMGltaldJVW42UkZRT1k1dw?oc=5) (Sport Witness) | claude |
-|  | Premier League | Chelsea | - | 미상 | [More bad injury news for Chelsea as regular starter leaves national team camp after assessment](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1RxVHhEUUlfQzZTRVNLaUhBX0pHaWlwZGNXeVdNTnR1YnRZbmlmOGV0ZWMwV05peV9qaFlYZWxyUVJQMTh2UThFTXV3MnR3dzBpbExlUnBZOVBEN21OYng1M3VCUzVQcllpY1JNQ290RTZRVXhUcGpLaEtsRzJ6Z2lIdzBMWG9VUUtPU25tQ3pRLWJqR0V5U2dHcHlraEwtcG9ieGhaOGU3RFFpRjZqeGVjMHZrbHpFWTAzSlhva0NBUk5vYUhmWlRYQXA0SGQzMndlSEhjYU5GT3VtRlkxQ2ZHcUQ5cHdTd09hSERNUVB2UzBTMmxwSk13?oc=5) (LiveScore) | claude |
 |  | Serie A | Marcus Thuram · Inter | 근육 (부위 미상) | 미상 | [Inter relief at Thuram injury, but muscular issues becoming a problem](https://news.google.com/rss/articles/CBMie0FVX3lxTE9SVjZValFRTHlTalg4djgyWElySHdYalRlNVJCLW1xRWZmN2s2RG9RaWpxeE5YUkZYMWdOX0VWY0dMSnpYTUxSN1RHSGVXTVp2V1U5SWsyWFZzUFJzRUp6OG80N0FNS3g1elpFSlk3eFdmQWdfSkVMdUZBQdIBgAFBVV95cUxQUjhiNVJXOFJjck1WOW9WYWtNYW9JNEY3UXNFR3dGOWNmVzRZVWdVZlVCcVRYUXd3a2tVWlNMM2U3VmF6Z0cwWHotdENNd2ZrV1ZsallZNG1XbE0zdWJwZnU1VmN6ZGZKQWlUS0ZuOHZCZU9objBCLWt2LWNBZkVzUw?oc=5) (Football Italia) | claude |
-|  | Premier League | Marcus Rashford · Manchester United | - | 미상 | [Marcus Rashford: Significant injury update issued on Manchester United forward](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXZFWEE1VDV3ZXIwSUVuRWxvaEkweFo4Z1AxV1FBRWMxZGo2RUx5Q3dTTjdfQmdhdjA3ZVp5UFBlM3hhQWpwNkxvQVRiR0FJSloxUmFxNmFtXzFxV1VyMENxTmtQSzlBNnZLRUptSjdZaktfellpS3JTbzJDOXlVTXJ0dkdVY3pjemc3ZnJjWlVTUkRN?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | Ezri Konsa · Aston Villa | - | 미상 | [Ezri Konsa ruled out as Tuchel calls up England replacement](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDhiUWUySjU5bVVwT3djaDlpa0dCZGlXaHhvWkg5NXFKSUFDcHlOREhEM3dCOHJFWkpzS3hjTzZHbm9BeGF2RWk1bFlRV0ExMUZLS0ZsOEROaE92dGRUR0R2dXI4ZU91ODFKWnRncjdwS1Rta0VLVlRkQ21fOGg4a3JEajBQdnh0?oc=5) (Six Sports) | claude |
 |  | La Liga | Ander Barrenetxea · Real Sociedad | 햄스트링 | 중증 (8주 이상 / 수술 / 파열) | [Real Sociedad’s Barrenetxea needs surgery on hamstring injury](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdwR3hSdmd4QnB5U3pSTFZwa29HcTlPMEtDcHFicGJiTWMwVm9iZjZmOE9tLUtGd21CNE52VUZSUTZKY2EyWERVWWJrSU9VN3J2U0ZnZnpKdU5uWWVUTWhidFlHLTRxb0l3RHdMZzBreHoxbzZkaC16eXhJbXVxZWpCNkItUmczUkozbTRkTlJMMFZFQnBtakN3d08tOHVwSzE4OGxR?oc=5) (SportsDesk) | claude |
 |  | La Liga | Ander Barrenetxea · Real Sociedad | 햄스트링 | 중증 (8주 이상 / 수술 / 파열) | [Real Sociedad's Barrenetxea to undergo surgery on 'severe' hamstring injury](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlBTNmpZdENsUmhmTHZhQ2ItOC1aby1QdEt4Yzd1X3Mtakl2M0pFZXZaT2c5SC1ZRnVLOWlldzhwNEtCVFNUbzU1bEdlcEtFQVBCYW1nYUM2NVQ0QlhqYU04QXY1Skt2VngxeGQ0dDZKMGdxWHRPWWh0UndLQzFQWG9JaU1EZ0ppaE1rTjlvdGVCSFRxS3kwMzhPaHNRRVhSSHFGdTNzZmlrLWJfM2RaX3ZjTzc1bUNO?oc=5) (Flashscore.co.za) | claude |
 |  | Serie A | Nuno Tavares · Lazio | - | 중간 (2~8주) · "3 weeks" | [Lazio lose Nuno Tavares and Sutalo for at least 3 weeks to fresh injury](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVJydTA5OXNKNHpMenBBeElKbnJ2Y1ZLc1RZYnExSzJJYUJvNndBdXhOUzcxOFVLMEJqYi1zQmlwNTQzLXRZZ1VGZFh6QXVoSnF3NTFseGJBMUxRZFRtdGozcVFlQlhZVGkwVjNXRFV4T3Z5eDNSQUlUaF9tYk9tb3Z3N0ZaUQ?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | Marc Guehi · Manchester City | - | 미상 | [Marc Guehi Withdraws from England Squad with Injury Ahead of Challenge Run of Games for Manchester City](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTZWZHBqRDI0am9SQ0ZtRUxWVE1vRndTOUZpUmJGTjhiQWp1VzdtWXhiN0huaTdJTVlKdjJ6TFBxdGVrVWcyZW04WVBnRjk1M3ozNk9BUWpGTkFyaElkbU5kRDd5eVZQQlhnMHI1M2Y4Z0F4M1B3NHJKWjNteklwa0RaZGJOeG9hZ204?oc=5) (Yahoo Sports) | claude |
 |  | Premier League | Anthony Elanga · Newcastle United | - | 미상 | ['Strange' - Anthony Elanga issues Newcastle United injury update after being ruled out of four matches](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaURKVWZvLXFCQWxuYXVPazhIckc3V1Zja0hXNTBtbWtOazdqSG9Jd3g5OGFDRW4zZWxEdzRlb2xSaHJpZWxfc05kbjhiUlR3Z0lFWjFpYTRCTWU0dzVURzl2QzltRmY2MEVUZWhXbmNXVzhUWmdjTHprbE1ONFRkQUFEUEVXVE5DOXRTZGxSTFQ1bTlidzcwMk1TLU5sb3ZMSXdBMXBzQ0x0TmpyWTdNNGlaRm4?oc=5) (Shields Gazette) | claude |
 |  | Premier League | Ezri Konsa · Aston Villa | 무릎 (기타) | 미상 | [Arsenal News Today: Konsa Knee Injury, Nusa Interest and Saka Update (11 November)](https://news.google.com/rss/articles/CBMiekFVX3lxTFBwdUlZR0pEY19GX0lMUkU1MjVudktuYnZiV3BPWmpwZUZBUTVsUFpCSWxJcm5kcm9mc3JocmNOa0VBbHZ0WXBERTZ2VjJ3MUR0UWo1RG9XekRta2NQVXJXamx3b3FGcXpXcWpkY3AwUXBWbkpkUzNYQkZn?oc=5) (The False 9) | claude |
 |  | La Liga | Real Madrid | - | 미상 | [Real Madrid star leaves national team camp after training ground injury](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2o5X3lib0tlOUktaFpCbmxxcTZSZmdHbmlZb3c4d3NacG1DYXcwU0dEOW10MTV0VnE5M2wxTmJjOXhkMUlYNzh6RHBIaXhMM3JPWU0tcHJMUGpOdFdpal85ekl2Q3NuNmljcGVlaDhobmZac0l6ckJZSEhTSnlPelM1WWNJdDB0?oc=5) (Yahoo Sports) | claude |
 |  | La Liga | Aurelien Tchouameni · Real Madrid | - | 미상 | [Real Madrid Midfielder Aurelien Tchouameni Picks up Injury Scare](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXZNZURrVkFwc0JlY3dSblpydUQ5em5LU3liWWhkVFYzMXdLazlPUDR0dzhUY09hTGN3alZKclZ3SkJrYUVGOTBvSGhLZGFDMDd2VUx6N1FER2dPbEZaSkhTUlpzWTBIN05RT3phMklLU1h0Y3BPYm9GRmZuU3ZWWVpRTVlyRll4bU5HMm1fYTdHTHlXcS00eXpERTZLendaQXJDRWJwUkJ2eWhnSnlqcDI4WV9SNlNRS0ZYck8wRGZmbjA?oc=5) (roundtable.io) | claude |
+|  | Premier League | Dominik Szoboszlai · Liverpool | - | 미상 | [Liverpool face nervous wait over potential Dominik Szoboszlai injury blow](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVlXN1l2UmdQRWJGX3NNOWlzd29MVkZwbEZseWNuNWNXTmxuYnpGYXNCT1JybHVjWDRIODNOSXE5UU9zQVl1WDNZTWNGcmpCNFp4ZnYyeDZaZy1jbTBjZG5WTnN2ajVnbHE4OERWVG9pbFIzSXlCek1DV2dERDN0MEdwMm4yeExo?oc=5) (Yahoo Sports) | claude |
 |  | Serie A | Aleksandar Stankovic · Inter | - | 미상 | [Inter midfielder Aleksandar Stankovic forced to leave Serbia squad with injury](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEJmUWdpSzdMWm5MZVRuZkdtUnQyZ1oyRGhpcngtRDJDOHEtUU9IN1h3dnRHaGVTQWxmVlVINmZCXzcyYmlWd0RNb2VrX1VqMTBOdkY5Z25HZDdqYUNDOGk0NzRVbHRGckRyNjFGU3VIOWZ4RDBKQThFVGhOaGVtRVBOUkVyczNWT0MtdEtWU294d2NrQVBjdjVwcWY4dXN6UXVoVkJXVWNIRVZuZ1YxZ3ZYZFd3M2t6YTFVeEFIQdIBvwFBVV95cUxNcEJmUWdpSzdMWm5MZVRuZkdtUnQyZ1oyRGhpcngtRDJDOHEtUU9IN1h3dnRHaGVTQWxmVlVINmZCXzcyYmlWd0RNb2VrX1VqMTBOdkY5Z25HZDdqYUNDOGk0NzRVbHRGckRyNjFGU3VIOWZ4RDBKQThFVGhOaGVtRVBOUkVyczNWT0MtdEtWU294d2NrQVBjdjVwcWY4dXN6UXVoVkJXVWNIRVZuZ1YxZ3ZYZFd3M2t6YTFVeEFIQQ?oc=5) (Tribuna.com) | claude |
 |  | Serie A | Ange-Yoan Bonny · Inter | - | 중간 (2~8주) · "four weeks" | [Inter suffer injury blow as Ange-Yoan Bonny faces four weeks out - reports](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVhYaXI4ckNlcFJVYk5sNGd2YUhDakxQOFFuZUwtQU5ScTVYTjRLU1RMZ09rVTVrWnpUNmxoRVdmdXpWVUtvRjNrcXlpMVF1WGlzcS15d3l4aDJvRjMtcUJxVmQ5N2Vib01xcGcxektpemxUTm9sZ3FfX29ielVGV3JnY2c2NkFrZUpOb1Y3WVo5eGc1RHN2N1pwa1dpSDRDaWVnRVcyQ01HZGo4bUhtbG9RZzJvd9IBtgFBVV95cUxQbVhYaXI4ckNlcFJVYk5sNGd2YUhDakxQOFFuZUwtQU5ScTVYTjRLU1RMZ09rVTVrWnpUNmxoRVdmdXpWVUtvRjNrcXlpMVF1WGlzcS15d3l4aDJvRjMtcUJxVmQ5N2Vib01xcGcxektpemxUTm9sZ3FfX29ielVGV3JnY2c2NkFrZUpOb1Y3WVo5eGc1RHN2N1pwa1dpSDRDaWVnRVcyQ01HZGo4bUhtbG9RZzJvdw?oc=5) (Tribuna.com) | claude |
-|  | Premier League | Ezri Konsa · Aston Villa | - | 미상 | [James Hill Earns Maiden England Call-Up as Replacement for Injured Konsa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHN1VFhDM1RYVjQ1bnZSR3JsVWZkSWxGNkwybUF6a290amk1LXhtVk9ndllfLTAzX182bWpjZWk2bFF4R0U2MXJSOUN3TE53TzdFS0lZSUZTNW1JdkZZNVpDMDR1UGR2RHlBdGVGQnVQM2hKYXFKRGhDT1NZSGhnOVROSC05TEh0SHdFbEtOMTZtejNvbzJDNXQyV3p5VENDb1lCZVZJNjRjUk1vYU5zeU1Ubkc?oc=5) (Sportingpedia) | claude |
-|  | Serie A | Ange-Yoan Bonny · Inter | - | 중간 (2~8주) · "a month" | [Inter, Bonny out for a month: Chivu down to just 3 strikers](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXo3Ynpacm4tTmZZdnpRVFVuYm5peTI5YTlpakZ4Z01UXzZkd3duaG9CVjdZT1B3RXJHaS1FdDZ5RkJvOGlURWV1QUw2R3RaRkF2dVBUZDZ5TThYZ0Y2M296cFFJdUE1V2ZUSlpIaW0xdjltanVsaDNfVFBqVEVJN1hFOG5JR0dfdmFfZkJRbXYzNVpkN256YTZ2UDNmdG9vaS05btIBqgFBVV95cUxOZHpxRnhuRjNYNzFrNXp6eHB2dzl2ZGRiaksyZ3cyZlctaDVQamtUOTlMeG5yWGJxdjZ1X0lCYVB2OENDUnhRZG14Y0wweWRiODJUbWlCZU1RMWdQbGVaTmxMU2ZCQVo2TEVua1EzbklDamNqWmlMZ0xvR2VWWWNrVFFTTnBEZjVVYnNmVFhXNTlrNURiVjhsbkR6SGNSWi1vVlYwUDcyZFRxdw?oc=5) (La Gazzetta dello Sport) | claude |
-|  | Premier League | Virgil van Dijk · Liverpool | - | 미상 | [Liverpool handed van Dijk injury worry](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVFkcEVDdUUzdWhXcVVfOElxVS1XQUQ0Mi1abEpxUlMzeDV0MXlIMEFIYWRwUlhUc2U4WEpybFdLMDJnbE40UkZrVElUTGhhQVFJdjhjX0w0Y1JiUk1fcmxLTjRsTGF2ODY4Q01TNmlMVVZSZWUzLUtaU3lGSV9vYjlSMFV6eFNI?oc=5) (Yahoo Sports) | claude |
 
 ## 오늘의 콘텐츠 후보 (채널 적합도 순)
 
@@ -88,6 +83,20 @@ La rehabilitación de isquiotibiales tiene 3 fases. Esta es la que más se apres
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
+**캡션 (DE)**
+```
+Ander Barrenetxea (Real Sociedad): Verletzung an der Oberschenkelrückseite (Hamstrings). So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 1 · Protect & activate (days 1–7)
+1. Pain-free isometric hamstring holds (bridge position, 5×20s)
+2. Gentle hip hinge with no load
+3. Walking at normal pace, no running
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
 
 ### 2. Aurélien Tchouaméni · Real Madrid — 사타구니 / 내전근 (미상)
 - [Tchouaméni not ruled out of Celta clash despite adductor recurrence with France](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGdvRk1oTFMzSE40OHR2dmZwMVN2RExkZGZFb2F4Nzk1MldhcGhJUWJGdF9Cak9WVFV5c0lWYXdQWkFQRjFxOW5zWVRzcElySEl2UFUwWUJFTm01SkYyVEdDUFdCVGE4T1RsZkhRbmRVb3o5QVNxSzhFSUNmZXkxOQ?oc=5) · La Liga · Yahoo Sports
@@ -138,6 +147,20 @@ La rehabilitación de ingle / aductores tiene 3 fases. Esta es la que más se ap
 ⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+**캡션 (DE)**
+```
+Aurélien Tchouaméni (Real Madrid): Verletzung an der Leiste / Adduktoren. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 2 · Strength
+1. Copenhagen plank, short lever → long lever
+2. Side-lying hip adduction
+3. Lateral lunges, slow
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
 ### 3. Ezri Konsa · Aston Villa — 무릎 (기타) (미상)
@@ -190,6 +213,20 @@ La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
+**캡션 (DE)**
+```
+Ezri Konsa (Aston Villa): Verletzung an der Knie. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 2 · Strength
+1. Wall sits and goblet squats to pain-free depth
+2. Step-downs for control
+3. Single-leg Romanian deadlift
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
 
 ### 4. Marcus Thuram · Inter — 근육 (부위 미상) (미상)
 - [Inter relief at Thuram injury, but muscular issues becoming a problem](https://news.google.com/rss/articles/CBMie0FVX3lxTE9SVjZValFRTHlTalg4djgyWElySHdYalRlNVJCLW1xRWZmN2s2RG9RaWpxeE5YUkZYMWdOX0VWY0dMSnpYTUxSN1RHSGVXTVp2V1U5SWsyWFZzUFJzRUp6OG80N0FNS3g1elpFSlk3eFdmQWdfSkVMdUZBQdIBgAFBVV95cUxQUjhiNVJXOFJjck1WOW9WYWtNYW9JNEY3UXNFR3dGOWNmVzRZVWdVZlVCcVRYUXd3a2tVWlNMM2U3VmF6Z0cwWHotdENNd2ZrV1ZsallZNG1XbE0zdWJwZnU1VmN6ZGZKQWlUS0ZuOHZCZU9objBCLWt2LWNBZkVzUw?oc=5) · Serie A · Football Italia
@@ -241,10 +278,22 @@ La rehabilitación de muscular tiene 3 fases. Esta es la que más se apresura:
 
 💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
 ```
+**캡션 (DE)**
+```
+Marcus Thuram (Inter): Verletzung an der Muskel. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 2 · Eccentric strength
+1. Slow eccentric loading of the muscle
+2. Single-leg strength work
+3. Core
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
 
 ## 선수 미확인 (알림 보내지 않음)
 
 - Premier League: [Liverpool forward spotted wearing protective boot in fresh injury concern](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29Oc1FTeVBlTEdPQ2lkaG1XNDRWNTRpZDFaWGZ3bzlpTDBtZlFuQUlnQzFzNFRWMVlISDlzZFE2UWk5VlAyOVQtUDFHQ3hwQ3RYZFJpaU51Uzd5ck9UN3FDWXJabDljTnRraDNtbi1OakNnODFwOTMyRmxQMWlqalNZYmxGZWp6WHRIY1FWWEs5SmREQ3B6SkJOM0JfNDdYNHFpSl9tX0hUODFxMXBBX0F3?oc=5) (DaveOCKOP)
-- Premier League: [“Consulted specialists” - NT doctor opens up on Chelsea player’s ‘major injury’](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkpwbm5xTFZfc2FjWGZKdUxCLXlJcjhteVhCYkJwZW1tQm41VHBDcUh6aGZEWFQ4blRJSFRraWlDRllqdHlxT01vdVlqWWFCUnBnQnNDUDc1SEVIalhQZXJRb04xVG40Q3B0REFtUXc4X0RVU1E3MENKejJScWdJa1RtUFBqTlVNYUFTRkhVTXRQdzlXVHNIb0lBTDU4ZTRMRGI0M3Bvb3QwTXl1b2VCSE9IMGltaldJVW42UkZRT1k1dw?oc=5) (Sport Witness)
-- Premier League: [More bad injury news for Chelsea as regular starter leaves national team camp after assessment](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1RxVHhEUUlfQzZTRVNLaUhBX0pHaWlwZGNXeVdNTnR1YnRZbmlmOGV0ZWMwV05peV9qaFlYZWxyUVJQMTh2UThFTXV3MnR3dzBpbExlUnBZOVBEN21OYng1M3VCUzVQcllpY1JNQ290RTZRVXhUcGpLaEtsRzJ6Z2lIdzBMWG9VUUtPU25tQ3pRLWJqR0V5U2dHcHlraEwtcG9ieGhaOGU3RFFpRjZqeGVjMHZrbHpFWTAzSlhva0NBUk5vYUhmWlRYQXA0SGQzMndlSEhjYU5GT3VtRlkxQ2ZHcUQ5cHdTd09hSERNUVB2UzBTMmxwSk13?oc=5) (LiveScore)
 - La Liga: [Real Madrid star leaves national team camp after training ground injury](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2o5X3lib0tlOUktaFpCbmxxcTZSZmdHbmlZb3c4d3NacG1DYXcwU0dEOW10MTV0VnE5M2wxTmJjOXhkMUlYNzh6RHBIaXhMM3JPWU0tcHJMUGpOdFdpal85ekl2Q3NuNmljcGVlaDhobmZac0l6ckJZSEhTSnlPelM1WWNJdDB0?oc=5) (Yahoo Sports)

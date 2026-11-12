@@ -4103,6 +4103,38 @@
     "summary_en": "Kylian Mbappe will miss France's match against Italy as a precaution.",
     "extractor": "claude"
    }
+  },
+  "manzambi:unknown": {
+   "first_seen": "2026-11-12T17:25:37.631607+00:00",
+   "title": "Johan Manzambi injury concern as Aston Villa star withdraws from national team"
+  },
+  "title:johanmanzambiinjuryconcernasastonvillastarwithdrawsfromnationalteam": {
+   "first_seen": "2026-11-12T17:25:37.631607+00:00",
+   "facts": {
+    "player": "Johan Manzambi",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Johan Manzambi has pulled out of his national team squad amid injury concerns.",
+    "extractor": "claude"
+   }
+  },
+  "title:johanmanzambiinjuryupdateasastonvillastarsenthomefrominternationalduty": {
+   "first_seen": "2026-11-12T17:25:37.631607+00:00",
+   "facts": {
+    "player": "Johan Manzambi",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Johan Manzambi was sent back to his club from international duty with an injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
