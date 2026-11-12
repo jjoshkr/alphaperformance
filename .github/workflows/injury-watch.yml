@@ -5,7 +5,7 @@ name: Injury watch
 # 수동 실행: GitHub 저장소 → Actions → "Injury watch" → "Run workflow"
 #
 # 저장소 Settings → Secrets and variables → Actions 에 넣는 값 (모두 선택):
-#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  — 새 부상 소식 알림
+#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  — 새 부상 소식 알림 (CHAT_ID는 쉼표로 여러 개 가능: 그룹,개인)
 #   ANTHROPIC_API_KEY                      — 선수·부위·기간 추출 정확도 향상 (별도 결제, Max 플랜과 무관)
 # Variables 탭: INJURY_WATCH_MODEL — 추출 모델 (비우면 claude-opus-5-5)
 #   API_FOOTBALL_KEY                       — 구조화된 부상 데이터 (유료 플랜 필요할 수 있음)

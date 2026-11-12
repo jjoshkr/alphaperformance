@@ -559,7 +559,7 @@ def discover_telegram_chats(state):
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     if not token:
         return []
-    current = (os.environ.get("TELEGRAM_CHAT_ID") or "").strip()
+    current = set(telegram_chat_ids())
     greeted = set(state.setdefault("greeted_chats", []))
     token = token.strip()
     me = json.loads(fetch(f"https://api.telegram.org/bot{token}/getMe", timeout=20)).get("result", {})
@@ -580,7 +580,7 @@ def discover_telegram_chats(state):
         if chat.get("id"):
             chats[chat["id"]] = chat.get("title") or chat.get("username") or chat.get("first_name") or ""
     for cid, name in chats.items():
-        if str(cid) == current or str(cid) in greeted:
+        if str(cid) in current or str(cid) in greeted:
             continue
         greeted.add(str(cid)); state["greeted_chats"] = sorted(greeted)
         kind = "그룹" if int(cid) < 0 else "개인 대화방"
@@ -596,15 +596,27 @@ def discover_telegram_chats(state):
     return list(chats)
 
 
+def telegram_chat_ids():
+    """TELEGRAM_CHAT_ID may hold several ids separated by commas: a group and personal chats."""
+    raw = os.environ.get("TELEGRAM_CHAT_ID") or ""
+    return [c.strip() for c in raw.split(",") if c.strip()]
+
+
 def send_telegram(text):
-    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat:
+    token, chats = os.environ.get("TELEGRAM_BOT_TOKEN"), telegram_chat_ids()
+    if not token or not chats:
         return False
-    body = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
-                                   "disable_web_page_preview": "true"}).encode()
-    req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body, headers=UA)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.status == 200
+    ok = False
+    for chat in chats:
+        body = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
+                                       "disable_web_page_preview": "true"}).encode()
+        req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body, headers=UA)
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                ok = ok or r.status == 200
+        except Exception as e:
+            print(f"Telegram send to {chat} failed: {e}", file=sys.stderr)
+    return ok
 
 
 # ---------------------------------------------------------------- report
