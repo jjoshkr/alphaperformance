@@ -554,11 +554,13 @@ def telegram_message(i):
     return "\n".join(lines)
 
 
-def discover_telegram_chats():
-    """No TELEGRAM_CHAT_ID yet: find everyone who messaged the bot and tell them their chat id."""
+def discover_telegram_chats(state):
+    """Find chats (people or groups) that messaged the bot and tell each new one its chat id, once."""
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    if not token or os.environ.get("TELEGRAM_CHAT_ID"):
+    if not token:
         return []
+    current = (os.environ.get("TELEGRAM_CHAT_ID") or "").strip()
+    greeted = set(state.setdefault("greeted_chats", []))
     token = token.strip()
     me = json.loads(fetch(f"https://api.telegram.org/bot{token}/getMe", timeout=20)).get("result", {})
     print(f"Telegram bot: @{me.get('username')} ({me.get('first_name')})")
@@ -578,9 +580,13 @@ def discover_telegram_chats():
         if chat.get("id"):
             chats[chat["id"]] = chat.get("title") or chat.get("username") or chat.get("first_name") or ""
     for cid, name in chats.items():
-        text = (f"✅ AlphaBot 연결 확인\n\n이 대화방의 ID: <code>{cid}</code>\n\n"
-                "GitHub 저장소 → Settings → Secrets and variables → Actions 에\n"
-                "이름 <b>TELEGRAM_CHAT_ID</b>, 값 위 숫자로 등록하면 부상 알림이 여기로 옵니다.")
+        if str(cid) == current or str(cid) in greeted:
+            continue
+        greeted.add(str(cid)); state["greeted_chats"] = sorted(greeted)
+        kind = "그룹" if int(cid) < 0 else "개인 대화방"
+        text = (f"✅ AlphaBot 연결 확인 ({kind}: {tg_escape(name)})\n\n이 대화방의 ID: <code>{cid}</code>\n\n"
+                "GitHub 저장소 → Settings → Secrets and variables → Actions 에서\n"
+                "<b>TELEGRAM_CHAT_ID</b> 값을 위 숫자로 바꾸면 부상 알림이 여기로 옵니다.")
         body = urllib.parse.urlencode({"chat_id": cid, "text": text, "parse_mode": "HTML"}).encode()
         try:
             urllib.request.urlopen(urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body, headers=UA), timeout=20)
@@ -749,7 +755,7 @@ def main():
     sent = 0
     if not args.no_notify:
         try:
-            discover_telegram_chats()
+            discover_telegram_chats(state)
         except Exception as e:
             errors.append(f"Telegram setup: {e}")
         cap = src["max_new_alerts_per_run"]
