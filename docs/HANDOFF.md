@@ -2,6 +2,10 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-12 — Claude Code (텔레그램 그룹 전환)
+- 알림 대상이 개인 대화방 → 그룹(원우 님 포함)으로 변경 완료. TELEGRAM_CHAT_ID = 그룹 ID(음수). 20:21 KST 실행에서 새 소식 1건이 그룹으로 발송
+- 봇은 새 대화방을 발견하면 ID를 한 번 알려 줌(state.greeted_chats)
+
 ## 2026-11-12 — Claude Code (용품 판매 페이지)
 - 한 일: `site/shop/index.html` (제품 카드 = 시연 영상 + 태그 + 파트너 구매 링크, 제휴 공개 문구, Hotjar 이벤트), 메인 페이지에 Gear 링크·섹션 추가, `docs/playbooks/gear-shop.md` (구조·파트너 질문·제품 추가법·Higgsfield/영상 연동·배포)
 - 파트너 정보(링크 형식·수수료·국가·할인코드) 받으면 products 채우기. 배포 zip: `dist/3_SITE-with-gear-page_alpha-performance.zip`
