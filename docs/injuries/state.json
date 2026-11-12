@@ -3951,7 +3951,131 @@
     "summary_en": "Piero Hincapie gives an update on his fitness after two setbacks including an unusual accident.",
     "extractor": "claude"
    }
+  },
+  "title:chelseastarmoisescaicedodeliversworryinginjuryupdatetoecuadorianmedia": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Moises Caicedo gave a concerning update on his injury to media in Ecuador.",
+    "extractor": "claude"
+   }
+  },
+  "tchouamni:groin": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "title": "Tchouaméni not ruled out of Celta clash despite adductor recurrence with France"
+  },
+  "title:tchouamninotruledoutofceltaclashdespiteadductorrecurrencewithfrance": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Aurélien Tchouaméni",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "groin",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tchouaméni suffered a recurrence of an adductor problem with France but may still face Celta.",
+    "extractor": "claude"
+   }
+  },
+  "title:consultedspecialistsntdoctoropensuponchelseaplayersmajorinjury": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": null,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A national team doctor discussed a significant injury to an unnamed Chelsea player after consulting specialists.",
+    "extractor": "claude"
+   }
+  },
+  "title:morebadinjurynewsforchelseaasregularstarterleavesnationalteamcampafter": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": null,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Chelsea regular left his national team camp after an injury assessment.",
+    "extractor": "claude"
+   }
+  },
+  "rashford:unknown": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "title": "Marcus Rashford: Significant injury update issued on Manchester United forward"
+  },
+  "title:marcusrashfordsignificantinjuryupdateissuedonmanchesterunitedforward": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Marcus Rashford",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An injury update was released regarding Marcus Rashford.",
+    "extractor": "claude"
+   }
+  },
+  "title:marcguehiwithdrawsfromenglandsquadwithinjuryaheadofchallengerunofgames": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Marc Guehi pulled out of the England squad with an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:jameshillearnsmaidenenglandcallupasreplacementforinjuredkonsa": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Ezri Konsa",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Konsa's injury led to James Hill being called up by England.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolhandedvandijkinjuryworry": {
+   "first_seen": "2026-11-12T11:18:27.098408+00:00",
+   "facts": {
+    "player": "Virgil van Dijk",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool face an injury concern over Virgil van Dijk.",
+    "extractor": "claude"
+   }
   }
  },
- "alerts_started": "2026-11-06T02:10:19.141584+00:00"
+ "alerts_started": "2026-11-06T02:10:19.141584+00:00",
+ "greeted_chats": [
+  "-5400259932",
+  "8970358023"
+ ]
 }
