@@ -18,6 +18,10 @@ on:
         description: "테스트 알림만 보내기 (true면 뉴스 수집 없이 샘플 1건 발송)"
         type: boolean
         default: false
+      resend:
+        description: "최근 소식 N건 다시 보내기 (0이면 안 함, 중복 허용)"
+        type: string
+        default: "0"
 
 permissions:
   contents: write
@@ -46,6 +50,8 @@ jobs:
         run: |
           if [ "${{ inputs.test_alert }}" = "true" ]; then
             python tools/injury_watch/injury_watch.py --test-alert
+          elif [ -n "${{ inputs.resend }}" ] && [ "${{ inputs.resend }}" != "0" ]; then
+            python tools/injury_watch/injury_watch.py --resend "${{ inputs.resend }}"
           else
             python tools/injury_watch/injury_watch.py
           fi

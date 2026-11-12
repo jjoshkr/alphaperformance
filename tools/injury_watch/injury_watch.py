@@ -683,6 +683,7 @@ def main():
     ap.add_argument("--sample", action="store_true")
     ap.add_argument("--no-notify", action="store_true")
     ap.add_argument("--test-alert", action="store_true", help="send one sample alert to the configured chats and exit")
+    ap.add_argument("--resend", type=int, default=0, help="re-send the N most recent confirmed alerts from latest.json (duplicates allowed)")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -694,6 +695,26 @@ def main():
         PLAYER_STOP.update(w.lower() for w in m.split())
     lib = json.loads((HERE / "rehab_library.json").read_text(encoding="utf-8")); lib.pop("_note", None)
     videos = json.loads((HERE / "videos.json").read_text(encoding="utf-8")); videos.pop("_note", None)
+    if args.resend:
+        latest = Path(args.out or OUT_DIR) / "latest.json"
+        items = json.loads(latest.read_text(encoding="utf-8")) if latest.exists() else []
+        picked, seen_pl = [], set()
+        for i in sorted(items, key=lambda x: x.get("published") or "", reverse=True):
+            if not i.get("player") or player_key(i["player"]) in seen_pl:
+                continue
+            i["rehab"] = rehab_block(i, lib, videos)
+            if not i["rehab"]:
+                continue
+            seen_pl.add(player_key(i["player"])); picked.append(i)
+            if len(picked) >= args.resend:
+                break
+        sent = 0
+        for i in picked:
+            if send_telegram("🔁 <b>최근 소식 다시 보내기</b>\n\n" + telegram_message(i), buttons=[("📰 기사 열기", i["link"])]):
+                sent += 1
+        print(f"resent {sent}/{len(picked)}: {[i['player'] for i in picked]}")
+        return 0
+
     if args.test_alert:
         sample = {"player": "테스트 선수 (Test Player)", "club": "Alpha FC", "league": "Premier League", "body_part": "hamstring",
                   "severity": "moderate", "duration_phrase": "4-6 weeks", "duration_weeks": 6,
