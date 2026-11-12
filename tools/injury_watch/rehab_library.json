@@ -41,7 +41,8 @@
     "content_angle": "Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.",
     "red_flags": "A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early.",
     "content_fit": 5,
-    "content_fit_why": "스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임"
+    "content_fit_why": "스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임",
+    "de": "Oberschenkelrückseite (Hamstrings)"
   },
   "knee_acl": {
     "ko": "무릎 (십자인대/반월판)",
@@ -84,7 +85,8 @@
     "content_angle": "ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why landing mechanics matter more than the surgery.",
     "red_flags": "Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness.",
     "content_fit": 3,
-    "content_fit_why": "관심은 높지만 9개월 과정이라 교육형. 착지 기술 시연으로 풀면 좋음"
+    "content_fit_why": "관심은 높지만 9개월 과정이라 교육형. 착지 기술 시연으로 풀면 좋음",
+    "de": "Knie (Kreuzband/Meniskus)"
   },
   "knee_other": {
     "ko": "무릎 (기타)",
@@ -127,7 +129,8 @@
     "content_angle": "The knee is usually the victim: show how the hip and ankle take load off it.",
     "red_flags": "Locking, giving way or significant swelling needs imaging.",
     "content_fit": 3,
-    "content_fit_why": "부위가 모호하면 훅이 약함"
+    "content_fit_why": "부위가 모호하면 훅이 약함",
+    "de": "Knie"
   },
   "ankle": {
     "ko": "발목",
@@ -170,7 +173,8 @@
     "content_angle": "Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.",
     "red_flags": "Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.",
     "content_fit": 4,
-    "content_fit_why": "가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능"
+    "content_fit_why": "가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능",
+    "de": "Sprunggelenk"
   },
   "groin": {
     "ko": "사타구니 / 내전근",
@@ -213,7 +217,8 @@
     "content_angle": "The Copenhagen plank cut groin injuries by ~40% in studies. Show the 3 levels.",
     "red_flags": "Pain with coughing or deep core pressure can mean a sports hernia rather than a muscle strain.",
     "content_fit": 5,
-    "content_fit_why": "축구 고유 부상. Copenhagen plank 3단계는 저장·공유가 많은 '따라 하는' 형식"
+    "content_fit_why": "축구 고유 부상. Copenhagen plank 3단계는 저장·공유가 많은 '따라 하는' 형식",
+    "de": "Leiste / Adduktoren"
   },
   "calf": {
     "ko": "종아리",
@@ -256,7 +261,8 @@
     "content_angle": "Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.",
     "red_flags": "Sudden calf pain with swelling or warmth needs a check for a clot before any rehab.",
     "content_fit": 4,
-    "content_fit_why": "28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅"
+    "content_fit_why": "28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅",
+    "de": "Wade"
   },
   "achilles": {
     "ko": "아킬레스건",
@@ -299,7 +305,8 @@
     "content_angle": "Achilles ruptures end careers when the tendon never gets heavy slow loading back: show the progression.",
     "red_flags": "A rupture is a surgical/medical decision; any content must stay educational.",
     "content_fit": 2,
-    "content_fit_why": "의료 단계가 길어 시연이 제한적"
+    "content_fit_why": "의료 단계가 길어 시연이 제한적",
+    "de": "Achillessehne"
   },
   "quad": {
     "ko": "허벅지 앞 (대퇴사두근)",
@@ -342,7 +349,8 @@
     "content_angle": "Rectus femoris strains come from shooting: show the reverse Nordic and the kicking progression.",
     "red_flags": "A visible gap or bulge in the muscle needs imaging.",
     "content_fit": 4,
-    "content_fit_why": "킥 동작과 연결. Reverse Nordic은 시각적으로 강함"
+    "content_fit_why": "킥 동작과 연결. Reverse Nordic은 시각적으로 강함",
+    "de": "Oberschenkelvorderseite (Quadrizeps)"
   },
   "hip": {
     "ko": "고관절",
@@ -385,7 +393,8 @@
     "content_angle": "Hip strength protects the knee and the groin: 3 glute drills.",
     "red_flags": "Deep groin pinch with hip flexion can be labral; imaging decides.",
     "content_fit": 3,
-    "content_fit_why": "둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음"
+    "content_fit_why": "둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음",
+    "de": "Hüfte"
   },
   "foot": {
     "ko": "발 (중족골 등)",
@@ -428,7 +437,8 @@
     "content_angle": "Metatarsal fractures are the classic 'boot and wait' injury: show what to train while in the boot.",
     "red_flags": "Bone healing timelines are set by imaging, not feel.",
     "content_fit": 2,
-    "content_fit_why": "뼈 부상. '보조기 기간에 할 운동' 정도"
+    "content_fit_why": "뼈 부상. '보조기 기간에 할 운동' 정도",
+    "de": "Fuß / Mittelfuß"
   },
   "back": {
     "ko": "허리 / 등",
@@ -471,7 +481,8 @@
     "content_angle": "Back pain in footballers is usually a hip-mobility and core-control problem: 3 drills.",
     "red_flags": "Leg numbness, weakness or bladder changes are emergencies.",
     "content_fit": 2,
-    "content_fit_why": "축구 특화성이 낮음"
+    "content_fit_why": "축구 특화성이 낮음",
+    "de": "Rücken"
   },
   "shoulder": {
     "ko": "어깨 / 쇄골",
@@ -514,7 +525,8 @@
     "content_angle": "Shoulder injuries don't stop leg training: show the 'train around it' week.",
     "red_flags": "Dislocations and fractures follow the surgeon's timeline.",
     "content_fit": 1,
-    "content_fit_why": "축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도"
+    "content_fit_why": "축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도",
+    "de": "Schulter / Schlüsselbein"
   },
   "concussion": {
     "ko": "뇌진탕 / 머리",
@@ -557,7 +569,8 @@
     "content_angle": "Educational only: explain the graded return-to-play protocol. No exercise 'recommendations'.",
     "red_flags": "Worsening headache, vomiting, confusion or drowsiness are emergencies. Never give training advice for a head injury.",
     "content_fit": 0,
-    "content_fit_why": "운동 추천 금지. 교육 설명만"
+    "content_fit_why": "운동 추천 금지. 교육 설명만",
+    "de": "Gehirnerschütterung"
   },
   "muscle_general": {
     "ko": "근육 (부위 미상)",
@@ -600,6 +613,7 @@
     "content_angle": "Follow-up post once the club confirms the exact muscle.",
     "red_flags": "Wait for the specific diagnosis before any detailed content.",
     "content_fit": 1,
-    "content_fit_why": "부위 확인 전에는 보류"
+    "content_fit_why": "부위 확인 전에는 보류",
+    "de": "Muskel"
   }
 }

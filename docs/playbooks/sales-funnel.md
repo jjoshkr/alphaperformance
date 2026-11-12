@@ -75,3 +75,12 @@ You lose the race to the ball in your first 3 steps.
 
 #footballtraining #speedtraining #soccerdrills #futbol #entrenamientodefutbol #velocidad
 ```
+
+## 6. 독일어 캡션 작업 흐름 (원우 님용)
+1. 한국어로 하고 싶은 말을 쓴다 (또는 보고서의 EN 캡션 사용)
+2. **DeepL**(deepl.com, 한국어→독일어 직접 지원)로 1차 번역
+3. **DeepL Write** 또는 ChatGPT/Claude에 "Instagram-Caption, locker, Du-Form, kurz" 로 톤 조정 — DeepL은 정확하지만 격식체가 되기 쉬움
+4. **LanguageTool**(languagetool.org, 브라우저 확장)로 문법·띄어쓰기 최종 확인
+5. 가능하면 독일인 한 명에게 슬랭·관용구만 확인
+- 부상 보고서(`docs/injuries/latest.md`)에는 EN/ES/DE 캡션 초안이 자동으로 들어간다.
+- 릴스 캡션 순서 권장: EN → DE(분데스리가 소식일 때) 또는 ES(라리가·남미 팔로워) → 해시태그

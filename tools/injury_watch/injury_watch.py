@@ -512,7 +512,13 @@ def rehab_block(i, lib, videos):
                   + "\n".join(f"{n}. {d['name']}" for n, d in enumerate(drills, 1))
                   + "\n\n⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero."
                   + "\n\n💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).")
+    caption_de = (f"{who}{club}: Verletzung an der {entry.get('de', entry['en'])}. So sieht das Comeback meistens aus.\n\n"
+                  f"Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:\n{phase['name']}\n"
+                  + "\n".join(f"{n}. {d['name']}" for n, d in enumerate(drills, 1))
+                  + "\n\n⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio."
+                  + "\n\n💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).")
     return {"part_ko": entry["ko"], "part_en": entry["en"], "phase": phase["name"], "phase_goal": phase.get("goal", ""),
+            "caption_de": caption_de,
             "content_fit": entry.get("content_fit", 0), "content_fit_why": entry.get("content_fit_why", ""),
             "anatomy": entry.get("anatomy", {}), "drills": drills,
             "all_phases": entry["phases"], "content_angle": entry["content_angle"],
@@ -667,7 +673,8 @@ def build_report(items, new_keys, errors, today):
               for k, d in enumerate(r["drills"], 1)]
         L += ["", "<details><summary>전체 3단계</summary>", ""]
         L += [f"- **{p['name']}** — {p.get('goal', '')}: " + " · ".join(p["drills"]) for p in r["all_phases"]]
-        L += ["", "</details>", "", "**캡션 (EN)**", "```", r["caption_en"], "```", "**캡션 (ES)**", "```", r["caption_es"], "```", ""]
+        L += ["", "</details>", "", "**캡션 (EN)**", "```", r["caption_en"], "```", "**캡션 (ES)**", "```", r["caption_es"], "```",
+              "**캡션 (DE)**", "```", r["caption_de"], "```", ""]
     unconfirmed = [i for i in items if not i.get("player")]
     if unconfirmed:
         L += ["## 선수 미확인 (알림 보내지 않음)", ""]
