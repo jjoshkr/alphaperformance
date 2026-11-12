@@ -3933,6 +3933,24 @@
     "summary_en": "Bonny will miss about a month, leaving Inter with three strikers.",
     "extractor": "claude"
    }
+  },
+  "hincapie:unknown": {
+   "first_seen": "2026-11-12T06:17:27.220252+00:00",
+   "title": "Arsenal star Piero Hincapie clarifies injury status after double blow and freak accident"
+  },
+  "title:arsenalstarpierohincapieclarifiesinjurystatusafterdoubleblowandfreakac": {
+   "first_seen": "2026-11-12T06:17:27.220252+00:00",
+   "facts": {
+    "player": "Piero Hincapie",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Piero Hincapie gives an update on his fitness after two setbacks including an unusual accident.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00"
