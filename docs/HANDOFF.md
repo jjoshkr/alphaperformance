@@ -2,6 +2,11 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-12 — Claude Code (용품 판매 페이지)
+- 한 일: `site/shop/index.html` (제품 카드 = 시연 영상 + 태그 + 파트너 구매 링크, 제휴 공개 문구, Hotjar 이벤트), 메인 페이지에 Gear 링크·섹션 추가, `docs/playbooks/gear-shop.md` (구조·파트너 질문·제품 추가법·Higgsfield/영상 연동·배포)
+- 파트너 정보(링크 형식·수수료·국가·할인코드) 받으면 products 채우기. 배포 zip: `dist/3_SITE-with-gear-page_alpha-performance.zip`
+- ManyChat: 사용자 진행 중 (체크리스트 재안내)
+
 ## 2026-11-09 — Claude Code (Claude 추출 가동)
 - 확인: Max 플랜 월 $100 API 크레딧 포함(2026-10-07~, 공식 문서). ANTHROPIC_API_KEY 등록 완료, 17:12 KST 실행에서 Claude 추출 동작 — 성+이름·클럽·부위·기간 채워짐 (예: Manuel Neuer · Bayern · 발 · 6~8주, Marc Guehi · hip, Rodri · hamstring). 모델 기본 claude-opus-5-5
 - 한 일: 규칙으로만 처리됐던 기존 항목은 Claude가 있을 때 한 번 다시 읽도록 변경

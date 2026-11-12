@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Training Gear | Alpha Performance</title>
+<meta name="description" content="The gear Coach Wonwoo actually uses for football speed and rehab sessions, with a demo video for each piece. Partner links, no markup.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Training Gear | Alpha Performance">
+<meta property="og:description" content="The gear I use in my speed and rehab sessions, each with a demo video.">
+<meta name="theme-color" content="#123D2E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+
+<script>
+/* ================== EDIT THESE ================== */
+window.AP_SHOP = {
+  // Partner / affiliate settings
+  PARTNER_NAME: "PARTNER NAME",          // shown in the disclosure line
+  INSTAGRAM: "alpha_football_rehab",
+  HOTJAR_ID: null,
+
+  // Products. buy_url = the partner's link for this product (with your affiliate code if they give one).
+  // video = an .mp4 you upload to this site (e.g. "../videos/aquabag.mp4"), an Instagram reel URL, or a YouTube URL.
+  // image = a product photo (../img/aquabag.jpg) — optional, the video poster is used when missing.
+  // used_in = which drills / body parts this gear appears in (shown as tags). program: true adds the "Used in the 6-week program" badge.
+  products: [
+    {
+      id: "aqua-bag",
+      name: "Aqua Bag (water-filled stability bag)",
+      price: "$—",
+      tagline: "Unstable load for single-leg stability and anti-rotation work.",
+      used_in: ["Stability", "Core", "Return to play"],
+      program: true,
+      buy_url: "https://REPLACE-WITH-PARTNER-LINK/aqua-bag",
+      video: "https://www.instagram.com/alpha_football_rehab/",
+      image: ""
+    },
+    {
+      id: "mini-bands",
+      name: "Resistance mini bands (set)",
+      price: "$—",
+      tagline: "Glute activation, lateral walks, ankle eversion for rehab.",
+      used_in: ["Hip", "Ankle", "Warm-up"],
+      program: true,
+      buy_url: "https://REPLACE-WITH-PARTNER-LINK/mini-bands",
+      video: "",
+      image: ""
+    },
+    {
+      id: "sliders",
+      name: "Core sliders",
+      price: "$—",
+      tagline: "Sliding leg curls and Copenhagen variations without a machine.",
+      used_in: ["Hamstring", "Groin"],
+      program: true,
+      buy_url: "https://REPLACE-WITH-PARTNER-LINK/sliders",
+      video: "",
+      image: ""
+    },
+    {
+      id: "cones",
+      name: "Agility cones + hurdles",
+      price: "$—",
+      tagline: "Change-of-direction and acceleration drills on any pitch.",
+      used_in: ["Speed", "Change of direction"],
+      program: true,
+      buy_url: "https://REPLACE-WITH-PARTNER-LINK/cones",
+      video: "",
+      image: ""
+    }
+  ]
+};
+/* ================================================ */
+</script>
+
+<style>
+:root{
+  --turf:#123D2E; --turf-2:#164735; --chalk:#F4F6F1; --paper:#FFFFFF; --ink:#10231B; --mute:#56665E; --line:#D9E0DA;
+  --signal:#F5C518; --signal-ink:#1A1600;
+  --display:"Barlow Condensed","Arial Narrow",sans-serif; --body:"Barlow",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --wrap:1080px; --gutter:20px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;background:var(--chalk);color:var(--ink);font:400 17px/1.6 var(--body)}
+img,video{max-width:100%;display:block}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--signal);outline-offset:3px;border-radius:4px}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 var(--gutter)}
+h1,h2,h3{font-family:var(--display);font-weight:800;line-height:.98;letter-spacing:-.005em;margin:0}
+h1{font-size:clamp(40px,8vw,68px)}
+h2{font-size:clamp(30px,5vw,44px)}
+h3{font-size:24px;font-weight:700;line-height:1.1}
+p{margin:0 0 1em}
+.lede{font-size:19px;color:var(--mute);max-width:60ch}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 24px;border-radius:999px;
+  background:var(--signal);color:var(--signal-ink);font:700 19px/1 var(--display);letter-spacing:.02em;text-decoration:none;border:0;cursor:pointer;
+  transition:transform .12s ease, box-shadow .12s ease}
+.btn:hover{transform:translateY(-1px);box-shadow:0 6px 0 -2px rgba(0,0,0,.25)}
+.btn.ghost{background:transparent;color:var(--chalk);border:2px solid rgba(244,246,241,.5)}
+.btn-wide{width:100%}
+
+.top{background:var(--turf);color:var(--chalk)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
+.brand{font:800 22px/1 var(--display);text-decoration:none;white-space:nowrap}
+.brand span{color:var(--signal)}
+.top nav{display:flex;gap:18px;font-size:15px}
+.top nav a{color:#CFE0D6;text-decoration:none}
+.top nav a[aria-current]{color:var(--signal);font-weight:600}
+.top nav a:hover{color:var(--chalk)}
+.top nav a .long{display:inline}
+@media (max-width:480px){.top nav{gap:14px}.top nav a .long{display:none}.top nav a.ig{display:none}}
+
+.hero{background:linear-gradient(180deg,var(--turf) 0%,var(--turf-2) 100%);color:var(--chalk);padding:56px 0 48px}
+.hero .lede{color:#CFE0D6}
+.hero .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}
+.note{font-size:14px;color:#A9BDB3;margin-top:18px}
+
+section{padding:56px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:22px;margin-top:28px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column}
+.media{position:relative;background:#0b1f17;aspect-ratio:4/5;display:flex;align-items:center;justify-content:center;color:#CFE0D6;overflow:hidden}
+.media video,.media img,.media iframe{width:100%;height:100%;object-fit:cover;border:0}
+.media .ph{font:700 18px/1.2 var(--display);text-align:center;padding:20px;opacity:.7}
+.media .ph small{display:block;font:500 13px/1.4 var(--body);margin-top:8px;opacity:.8}
+.badge{position:absolute;top:12px;left:12px;background:var(--signal);color:var(--signal-ink);font:700 13px/1 var(--display);letter-spacing:.04em;padding:8px 10px;border-radius:999px}
+.body{padding:18px 18px 20px;display:flex;flex-direction:column;gap:10px;flex:1}
+.body h3{font-size:22px}
+.price{font:800 26px/1 var(--display)}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tags span{font-size:13px;color:var(--turf);background:#E6EFE9;border-radius:999px;padding:4px 10px}
+.body .btn{margin-top:auto}
+.tiny{font-size:13px;color:var(--mute)}
+
+.why{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.why ul{list-style:none;padding:0;margin:20px 0 0;display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.why li{background:var(--chalk);border-radius:14px;padding:16px 18px}
+.why li strong{display:block;font-family:var(--display);font-size:20px;margin-bottom:4px}
+
+.cta{background:var(--turf);color:var(--chalk);text-align:center}
+.cta .lede{color:#CFE0D6;margin:12px auto 22px}
+footer{background:var(--turf-2);color:#CFE0D6;font-size:14px;padding:30px 0 40px}
+footer p{margin:0 0 8px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="../">Alpha <span>Performance</span></a>
+    <nav aria-label="Pages">
+      <a href="../"><span class="long">6-Week </span>Program</a>
+      <a href="./" aria-current="page">Gear</a>
+      <a class="ig" data-ig href="https://www.instagram.com/alpha_football_rehab/" target="_blank" rel="noopener">Instagram</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero">
+  <div class="wrap">
+    <h1>The gear I actually use.</h1>
+    <p class="lede">Nothing here is required for the 6-week program: it runs on a pitch with no equipment. These are the few pieces I use with the players I coach in person, each with a short demo of how it fits a session.</p>
+    <div class="row">
+      <a class="btn" href="#gear">See the gear</a>
+      <a class="btn ghost" href="../">Get the 6-week program</a>
+    </div>
+    <p class="note" id="disclosure">Links go to a partner store. If you buy through them I may earn a commission; the price is the same for you.</p>
+  </div>
+</section>
+
+<section id="gear">
+  <div class="wrap">
+    <h2>Gear, with the drill it's for</h2>
+    <p class="lede">Tap the video to see the exercise. Tap buy to go to the partner store.</p>
+    <div class="grid" id="grid"></div>
+  </div>
+</section>
+
+<section class="why">
+  <div class="wrap">
+    <h2>How I pick gear</h2>
+    <ul>
+      <li><strong>Pitch first</strong>Anything that needs a gym is out. Everything here fits in a backpack.</li>
+      <li><strong>Rehab-safe</strong>I choose loads that let you fail safely: bands and water bags before barbells.</li>
+      <li><strong>One job each</strong>Each piece covers a drill you'll see in my reels, not a drawer of gadgets.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap">
+    <h2>Want the plan that uses it?</h2>
+    <p class="lede">24 sprint sessions over 6 weeks. No gear required, instant download.</p>
+    <a class="btn" href="../?utm_source=site&utm_medium=shop&utm_campaign=cta">Get the 6-week program · $20</a>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p><strong style="color:#F4F6F1">Alpha Performance</strong>. Football speed, strength and return-to-play training by Coach Wonwoo.</p>
+    <p>Product links lead to a partner store that handles payment, shipping and returns. Training content is general education, not medical advice.</p>
+    <p>© 2026 Alpha Performance · <a data-ig href="https://www.instagram.com/alpha_football_rehab/" target="_blank" rel="noopener">Instagram</a></p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var C = window.AP_SHOP || {};
+  var params = new URLSearchParams(location.search);
+
+  // Hotjar (same ID as the main page; internal devices excluded with ?internal=1)
+  var internal = false;
+  try {
+    if (params.get('internal') === '1') localStorage.setItem('ap_internal', '1');
+    if (params.get('internal') === '0') localStorage.removeItem('ap_internal');
+    internal = localStorage.getItem('ap_internal') === '1';
+  } catch(e){}
+  if (C.HOTJAR_ID && !internal) {
+    (function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:C.HOTJAR_ID,hjsv:6};a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  }
+  function track(name){ try{ if (window.hj) window.hj('event', name); }catch(e){} }
+  var src = (params.get('utm_medium') || (document.referrer ? 'referral' : 'direct')).toLowerCase().replace(/[^a-z0-9_]/g,'').slice(0,30) || 'direct';
+  track('shop_src_' + src);
+
+  if (C.INSTAGRAM) document.querySelectorAll('[data-ig]').forEach(function(a){ a.href = 'https://www.instagram.com/' + C.INSTAGRAM + '/'; });
+  var disc = document.getElementById('disclosure');
+  if (disc && C.PARTNER_NAME && C.PARTNER_NAME !== 'PARTNER NAME') disc.textContent = 'Links go to ' + C.PARTNER_NAME + '. If you buy through them I may earn a commission; the price is the same for you.';
+
+  // Video embed: .mp4 -> <video>, Instagram -> blockquote embed, YouTube -> iframe
+  var needIg = false;
+  function media(p){
+    var v = p.video || '';
+    if (/\.(mp4|webm|mov)(\?|$)/i.test(v)) {
+      var vid = document.createElement('video');
+      vid.src = v; vid.controls = true; vid.playsInline = true; vid.muted = true; vid.loop = true; vid.preload = 'metadata';
+      if (p.image) vid.poster = p.image;
+      return vid;
+    }
+    if (/youtube\.com|youtu\.be/.test(v)) {
+      var id = (v.match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{6,})/) || [])[1];
+      if (id) { var f = document.createElement('iframe'); f.src = 'https://www.youtube-nocookie.com/embed/' + id; f.loading = 'lazy'; f.allow = 'accelerometer; encrypted-media; picture-in-picture'; f.allowFullscreen = true; return f; }
+    }
+    if (/instagram\.com\/(reel|p)\//.test(v)) {
+      needIg = true;
+      var bq = document.createElement('blockquote');
+      bq.className = 'instagram-media'; bq.setAttribute('data-instgrm-permalink', v.split('?')[0]); bq.setAttribute('data-instgrm-version', '14');
+      bq.style.cssText = 'margin:0;width:100%;height:100%;background:#fff';
+      return bq;
+    }
+    if (p.image) { var im = document.createElement('img'); im.src = p.image; im.alt = p.name; im.loading = 'lazy'; return im; }
+    var ph = document.createElement('div'); ph.className = 'ph';
+    ph.innerHTML = p.name + '<small>Demo video coming soon</small>';
+    return ph;
+  }
+
+  var grid = document.getElementById('grid');
+  (C.products || []).forEach(function(p){
+    var card = document.createElement('article'); card.className = 'card'; card.id = p.id || '';
+    var m = document.createElement('div'); m.className = 'media'; m.appendChild(media(p));
+    if (p.program) { var b = document.createElement('span'); b.className = 'badge'; b.textContent = 'USED IN THE 6-WEEK PROGRAM'; m.appendChild(b); }
+    var body = document.createElement('div'); body.className = 'body';
+    var h = document.createElement('h3'); h.textContent = p.name;
+    var tl = document.createElement('p'); tl.className = 'tiny'; tl.textContent = p.tagline || '';
+    var tags = document.createElement('div'); tags.className = 'tags';
+    (p.used_in || []).forEach(function(t){ var s = document.createElement('span'); s.textContent = t; tags.appendChild(s); });
+    var price = document.createElement('div'); price.className = 'price'; price.textContent = p.price || '';
+    var a = document.createElement('a'); a.className = 'btn btn-wide'; a.textContent = 'Buy at partner store';
+    var ok = p.buy_url && p.buy_url.indexOf('REPLACE') === -1;
+    if (ok) {
+      var u = new URL(p.buy_url);
+      if (!u.searchParams.has('utm_source')) { u.searchParams.set('utm_source', 'alphaperformance'); u.searchParams.set('utm_medium', 'shop'); u.searchParams.set('utm_campaign', p.id || 'gear'); }
+      a.href = u.toString(); a.target = '_blank'; a.rel = 'noopener sponsored';
+    } else { a.href = '#'; a.textContent = 'Link coming soon'; a.style.opacity = '.6'; a.setAttribute('aria-disabled', 'true'); }
+    a.addEventListener('click', function(){ track('gear_buy_' + (p.id || 'item')); });
+    body.append(h, tl, tags, price, a);
+    card.append(m, body); grid.appendChild(card);
+  });
+  if (needIg) { var s = document.createElement('script'); s.async = true; s.src = 'https://www.instagram.com/embed.js'; document.body.appendChild(s); }
+})();
+</script>
+</body>
+</html>
