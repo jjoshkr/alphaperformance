@@ -602,14 +602,17 @@ def telegram_chat_ids():
     return [c.strip() for c in raw.split(",") if c.strip()]
 
 
-def send_telegram(text):
+def send_telegram(text, buttons=None):
+    """buttons: list of (label, url) shown under the message. Buttons render the same on every Telegram client."""
     token, chats = os.environ.get("TELEGRAM_BOT_TOKEN"), telegram_chat_ids()
     if not token or not chats:
         return False
     ok = False
     for chat in chats:
-        body = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
-                                       "disable_web_page_preview": "true"}).encode()
+        fields = {"chat_id": chat, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"}
+        if buttons:
+            fields["reply_markup"] = json.dumps({"inline_keyboard": [[{"text": t, "url": u}] for t, u in buttons if u]})
+        body = urllib.parse.urlencode(fields).encode()
         req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=body, headers=UA)
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
@@ -677,6 +680,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", action="store_true")
     ap.add_argument("--no-notify", action="store_true")
+    ap.add_argument("--test-alert", action="store_true", help="send one sample alert to the configured chats and exit")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -688,6 +692,17 @@ def main():
         PLAYER_STOP.update(w.lower() for w in m.split())
     lib = json.loads((HERE / "rehab_library.json").read_text(encoding="utf-8")); lib.pop("_note", None)
     videos = json.loads((HERE / "videos.json").read_text(encoding="utf-8")); videos.pop("_note", None)
+    if args.test_alert:
+        sample = {"player": "테스트 선수 (Test Player)", "club": "Alpha FC", "league": "Premier League", "body_part": "hamstring",
+                  "severity": "moderate", "duration_phrase": "4-6 weeks", "duration_weeks": 6,
+                  "link": "https://www.bbc.com/sport/football", "title": "Test alert: hamstring injury rules player out for 4-6 weeks",
+                  "source": "BBC Sport", "summary_en": "This is a test message to check links and buttons."}
+        sample["rehab"] = rehab_block(sample, lib, videos)
+        sent = send_telegram("🧪 <b>테스트 알림</b> — 링크와 버튼이 잘 보이는지 확인용입니다.\n\n" + telegram_message(sample),
+                             buttons=[("📰 기사 열기", sample["link"]), ("🏃 판매 페이지", "https://alpha-performance.netlify.app/")])
+        print("test alert sent" if sent else "test alert NOT sent (token/chat id missing?)")
+        return 0
+
     out_dir = Path(args.out) if args.out else OUT_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
     state_path = out_dir / "state.json"
@@ -775,7 +790,7 @@ def main():
             cap = len(alerts)  # a busy 3-hour window: send them all rather than drop real news
         for i in alerts[:cap]:
             try:
-                if send_telegram(telegram_message(i)):
+                if send_telegram(telegram_message(i), buttons=[("📰 기사 열기", i["link"])]):
                     sent += 1
             except Exception as e:
                 errors.append(f"Telegram: {e}")

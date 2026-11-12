@@ -13,6 +13,11 @@ on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "테스트 알림만 보내기 (true면 뉴스 수집 없이 샘플 1건 발송)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -38,7 +43,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           INJURY_WATCH_MODEL: ${{ vars.INJURY_WATCH_MODEL }}
-        run: python tools/injury_watch/injury_watch.py
+        run: |
+          if [ "${{ inputs.test_alert }}" = "true" ]; then
+            python tools/injury_watch/injury_watch.py --test-alert
+          else
+            python tools/injury_watch/injury_watch.py
+          fi
       - name: Commit report and state
         run: |
           git config user.name "github-actions[bot]"
