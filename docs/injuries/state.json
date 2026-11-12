@@ -4071,6 +4071,38 @@
     "summary_en": "Liverpool face an injury concern over Virgil van Dijk.",
     "extractor": "claude"
    }
+  },
+  "title:liverpoolforwardspottedwearingprotectivebootinfreshinjuryconcern": {
+   "first_seen": "2026-11-12T11:21:21.371632+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "foot",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Liverpool forward was seen in a protective boot, raising a new injury worry.",
+    "extractor": "claude"
+   }
+  },
+  "mbappe:unknown": {
+   "first_seen": "2026-11-12T11:21:21.371632+00:00",
+   "title": "Blow for France! Real Madrid superstar Kylian Mbappe ruled out of crucial Italy clash as Zinedine Zidane refuses to take risks"
+  },
+  "title:blowforfrancerealmadridsuperstarkylianmbapperuledoutofcrucialitalyclas": {
+   "first_seen": "2026-11-12T11:21:21.371632+00:00",
+   "facts": {
+    "player": "Kylian Mbappe",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kylian Mbappe will miss France's match against Italy as a precaution.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
