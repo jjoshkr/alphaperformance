@@ -550,7 +550,9 @@ def telegram_message(i):
         lines += ["", f"🎯 각도: {tg_escape(r['content_angle'])}",
                   f"📈 채널 적합도: {'★' * r['content_fit']}{'☆' * (5 - r['content_fit'])} — {tg_escape(r['content_fit_why'])}",
                   f"⚠️ {tg_escape(r['red_flags'])}"]
-    lines.append("\n<i>자동 초안 · 게시 전 원우 님 검토 · 의료 조언 아님</i>")
+    # Bare URL as the last line: even clients that hide HTML links or buttons auto-link plain URLs
+    lines.append(f"\n🔗 기사: {tg_escape(i['link'])}")
+    lines.append("<i>자동 초안 · 게시 전 원우 님 검토 · 의료 조언 아님</i>")
     return "\n".join(lines)
 
 
