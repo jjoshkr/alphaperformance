@@ -12,5 +12,19 @@
  {
   "week": "2026-W46",
   "pattern": "myth_bust"
+ },
+ {
+  "week": "2026-W46",
+  "pattern": "three_drills",
+  "player_key": "tchouamni",
+  "titles": [
+   "추아메니 내전근 재발: 사타구니 부상이 자꾸 돌아오는 이유와 3단계 복귀",
+   "느린 첫 스텝 고치는 3가지 드릴 (장비 없이)",
+   "햄스트링은 정확히 어디서 찢어질까 (해부 설명 + 시연)"
+  ]
+ },
+ {
+  "week": "2026-W46",
+  "pattern": "anatomy_explainer"
  }
 ]
