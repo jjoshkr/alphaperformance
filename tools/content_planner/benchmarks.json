@@ -1,0 +1,237 @@
+{
+  "_note": "벤치마크 계정과 '조회수가 터지는' 패턴. followers는 웹 검색 스냅샷(2026-11-13)이며 '확인 필요' 표시는 직접 확인 전. top_reels는 사용자가 캡처/수집 도구로 채우는 실데이터(비어 있으면 패턴 가설로 기획).",
+  "accounts": {
+    "S&C": [
+      {
+        "handle": "sergiotreinador",
+        "name": "Sérgio (treinador)",
+        "followers": null,
+        "lang": "pt",
+        "note": "확인 필요 (검색 미검출)",
+        "top_reels": []
+      },
+      {
+        "handle": "elimak__",
+        "name": "",
+        "followers": null,
+        "lang": "",
+        "note": "확인 필요",
+        "top_reels": []
+      },
+      {
+        "handle": "jona.tou",
+        "name": "",
+        "followers": null,
+        "lang": "",
+        "note": "확인 필요",
+        "top_reels": []
+      },
+      {
+        "handle": "nooch_13",
+        "name": "Carmen Del Mastro",
+        "followers": 238000,
+        "lang": "en",
+        "note": "sports performance coach, 자체 프로그램 판매",
+        "top_reels": []
+      },
+      {
+        "handle": "coach.bluee",
+        "name": "Lucas Dasilva",
+        "followers": 10000000,
+        "lang": "en/pt",
+        "note": "일반 피트니스 온라인 코치 — 축구 특화 아님. 훅/편집 참고용",
+        "top_reels": []
+      },
+      {
+        "handle": "tomjoycefitness",
+        "name": "Tom Joyce",
+        "followers": 115000,
+        "lang": "en",
+        "note": "UK 축구 S&C",
+        "top_reels": []
+      },
+      {
+        "handle": "marcusriosofficial",
+        "name": "Marcus Rios",
+        "followers": 540000,
+        "lang": "es/en",
+        "note": "스페인어권 — 우리 1위 언어권",
+        "top_reels": []
+      },
+      {
+        "handle": "pass_official_",
+        "name": "",
+        "followers": null,
+        "lang": "ko",
+        "note": "확인 필요 (한국 S&C 추정)",
+        "top_reels": []
+      },
+      {
+        "handle": "ycg_performance_official",
+        "name": "윤청구퍼포먼스트레이닝(YCGPTC)",
+        "followers": 198000,
+        "lang": "ko",
+        "note": "한국. 피지컬·재활·컨디셔닝, 프로팀 의무팀장 출신 물리치료사 — S&C+rehab 겸업, 한국어권 기준점",
+        "top_reels": []
+      }
+    ],
+    "Rehab": [
+      {
+        "handle": "niklas.sportphysio",
+        "name": "Niklas",
+        "followers": 80000,
+        "lang": "de/en",
+        "note": "IG+TikTok 합산 80K+ (자체 사이트). 독일 스포츠물리치료 — S&C+rehab 둘 다, 원우 님과 가장 가까운 포지션",
+        "top_reels": []
+      },
+      {
+        "handle": "medspired",
+        "name": "Nav Singh Badesha, M.D.",
+        "followers": 119000,
+        "lang": "en",
+        "note": "의사(내과 전문의) 계정 — 물리치료보다 의학 교육 톤. 수치는 약 1.5년 전 디렉터리 기준",
+        "top_reels": []
+      },
+      {
+        "handle": "e3rehab",
+        "name": "E3 Rehab",
+        "followers": 480000,
+        "lang": "en",
+        "note": "근거 기반 재활, 신화 깨기·단계별 진행 형식의 기준점",
+        "top_reels": []
+      }
+    ]
+  },
+  "patterns": {
+    "_note": "weight = 조회수 기대치 가설(1~5). 실데이터(top_reels)가 쌓이면 planner가 가중치를 다시 계산한다.",
+    "S&C": [
+      {
+        "id": "pro_breakdown",
+        "name": "프로 선수 동작 분해 → 코치 재현",
+        "hook_en": "Why {player} is faster than you (it's not genetics)",
+        "weight": 5,
+        "why": "유명 선수 = 클릭, 재현 = 저장. 우리 채널 팔로우 상위 3개가 전부 이 형식"
+      },
+      {
+        "id": "three_drills",
+        "name": "3 drills to fix X",
+        "hook_en": "3 drills to fix a slow first step",
+        "weight": 5,
+        "why": "저장·공유형. 짧은 컷 3개로 구조가 단순"
+      },
+      {
+        "id": "before_after_test",
+        "name": "측정 before/after (10m 스프린트, 점프 높이)",
+        "hook_en": "We cut his 10m time by 0.2s in 4 weeks. Here's how",
+        "weight": 4,
+        "why": "숫자가 증거 역할. 프로그램 판매와 직결"
+      },
+      {
+        "id": "stop_doing",
+        "name": "Stop doing X (흔한 실수 교정)",
+        "hook_en": "Stop doing this if you want to get faster",
+        "weight": 4,
+        "why": "반론형 훅. 댓글 유도"
+      },
+      {
+        "id": "pov_session",
+        "name": "POV: 실제 코칭 세션 (선수와 함께)",
+        "hook_en": "POV: speed session with a U-20 international",
+        "weight": 4,
+        "why": "신뢰. U-20 선수 동의 필요"
+      },
+      {
+        "id": "explosive_visual",
+        "name": "폭발적 동작 비주얼 (박스점프, 슬레드, 바운딩)",
+        "hook_en": "Plyometrics for footballers: level 1 → 5",
+        "weight": 3,
+        "why": "조회수는 높지만 팔로우 전환은 중간"
+      }
+    ],
+    "Rehab": [
+      {
+        "id": "myth_bust",
+        "name": "근거 기반 신화 깨기",
+        "hook_en": "You don't need to stretch a tight hamstring",
+        "weight": 5,
+        "why": "e3rehab 형식. 논쟁 → 댓글·공유"
+      },
+      {
+        "id": "injury_react",
+        "name": "프로 부상 뉴스 반응 + 재활 단계 설명",
+        "hook_en": "{player} is out for {weeks} weeks. Here's what rehab actually looks like",
+        "weight": 5,
+        "why": "시의성 + 전문성. 부상 알림 자동화와 직결"
+      },
+      {
+        "id": "anatomy_explainer",
+        "name": "어디·무슨 근육 (해부 설명 + 시연)",
+        "hook_en": "Where your hamstring actually tears (and why)",
+        "weight": 4,
+        "why": "교육형. 저장 많음"
+      },
+      {
+        "id": "progression_ladder",
+        "name": "재활 단계 사다리 (Level 1→5)",
+        "hook_en": "Ankle sprain rehab: level 1 to 5",
+        "weight": 4,
+        "why": "구조가 명확해 시리즈화 가능"
+      },
+      {
+        "id": "test_yourself",
+        "name": "셀프 테스트 챌린지",
+        "hook_en": "Can you do 25 single-leg calf raises? If not, watch this",
+        "weight": 4,
+        "why": "참여형. 댓글에 결과 남김"
+      },
+      {
+        "id": "physio_reacts",
+        "name": "물리치료사가 반응한다 (잘못된 조언)",
+        "hook_en": "Physio reacts: the worst hamstring advice on Instagram",
+        "weight": 3,
+        "why": "조회수 높지만 톤 관리 필요"
+      }
+    ]
+  },
+  "channel": {
+    "handle": "alpha_football_rehab",
+    "pillars": [
+      "Speed (acceleration, first 3 steps)",
+      "Return to play / rehab",
+      "Strength for footballers (no gym)",
+      "Pro injury breakdowns"
+    ],
+    "differentiators": [
+      "S&C + rehab 둘 다 하는 코치",
+      "Dortmund 현지 (분데스리가)",
+      "한국어·영어·독일어 3개 언어",
+      "U-20 국가대표 코칭"
+    ],
+    "proof_from_insights": {
+      "demo_reels_follow_gain": {
+        "Plyometrics": 126,
+        "Change of Direction": 55,
+        "Stability": 51
+      },
+      "star_content_follow_gain": 17,
+      "audience": "남성 90%, 25-44세 70%, 스페인어 21.8% > 영어 19.5%, 브라질·이집트·미국·스페인·아르헨티나"
+    },
+    "posting": {
+      "days": [
+        "Tue",
+        "Thu",
+        "Fri"
+      ],
+      "time_kst": "21:00",
+      "cta_keyword": "SPEED",
+      "cta_keyword_es": "VELOCIDAD",
+      "gear_keyword": "GEAR"
+    },
+    "rules": [
+      "선수 경기 영상·사진 사용 금지 (링크 참조만)",
+      "뇌진탕은 운동 추천 없이 교육만",
+      "의료 조언 아님 문구 유지",
+      "원우 님 실사 시연이 화면의 70% 이상"
+    ]
+  }
+}

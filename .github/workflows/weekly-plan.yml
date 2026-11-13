@@ -1,0 +1,43 @@
+name: Weekly reel plan
+
+# 매주 월요일 07:00 KST(일요일 22:00 UTC)에 이번 주 릴스 3개 기획을 만들어
+# docs/content/weekly/ 에 저장하고 텔레그램 그룹으로 요약을 보냅니다.
+# 수동 실행: Actions → "Weekly reel plan" → Run workflow
+on:
+  schedule:
+    - cron: "0 22 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-plan
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet anthropic
+      - name: Plan this week's reels
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INJURY_WATCH_MODEL: ${{ vars.INJURY_WATCH_MODEL }}
+        run: python tools/content_planner/planner.py
+      - name: Commit plan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/content/weekly
+          if git diff --cached --quiet; then echo "No changes"; else
+            git commit -m "Weekly reel plan: $(TZ=Asia/Seoul date +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
