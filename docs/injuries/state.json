@@ -4259,6 +4259,98 @@
     "summary_en": "Inter midfielder Zielinski missed a Poland training session, raising an injury concern.",
     "extractor": "claude"
    }
+  },
+  "alphonso:knee_acl": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "title": "Sevilla announce Alphonso injury with ACL tear in… | Yalla Shoot"
+  },
+  "title:sevillaannouncealphonsoinjurywithacltearinyallashoot": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": "Alphonso",
+    "club": "Sevilla",
+    "league": "La Liga",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Sevilla confirmed a player named Alphonso has torn an ACL.",
+    "extractor": "claude"
+   }
+  },
+  "title:laziodefenderleavesnationalteamcampaftersufferingnewinjury": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": null,
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Lazio defender left his national team camp after a new injury.",
+    "extractor": "claude"
+   }
+  },
+  "aynaoui:calf": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "title": "RB Leipzig says Neil El Aynaoui’s calf injury is «nothing serious»"
+  },
+  "title:rbleipzigsaysneilelaynaouiscalfinjuryisnothingserious": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": "Neil El Aynaoui",
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "body_part": "calf",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "RB Leipzig described Neil El Aynaoui's calf problem as not serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:leipzigruleoutseriousneilelaynaouiinjuryaftermedicaltests": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": "Neil El Aynaoui",
+    "club": "RB Leipzig",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Medical tests led Leipzig to rule out a serious injury for Neil El Aynaoui.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillasufferjohanmanzambiinjuryscareas79wordstatementreleased": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": "Johan Manzambi",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa issued a statement on an injury scare involving Johan Manzambi.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillasufferearlyinjuryscareaheadofsunderlandclashfollowinginterna": {
+   "first_seen": "2026-11-13T14:08:48.628471+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Aston Villa player withdrew from international duty with an injury before the Sunderland game.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
