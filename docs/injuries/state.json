@@ -4351,6 +4351,102 @@
     "summary_en": "An unnamed Aston Villa player withdrew from international duty with an injury before the Sunderland game.",
     "extractor": "claude"
    }
+  },
+  "lookman:unknown": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "title": "On video: Lookman goes down injured in Nigeria shirt, and Atletico awaits the nightmare"
+  },
+  "title:onvideolookmangoesdowninjuredinnigeriashirtandatleticoawaitsthenightma": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lookman was injured while playing for Nigeria, worrying Atletico Madrid.",
+    "extractor": "claude"
+   }
+  },
+  "frattesi:muscle_general": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "title": "Blow for Italy! Lazio midfielder Davide Frattesi ruled out of crucial Nations League showdown against Belgium with muscular injury"
+  },
+  "title:blowforitalylaziomidfielderdavidefrattesiruledoutofcrucialnationsleagu": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": "Davide Frattesi",
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Frattesi will miss Italy's Nations League match with Belgium due to a muscle problem.",
+    "extractor": "claude"
+   }
+  },
+  "dorgu:unknown": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "title": "Man Utd handed fresh injury blow as Patrick Dorgu withdraws from Denmark squad"
+  },
+  "title:manutdhandedfreshinjuryblowaspatrickdorguwithdrawsfromdenmarksquad": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": "Patrick Dorgu",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Dorgu has pulled out of the Denmark squad with an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:atlticomadridlimpsoutofntclashwithinjury": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": null,
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Atletico Madrid player was hurt in an international match.",
+    "extractor": "claude"
+   }
+  },
+  "title:aworryinginjurytoabarcelonastarpushesflicktowardsanemergencymeeting": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player's concerning injury has prompted urgent talks.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillastarjohanmanzambiruledoutagainstsloveniaandscotland": {
+   "first_seen": "2026-11-13T21:15:31.573294+00:00",
+   "facts": {
+    "player": "Johan Manzambi",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manzambi will miss two international fixtures.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
