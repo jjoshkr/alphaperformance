@@ -1,0 +1,36 @@
+name: Instagram insights
+
+# 매주 일요일 21:00 KST(12:00 UTC): 공식 Instagram Graph API로 우리 계정 성과 + 벤치마크 12계정 데이터를 받아
+# docs/insights/ig/ 에 저장하고 benchmarks.json의 패턴 가중치를 갱신합니다. (월요일 07:00 주간 기획이 이 데이터를 씁니다)
+# 시크릿: IG_ACCESS_TOKEN, IG_USER_ID  — 설정 방법은 docs/playbooks/instagram-data.md
+on:
+  schedule:
+    - cron: "0 12 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch Instagram data
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python tools/ig_insights/fetch.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/insights/ig tools/content_planner/benchmarks.json
+          if git diff --cached --quiet; then echo "No changes"; else
+            git commit -m "Instagram insights: $(TZ=Asia/Seoul date +%F)"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

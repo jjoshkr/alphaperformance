@@ -2,6 +2,12 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-13 — Claude Code (인스타 데이터 연결 + 수익 모델)
+- 확인: 이 세션엔 Chrome 확장·Remote Control 연결 없음 → Claude가 인스타를 직접 볼 수 없음. 두 경로 문서화: A) 공식 Instagram Graph API 주간 수집(`tools/ig_insights/fetch.py`, 일 21:00 KST, 시크릿 IG_ACCESS_TOKEN·IG_USER_ID) B) 데스크톱 앱 + Claude in Chrome으로 수동 열람
+- 한 일: 수집기(우리 계정 게시물별 조회·저장·공유 + 벤치마크 business discovery + 패턴 가중치 자동 갱신), 워크플로, 설정 가이드 `docs/playbooks/instagram-data.md`, 수익 모델 초안 `docs/content/revenue-streams.md`(1순위: 부위별 Return-to-Sprint PDF $15/번들 $35, CTA REHAB)
+- 사용자 할 일: Graph API 설정(가이드 1~9단계) → 시크릿 등록 → Instagram insights 실행
+- 다음: 햄스트링 Return-to-Sprint PDF 초안, ManyChat REHAB 키워드, 파트너 링크
+
 ## 2026-11-12 — Claude Code (텔레그램 그룹 전환)
 - 알림 대상이 개인 대화방 → 그룹(원우 님 포함)으로 변경 완료. TELEGRAM_CHAT_ID = 그룹 ID(음수). 20:21 KST 실행에서 새 소식 1건이 그룹으로 발송
 - 봇은 새 대화방을 발견하면 ID를 한 번 알려 줌(state.greeted_chats)
