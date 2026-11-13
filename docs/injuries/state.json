@@ -4227,6 +4227,38 @@
     "summary_en": "A dispute has arisen over an injury to Liverpool's Dominik Szoboszlai during the international break.",
     "extractor": "claude"
    }
+  },
+  "title:mancitynewstodayguehiinjurythreedefeatsandappeal13november": {
+   "first_seen": "2026-11-13T05:37:52.947371+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Manchester City news roundup mentions an injury to Guehi among other topics.",
+    "extractor": "claude"
+   }
+  },
+  "zielinski:unknown": {
+   "first_seen": "2026-11-13T05:37:52.947371+00:00",
+   "title": "Inter face fresh injury scare as Zielinski sits out Poland training session"
+  },
+  "title:interfacefreshinjuryscareaszielinskisitsoutpolandtrainingsession": {
+   "first_seen": "2026-11-13T05:37:52.947371+00:00",
+   "facts": {
+    "player": "Piotr Zielinski",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter midfielder Zielinski missed a Poland training session, raising an injury concern.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
