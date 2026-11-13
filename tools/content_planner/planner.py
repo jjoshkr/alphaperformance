@@ -38,7 +38,7 @@ PLAN_SCHEMA = {
     "properties": {
         "reels": {
             "type": "array",
-            "minItems": 3, "maxItems": 3,
+            "description": "exactly 3 reels, slots 1, 2 and 3",
             "items": {
                 "type": "object",
                 "properties": {
@@ -49,19 +49,19 @@ PLAN_SCHEMA = {
                     "hook_es": {"type": "string"},
                     "why_it_works_ko": {"type": "string", "description": "어떤 벤치마크 패턴과 채널 데이터 근거인지 2문장"},
                     "beats": {
-                        "type": "array", "minItems": 4, "maxItems": 6,
+                        "type": "array", "description": "4 to 6 beats",
                         "items": {"type": "object",
                                   "properties": {"seconds": {"type": "string"}, "action_ko": {"type": "string", "description": "원우 님이 화면에서 하는 것"},
                                                  "voiceover_ko": {"type": "string", "description": "원우 님이 말할 한국어 대사 (더빙/번역 원문)"},
                                                  "on_screen_en": {"type": "string"}},
                                   "required": ["seconds", "action_ko", "voiceover_ko", "on_screen_en"], "additionalProperties": False}
                     },
-                    "drills": {"type": "array", "minItems": 0, "maxItems": 3,
+                    "drills": {"type": "array", "description": "up to 3 drills",
                                "items": {"type": "object", "properties": {"name_en": {"type": "string"}, "dose": {"type": "string"}, "cue_ko": {"type": "string"}},
                                          "required": ["name_en", "dose", "cue_ko"], "additionalProperties": False}},
                     "shot_list_ko": {"type": "array", "items": {"type": "string"}, "description": "촬영 장소·앵글·소품 3~5줄"},
                     "caption_en": {"type": "string"}, "caption_de": {"type": "string"}, "caption_es": {"type": "string"},
-                    "hashtags": {"type": "array", "items": {"type": "string"}, "maxItems": 10},
+                    "hashtags": {"type": "array", "items": {"type": "string"}, "description": "up to 10"},
                     "risk_ko": {"type": "string", "description": "저작권·초상권·의료 표현 주의점, 없으면 '없음'"}
                 },
                 "required": ["slot", "title_ko", "hook_en", "hook_de", "hook_es", "why_it_works_ko", "beats", "drills",
@@ -166,7 +166,9 @@ def plan_with_claude(brief):
         print("Claude declined", file=sys.stderr); return None
     text = next((b.text for b in r.content if b.type == "text"), "")
     try:
-        return json.loads(text)["reels"]
+        reels = json.loads(text)["reels"]
+        reels = sorted(reels, key=lambda r: r.get("slot", 0))[:3]
+        return reels if len(reels) == 3 else None
     except Exception:
         print("Claude returned non-JSON", file=sys.stderr); return None
 
