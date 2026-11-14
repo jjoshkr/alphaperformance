@@ -4447,6 +4447,70 @@
     "summary_en": "Manzambi will miss two international fixtures.",
     "extractor": "claude"
    }
+  },
+  "title:mauriciopochettinoalreadydealtmanchesterunitedinjuryblow": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manchester United have reportedly suffered an injury blow linked to Mauricio Pochettino.",
+    "extractor": "claude"
+   }
+  },
+  "davies:unknown": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "title": "Major concerns at Bayern Munich: Alphonso Davies substituted injured after just five minutes"
+  },
+  "title:majorconcernsatbayernmunichalphonsodaviessubstitutedinjuredafterjustfi": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies was taken off injured five minutes into a match for Bayern Munich.",
+    "extractor": "claude"
+   }
+  },
+  "xhaka:calf": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "title": "Sunderland News Today: Brobbey Injury, Xhaka Calf and Rigg Assist (14 November)"
+  },
+  "title:sunderlandnewstodaybrobbeyinjuryxhakacalfandriggassist14november": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "facts": {
+    "player": "Granit Xhaka",
+    "club": "Sunderland",
+    "league": "Premier League",
+    "body_part": "calf",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Sunderland news roundup covers a Brobbey injury and a calf problem for Xhaka.",
+    "extractor": "claude"
+   }
+  },
+  "title:manchesterunitedhandedfreshinjuryconcernasstarplayerissenthomebynation": {
+   "first_seen": "2026-11-14T13:10:00.603102+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Manchester United player was sent home from international duty with an injury concern.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
