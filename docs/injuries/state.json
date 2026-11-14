@@ -4511,6 +4511,76 @@
     "summary_en": "An unnamed Manchester United player was sent home from international duty with an injury concern.",
     "extractor": "claude"
    }
+  },
+  "title:barcelonastarsenthomefrominternationaldutywithinjuryworry": {
+   "first_seen": "2026-11-14T19:48:14.814562+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player was sent home from international duty because of an injury concern.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsalphonsodaviessustainsinjuryoninternationalduty": {
+   "first_seen": "2026-11-14T19:48:14.814562+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies of Bayern Munich was injured while on international duty.",
+    "extractor": "claude"
+   }
+  },
+  "title:hsvstrikersuffersfreshinjurysetback": {
+   "first_seen": "2026-11-14T19:48:14.814562+00:00",
+   "facts": {
+    "player": null,
+    "club": "HSV",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Hamburg striker has suffered another injury setback.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolinjuryworryas47mplayerendsinternationalmatchwithanissue": {
+   "first_seen": "2026-11-14T19:48:14.814562+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Liverpool player valued at £47m finished an international match carrying a problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:atleticomadriddealtmajorblowaslookmanpicksupinjuryonnigeriaduty": {
+   "first_seen": "2026-11-14T19:48:14.814562+00:00",
+   "facts": {
+    "player": "Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lookman was injured while playing for Nigeria, a setback for Atletico Madrid.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
