@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-14 06:15 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-14 14:28 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,18 +6,16 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | La Liga | Ademola Lookman · Atletico Madrid | - | 미상 | [On video: Lookman goes down injured in Nigeria shirt, and Atletico awaits the nightmare](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVFic1hEX29KVi1tLWp1c05FMWRHSmxrOXIzQUpyMmNNRHpnaFZPd1lGSXMwakZmSFAxeTZzQm1CS0I2WkUtOEsyQVY3UnVoUkxzLTN5NjU3czZIQjE2SnpJQVFTXzl4ZFA2eVpmVzJTemFGVXRkRlVpX1BXal90UmFMNnpqaUNobjJDU19VS0U1aDdNQ3NTMGhfcE9UdWg4ZkYwaVlWLVZ6b19KX1MzU0RxNzN2QTFUQkZFV3hwNU9DdS1TUm0wT0J5d0V6Y2l4VGpleUJ4Yw?oc=5) (LiveScore) | claude |
-| 🆕 | Serie A | Davide Frattesi · Lazio | 근육 (부위 미상) | 미상 | [Blow for Italy! Lazio midfielder Davide Frattesi ruled out of crucial Nations League showdown against Belgium with muscular injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0VvMTFjVVhxNm5ORktsN29QbFZOcEc1X2IwUWlhWTNLMVJVa2R5M3VGTHlRNVV6Z0YtWVVEQ3RqRGltemVBSjljVEJCZ1M5QVpPa0EwOWdPc2tNMUhsOE80VTBINXNmcjlqR2QycnRwd0h6Z0t5cV9EMHctdjZTRkZBVDVFX3hGVndRZ3JRclJoWmlHbVkza2NzN3hNLVF1cG0wVE11Y1pZakh2Slg5Xy02Yw?oc=5) (Goal.com) | claude |
-| 🆕 | Premier League | Patrick Dorgu · Manchester United | - | 미상 | [Man Utd handed fresh injury blow as Patrick Dorgu withdraws from Denmark squad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWE2NHg0M3BVNzlHai1PTGpycGZlaHBEY25GbFFyMHQxaEZraWtlbHppemxjZ0I4QzlfYTM0NUtQNndLcEZiNVhITEtDa0ZYX0RYVGxXNjZ4aHlDTVlvM1k2emNmelg3MFc1VXdVdXRGdDJfWmloMG9lUDlRbGFtYlh0MUUySUcyVGJCNUNfUnpZM3ZTS21LMFYxVl9LdFJCZEdYaEpTb1hGS0NPeGUwd2pQeGV0eEoybkkyOGVXTm53Tzg1empsbURDNUxIRTBoQ1hJSHREbi1Kdw?oc=5) (LiveScore) | claude |
-| 🆕 | La Liga | Atletico Madrid | - | 미상 | [Atlético Madrid limps out of NT clash with injury](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdV9US3hCUXdvOTBiRzZYVW5VU1oydVJNVVZtQ0F6RHRMdFZpVk03bmN6T0xnYXVlY0k1UDdkRnJwSU93ZF9WeFNqUjluWGNYNDA5QmVtVzhGTEUzSUdLaDdwTXoxNTVSTGNUOE9qQnd2SkJtTlJEM0ZXd2JOWGxMVThHZkh2MGxXbURJ?oc=5) (Get Spanish Football News) | claude |
-| 🆕 | La Liga | Barcelona | - | 미상 | [A worrying injury to a Barcelona star pushes Flick towards an emergency meeting](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdW9COVhSTDcxRXRpY21WTlZrY3JjdkEzajBlck1fUGxGNFVCbXhmSW9tMG01OUE0MDRTR2ltVkNtS1BFeFd0cGpoQTVxUHJwWHdycnJFbDh4Q2pscld0MjkybTdyaGl2ckZRU29IQ2VySGpJS0VBbU9GVWFSSklOYkxQaFJRYkpUTHo0dDJiR1ZrQVlZbVhOTVVKa2tVREljc21UckE0cGFwRWpSaGgzX3JIU2l5Zk9lX29kY3IzU2tVMGs?oc=5) (Goal.com) | claude |
+|  | Premier League | Johan Manzambi · Aston Villa | - | 미상 | [Aston Villa star Johan Manzambi ruled out against Slovenia and Scotland](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFMxZ1lSN21WcjRMb2RDSFFMSDhtNlA3dGxqZDFUT1Z0Y3NNS2xhMUJFVnp2emxLX0xLR3RkbTUzaWMtWDUwOUxXVGZHRGlmOTV2TE9nckEwcG1LeUtHZV9nRmtWMWJRaDNmZ2U0UTFRMk9ZUEFvMDB1MnJVT3BiMnhsLU5uY0FneWh0N3hMTmJ3ZHNabjhiRVVMLWFCR19vUWdFcmpkcEhLcmZwQWc?oc=5) (Football Today) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | - | 미상 | [On video: Lookman goes down injured in Nigeria shirt, and Atletico awaits the nightmare](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVFic1hEX29KVi1tLWp1c05FMWRHSmxrOXIzQUpyMmNNRHpnaFZPd1lGSXMwakZmSFAxeTZzQm1CS0I2WkUtOEsyQVY3UnVoUkxzLTN5NjU3czZIQjE2SnpJQVFTXzl4ZFA2eVpmVzJTemFGVXRkRlVpX1BXal90UmFMNnpqaUNobjJDU19VS0U1aDdNQ3NTMGhfcE9UdWg4ZkYwaVlWLVZ6b19KX1MzU0RxNzN2QTFUQkZFV3hwNU9DdS1TUm0wT0J5d0V6Y2l4VGpleUJ4Yw?oc=5) (LiveScore) | claude |
+|  | Serie A | Davide Frattesi · Lazio | 근육 (부위 미상) | 미상 | [Blow for Italy! Lazio midfielder Davide Frattesi ruled out of crucial Nations League showdown against Belgium with muscular injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVk5T1otUGhCWjZPZmRsX2lUY1VBSnFXRFpBZnJ3SmpqakRfbUtaT1BSSTVYY3dWcVNGZ1cwS0otZFFRTDNxRGNsVWtaV1VYSVdDdGtMQk5BaTAzNVd6LW5oc3NIRkxLdWZERnA1WkJXc0FpLTJHNURwMTBCSk1SMWRpNHdsV0h3c1Yxc0VhX3JjeWJXR3R6bmhGdGpmbFVkSFNXQUdPZTFUREtvQVUxRHRzOA?oc=5) (Goal.com) | claude |
+|  | Premier League | Patrick Dorgu · Manchester United | - | 미상 | [Man Utd handed fresh injury blow as Patrick Dorgu withdraws from Denmark squad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWE2NHg0M3BVNzlHai1PTGpycGZlaHBEY25GbFFyMHQxaEZraWtlbHppemxjZ0I4QzlfYTM0NUtQNndLcEZiNVhITEtDa0ZYX0RYVGxXNjZ4aHlDTVlvM1k2emNmelg3MFc1VXdVdXRGdDJfWmloMG9lUDlRbGFtYlh0MUUySUcyVGJCNUNfUnpZM3ZTS21LMFYxVl9LdFJCZEdYaEpTb1hGS0NPeGUwd2pQeGV0eEoybkkyOGVXTm53Tzg1empsbURDNUxIRTBoQ1hJSHREbi1Kdw?oc=5) (LiveScore) | claude |
+|  | La Liga | Atlético Madrid | - | 미상 | [Atlético Madrid limps out of NT clash with injury](https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdWZkVGJtMFJKWDM0bDlLMU42Rjl0S3NSYlVWclJfY1lqSnJRdl9nUTVfOWhwTkpLOU9iNUxnem5mTWU1ODhxMWt6dFJ0c0U5YlYxLVhZWlFWTGtCOUphdmpCc3QxY3pmdXpTQ3J0WEp3c2VLX2lTOFkxanBhQQ?oc=5) (Yahoo Sports) | claude |
+|  | La Liga | Barcelona | - | 미상 | [A worrying injury to a Barcelona star pushes Flick towards an emergency meeting](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdW9COVhSTDcxRXRpY21WTlZrY3JjdkEzajBlck1fUGxGNFVCbXhmSW9tMG01OUE0MDRTR2ltVkNtS1BFeFd0cGpoQTVxUHJwWHdycnJFbDh4Q2pscld0MjkybTdyaGl2ckZRU29IQ2VySGpJS0VBbU9GVWFSSklOYkxQaFJRYkpUTHo0dDJiR1ZrQVlZbVhOTVVKa2tVREljc21UckE0cGFwRWpSaGgzX3JIU2l5Zk9lX29kY3IzU2tVMGs?oc=5) (Goal.com) | claude |
 |  | Serie A | Lazio | - | 미상 | [Lazio Defender Leaves National Team Camp After Suffering New Injury](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEpJQTM4eUZmX3F6eV8zQThQbms3RVlMN2YzRk90dTZRVHZNSFNtYlY4bWd5WGlncWM1a2FOclJZQ2ZSeFUxTFU1RGU3blZWQTcyclBLZ2NNMWlidl9GdjB1aUxoaUhzWUMwUzNrd2FkVk9XdWptV1VoTWJrMkhWWldyTnRQMG82ekVHT1ZoWFdycXhiZDRWSW9BWnJPLWM2Wk9DdjdSb1QwamtuU3NudFA0Q2tSVnhPbDcyUHhqZDlZbVE0dFRGS3p6RQ?oc=5) (LiveScore) | claude |
-|  | Bundesliga | Neil El Aynaoui · RB Leipzig | 종아리 | 경미 (2주 미만) | [RB Leipzig says Neil El Aynaoui’s calf injury is «nothing serious»](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGFhWGFpaDFJQ3B0dWQzTTdOaHVuZWJMTDF3NTcxMkNVNG9sZ1h6Njd3WVdZQy1KNnNGZEVtbkktb0FBSFlpQjlwZ1RJZ2RXLTdjeVpIQkZHSFRzWnlkREdQZlh6dFNaZnBucGdXQnBIOEpGdTcyMlVFbTNQR1RudzBBTXdycDZMU2YxVnhR?oc=5) (Yabiladi.com) | claude |
 |  | Bundesliga | Neil El Aynaoui · RB Leipzig | - | 경미 (2주 미만) | [Leipzig Rule Out Serious Neil El Aynaoui Injury After Medical Tests](https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzVEM282cGUwUXptUmpwQXBXRWRsZ01rUlZYa3F3aGdTaGVXODZiNEZGZU1DRmFBNF9VUEhJTmhtbG1oQ0k0TVljY1hockFWZzJqMWNCMUlYQ0s2UXlwYVlHMzZQeU9BaFpKTWdYVjZPUkJmTHVCYlo4RTNWRG9OZUI1UVpFSXJveTJRZ0wyZWp3czFUOHk5bnRBN0RDaDZhSmYzbnhVajJDTC0tUUVrajcwTWozTGJaY2NnSHlia2J5c1otaVVwZUpn?oc=5) (roundtable.io) | claude |
-|  | Premier League | Johan Manzambi · Aston Villa | - | 미상 | [Aston Villa suffer Johan Manzambi injury scare as 79-word statement released](https://news.google.com/rss/articles/CBMifEFVX3lxTE5sVkc0UkZ0M09OZWVSOS0wOE9YbmxKWHFLc1QteUJqbkh5SFhic0VGM0M2VGNfVlR5N0tBdHRjQWtVZHRobHdGRXo2MGwyRWNaYzRfZ0xydTNKbWc4bVhxQ1EtZFJqZVl6QUN5Q2xTMGJCdjVTTFVYWEVYNkQ?oc=5) (TEAMtalk) | claude |
 |  | Premier League | Aston Villa | - | 미상 | [Aston Villa suffer early injury scare ahead of Sunderland clash following international withdrawal](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkxSV05fVjFfZlc5akZIbW1mS0Z3VUN5YVFYUXJOaVpEdExGVFB4bExyUTBZM2ZmVXpKZFhZbjlHaGZlbHgzdVNKeE9sYXlsc2cxWXdYUVF2RDdMTHozaWFTdWFubFNnanBSSk5tS1FuVWc5SmNSM2NLTUZCNHNPNDl2TnZhX0NHRVJ2bC1lcGQ1b1dSMTl4cWZrdzhTeEdRZjJSZWRkS2kwQjRW?oc=5) (Sunderland Echo) | claude |
 |  | Premier League | Marc Guehi · Manchester City | - | 미상 | [Man City News Today: Guehi Injury, Three Defeats and Appeal (13 November)](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTcS1lV0k0cF9yUEI2a05KWnJFUy14dWN1WWRsRVYydm9za0E3eVVCUHpTaV9ZUGpBX2VZcFN6aHB6MkkxTVdnVENhQWxWNmRiYnNlVzlPamh5TUNhVXAyclZFRmFaaGVTYlVDLWxyVVFsWDV3cmtUOUphWQ?oc=5) (The False 9) | claude |
-|  | Premier League | Johan Manzambi · Aston Villa | - | 미상 | [Aston Villa star Johan Manzambi ruled out against Slovenia and Scotland](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3hYOTBNdl9IbVRwSEVmaU5RbHlkcDRacmJpdGpaZUt6dk1ZOWhzT2FScFJVUHFmSHJ2UGRxeG9CbHVqakFkbTUyaTluQ2JlaEVzdU5lVnBwT21XTXgwYjBlTllMWnZSQ0xlVnNha1g1QU1nWGNMVFdoOUJxTDJ2RjJLZTFLZjA?oc=5) (Yahoo Sports) | claude |
 |  | Premier League | Liverpool | - | 미상 | [‘Sobbing’ Andoni Iraola blamed for Liverpool’s latest injury blow](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV252aVFYcXdrWFlndDIwMjhDeTliaHoxQXdJZE1QejF0S19oWExKT0VwU0EzUnI0U3JsZUN0cWdhSkQtTEZycjUxd1RFTGs3UGJnRkpSYzlfT0o1Tm9OYmU4TkRjRmVQTUxmZnFELXRsZmdNWThKQnBZem5ta3pfc3M4WnZFdHZRekVuNWUySjQ?oc=5) (Yahoo Sports) | claude |
 |  | Premier League | Aston Villa | - | 미상 | [£60m Aston Villa star sent home from international duty in major injury blow](https://news.google.com/rss/articles/CBMimwFBVV95cUxQamVwOXlIbmM1VTBZR3lhODJhd0xpRkdWSmsxd2NHdGdOdGtaYmdQekhlNFFGVEdCTkVRU1VHNkx0d1RaMTJjd3VrZWtIUEt0SkhoY1hXcGN2U2YxXzVCSHB3eGdBMnFBLVAzS3oySG90UGxkbUxVYzd4UWtzc1hCRlQ0UzBObzJZcEtaQmRRUlpLOWxxOWRRNjJZTQ?oc=5) (talkSPORT) | claude |
 |  | Premier League | Aston Villa | - | 미상 | [Aston Villa dealt major injury blow as star withdraws from international duty](https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkJZRzVtLUZxX3d3MUU3Q05iNnBSVTR1QzFvekhwSm5Ra2l3Q0o4bnN6YmxWVTdsR0lUMUJJWnpDNTFlZmxkRHZZSml4MDNzSlRudWRKdHMzWnlXQnVYSVdvSF9rbGNOUGFIMDk5V0xJTm11QTBlUnJWZTg3clk1NTB3RkUzZw?oc=5) (Yahoo Sports) | claude |
@@ -32,8 +30,7 @@
 | 순위 | 선수 | 부위 | 적합도 | 이유 |
 |---|---|---|---|---|
 | 1 | Aurélien Tchouaméni | 사타구니 / 내전근 | ★★★★★ | 축구 고유 부상. Copenhagen plank 3단계는 저장·공유가 많은 '따라 하는' 형식 |
-| 2 | Neil El Aynaoui | 종아리 | ★★★★ | 28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅 |
-| 3 | Davide Frattesi | 근육 (부위 미상) | ★ | 부위 확인 전에는 보류 |
+| 2 | Davide Frattesi | 근육 (부위 미상) | ★ | 부위 확인 전에는 보류 |
 
 ### 1. Aurélien Tchouaméni · Real Madrid — 사타구니 / 내전근 (미상)
 - [Tchouaméni not ruled out of Celta clash despite adductor recurrence with France](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGdvRk1oTFMzSE40OHR2dmZwMVN2RExkZGZFb2F4Nzk1MldhcGhJUWJGdF9Cak9WVFV5c0lWYXdQWkFQRjFxOW5zWVRzcElySEl2UFUwWUJFTm01SkYyVEdDUFdCVGE4T1RsZkhRbmRVb3o5QVNxSzhFSUNmZXkxOQ?oc=5) · La Liga · Yahoo Sports
@@ -100,73 +97,8 @@ Phase 2 · Strength
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 2. Neil El Aynaoui · RB Leipzig — 종아리 (경미 (2주 미만))
-- [RB Leipzig says Neil El Aynaoui’s calf injury is «nothing serious»](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGFhWGFpaDFJQ3B0dWQzTTdOaHVuZWJMTDF3NTcxMkNVNG9sZ1h6Njd3WVdZQy1KNnNGZEVtbkktb0FBSFlpQjlwZ1RJZ2RXLTdjeVpIQkZHSFRzWnlkREdQZlh6dFNaZnBucGdXQnBIOEpGdTcyMlVFbTNQR1RudzBBTXdycDZMU2YxVnhR?oc=5) · Bundesliga · Yabiladi.com
-- 콘텐츠 각도: Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.
-- 주의: Sudden calf pain with swelling or warmth needs a check for a clot before any rehab.
-
-**어디·무슨 근육**
-- 위치: 종아리 뒤쪽. 무릎 뒤에서 아킬레스건을 거쳐 발뒤꿈치뼈까지.
-- 근육: 비복근(gastrocnemius, 겉층 두 갈래 — 특히 안쪽 갈래가 자주 다침) · 가자미근(soleus, 깊은 층, 달리기에서 가장 큰 힘을 낸다). 둘이 합쳐져 아킬레스건이 된다.
-- 집중: 무릎을 편 채 하는 카프 레이즈는 비복근, 무릎을 굽힌 채 하는 카프 레이즈는 가자미근을 훈련한다. 28세 이후 종아리 부상이 늘어나는 이유는 가자미근 근력 저하와 관련이 깊어 두 가지를 모두 해야 한다.
-
-**촬영할 단계:** Phase 3 · Elastic & sprint — 발목의 탄성(스프링)을 회복해 스프린트 속도로 돌아간다.
-1. Pogo jumps for ankle stiffness — 영상 촬영 필요
-2. Skipping and bounding — 영상 촬영 필요
-3. Sprint build-ups — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect & load lightly** — 가자미근부터 가볍게 깨우고 발목 가동 범위 유지.: Seated calf raises (soleus), 3×15 · Ankle range of motion · Walking on flat ground
-- **Phase 2 · Strength** — 비복근(무릎 편 채)과 가자미근(무릎 굽힌 채) 모두 한 다리로 천천히 내리는 편심성 근력.: Standing calf raises, double → single leg, slow eccentric · Bent-knee calf raises for soleus · Farmer's walk on toes
-- **Phase 3 · Elastic & sprint** — 발목의 탄성(스프링)을 회복해 스프린트 속도로 돌아간다.: Pogo jumps for ankle stiffness · Skipping and bounding · Sprint build-ups
-
-</details>
-
-**캡션 (EN)**
-```
-Neil El Aynaoui (RB Leipzig): calf injury. Here's what the comeback usually looks like.
-
-Most calf rehab has 3 stages. This is the one that gets rushed:
-Phase 3 · Elastic & sprint
-1. Pogo jumps for ankle stiffness
-2. Skipping and bounding
-3. Sprint build-ups
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Neil El Aynaoui (RB Leipzig): lesión de pantorrilla / gemelo. Así suele ser la vuelta.
-
-La rehabilitación de pantorrilla / gemelo tiene 3 fases. Esta es la que más se apresura:
-1. Pogo jumps for ankle stiffness
-2. Skipping and bounding
-3. Sprint build-ups
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-**캡션 (DE)**
-```
-Neil El Aynaoui (RB Leipzig): Verletzung an der Wade. So sieht das Comeback meistens aus.
-
-Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 3 · Elastic & sprint
-1. Pogo jumps for ankle stiffness
-2. Skipping and bounding
-3. Sprint build-ups
-
-⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
-
-💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
-```
-
-### 3. Davide Frattesi · Lazio — 근육 (부위 미상) (미상)
-- [Blow for Italy! Lazio midfielder Davide Frattesi ruled out of crucial Nations League showdown against Belgium with muscular injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0VvMTFjVVhxNm5ORktsN29QbFZOcEc1X2IwUWlhWTNLMVJVa2R5M3VGTHlRNVV6Z0YtWVVEQ3RqRGltemVBSjljVEJCZ1M5QVpPa0EwOWdPc2tNMUhsOE80VTBINXNmcjlqR2QycnRwd0h6Z0t5cV9EMHctdjZTRkZBVDVFX3hGVndRZ3JRclJoWmlHbVkza2NzN3hNLVF1cG0wVE11Y1pZakh2Slg5Xy02Yw?oc=5) · Serie A · Goal.com
+### 2. Davide Frattesi · Lazio — 근육 (부위 미상) (미상)
+- [Blow for Italy! Lazio midfielder Davide Frattesi ruled out of crucial Nations League showdown against Belgium with muscular injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVk5T1otUGhCWjZPZmRsX2lUY1VBSnFXRFpBZnJ3SmpqakRfbUtaT1BSSTVYY3dWcVNGZ1cwS0otZFFRTDNxRGNsVWtaV1VYSVdDdGtMQk5BaTAzNVd6LW5oc3NIRkxLdWZERnA1WkJXc0FpLTJHNURwMTBCSk1SMWRpNHdsV0h3c1Yxc0VhX3JjeWJXR3R6bmhGdGpmbFVkSFNXQUdPZTFUREtvQVUxRHRzOA?oc=5) · Serie A · Goal.com
 - 콘텐츠 각도: Follow-up post once the club confirms the exact muscle.
 - 주의: Wait for the specific diagnosis before any detailed content.
 
@@ -232,7 +164,7 @@ Phase 2 · Eccentric strength
 
 ## 선수 미확인 (알림 보내지 않음)
 
-- La Liga: [Atlético Madrid limps out of NT clash with injury](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdV9US3hCUXdvOTBiRzZYVW5VU1oydVJNVVZtQ0F6RHRMdFZpVk03bmN6T0xnYXVlY0k1UDdkRnJwSU93ZF9WeFNqUjluWGNYNDA5QmVtVzhGTEUzSUdLaDdwTXoxNTVSTGNUOE9qQnd2SkJtTlJEM0ZXd2JOWGxMVThHZkh2MGxXbURJ?oc=5) (Get Spanish Football News)
+- La Liga: [Atlético Madrid limps out of NT clash with injury](https://news.google.com/rss/articles/CBMifkFVX3lxTFBmdWZkVGJtMFJKWDM0bDlLMU42Rjl0S3NSYlVWclJfY1lqSnJRdl9nUTVfOWhwTkpLOU9iNUxnem5mTWU1ODhxMWt6dFJ0c0U5YlYxLVhZWlFWTGtCOUphdmpCc3QxY3pmdXpTQ3J0WEp3c2VLX2lTOFkxanBhQQ?oc=5) (Yahoo Sports)
 - La Liga: [A worrying injury to a Barcelona star pushes Flick towards an emergency meeting](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdW9COVhSTDcxRXRpY21WTlZrY3JjdkEzajBlck1fUGxGNFVCbXhmSW9tMG01OUE0MDRTR2ltVkNtS1BFeFd0cGpoQTVxUHJwWHdycnJFbDh4Q2pscld0MjkybTdyaGl2ckZRU29IQ2VySGpJS0VBbU9GVWFSSklOYkxQaFJRYkpUTHo0dDJiR1ZrQVlZbVhOTVVKa2tVREljc21UckE0cGFwRWpSaGgzX3JIU2l5Zk9lX29kY3IzU2tVMGs?oc=5) (Goal.com)
 - Serie A: [Lazio Defender Leaves National Team Camp After Suffering New Injury](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEpJQTM4eUZmX3F6eV8zQThQbms3RVlMN2YzRk90dTZRVHZNSFNtYlY4bWd5WGlncWM1a2FOclJZQ2ZSeFUxTFU1RGU3blZWQTcyclBLZ2NNMWlidl9GdjB1aUxoaUhzWUMwUzNrd2FkVk9XdWptV1VoTWJrMkhWWldyTnRQMG82ekVHT1ZoWFdycXhiZDRWSW9BWnJPLWM2Wk9DdjdSb1QwamtuU3NudFA0Q2tSVnhPbDcyUHhqZDlZbVE0dFRGS3p6RQ?oc=5) (LiveScore)
 - Premier League: [Aston Villa suffer early injury scare ahead of Sunderland clash following international withdrawal](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkxSV05fVjFfZlc5akZIbW1mS0Z3VUN5YVFYUXJOaVpEdExGVFB4bExyUTBZM2ZmVXpKZFhZbjlHaGZlbHgzdVNKeE9sYXlsc2cxWXdYUVF2RDdMTHozaWFTdWFubFNnanBSSk5tS1FuVWc5SmNSM2NLTUZCNHNPNDl2TnZhX0NHRVJ2bC1lcGQ1b1dSMTl4cWZrdzhTeEdRZjJSZWRkS2kwQjRW?oc=5) (Sunderland Echo)
