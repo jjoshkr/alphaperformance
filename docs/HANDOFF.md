@@ -2,6 +2,13 @@
 
 최신 항목을 맨 위에 추가합니다.
 
+## 2026-11-14 — Claude (워홀 비자 × 용품 판매 사업 구조)
+- 새 정보: 원우 님이 아쿠아백·밴드·양말 위탁판매 계획 (해외 아마존, 한국 네이버 스마트스토어). 현재 체류 자격은 **워킹홀리데이 비자**
+- 조사 결과: 워홀은 자영업(selbständige Erwerbstätigkeit) **불가** → 독일 Gewerbe·Amazon.de 셀러 등록 불가. `docs/research/2026-11-14_germany-business-visa.md`
+- 제안 구조: 사업자는 한국(혜성 님 개인사업자) + 원우 님은 브랜드·콘텐츠, 수익 배분 계약서. 아마존은 Associates(제휴)로 먼저 → 데이터 보고 자체 브랜드 FBA
+- 다음 할 일: 원우 님 외국인청 서면 확인(부가조건·석사 비자 전환) → 혜성 님 사업자 등록 → 배분 계약서 초안 → Amazon Associates 링크로 shop 페이지 활성화 → 네이버 통신판매업 신고
+- 미확인: RWE 11/11 미팅 결과 (HANDOFF에 기록 없음)
+
 ## 2026-11-13 — Claude Code (인스타 데이터 연결 + 수익 모델)
 - 확인: 이 세션엔 Chrome 확장·Remote Control 연결 없음 → Claude가 인스타를 직접 볼 수 없음. 두 경로 문서화: A) 공식 Instagram Graph API 주간 수집(`tools/ig_insights/fetch.py`, 일 21:00 KST, 시크릿 IG_ACCESS_TOKEN·IG_USER_ID) B) 데스크톱 앱 + Claude in Chrome으로 수동 열람
 - 한 일: 수집기(우리 계정 게시물별 조회·저장·공유 + 벤치마크 business discovery + 패턴 가중치 자동 갱신), 워크플로, 설정 가이드 `docs/playbooks/instagram-data.md`, 수익 모델 초안 `docs/content/revenue-streams.md`(1순위: 부위별 Return-to-Sprint PDF $15/번들 $35, CTA REHAB)
