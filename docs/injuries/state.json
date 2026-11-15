@@ -4581,6 +4581,130 @@
     "summary_en": "Lookman was injured while playing for Nigeria, a setback for Atletico Madrid.",
     "extractor": "claude"
    }
+  },
+  "title:dominikszoboszlaigivesupdateoninjuryafterliverpoolstarskneeconcern": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Szoboszlai provided an update on a knee concern.",
+    "extractor": "claude"
+   }
+  },
+  "araujo:unknown": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "title": "Araujo injury scare leaves Liverpool defender a doubt for Pochettino’s United debut"
+  },
+  "title:araujoinjuryscareleavesliverpooldefenderadoubtforpochettinosuniteddebu": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": "Araujo",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Defender Araujo is a doubt after an injury scare ahead of a match against Manchester United.",
+    "extractor": "claude"
+   }
+  },
+  "title:injuryupdateprovidedonbarcelonastarafterlatestsetbackoninternationaldu": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player received an injury update after a setback on international duty.",
+    "extractor": "claude"
+   }
+  },
+  "title:100percentaredtottenhamfilecomplaintaftermathystelinjurycontroversy": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": "Mathys Tel",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tottenham lodged a complaint over the challenge that injured Mathys Tel.",
+    "extractor": "claude"
+   }
+  },
+  "title:mauriciopochettinoshugemanutdinjuryblowaheadofliverpool": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manchester United suffered an injury blow before facing Liverpool.",
+    "extractor": "claude"
+   }
+  },
+  "summanen:unknown": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "title": "Tottenham suffers Eveliina Summanen injury blow ahead of Everton clash"
+  },
+  "title:tottenhamsufferseveliinasummaneninjuryblowaheadofevertonclash": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": "Eveliina Summanen",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tottenham Women's Eveliina Summanen is injured ahead of the Everton match.",
+    "extractor": "claude"
+   }
+  },
+  "jong:unknown": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "title": "Barcelona face fresh De Jong injury scare on Netherlands duty"
+  },
+  "title:barcelonafacefreshdejonginjuryscareonnetherlandsduty": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": "Frenkie de Jong",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Jong had an injury scare while with the Netherlands.",
+    "extractor": "claude"
+   }
+  },
+  "title:newcastleunitedstarsstrangetraininggroundinjurythatruledhimoutforsixwe": {
+   "first_seen": "2026-11-15T00:52:18.298948+00:00",
+   "facts": {
+    "player": null,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 6,
+    "duration_phrase": "six weeks",
+    "summary_en": "An unnamed Newcastle player is out six weeks after an unusual training injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
