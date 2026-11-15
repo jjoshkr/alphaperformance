@@ -4751,6 +4751,62 @@
     "summary_en": "Manchester United's Dorgu withdrew from Denmark duty after a new knock.",
     "extractor": "claude"
    }
+  },
+  "title:theinternationalbreakstormhitsbarcelonaastrangedecisionandaninjuryspar": {
+   "first_seen": "2026-11-15T18:37:09.454046+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player's injury during the international break, along with a questionable decision, has reportedly angered coach Hansi Flick.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadriddealtblowaskeyplayerleavesnationalteamsquadafterpickingupinj": {
+   "first_seen": "2026-11-15T18:37:09.454046+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed key Real Madrid player has withdrawn from his national team squad because of an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:newsbarcelonasdejongsetformedicaltestsafterinjuryconcernwithnetherland": {
+   "first_seen": "2026-11-15T18:37:09.454046+00:00",
+   "facts": {
+    "player": "Frenkie de Jong",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona's Frenkie de Jong will have medical tests following an injury concern while with the Netherlands.",
+    "extractor": "claude"
+   }
+  },
+  "title:unaiemerydealtnewastonvillainjuryblowkeymancouldmisssunderlandclash": {
+   "first_seen": "2026-11-15T18:37:09.454046+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed key Aston Villa player is injured and may miss the match against Sunderland.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
