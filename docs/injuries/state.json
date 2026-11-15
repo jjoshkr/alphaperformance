@@ -4705,6 +4705,52 @@
     "summary_en": "An unnamed Newcastle player is out six weeks after an unusual training injury.",
     "extractor": "claude"
    }
+  },
+  "cash:concussion": {
+   "first_seen": "2026-11-15T10:30:13.809053+00:00",
+   "title": "Aston Villa dealt fresh injury blow as Matty Cash suffers concussion with Poland"
+  },
+  "title:astonvilladealtfreshinjuryblowasmattycashsuffersconcussionwithpoland": {
+   "first_seen": "2026-11-15T10:30:13.809053+00:00",
+   "facts": {
+    "player": "Matty Cash",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "concussion",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa's Matty Cash sustained a concussion while playing for Poland.",
+    "extractor": "claude"
+   }
+  },
+  "title:thesufferingcontinuesaworryinginjurythreatensdejongsreadinesswithbarce": {
+   "first_seen": "2026-11-15T10:30:13.809053+00:00",
+   "facts": {
+    "player": "Frenkie de Jong",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A concerning injury puts De Jong's availability for Barcelona in doubt.",
+    "extractor": "claude"
+   }
+  },
+  "title:manutddealtfreshinjuryblowwithdorguoutofdenmarkdutyafternewknock": {
+   "first_seen": "2026-11-15T10:30:13.809053+00:00",
+   "facts": {
+    "player": "Patrick Dorgu",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manchester United's Dorgu withdrew from Denmark duty after a new knock.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
