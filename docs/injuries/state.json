@@ -5009,6 +5009,162 @@
     "summary_en": "An unnamed player has been hurt, creating a new worry for Oliver Glasner.",
     "extractor": "claude"
    }
+  },
+  "title:spanishmidfielderhandsarsenalsnewinjuryscareasoutoffavourgyokeresshine": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Spanish midfielder has given Arsenal a fresh injury concern.",
+    "extractor": "claude"
+   }
+  },
+  "tzolis:unknown": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "title": "Arsenal handed major new Christos Tzolis injury update after MRI scan"
+  },
+  "title:arsenalhandedmajornewchristostzolisinjuryupdateaftermriscan": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Christos Tzolis",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal have received an update on Christos Tzolis's injury after an MRI scan.",
+    "extractor": "claude"
+   }
+  },
+  "maza:unknown": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "title": "Bayer Leverkusen’s Ibrahim Maza suffers injury on international duty"
+  },
+  "title:bayerleverkusensibrahimmazasuffersinjuryoninternationalduty": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Ibrahim Maza",
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Leverkusen's Ibrahim Maza was injured while on international duty.",
+    "extractor": "claude"
+   }
+  },
+  "title:nineplayerscouldmissastonvillavssunderlandafterjohanmanzambiandmattyca": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa could be without nine players against Sunderland after setbacks to Manzambi and Cash.",
+    "extractor": "claude"
+   }
+  },
+  "maignan:hip": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "title": "Milan anxious: Maignan suffers hip injury with France, scans today"
+  },
+  "title:milananxiousmaignansuffershipinjurywithfrancescanstoday": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "Milan",
+    "league": "Serie A",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Milan goalkeeper Mike Maignan hurt his hip with France and is undergoing scans.",
+    "extractor": "claude"
+   }
+  },
+  "title:doubleinjuryblowformourinhorealmadridlosesilvaandtchouamniforceltaclas": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Real Madrid will be without two players, Silva and Tchouaméni, for the Celta match.",
+    "extractor": "claude"
+   }
+  },
+  "title:lookmaninjurysetbackforatleticomadrid": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atletico Madrid's Lookman has suffered an injury setback.",
+    "extractor": "claude"
+   }
+  },
+  "cubarsi:hip": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "title": "Barcelona concerned as Pau Cubarsi suffers hip injury scare against England"
+  },
+  "title:barcelonaconcernedaspaucubarsisuffershipinjuryscareagainstengland": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Pau Cubarsi",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Pau Cubarsi had a hip problem in the match against England.",
+    "extractor": "claude"
+   }
+  },
+  "title:alittlefrustratedandangrybayernmunichsalphonsodaviesspeaksoutafteranot": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies voiced frustration after suffering another injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:dominikszoboszlaiaddressesnewinjuryconcernasliverpoolteenagerscoresaga": {
+   "first_seen": "2026-11-16T10:46:26.178905+00:00",
+   "facts": {
+    "player": "Dominik Szoboszlai",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Dominik Szoboszlai commented on a new injury concern.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
