@@ -5165,6 +5165,380 @@
     "summary_en": "Dominik Szoboszlai commented on a new injury concern.",
     "extractor": "claude"
    }
+  },
+  "title:premierleaguestarsetforspelloutafterpickingupknockinnationsleague": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Premier League player is expected to miss time after a knock on Nations League duty.",
+    "extractor": "claude"
+   }
+  },
+  "zubimendi:hamstring": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Zubimendi Injury Update: Hamstring Scare Puts Dortmund in Doubt (16 November)"
+  },
+  "title:zubimendiinjuryupdatehamstringscareputsdortmundindoubt16november": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Zubimendi",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A hamstring concern leaves Zubimendi doubtful for a match against Dortmund.",
+    "extractor": "claude"
+   }
+  },
+  "cubarsi:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Pau Cubarsi faces crucial tests after Barcelona injury scare"
+  },
+  "title:paucubarsifacescrucialtestsafterbarcelonainjuryscare": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Pau Cubarsi",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Cubarsi will undergo tests following an injury scare.",
+    "extractor": "claude"
+   }
+  },
+  "romero:shoulder": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Parma lose Romero for rest of 2026 after serious shoulder injury"
+  },
+  "title:parmaloseromeroforrestof2026afterseriousshoulderinjury": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Romero",
+    "club": "Parma",
+    "league": "Serie A",
+    "body_part": "shoulder",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Parma's Romero is out for the remainder of 2026 with a serious shoulder injury.",
+    "extractor": "claude"
+   }
+  },
+  "williams:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Neco Williams Injury Update: Out for Wales, Bournemouth Doubt (16 November)"
+  },
+  "title:necowilliamsinjuryupdateoutforwalesbournemouthdoubt16november": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Neco Williams",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Neco Williams is out of a Wales game and doubtful against Bournemouth.",
+    "extractor": "claude"
+   }
+  },
+  "brobbey:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Sunderland dealt 'massive blow' as Brian Brobbey injury news emerges - Expert"
+  },
+  "title:sunderlanddealtmassiveblowasbrianbrobbeyinjurynewsemergesexpert": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Brian Brobbey",
+    "club": "Sunderland",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Sunderland face a setback with an injury to Brobbey, per an expert.",
+    "extractor": "claude"
+   }
+  },
+  "cubars:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Barcelona hit with fresh injury blow ahead of Villarreal"
+  },
+  "title:barcelonahitwithfreshinjuryblowaheadofvillarreal": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Pau Cubarsí",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed Cubarsí picked up a knock while playing for Spain.",
+    "extractor": "claude"
+   }
+  },
+  "mendy:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Hull injury news: Nobel Mendy update on “problem” ahead of Brighton Premier League clash"
+  },
+  "title:hullinjurynewsnobelmendyupdateonproblemaheadofbrightonpremierleaguecla": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Nobel Mendy",
+    "club": "Hull",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Hull gave an update on a problem affecting Mendy before facing Brighton.",
+    "extractor": "claude"
+   }
+  },
+  "zhegrova:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Zhegrova ruled out of Kosovo squad as Juventus’ international injury headaches continue"
+  },
+  "title:zhegrovaruledoutofkosovosquadasjuventusinternationalinjuryheadachescon": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Zhegrova",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Zhegrova has been ruled out of Kosovo's squad through injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonasweatingoverfitnessofpaucubarsiforvillarrealclashafterinjuryi": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Pau Cubarsi",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Cubarsi is a doubt for Villarreal after being hurt with Spain.",
+    "extractor": "claude"
+   }
+  },
+  "title:bernardosilvaeasesrealmadridsfearsbutthisplayersinjuryraisesconcern": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Real Madrid player's injury is causing concern.",
+    "extractor": "claude"
+   }
+  },
+  "collins:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Nathan Collins Injury: Out of Kosovo Game, Back at Brentford"
+  },
+  "title:nathancollinsinjuryoutofkosovogamebackatbrentford": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Nathan Collins",
+    "club": "Brentford",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Collins misses the Kosovo game and returns to Brentford.",
+    "extractor": "claude"
+   }
+  },
+  "title:mikemaignanwithdrewfromfrancegamewithhipinjury": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "hip",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Maignan came off with a hip injury for France, though the change was precautionary.",
+    "extractor": "claude"
+   }
+  },
+  "emerson:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Marseille’s Emerson undergoes surgery"
+  },
+  "title:marseillesemersonundergoessurgery": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Emerson",
+    "club": "Marseille",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Marseille's Emerson has had surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:anotherinjuryconcernforjuventusaszhegrovawithdrawsfromkosovosquad": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Zhegrova",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Zhegrova withdrew from Kosovo duty with injury.",
+    "extractor": "claude"
+   }
+  },
+  "davies:hamstring": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Bayern Munich’s Alphonso Davies sidelined with hamstring injury"
+  },
+  "title:bayernmunichsalphonsodaviessidelinedwithhamstringinjury": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Davies has a hamstring strain from Canada duty and will miss time.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridmidfieldmainstayaseriousdoubtforceltavigoclashafterinjuryoni": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Real Madrid midfielder is doubtful for Celta Vigo after an international injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichissueofficialinjuryupdateonalphonsodavies": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern issued an official update on Davies.",
+    "extractor": "claude"
+   }
+  },
+  "title:maignaninjuryputsmilanonalertastorrianifacespotentialserieadebut": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Maignan's injury may open the door for Torriani.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalawaitmedicalupdateafterkeymidfieldersuffersinjuryscareoninterna": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Arsenal midfielder had an injury scare on international duty.",
+    "extractor": "claude"
+   }
+  },
+  "title:milananxiousmaignansuffershipinjurywithfrancescansscheduledtomorrow": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Maignan hurt his hip with France and will have scans.",
+    "extractor": "claude"
+   }
+  },
+  "emerson:knee_other": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Marseille defender Emerson ruled out for weeks after knee surgery"
+  },
+  "title:marseilledefenderemersonruledoutforweeksafterkneesurgery": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Emerson",
+    "club": "Marseille",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Emerson faces weeks out following knee surgery.",
+    "extractor": "claude"
+   }
+  },
+  "calvani:unknown": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "title": "Frosinone anxious over Calvani amid injury alert: makeshift side needed against Milan"
+  },
+  "title:frosinoneanxiousovercalvaniamidinjuryalertmakeshiftsideneededagainstmi": {
+   "first_seen": "2026-11-16T21:45:37.961572+00:00",
+   "facts": {
+    "player": "Calvani",
+    "club": "Frosinone",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Frosinone are concerned about Calvani's fitness before facing Milan.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
