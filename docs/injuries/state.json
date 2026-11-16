@@ -4807,6 +4807,208 @@
     "summary_en": "An unnamed key Aston Villa player is injured and may miss the match against Sunderland.",
     "extractor": "claude"
    }
+  },
+  "title:arsenaldealtmajorinjuryblowasstarlimpsoffinenglandvictoryoverspain": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Arsenal player limped off during England's win over Spain.",
+    "extractor": "claude"
+   }
+  },
+  "title:painfulblowforflickbarcelonastarleavesenglandmatchinjured": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player left the match against England injured.",
+    "extractor": "claude"
+   }
+  },
+  "maignan:unknown": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "title": "Maignan injury concern for Milan after forced off for France"
+  },
+  "title:maignaninjuryconcernformilanafterforcedoffforfrance": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Milan goalkeeper Maignan was forced off while playing for France, raising concern.",
+    "extractor": "claude"
+   }
+  },
+  "title:acmilanmaignaninjuredinfrancevturkeycomesoffathalftimewhatinjuryhashes": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Maignan came off at half-time of France against Turkey with an unspecified injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillafearrightbacksetbackafterpolanddefeat": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa fear an injury to a right-back after a match involving Poland.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillasweatoverstarterspolandinjuryisemerysplanbgoodenough": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa are concerned about a starter injured on Poland duty.",
+    "extractor": "claude"
+   }
+  },
+  "collins:knee_other": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "title": "Nathan Collins injury: Brentford defender faces knee scan"
+  },
+  "title:nathancollinsinjurybrentforddefenderfaceskneescan": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Nathan Collins",
+    "club": "Brentford",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Brentford defender Nathan Collins is set for a scan on his knee.",
+    "extractor": "claude"
+   }
+  },
+  "maza:ankle": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "title": "Algeria confirm ankle injury to Bayer Leverkusen’s Ibrahim Maza"
+  },
+  "title:algeriaconfirmankleinjurytobayerleverkusensibrahimmaza": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Ibrahim Maza",
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Algeria confirmed Leverkusen's Ibrahim Maza has an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "celik:unknown": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "title": "Juventus worry as Celik suffered injury in France vs. Turkiye warm-up"
+  },
+  "title:juventusworryasceliksufferedinjuryinfrancevsturkiyewarmup": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Zeki Celik",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Juventus defender Celik was hurt in the warm-up before France versus Turkey.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialrealmadridstarleavesinternationaldutywithinjuryconcern": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Real Madrid player left international duty with an injury concern.",
+    "extractor": "claude"
+   }
+  },
+  "akanji:muscle_general": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "title": "Inter handed injury scare as Manuel Akanji leaves Switzerland squad early due to muscular fatigue ahead of Atalanta clash"
+  },
+  "title:interhandedinjuryscareasmanuelakanjileavesswitzerlandsquadearlyduetomu": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": "Manuel Akanji",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Akanji left the Switzerland squad early with muscular fatigue before Inter face Atalanta.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillawoundedassecondinternationalinjurycouldleaveemeryshort": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa suffered a second injury during the international break.",
+    "extractor": "claude"
+   }
+  },
+  "title:oliverglasnerhandedfreshinjuryworryasnottinghamforeststarhurt": {
+   "first_seen": "2026-11-16T00:50:31.938981+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed player has been hurt, creating a new worry for Oliver Glasner.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
