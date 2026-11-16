@@ -1,133 +1,135 @@
-# 주간 릴스 기획 — 2026-W46 (2026-11-13 생성)
+# 주간 릴스 기획 — 2026-W47 (2026-11-16 생성)
 
 > Claude가 작성한 초안. 게시 전 원우 님이 대사·운동을 검토. 선수 영상·사진 사용 금지, 의료 조언 아님 문구 유지.
 
 | 요일 | 슬롯 | 패턴 | 제목 |
 |---|---|---|---|
-| 화 | 1 | injury_react | 추아메니 내전근 재발: 사타구니 부상이 자꾸 돌아오는 이유와 3단계 복귀 |
-| 목 | 2 | three_drills | 느린 첫 스텝 고치는 3가지 드릴 (장비 없이) |
-| 금 | 3 | anatomy_explainer | 햄스트링은 정확히 어디서 찢어질까 (해부 설명 + 시연) |
+| 화 | 1 | injury_react | 자카 종아리 부상 리액트: 비복근 vs 가자미근, 카프 레이즈 두 가지를 다 해야 하는 이유 |
+| 목 | 2 | before_after_test | 10m 스프린트 비포/애프터: 4주 플라이오 프로토콜 측정 시작 |
+| 금 | 3 | progression_ladder | 발목 염좌 재활 사다리 Level 1→5 (시리즈 1편) |
 
-## 화 · 추아메니 내전근 재발: 사타구니 부상이 자꾸 돌아오는 이유와 3단계 복귀
-- 훅 EN: **Tchouaméni's adductor again? Here's why groin injuries come back.**
-- 훅 DE: Tchouaméni wieder an den Adduktoren? Darum kommen Leistenverletzungen zurück.
-- 훅 ES: ¿Tchouaméni otra vez con el aductor? Por esto vuelve la lesión.
-- 왜 통하나: @e3rehab·@niklas.sportphysio식 부상 리액트 구조로 뉴스성은 이름과 헤드라인으로만 가져오고 화면은 원우 님 시연으로 채웠습니다. 스타 선수 클립은 팔로워 17명에 그쳤지만 시연형(플라이오 126, 방향 전환 55)은 강했기 때문에, 뉴스는 훅으로만 쓰고 70% 이상을 드릴 데모로 구성했습니다.
-- 주의: 선수 사진·경기 영상 사용 금지, 헤드라인 텍스트와 출처 링크만 사용. 심각도·복귀 일정 추측 금지, '보도에 따르면'으로 표기. '부상을 막는다' 대신 '줄였다는 연구가 있다'로 표현하고 의료 조언 아님 문구 유지. 해시태그 #realmadrid 사용 시 공식 로고·엠블럼 노출 없도록 주의.
-
-**구성 (초 단위)**
-| 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
-|---|---|---|---|
-| 0-3 | 원우 님이 정면 미디엄샷에서 손으로 치골에서 허벅지 안쪽으로 내려가는 라인을 짚습니다. 화면 구석에 헤드라인 텍스트만 노출합니다(사진·영상 없음). | 레알 마드리드 추아메니 선수, 프랑스 대표팀에서 내전근 재발 소식이 있었죠. 심각도는 공개되지 않았는데요, 이 부위가 왜 자꾸 다시 다치는지 짚어볼게요. | Adductor recurrence — severity unknown. Why does it come back? |
-| 3-9 | 반바지 차림으로 피부용 테이프나 마커로 장내전근 라인을 표시하고, 복근 쪽으로 손을 올려 치골에서 만나는 지점을 가리킵니다. | 여기 허벅지 안쪽 위, 치골에서 내려오는 근육이 내전근이에요. 가장 자주 다치는 게 장내전근이고, 위에서는 복근이랑 치골에서 만나서 힘을 주고받습니다. | Adductor longus = most injured. Meets the abs at the pubic bone. |
-| 9-15 | 공으로 킥 동작, 옆으로 미는 동작, 방향 전환을 슬로모션으로 각각 1회씩 시연합니다. | 킥할 때, 옆으로 밀 때, 방향 바꿀 때 내전근이 늘어나면서 버텨야 해요. 그 늘어나는 상태에서의 힘, 편심성 근력이랑 복근과의 협응이 부족하면 재발이 잦아집니다. | Kick. Side push. Cut. The adductor brakes while lengthening. |
-| 15-22 | 1단계: 무릎 사이 공 끼우고 아이소메트릭 스퀴즈, 이어서 데드버그 컷. | 1단계는 진정시키기예요. 공 끼우고 아프지 않은 강도로 30초 꾹 누르고, 데드버그로 코어를 잡아줍니다. | Phase 1 · Calm it down: ball squeeze + dead bugs |
-| 22-30 | 2단계: 코펜하겐 플랭크 무릎 지지(숏 레버) → 발목 지지(롱 레버) 전환, 3단계: 래터럴 셔플과 크로스오버 스텝 짧은 컷. | 2단계는 코펜하겐 플랭크예요. 무릎으로 짧게 시작해서 발목까지 길게 갑니다. 연구에서도 내전근 부상을 크게 줄였다고 보고됐어요. 마지막 3단계는 셔플, 크로스오버, 짧은 패스에서 긴 패스로 올려가는 겁니다. | Phase 2 · Copenhagen plank short → long. Phase 3 · shuffles, passes, cuts |
-| 30-35 | 원우 님 정면 클로즈업, 하단에 의료 조언 아님 문구. | 의료 조언은 아니고요, 통증이 있으면 꼭 전문가에게 진단 받으세요. 단계별 복귀 루틴 받고 싶으시면 댓글에 SPEED 남겨주세요. | Comment SPEED for the full return plan · Not medical advice |
-
-**운동**
-1. Adductor isometric ball squeeze — 5×30s, pain ≤2/10 · 숨 참지 말고 무릎으로 공을 천천히 눌러 70% 힘으로 유지하세요.
-2. Copenhagen plank (short lever → long lever) — 3×15-20s per side · 골반이 처지지 않게 몸을 일자로, 무릎 지지가 편해지면 발목 지지로 넘어가세요.
-3. Lateral shuffles and crossover steps — 4×10m each direction · 낮은 자세 유지하고 통증 없을 때만 속도를 올리세요.
-
-**촬영 메모**
-- 도르트문트 현지 인조잔디 피치, 측면 45도 + 정면 미디엄 2캠
-- 코펜하겐 플랭크는 벤치 또는 파트너 지지, 측면 로우앵글로 몸 라인 강조
-- 소품: 축구공 1개, 피부용 테이프/마커, 콘 4개
-- 헤드라인은 텍스트 그래픽으로만, 선수 사진·경기 영상 사용 금지
-
-**캡션 EN**
-```
-Tchouaméni (Real Madrid) is dealing with an adductor recurrence after France duty, per reports. Severity unknown, so no speculation here: this is why groin injuries in football come back and how a 3-phase return usually looks. Phase 1 calm it down, Phase 2 Copenhagen strength, Phase 3 football loads. Not medical advice; get assessed if you have pain. Comment SPEED for the full plan. Source link in comments.
-```
-**캡션 DE**
-```
-Laut Berichten hat Tchouaméni (Real Madrid) nach der Nationalmannschaft wieder Probleme an den Adduktoren. Schweregrad unbekannt. Hier erkläre ich aus Dortmund, warum Leistenverletzungen im Fußball zurückkommen und wie ein 3-Phasen-Aufbau aussieht. Keine medizinische Beratung. Kommentiere SPEED für den kompletten Plan.
-```
-**캡션 ES**
-```
-Según la prensa, Tchouaméni (Real Madrid) volvió a resentirse del aductor con Francia. Gravedad desconocida. Te explico por qué las lesiones de ingle vuelven en el fútbol y cómo es una vuelta en 3 fases: calmar, fuerza con plancha Copenhague y cargas de fútbol. No es consejo médico. Comenta VELOCIDAD y te mando el plan completo.
-```
-해시태그: #groininjury #adductor #copenhagenplank #returntoplay #footballrehab #futbol #lesiondeaductor #realmadrid #footballtraining #dortmund
-
-## 목 · 느린 첫 스텝 고치는 3가지 드릴 (장비 없이)
-- 훅 EN: **Slow first step? Fix it with these 3 drills.**
-- 훅 DE: Langsamer erster Schritt? Diese 3 Drills ändern das.
-- 훅 ES: ¿Primer paso lento? Arréglalo con estos 3 ejercicios.
-- 왜 통하나: @marcusriosofficial·@ycg_performance_official식 '3 drills to fix X' 구조로 짧은 컷 3개라 저장·공유가 잘 되는 포맷입니다. 채널에서 플라이오메트릭 시연이 팔로워 126명으로 가장 강했기 때문에 포고 홉을 가운데 넣고, 전 구간 원우 님 실사 시연으로 구성했습니다.
-- 주의: U-20 국가대표 선수 실명·얼굴 노출 금지(본인 동의 없이 언급은 '선수'로만). 배경 음원은 인스타 라이선스 음원만 사용. 포고 홉은 아킬레스·종아리 통증 있는 경우 제외 안내 자막 권장.
+## 화 · 자카 종아리 부상 리액트: 비복근 vs 가자미근, 카프 레이즈 두 가지를 다 해야 하는 이유
+- 훅 EN: **Xhaka's calf is out. Are you training the right calf muscle?**
+- 훅 DE: Xhakas Wade streikt. Trainierst du den richtigen Wadenmuskel?
+- 훅 ES: La pantorrilla de Xhaka falla. ¿Entrenas el músculo correcto?
+- 왜 통하나: @e3rehab·@niklas.sportphysio식 '뉴스 이슈 → 해부학 → 바로 따라 하는 드릴' 구조이며, 스타 선수 이름은 훅에만 쓰고 화면은 원우 님의 시연으로 채웁니다. 채널 데이터상 스타 클립은 +17에 그쳤고 시연형 영상(Stability +51)이 강했기 때문에, 이번 영상은 뉴스로 클릭을 얻고 시연으로 팔로우를 얻는 하이브리드입니다.
+- 주의: 자카 선수 경기 영상·사진·구단 로고 사용 금지, 헤드라인 텍스트와 출처 링크만 사용하세요. 부상 정도와 복귀 기간이 알려지지 않았으므로 '파열', '몇 주 결장' 같은 추측 표현은 금지입니다. 의료 조언 아님 문구는 화면과 캡션 양쪽에 반드시 넣으세요.
 
 **구성 (초 단위)**
 | 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
 |---|---|---|---|
-| 0-2 | 원우 님이 콘 앞에서 정지 스타트로 3걸음 폭발적으로 튀어나가는 장면, 바로 정지. | 첫 스텝이 느리면 공 경합에서 다 집니다. 장비 없이 고치는 드릴 세 개 갈게요. | Slow first step? 3 drills. No gym. |
-| 2-10 | 드릴 1: 벽에 손 짚고 45도 기울인 자세에서 무릎 올리기 홀드 후 스위치. | 첫 번째, 월 드라이브. 몸을 45도로 기울이고 무릎을 올렸다가 바닥을 뒤로 밀어 바꿉니다. 첫 세 걸음의 각도를 몸에 익히는 거예요. | Drill 1 · Wall drive switch — 45° lean, push the ground back |
-| 10-18 | 드릴 2: 제자리 포고 홉, 발목 측면 클로즈업. | 두 번째, 포고 홉. 무릎 거의 안 굽히고 발목으로만 짧고 빠르게 튑니다. 바닥에 닿는 시간을 줄이는 게 목표예요. | Drill 2 · Pogo hops — stiff ankles, short ground contact |
-| 18-27 | 드릴 3: 똑바로 서서 앞으로 쓰러지듯 기울다가 3걸음 스프린트, 콘 5m 지점까지. | 세 번째, 폴링 스타트. 앞으로 쓰러지다가 넘어지기 직전에 세 걸음 치고 나갑니다. 상체 각도를 유지하는 게 포인트예요. | Drill 3 · Falling start → 3 steps |
-| 27-32 | 원우 님 정면, 세 드릴 이름이 화면에 리스트로 정리. | U-20 국가대표 선수도 하는 기본기예요. 주 2~3회 워밍업에 넣어보세요. 전체 스피드 루틴 원하시면 댓글에 SPEED 남겨주세요. | Save this · Comment SPEED for the full routine |
+| 0-2 | 원우 님이 정면을 보고 서서 자기 종아리를 손으로 가리킴. 상단에 뉴스 헤드라인 텍스트만 표시(사진 없음) | 자카 선수가 종아리 부상으로 빠졌습니다. 그런데 종아리 근육은 하나가 아니에요. | Xhaka – calf injury (severity unknown) |
+| 2-8 | 측면 앵글. 무릎 뒤에서 발뒤꿈치까지 손가락으로 따라 내려가며 비복근(겉층)과 가자미근(깊은 층)을 짚음 | 겉에 있는 게 비복근, 그 밑에 깊이 있는 게 가자미근입니다. 둘이 합쳐져서 아킬레스건이 돼요. 달릴 때 가장 큰 힘을 내는 건 사실 가자미근이에요. | Gastrocnemius (outer) + Soleus (deep) = Achilles |
+| 8-15 | 계단 끝에서 무릎을 편 채 카프 레이즈 3회, 이어서 무릎을 굽힌 채 카프 레이즈 3회 시연 | 무릎을 펴고 올라가면 비복근, 무릎을 굽히고 올라가면 가자미근을 훈련합니다. 대부분 앞의 것만 하세요. | Straight knee = gastroc | Bent knee = soleus |
+| 15-22 | 벤치에 앉아 무릎 위에 덤벨을 올리고 시티드 카프 레이즈를 천천히 시연 | 28살이 넘으면 종아리 부상이 늘어나는데, 가자미근 근력 저하와 관련이 깊어요. 그래서 앉아서 하는 카프 레이즈는 꼭 넣으세요. | 28+? Don't skip the soleus |
+| 22-28 | 단계 텍스트에 맞춰 짧게 컷: 발목 가동 → 싱글 레그 카프 레이즈 → 포고 점프 | 복귀 순서는 가볍게 부하 주기, 근력, 그다음에 탄성과 스프린트입니다. 순서를 건너뛰지 마세요. | Protect → Strength → Elastic & Sprint |
+| 28-32 | 카메라를 보며 마무리. 하단에 의료 조언 아님 문구 표시 | 종아리 단계별 플랜이 필요하면 댓글에 SPEED라고 남겨주세요. 아프면 먼저 전문가에게 진료를 받으세요. | Comment SPEED for the calf plan · Not medical advice |
 
 **운동**
-1. Wall drive switch — 3×6 switches per leg · 머리부터 발목까지 일자, 발은 몸 아래로 찍고 뒤로 밀어내세요.
-2. Pogo hops — 3×15s, 60s rest · 발뒤꿈치는 살짝 띄우고 소리가 작게, 빠르게 튀세요.
-3. Falling start into 3 steps — 5 reps, full rest · 허리 꺾지 말고 몸 전체로 기울인 뒤 짧고 강한 세 걸음.
+1. Seated calf raise (soleus) — 3×15, 2s up / 3s down · 무릎은 90도로 유지하고, 엄지발가락 쪽으로 밀어 올리세요.
+2. Standing calf raise, double → single leg, slow eccentric — 3×8-12, 4s lowering · 뒤꿈치를 끝까지 천천히 내리고, 통증 없는 범위에서만 하세요.
+3. Bent-knee calf raise — 3×12 · 무릎을 살짝 굽힌 각도를 끝까지 유지하세요.
 
 **촬영 메모**
-- 도르트문트 피치 또는 실내 체육관 벽, 측면 90도 앵글로 몸 기울기 강조
-- 포고 홉은 발목 높이 로우앵글 클로즈업 + 슬로모션 1컷
-- 폴링 스타트는 측면 트래킹, 콘 0m·5m 배치
-- 소품: 콘 2개, 벽
+- 도르트문트 야외 계단 또는 짐 박스 끝 – 측면 앵글(종아리 실루엣이 보이게)
+- 벤치 + 덤벨 1개 – 정면 45도 앵글, 시티드 카프 레이즈
+- 반바지 착용(근육 위치가 보이게), 해부 그림은 간단한 그래픽 오버레이로만
+- 포고 점프는 잔디 위 로우 앵글 슬로모션 1컷
 
 **캡션 EN**
 ```
-3 no-gym drills for a faster first step: 1) Wall drive switch 2) Pogo hops 3) Falling start into 3 steps. Add them to your warm-up 2-3x per week. Save it for your next session. Comment SPEED and I'll send you the full speed routine.
+Xhaka (Sunderland) is dealing with a calf injury – severity unknown. Quick anatomy lesson: your calf = gastrocnemius + soleus. Straight-knee raises hit the gastroc, bent-knee raises hit the soleus, the muscle that produces the most force when you sprint. Over 28? Train both. Comment SPEED for my calf return-to-run progression. Not medical advice – see a professional if you're injured. Source: Sunderland News Today, 14 Nov.
 ```
 **캡션 DE**
 ```
-3 Drills ohne Gym für einen schnelleren ersten Schritt: 1) Wall Drive Switch 2) Pogo Hops 3) Falling Start in 3 Schritte. 2-3x pro Woche ins Aufwärmen. Speichern! Kommentiere SPEED für die komplette Routine.
+Xhaka (Sunderland) fällt mit einer Wadenverletzung aus – Schwere unbekannt. Kurz erklärt: Die Wade besteht aus Gastrocnemius und Soleus. Wadenheben mit gestrecktem Knie trainiert den Gastrocnemius, mit gebeugtem Knie den Soleus, der beim Sprinten die meiste Kraft erzeugt. Über 28? Trainiere beide. Kommentiere SPEED für meinen Waden-Plan. Keine medizinische Beratung.
 ```
 **캡션 ES**
 ```
-3 ejercicios sin gimnasio para un primer paso más rápido: 1) Wall drive en la pared 2) Pogo hops 3) Salida cayendo con 3 pasos. Mételos en tu calentamiento 2-3 veces por semana. Guárdalo. Comenta VELOCIDAD y te mando la rutina completa.
+Xhaka (Sunderland) tiene una lesión en la pantorrilla, gravedad desconocida. Anatomía rápida: gemelo + sóleo. Elevaciones con rodilla estirada = gemelo; con rodilla flexionada = sóleo, el músculo que más fuerza genera al esprintar. ¿Más de 28 años? Entrena ambos. Comenta VELOCIDAD y te envío mi progresión para la pantorrilla. No es consejo médico.
 ```
-해시태그: #firststep #acceleration #speedtraining #footballspeed #plyometrics #futbol #velocidad #entrenamientofutbol #footballtraining #soccerdrills
+해시태그: #calfinjury #soleus #footballrehab #returntoplay #calfraises #footballtraining #injuryprevention #premierleague #futbol #sprinttraining
 
-## 금 · 햄스트링은 정확히 어디서 찢어질까 (해부 설명 + 시연)
-- 훅 EN: **Where your hamstring actually tears (and why).**
-- 훅 DE: Wo dein Beinbeuger wirklich reißt – und warum.
-- 훅 ES: Dónde se rompe de verdad tu isquiotibial (y por qué).
-- 왜 통하나: @e3rehab·@medspired식 해부 설명 교육형으로 저장이 많이 나오는 패턴이고, S&C와 재활을 같이 하는 원우 님의 차별점이 가장 잘 드러납니다. 채널에서 안정성(Stability) 시연이 51명으로 성과가 있었으므로 설명 뒤에 바로 시연 드릴을 붙였습니다.
-- 주의: '부상을 예방한다' 같은 단정 표현 대신 '위험을 줄이는 데 도움'으로 표현. 의료 조언 아님 문구 유지. 해부 그래픽은 직접 제작하거나 라이선스 확인된 이미지만 사용, 노르딕 컬 파트너 출연 시 초상권 동의 받기.
+## 목 · 10m 스프린트 비포/애프터: 4주 플라이오 프로토콜 측정 시작
+- 훅 EN: **I tested my 10m sprint today. Retest in 4 weeks.**
+- 훅 DE: Heute 10-Meter-Sprint getestet. In 4 Wochen wird nachgemessen.
+- 훅 ES: Hoy medí mis 10 metros. Repito el test en 4 semanas.
+- 왜 통하나: @ycg_performance_official·@tomjoycefitness의 '측정 before/after' 패턴으로, 숫자가 증거가 되고 4주 후 결과 영상까지 시리즈로 이어집니다. 채널에서 가장 강했던 플라이오메트릭 시연(+126)을 프로토콜 본체로 써서 팔로우 전환을 노립니다.
+- 주의: 기록은 반드시 실측값만 쓰고, 4주 후 개선 수치를 미리 약속하거나 꾸며내지 마세요. U-20 선수 데이터나 얼굴을 쓰려면 본인·소속 동의가 필요하므로 이번 편은 원우 님 본인 측정으로만 진행합니다. 플라이오 볼륨은 부상 이력이 있는 사람에게 주의하라는 안내를 캡션에 유지하세요.
 
 **구성 (초 단위)**
 | 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
 |---|---|---|---|
-| 0-3 | 원우 님이 뒤돌아서 허벅지 뒤쪽 바깥 위를 손가락으로 정확히 짚습니다. | 축구 선수 햄스트링 부상, 대부분 여기서 납니다. 왜 하필 여기인지 알려드릴게요. | Most hamstring tears happen right here |
-| 3-10 | 테이프로 엉덩이 아래 좌골에서 무릎 바깥쪽까지 대퇴이두근 라인을 표시합니다. | 햄스트링은 근육 세 개인데, 제일 많이 다치는 게 바깥쪽 대퇴이두근 장두예요. 특히 근육이랑 힘줄이 이어지는 부위가 약한 고리입니다. | Biceps femoris long head · muscle-tendon junction |
-| 10-17 | 제자리에서 스프린트 다리 스윙을 슬로모션으로, 다리가 앞으로 뻗는 순간 정지. | 전력 질주에서 다리가 앞으로 뻗어 나가는 이 순간, 햄스트링은 길게 늘어나면서 다리를 브레이크 걸어요. 이때 버틸 힘이 부족하면 찢어집니다. | Late swing: lengthening + braking at top speed |
-| 17-28 | 아이소메트릭 브릿지 홀드 → 파트너 노르딕 컬 짧은 범위 → 맨몸 싱글레그 RDL 순서로 컷. | 그래서 늘어난 상태에서 버티는 힘을 길러야 해요. 브릿지로 버티고, 노르딕 컬로 천천히 내려가고, 싱글레그 RDL로 균형까지 잡아줍니다. | Bridge hold → Nordic curl → Single-leg RDL |
-| 28-33 | 원우 님 정면 클로즈업, 하단 의료 조언 아님 문구. | 의료 조언은 아니고요, 통증 있으면 전문가 진단이 먼저입니다. 햄스트링 강화 루틴 받으시려면 댓글에 SPEED 남겨주세요. | Comment SPEED for the routine · Not medical advice |
+| 0-3 | 원우 님이 잔디 위 10m 콘 사이를 전력 스프린트, 타이밍 게이트 또는 폰 앱 화면에 기록이 뜸 | 오늘 제 10미터 기록입니다. 4주 뒤에 다시 잽니다. | 10m TEST – Week 0: [real time] s |
+| 3-8 | 출발 자세 클로즈업, 처음 세 걸음을 슬로모션으로 | 10미터는 처음 세 걸음에서 결정돼요. 지면을 얼마나 세게, 얼마나 짧게 밀어내느냐가 핵심입니다. | First 3 steps = your 10m |
+| 8-15 | 포고 점프 시연, 발목 클로즈업 | 첫 번째는 포고 점프입니다. 무릎은 거의 쓰지 말고, 발목 스프링으로 짧게 튕기세요. | 1. Pogo jumps – stiff ankles |
+| 15-21 | 벽에 손을 대고 월 드릴(무릎 드라이브) 시연 | 두 번째는 벽 드릴입니다. 몸을 45도로 기울이고 무릎을 빠르게 바꿔 주세요. 가속 자세를 몸에 새기는 거예요. | 2. Wall drill – 45° lean |
+| 21-27 | 하프 닐링 스타트에서 10m 스프린트 빌드업 2회 | 마지막은 짧은 스프린트입니다. 매 세트 완전히 쉬고, 100퍼센트로 적게 뛰는 게 포인트예요. | 3. 10m starts – full rest |
+| 27-31 | 콘 옆에서 카메라를 보며 마무리 | 4주 프로토콜 전체를 받고 같이 측정하고 싶으면 댓글에 SPEED라고 남겨주세요. | Comment SPEED – test with me |
 
 **운동**
-1. Isometric single-leg bridge hold — 3×20-30s per leg · 발뒤꿈치로 바닥을 누르고 골반이 돌아가지 않게 버티세요.
-2. Nordic hamstring curl (partner, short range) — 2-3×4-6, 1-2x per week · 엉덩이 펴고 버틸 수 있는 범위까지만 천천히 내려가고, 손으로 받으세요.
-3. Bodyweight single-leg RDL — 3×8 per leg, slow · 등은 펴고 엉덩이를 뒤로 보내며 허벅지 뒤가 늘어나는 걸 느끼세요.
+1. Pogo jumps — 3×15 contacts, 60s rest, 2×/week · 발뒤꿈치가 땅에 닿지 않게, 접지 시간은 최대한 짧게.
+2. Wall drill (acceleration posture) — 3×5 switches per side · 머리부터 발목까지 일직선, 45도 기울기를 유지하세요.
+3. 10m sprint starts — 5×10m, 90-120s rest, 2×/week · 첫 걸음은 뒤로 밀어낸다는 느낌으로, 피곤하면 바로 멈추세요.
 
 **촬영 메모**
-- 도르트문트 실내 공간 또는 피치, 후면 클로즈업으로 해부 부위 표시
-- 스프린트 스윙은 측면 90도 슬로모션 120fps
-- 노르딕 컬은 파트너가 발목 고정, 측면 로우앵글
-- 소품: 피부용 테이프, 매트, 파트너 1명
+- 도르트문트 공원 잔디 또는 인조잔디 – 10m 콘 2개, 측면 와이드 앵글(스프린트 전체)
+- 타이밍 게이트나 스프린트 측정 앱 화면 인서트(실제 측정값만)
+- 포고 점프는 발목 높이 로우 앵글, 벽 드릴은 측면 앵글
+- 출발 3걸음은 120fps 슬로모션
 
 **캡션 EN**
 ```
-Most football hamstring injuries hit the biceps femoris long head, near the muscle-tendon junction. Why? In late swing at top speed it lengthens and brakes at the same time. Train that: bridge hold, Nordic curl, single-leg RDL. Not medical advice; see a professional if you're in pain. Comment SPEED for the full routine.
+Week 0 of my 10m sprint test. Same 3 drills, 2×/week for 4 weeks: pogo jumps, wall drill, 10m starts with full rest. Then we retest on camera – whatever the number is. Comment SPEED and get the full 4-week protocol to test alongside me. Train smart – not medical advice.
 ```
 **캡션 DE**
 ```
-Die meisten Beinbeuger-Verletzungen im Fußball treffen den langen Kopf des Bizeps femoris. Warum? Beim Sprint wird er gleichzeitig gedehnt und muss bremsen. Trainiere genau das: Bridge Hold, Nordic Curl, einbeiniges RDL. Keine medizinische Beratung. Kommentiere SPEED für die Routine.
+Woche 0 meines 10-Meter-Sprinttests. 4 Wochen lang, 2× pro Woche dieselben 3 Drills: Pogo Jumps, Wall Drill und 10-Meter-Starts mit voller Pause. Danach wird vor der Kamera nachgemessen – egal, was rauskommt. Kommentiere SPEED für das komplette Protokoll.
 ```
 **캡션 ES**
 ```
-La mayoría de las lesiones de isquiotibial en el fútbol afectan a la porción larga del bíceps femoral. ¿Por qué? Al esprintar se estira y frena a la vez. Entrénalo: puente isométrico, curl nórdico y peso muerto a una pierna. No es consejo médico. Comenta VELOCIDAD y te mando la rutina.
+Semana 0 de mi test de 10 metros. 3 ejercicios, 2 veces por semana durante 4 semanas: pogo jumps, wall drill y salidas de 10 m con descanso completo. Después repetimos el test en cámara, salga lo que salga. Comenta VELOCIDAD y te envío el protocolo completo para que midas conmigo.
 ```
-해시태그: #hamstring #hamstringinjury #nordiccurl #footballrehab #isquiotibiales #futbol #injuryprevention #anatomy #footballtraining #returntoplay
+해시태그: #speedtraining #acceleration #10msprint #plyometrics #footballspeed #sprinttraining #futbol #entrenamientodefutbol #athletetraining #footballtraining
+
+## 금 · 발목 염좌 재활 사다리 Level 1→5 (시리즈 1편)
+- 훅 EN: **Ankle sprain rehab: level 1 to 5. Where are you?**
+- 훅 DE: Bänderdehnung im Sprunggelenk: Level 1 bis 5. Wo stehst du?
+- 훅 ES: Esguince de tobillo: nivel 1 al 5. ¿En cuál estás?
+- 왜 통하나: @e3rehab·@medspired의 '재활 단계 사다리' 구조로, 시청자가 자기 레벨을 찾느라 끝까지 보고 저장하게 됩니다. 채널에서 검증된 Stability(+51)와 Change of Direction(+55) 시연이 레벨 3~5에 자연스럽게 들어가고, 무릎·햄스트링 편으로 시리즈화할 수 있습니다.
+- 주의: '완치', '며칠이면 복귀' 같은 기간·치료 약속 표현은 금지입니다. 골절이나 인대 파열이 의심되는 증상(체중을 못 실음, 심한 붓기)은 진료를 먼저 받으라는 문구를 유지하세요. 음악은 인스타그램 라이선스 음원만 사용하세요.
+
+**구성 (초 단위)**
+| 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
+|---|---|---|---|
+| 0-2 | 원우 님이 한 발로 서서 화면에 1~5 사다리 그래픽이 쌓임 | 발목 염좌 재활, 다섯 단계로 정리해 드릴게요. | Ankle sprain ladder: L1 → L5 |
+| 2-8 | 바닥에 앉아 발목으로 알파벳 그리기, 이어서 평지 걷기 | 레벨 1, 통증 없는 범위에서 발목 움직이기와 평지 걷기입니다. 다음 단계 기준은 절뚝이지 않고 걷는 거예요. | L1 · Mobility + pain-free walking |
+| 8-14 | 양발 카프 레이즈 → 한 발 카프 레이즈 | 레벨 2는 근력입니다. 양발에서 한 발로, 천천히 내려오는 카프 레이즈를 하세요. | L2 · Calf raises (double → single) |
+| 14-20 | 한 발 서기 30초, 눈 감기 변형 | 레벨 3은 균형입니다. 한 발로 30초 버티고, 되면 눈을 감아 보세요. | L3 · Single-leg balance 30s |
+| 20-26 | 제자리 포고 → 앞뒤·좌우 홉 | 레벨 4는 점프와 착지입니다. 양발 포고부터 시작해서 한 발 홉으로 넘어가요. | L4 · Pogos → single-leg hops |
+| 26-33 | 콘 사이 45도 컷팅 → 스프린트, 마지막에 카메라를 보며 마무리 | 레벨 5는 방향 전환과 스프린트입니다. 단계별 기준표가 필요하면 댓글에 SPEED라고 남겨주세요. 의료 조언은 아니니 심하게 부었다면 먼저 진료를 받으세요. | L5 · Cutting + sprint · Comment SPEED · Not medical advice |
+
+**운동**
+1. Single-leg calf raise (slow eccentric) — 3×10-15 per side, 3s down · 엄지발가락 쪽으로 체중을 싣고, 발목이 바깥으로 꺾이지 않게 하세요.
+2. Single-leg balance (eyes open → closed) — 3×30s per side · 골반을 수평으로 유지하고, 발가락으로 바닥을 잡으세요.
+3. Lateral single-leg hops — 3×6 per side, stick each landing · 착지할 때 무릎이 안으로 무너지지 않게, 소리 없이 부드럽게 착지하세요.
+
+**촬영 메모**
+- 실내 매트 + 야외 잔디 두 장소 – 레벨 1~2는 실내, 3~5는 잔디
+- 발목 높이 로우 앵글을 메인으로, 레벨 5는 콘 4개와 와이드 측면 앵글
+- 화면 오른쪽에 레벨 사다리 그래픽을 고정해 현재 단계 하이라이트
+- 축구화와 러닝화를 레벨별로 바꿔 신어 진행감 연출
+
+**캡션 EN**
+```
+Ankle sprain? Find your level. L1 mobility + pain-free walking → L2 calf strength → L3 single-leg balance → L4 hops & landings → L5 cutting & sprinting. Only move up when the current level feels easy and pain-free. Comment SPEED for the full checklist with pass criteria. Not medical advice – get significant swelling or instability checked by a professional.
+```
+**캡션 DE**
+```
+Umgeknickt? Finde dein Level. L1 Beweglichkeit + schmerzfreies Gehen → L2 Wadenkraft → L3 Einbeinstand → L4 Sprünge & Landungen → L5 Richtungswechsel & Sprint. Erst aufsteigen, wenn das aktuelle Level leicht und schmerzfrei ist. Kommentiere SPEED für die Checkliste. Keine medizinische Beratung.
+```
+**캡션 ES**
+```
+¿Esguince de tobillo? Encuentra tu nivel. N1 movilidad + caminar sin dolor → N2 fuerza de gemelo → N3 equilibrio a una pierna → N4 saltos y aterrizajes → N5 cambios de dirección y sprint. Sube de nivel solo cuando el actual sea fácil y sin dolor. Comenta VELOCIDAD para la checklist completa. No es consejo médico.
+```
+해시태그: #anklesprain #anklerehab #returntoplay #footballrehab #esguincedetobillo #readaptacion #balancetraining #injuryrecovery #futbol #physiotherapy

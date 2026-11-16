@@ -26,5 +26,19 @@
  {
   "week": "2026-W46",
   "pattern": "anatomy_explainer"
+ },
+ {
+  "week": "2026-W47",
+  "pattern": "before_after_test",
+  "player_key": "xhaka",
+  "titles": [
+   "자카 종아리 부상 리액트: 비복근 vs 가자미근, 카프 레이즈 두 가지를 다 해야 하는 이유",
+   "10m 스프린트 비포/애프터: 4주 플라이오 프로토콜 측정 시작",
+   "발목 염좌 재활 사다리 Level 1→5 (시리즈 1편)"
+  ]
+ },
+ {
+  "week": "2026-W47",
+  "pattern": "progression_ladder"
  }
 ]
