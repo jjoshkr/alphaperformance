@@ -5539,6 +5539,108 @@
     "summary_en": "Frosinone are concerned about Calvani's fitness before facing Milan.",
     "extractor": "claude"
    }
+  },
+  "title:newsalphonsodaviesfacesbayernmunichspellonsidelinesafterhamstringinjur": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies is set to miss time for Bayern Munich because of a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:ibrahimmazaavoidsseriousinjurybutremainsdoubtfulforleverkusenspaderbor": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Ibrahim Maza",
+    "club": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Ibrahim Maza escaped a serious injury but is a doubt for Leverkusen's match against Paderborn.",
+    "extractor": "claude"
+   }
+  },
+  "title:alphonsodaviesoutwithminorhamstringstrainsaysbayern": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern said Alphonso Davies is sidelined with a minor hamstring strain.",
+    "extractor": "claude"
+   }
+  },
+  "title:reportmaignantestsreassuringformilanafterfranceinjury": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tests on Mike Maignan after his injury with France are reported to be encouraging for Milan.",
+    "extractor": "claude"
+   }
+  },
+  "davies:muscle_general": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "title": "Alphonso Davies Out Indefinitely for Bayern Munich With Muscle Tear"
+  },
+  "title:alphonsodaviesoutindefinitelyforbayernmunichwithmuscletear": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies is out for an undetermined period at Bayern with a muscle tear.",
+    "extractor": "claude"
+   }
+  },
+  "title:alphonsodaviesoutwithhamstringinjury": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern announced Alphonso Davies is sidelined by a hamstring problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:milananxiousmaignansuffershipinjurywithfrancenowtests": {
+   "first_seen": "2026-11-17T07:02:32.406554+00:00",
+   "facts": {
+    "player": "Mike Maignan",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Mike Maignan hurt his hip while with France and will undergo tests, worrying Milan.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
