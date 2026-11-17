@@ -5641,6 +5641,140 @@
     "summary_en": "Mike Maignan hurt his hip while with France and will undergo tests, worrying Milan.",
     "extractor": "claude"
    }
+  },
+  "morton:unknown": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "title": "Lyon announce Tyler Morton to undergo surgery and… | Yalla Shoot"
+  },
+  "title:lyonannouncetylermortontoundergosurgeryandyallashoot": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Tyler Morton",
+    "club": "Lyon",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lyon said Tyler Morton will have surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:patrickdorgusentbacktomanutdafterdenmarkinjurytests": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Patrick Dorgu",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Patrick Dorgu returned to Manchester United from Denmark duty after injury tests.",
+    "extractor": "claude"
+   }
+  },
+  "title:evertonsobrienincontentionforirelandstartaftercollinsinjury": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Collins",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An injury to Collins may open an Ireland starting spot for Everton's O'Brien.",
+    "extractor": "claude"
+   }
+  },
+  "title:gotablowtothelegntmanageronfulhamplayersinjurycantpromisequickrecovery": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": null,
+    "club": "Fulham",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A national team coach said an unnamed Fulham player took a knock to the leg and may not recover quickly.",
+    "extractor": "claude"
+   }
+  },
+  "title:22injuriesand1000daysofsufferingrealmadridlosetheirdefensiveweapon": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": "000 days",
+    "summary_en": "An injury-prone Real Madrid defensive player is out again.",
+    "extractor": "claude"
+   }
+  },
+  "title:premierleaguestarsetforspellonsidelinesafterpickingupinjuryoninternati": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Premier League player faces time out after an international duty injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:cubarsiindoubtforvillarrealwithhipinjury": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Pau Cubarsi",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Cubarsi is doubtful for Villarreal due to a hip problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonascubarsiadoubtforvillarrealclashwithhipinjury": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Pau Cubarsi",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "hip",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona's Cubarsi has a hip injury and may miss Villarreal.",
+    "extractor": "claude"
+   }
+  },
+  "dou:unknown": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "title": "PSG fans question another injury as Désiré Doué misses France match despite rest"
+  },
+  "title:psgfansquestionanotherinjuryasdsirdoumissesfrancematchdespiterest": {
+   "first_seen": "2026-11-17T18:17:27.399857+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Désiré Doué missed a France match with another injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
