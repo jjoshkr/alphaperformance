@@ -6015,6 +6015,140 @@
   "lookman:knee_other": {
    "first_seen": "2026-11-18T11:18:08.386683+00:00",
    "title": "Official: Atlético Madrid announce injury setback"
+  },
+  "calatrava:knee_acl": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "title": "Official: Espanyol star suffers ACL tear in training"
+  },
+  "title:officialespanyolstarsuffersacltearintraining": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Álex Calatrava",
+    "club": "Espanyol",
+    "league": "La Liga",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Espanyol confirmed attacker Álex Calatrava tore his ACL in training and faces a long absence.",
+    "extractor": "claude"
+   }
+  },
+  "title:opponentwatchatleticomadridwingersettomisslaligaclashagainstbarcelona": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": null,
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Atletico Madrid winger is expected to miss the match against Barcelona.",
+    "extractor": "claude"
+   }
+  },
+  "title:footballsetbackforatleticomadridaslookmansinjurymoreseriousthanexpecte": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lookman's injury has turned out to be worse than Atletico Madrid initially thought.",
+    "extractor": "claude"
+   }
+  },
+  "title:13mstarsetforforestin2027facesanxiouswaitoverkneeinjury": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A player linked with a future move to Forest awaits news on a knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:laligaatleticomadridconfirmademolalookmansustainedseriouskneeinjury": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atletico Madrid confirmed Ademola Lookman has a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:atleticomadridreceivemassiveademolalookmaninjuryblowafterinternational": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lookman picked up a significant injury while on international duty.",
+    "extractor": "claude"
+   }
+  },
+  "cash:unknown": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "title": "Aston Villa face Matty Cash injury blow ahead of Sunderland clash"
+  },
+  "title:astonvillafacemattycashinjuryblowaheadofsunderlandclash": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Matty Cash",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Matty Cash has an injury that may affect his availability against Sunderland.",
+    "extractor": "claude"
+   }
+  },
+  "title:atleticoconfirmseriousademolalookmaninjuryafternigeriamedicalassessmen": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atletico confirmed a serious injury to Lookman following assessment after Nigeria duty.",
+    "extractor": "claude"
+   }
+  },
+  "title:comoissuestatementconfirmingfreshinjuryformoisekean": {
+   "first_seen": "2026-11-18T20:09:09.310522+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Como confirmed a new injury for Moise Kean.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",

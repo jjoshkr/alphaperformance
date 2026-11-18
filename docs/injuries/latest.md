@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-18 20:18 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-19 05:09 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,79 +6,68 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | Premier League | Chelsea | - | 미상 | [Xabi Alonso handed major injury scare as Chelsea star taken off at half-time](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUW1RNzY2QzlRQ3BPeEJRUFVrV29tb3I5azU4eEZ1UV8wSk9oZzNBTTljNmhXeTNyQ0UzNTEzby1VM2tUN1k3SmxVYldueGVMLXZ0ZTRVQXJ3Nk9qUEZqNndseElOR25Sd2phS25UeHhZckVwbUk4LWh0dVU4VW9RZThaQTU5MUVxemwzVQ?oc=5) (Football London) | claude |
-|  | Premier League | Moises Caicedo · Chelsea | - | 미상 | [Chelsea injury news: Moises Caicedo concern grows after Ecuador half-time withdrawal](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaG82ak55ZnlRNVl3VkluS1ozNHVlVzdmMXVBd1lNcFNQbWpDbzJYMzl4UVM3d0xLeVdDUzBWMEFNR1BjOExzMjVvSlNkSURvNWZZNVh4cTJ6UjQyUGFLQm9yOThSMGVhWU05YkJsR1g4QlBubmZ4N1E5NXpYbUFBdGUyY3pHV0RHTjRpNEVkRFVTWUFLdE1XbVBkbmUzQ3VlSEFDUFY0bU85NkcyRy1iSG5xdXZmd2I3b0tsZm4tSDdnQk9IT1pSb0QyRFhNTlBFOG9ndTc2LUZrUjVGcnE0?oc=5) (Sports Mole) | claude |
-|  | La Liga | Ademola Lookman · Atlético Madrid | - | 미상 | [Lookman's injury worse than feared, Barcelona clash in doubt](https://news.google.com/rss/articles/CBMifEFVX3lxTE4tbHhLLXFueW1sZklHa0FDRlFBNWVNX000LXZRdFhEYWI3Rkh4MWktaXpRQzRYTVdJVDZOMV9OVE5hM3MyOE11MmxIV1JZc0tKUXIzN2gyWTZnZU5pc3VDOWx1dHVZdmpKQk4wSWtsMXNCem84cDVWQk9LTGY?oc=5) (Afrik-Foot) | claude |
+| 🆕 | La Liga | Álex Calatrava · Espanyol | 무릎 (십자인대/반월판) | 중증 (8주 이상 / 수술 / 파열) | [Official: Espanyol star suffers ACL tear in training](https://getfootballnewsspain.com/official-espanyol-star-suffers-acl-tear-in-training/) (Get Spanish Football News) | claude |
+| 🆕 | La Liga | Atletico Madrid | - | 미상 | [Opponent watch: Atletico Madrid winger set to miss La Liga clash against Barcelona](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdElYUTlwblZlWENCbjhhLUtISjJBN3JwdG84MWozM1dyMkdBVEMya0ozOXlFSVlMdjdNbTZ3RnduNHVPUGpxNGc2RDF0MzEwem1HZDlIS3BrT2Ezc05IakpIZjZsc0xlaENRellGU1dBVmU5dXFDdU8wZ1NFNHRLQXQyQlVEaGdFbnlmNzNSMA?oc=5) (Yahoo Sports) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | - | 미상 | [Football: Setback for Atletico Madrid as Lookman’s injury more serious than expected](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzlyRGU4QjZaYXNGdFNpQ1VaZ2pKUjdoUWcxMklEM0ZkYUI1TDRkMG8xNW5kaWVkekMwaFJPdzdrOTdMdWtoWTI5VlFoLXVZWFlhOTNIMTdocmMwbnI5cjdRVGZ6NHlLRG9uUHJkYW10N3FCT1gza2tVLTdTMTUzbzlsc1o0X2dYd0JsYXVXbjZxbUd0d3pRYnN6QWlMb2NOUzAyVm85SWgzaC1xR05WQkdJU3hib2NXa0lsckR30gG-AUFVX3lxTE1POXJEZThCNlphc0Z0U2lDVVpnakpSN2hRZzEySUQzRmRhQjVMNGQwbzE1bmRpZWR6QzBoUk93N2s5N0x1a2hZMjlWUWgtdVlYWWE5M0gxN2hyYzBucjlyN1FUZno0eUtEb25QcmRhbXQ3cUJPWDNra1UtN1MxNTNvOWxzWjRfZ1h3QmxhdVduNnFtR3R3elFic3pBaUxvY05TMDJWbzlJaDNoLXFHTlZCR0lTeGJvY1drSWxyRHc?oc=5) (Social News XYZ) | claude |
+| 🆕 | Premier League | - | 무릎 (기타) | 미상 | [£13m star set for Forest in 2027 faces anxious wait over knee injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxQenV4M25xbjhRc3daUGNVa2NMbTE3QVV5a3p3VEpTNGxSbXJTbVJUd2tYUUUtSnphN2RpMlVYcDlPQVl4cnN0VjB5SDIxTGRHSGt3ZUYtYVBCVnpyczQ4SWZNMU9ZeWRIZVpSYlRCN29tQVhjenFod3A5cHJDX3N3OVlLZkJRTzRWSTI5TjFsX21Fb3FWQ3dHZml2eC1tTkJ1cVBBeDNXNURKS0JyNVdlSmxBUQ?oc=5) (Nottingham Forest News) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | 무릎 (기타) | 중증 (8주 이상 / 수술 / 파열) | [LaLiga: Atletico Madrid confirm Ademola Lookman sustained serious knee injury](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkcyVmxNSzE2OXZFa3B2enBpQnlsSWJJUFBCSmJzTXhabmM3Y1lNSGNEUkpiVnduamtQRXd4T3ExbnFSdU14ajdCOFAtZlp4ZGdVZFBuZnd5c090bWJTYlhkWExHX2NIUlI4S0kxWWgwVGZZR1BNTjY5NHdtVGdZdHZ2ZHplN1FEY1VIMmktd0xrZmhPSzB5cEVnOA?oc=5) (Daily Post Nigeria) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | - | 미상 | [Atletico Madrid receive MASSIVE Ademola Lookman injury blow after international duty](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjVLeFJsUW5MTXoxUkpmTUEyeWpvdUhvS0VUUDFrTmx1ZVZDSEFWa25sM1hhaW9QTDc4aTdkSkEwTWNfVTAtbFZHVWJzR0lYT0VtSm5pa1EwOTEzTk5VSEUxZ1ptUnpvQW1md2hpV0QzNkNPRDZxWnZtOG9GSWRkQjJIa09MZ1FrU3V0U3lucExZX0FLSmVZcXhCN3Y1TnhFTmVmZw?oc=5) (Goal.com) | claude |
+| 🆕 | Premier League | Matty Cash · Aston Villa | - | 미상 | [Aston Villa face Matty Cash injury blow ahead of Sunderland clash](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXUzVktJRVdyVFAtOC1TUVdwR3J2cktaUXFYNExFelEyT2FjZVBOTWtDdU5mSzgyNDRNRTVHeHFEcWpQTF9wWDZfdWZwR3BIZWNoQXF5SF82TWNEcTVaVTlIaWNSbDYzZzE2S3RibE1GbklSTUlENUFhaVhPQms3TXdXOGVKZw?oc=5) (Read Aston Villa) | claude |
 |  | Premier League | Brian Brobbey · Sunderland | - | 미상 | [Sunderland fear recurrence of Brian Brobbey injury after 'scan' - Expert](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVNxTnozRjZxRXdxSHJ6TXlkejFva0Zwc0wzdGhqX1NGOUJVSktxSWt2N0FnYTV4eE93WC1VS29lRS1JZG90X3NrZXBkcVNlQjFncFozbWMzTDNVcm12cl85d3F1cDE0Z2xiZkZzWDNjUWFuWnlCVnF6VTdySnM2NkF5d3VfOG1DTEdmTnhEeXZHS1JrdnVMa1JvaDk3QkxwOGFmOTQxaW5rM1dyNFA3VVFxajhGTWtPaXJYZnpmQ18?oc=5) (Football Insider) | claude |
-| 🆕 | La Liga | Ademola Lookman · Atlético Madrid | 무릎 (기타) | 미상 | [Official: Atlético Madrid announce injury setback](https://getfootballnewsspain.com/official-atletico-madrid-announce-injury-setback-2/) (Get Spanish Football News) | claude |
-|  | La Liga | Barcelona | - | 미상 | [Barcelona’s Latest Injury Blow Leaves Hansi Flick With Significant Headache](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjFjQ1NmcFhTYkkwOFE2VjRrOTVLaFRYTUtsYUpmVExfbkJNVGJGSXhCeVE1Q2xrUHZMXzMzdDRVdngxd2FzdmgyRlQ5aXREdjU0RnR4STFpSUR4SFNZeXVzOWotTzk0SktPM3hpODI3LWVwdmwwcXFyeUI3Wl90NjJ5TjItS1loQ0hpemZoel9pM1RGRTZveFRzaVFfS1ZQTWhnM2xIYkFRdXNPSXVURVk4OC0yVUR0SUVrb0FucTVaZ3A0d1Jz?oc=5) (LiveScore) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | - | 중증 (8주 이상 / 수술 / 파열) | [Atletico confirm serious Ademola Lookman injury after Nigeria medical assessment](https://news.google.com/rss/articles/CBMikwFBVV95cUxNekhLN0dsTXY1MmVMYmpBRmZsdmtTQTgwTUVrU0dZTDZSTW9yelVJd20teWZwcVI3YmhBMFkzRzlYVUFSVzJSTVdoZDFhbm5oWS15LXVqeTZXWG1ENUctcFRrWGlVSmR1NEtwb2tEY1loSnp6QWU5c21oQ04wcldQMWlQOGM3VTFybC1CUTBZZU1La0E?oc=5) (Yahoo Sports) | claude |
+|  | La Liga | Ademola Lookman · Atletico Madrid | 무릎 (기타) | 미상 | [Official: Atlético Madrid announce injury setback](https://getfootballnewsspain.com/official-atletico-madrid-announce-injury-setback-2/) (Get Spanish Football News) | claude |
+|  | Serie A | Moise Kean · Como | - | 미상 | [Como issue statement confirming fresh injury for Moise Kean](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUV9VeHRMS2tLSmtKaWxvYkJyMlZQcTZTaFp2THNBZ3dGcVVCSk43aExFUkc0TV9RSFIxeG81SzNmZnBlV21FS2ExQnlpRWF3bHl1cV90VVRCYmFlaDZEcmFkcXpwcWJTcTZ5NDhzbDJyTTJVcm9rU2tTUUZESTVzZ0N3N2V1TG52RnFROHVFTkh0bTMyWEVTWllyVE1oV05P0gGmAUFVX3lxTE9YYXZXVzFtTFBEc2cxUUNkMk1acTAtU2JOcXFva1VjRmxNeEZSc2dSS2ZsLXYwa1ZQSmhPZmptQ1Nib08tSDRHaHVhWTk0dFRZaXRVekUzakhqZnJYTENmZmxjdmRVZEJwZFNvTlRpVVMtV2lhWE05bksyWW1SV3NYd25maHI4dlNHTjRENXc3dlF1dHFHd2pzbTVqbnlKOS11ZGVha2c?oc=5) (Tribuna.com) | claude |
 |  | Serie A | Moise Kean · Como | - | 미상 | [Como consider new striker after Kean injury problem](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXhGR1c3Vy15S1BjbHV0RktfSWw4Q0o3TjV3VFNGUUZwdERDakxpaGVCUHF5ZjBMV0ptS0hHV0QySjJDSTNwTEZBVVUwWVpZblpmY2FZRnJqcjlPeU1aMWFtbkg2Rmh3akIwRFNBeFk5TkR5RGdMTURGS1lxMGRRV1A4SXRrNjl5cS1hWjlSaFJrSU94R1Bwc1Z1Q0VTYkNpcEZPMGhPY3JtY2FPSW00MmRVNHJBRmYxQUc4?oc=5) (LiveScore) | claude |
-|  | Serie A | Moise Kean · Como | - | 미상 | [Official: Kean undergoing new medical assessment after Como setback](https://football-italia.net/official-kean-new-medical-assessment-como/) (Football Italia) | claude |
 |  | Premier League | Joao Pedro · Chelsea | - | 미상 | [Chelsea vs Leeds Injury News: Joao Pedro Out, Chelsea Squad Fitness Concerns Before Premier League Clash](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzEycUpHUV9hb2UtZklhekhZMXpZTjI3cEJBOVB5ZXNhX2FNemFrVElWeHNMV2xaM3JaS1FUSnlaR0ZTRVV0dzBxTWhQeVMwelotdm9jQmF6WW9hcW5vczM5bmRLMUNEbDNXS21SMWY5Z0sxWHlLN3ZzQ09yeWM3UFNCWFluMU5UTkFDWFFuOVlxVXR2eEhqb2JvUWFqenFHQXIxc3VmNkhHb1dXdmtnVDJTOGEzY29YV0gtNS16cFNnUG0tOGE2THVKY3VQLWowTU54alBsZw?oc=5) (Fanatik) | claude |
-|  | Ligue 1 | Tyler Morton · Lyon | 사타구니 / 내전근 | 중증 (8주 이상 / 수술 / 파열) | [Lyon midfielder Tyler Morton sidelined until February following surgery](https://www.getfootballnewsfrance.com/2026/lyon-midfielder-tyler-morton-sidelined-until-february-following-surgery/) (Get French Football News) | claude |
-|  | Premier League | Collins | - | 미상 | [Everton’s O’Brien in contention for Ireland start after Collins injury](https://news.google.com/rss/articles/CBMif0FVX3lxTE9UamZPZ3Bvekt2RFBVQmRaZjAxZ3ZkRktXZlJsQmU1ZUpuNS1SU1BnZVB6TmpjdG1MWml0R3ZWdlREdW14aDVGTUhxVFZqMTJDWTRhUHIxZ2JLbTdBbXdDWHlNR3BNZEg5TGk2WHB4NHZaTG16MkdOOWRpNjI3VXc?oc=5) (Read Everton) | claude |
 |  | Ligue 1 | Emerson · Marseille | 무릎 (기타) | 중증 (8주 이상 / 수술 / 파열) | [Marseille defender Emerson ruled out for weeks after knee surgery](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWxzUGdnRUl3cUNMd0piLWo3R1k1d1JoTU9tTXVQV29WZV9qZGlCeGhlRDE1RFBqUWp6cW1CY2dOYU14ajZjWWFNQmF5c2IyWGYwSlVMcnVlYVM2UEZDMFl2TEhGc3JQQl93U3ZoZTNiTTdWMmhmZnNRVmJxU1RubnRSeEVCcDJQc3I0RmJHZVFwcVZlLXBuZ1NpSXRpenpjNmUzck4yZ21XQW1SSUVmZ1FqeUNNZjMtSmE3dkFKLTdpa2lvd2xfWmhqbWtZb1BnTG0wREg0QlU?oc=5) (TribalFootball) | claude |
 |  | Serie A | Romero · Parma | 어깨 / 쇄골 | 중증 (8주 이상 / 수술 / 파열) | [Parma lose Romero for rest of 2026 after serious shoulder injury](https://news.google.com/rss/articles/CBMiekFVX3lxTE1TNEYzVmEyRS00aHRtTFZLanlMNU1ibl9XVjJ0YkFCMUcyYzBlQUhDb2lmcnpOX1doVXdvNlpRVGJfbXJPbEZhTjZkd2lDZFFzOEpWZG5JNmE0VDNsekhPOFUzUS1GVU9EdGktX1lCb1pfWE1vN0RyWWRn0gF_QVVfeXFMTTd5T1BaSHpzRC15RWVWd2djUFY2QlBkQ3hReWFwRURVLUJjTlVnVk1pY0JaNE5FUl9qV2lfV0NpYzVqSEE5TlN1NHlfeHdzUkt3bng0RmE4NkFDODVBSVpUbkljUnBqWDVValQwazU4VjRScWdWWndlT0w0Y3pSSQ?oc=5) (Football Italia) | claude |
 |  | Premier League | - | - | 미상 | [Premier League star set for spell on sidelines after picking up injury on international duty](https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3hmQWtTVkF0TWR4OWhkalM1Z0hkdmdzbmhPeUJMRFBqaW40eHJjUHJYTUdwUmpsZlRaN1pPS1EtRkZTOGJlRnE3MUVBa3RZM1N0bUhIU0dZQ0ZUMjZxUE1aZV9uNlQ1bEwzNXdFeWNfWm5KRmJHbkUtbjRGeGY3OU1GUkJlWXBjWWk2VzZaa0UzbXF2WjBSMg?oc=5) (talkSPORT) | claude |
+|  | Serie A | Mike Maignan · AC Milan | - | 경미 (2주 미만) | [Report Maignan tests reassuring for Milan after France injury](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IejhDcHNKY0lOVUotQXM2V2t6LUh4UXBYY2MxWjdlQjVxY2tWVU1IVk51UlZsbEFZZHpLbENRMXpGdmJKVnRWQ2lVMzdUZE5XWm4zYTdGUnVfdmllX3pWamRLQVN6VTRDSXF4TW9CVFRjemxBLUlKZTVoSkRrZ9IBgwFBVV95cUxNSnM0Mk5ENjVUeGVCNWloemlIa1dROXRycWF2MVU1OXBXZ3FLM18wdUd5RmxzclF3dFhGNHU2RlMzWTlZUXpDVG9ucmR3MEJwU18zS1BxOVI3TGN6bTEtTXB6amt2cWVfal9ISC11RUVDamN4R1JYdk84TzZDdmhwUkhwdw?oc=5) (Football Italia) | claude |
 |  | La Liga | Pau Cubarsi · Barcelona | 고관절 | 미상 | [Cubarsi in doubt for Villarreal with hip injury](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHNNcWRvcHVZckh6WUpneVRTMHg3SXhvTWtjdkdselAtQ0ZtZnRFMGgtNzZOYW1KMnU1eXV4NFpfU1pXblFpaUJnQnAxWGJyd21lVFFTUVFqaHo1b0ZfVFEwY1FmS3VidEdROHBTZ0hVMmpQQXNEOEFBR1FscVdoUnZfdWt2Q2lkakJ2cThqd19nNFR1RTU1d2x0QUVCRDFOcmN3N0pPMmpSbXRaMEQwZllRYVZ3eHV0VzBVa1RGWQ?oc=5) (beIN SPORTS) | claude |
 |  | La Liga | Pau Cubarsi · Barcelona | - | 미상 | [Pau Cubarsi faces crucial tests after Barcelona injury scare](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcno2MzlSSGNrM1hISFA0Qk5HdmdlbDV5WVlQbVhMSDUwWUFPYVVCM3laUGQ2dllKOVJMTHdnaTdzcUtGVFJqTE42bzBFV0ctSEJacVlmUmcwc2pMTkxNUDJNQlhwRjBZMi12Qmw0Q29qVnRxcnNCRWJYMGxxeFlqaWw0N1JGMTdJTGc?oc=5) (Six Sports) | claude |
-|  | La Liga | Pau Cubarsí · Barcelona | - | 미상 | [Barcelona hit with fresh injury blow ahead of Villarreal](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTl2QjV4cnFBQVhQMG1FaTd0RjIwVzdfaVVYRkI4YnFyd3d4SzVZVWFJUWxCV1RQS2ZVcWduSzlNaTd0a1VaX2htWW81MWNmSWsyMGZpRUdRTENuM2NrcTRUNEhvbzRhMmhXdm4tVXdGNnFYZG9vMnh5Qm5nTS1BRTNzamZvOFE?oc=5) (Yahoo Sports) | claude |
-|  | Bundesliga | Alphonso Davies · Bayern Munich | 햄스트링 | 경미 (2주 미만) | [Alphonso Davies out with minor hamstring strain, says Bayern](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUZFMW53YWk3MzlUTDQzUUhCR3BZLVhiU1pUa3VSRERvcWJuaHd6VlFNYUpwMnZISDh3b2NCX0lyZHd5eGpDMVVqRDdHMW50ZDVPRHNUTjFvQ1JLcEVjS2FfclB2UXk2MzZ4cmVZX0tKdXJhMkxsTmdhV2p2a0ktbkoyU21EUHp2Um9ZeUh5ck9EN2gwR2hFbTB6Tl9pdnFPWmc2NzhOYw?oc=5) (Sportsnet.ca) | claude |
-|  | Serie A | Zhegrova · Juventus | - | 미상 | [Zhegrova ruled out of Kosovo squad as Juventus’ international injury headaches continue](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEIzRW1yamlROGEtSThkTjRmbmpXS0p1TU1lWVlvNGUtVWw1RVFIVVdsbUNJSllFN1JBYXh4WEFncWVOUlF2bm50dFVFTjkwbm5GRnN4SlIwNkdVVFZIcEllU2JlS0NuTnpSSk9WeG9rWFBXeXhUUGlzZS1yLXB0cURZUXpZdDk3ZzU1Y01DQmphZTI0R0JQYk1idnc5VWxucmpBVFlVU3hTSHlWWUxheENPdzFWRGkxYy1j?oc=5) (Sporticos) | claude |
-|  | La Liga | Pau Cubarsi · Barcelona | - | 미상 | [Barcelona sweating over fitness of Pau Cubarsi for Villarreal clash after injury in Spain defeat](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcGhkV3o4cGFtMGd5b05pUVQwTkJYVTQ5blpLbllxRW9kN255eUgzZjZvU09WeFo3WEV1Rmdkc0VsM0FxMzh2VDN0V3VDQVgzVUxjcXJjSktKTUt6bEhURUtoWHVsSjMxZmdtUFoyMHpZUmtraEFURmo3eFBabFh1cDlMSUVYN2t0emllblNxV09QbUxEWEFtbzhKeU52VFcxN2MzellrZ2lYSS1wYVpSODFFaEFfQk1jWDFZOEg0Y1VUcU41ckN1eHhwVUdpeUp1TkJHVHRrc0tNbm9LQTJQeg?oc=5) (Sports Mole) | claude |
-|  | Serie A | Mike Maignan · AC Milan | - | 경미 (2주 미만) | [Report Maignan tests reassuring for Milan after France injury](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnM0Mk5ENjVUeGVCNWloemlIa1dROXRycWF2MVU1OXBXZ3FLM18wdUd5RmxzclF3dFhGNHU2RlMzWTlZUXpDVG9ucmR3MEJwU18zS1BxOVI3TGN6bTEtTXB6amt2cWVfal9ISC11RUVDamN4R1JYdk84TzZDdmhwUkhwd9IBgwFBVV95cUxNSnM0Mk5ENjVUeGVCNWloemlIa1dROXRycWF2MVU1OXBXZ3FLM18wdUd5RmxzclF3dFhGNHU2RlMzWTlZUXpDVG9ucmR3MEJwU18zS1BxOVI3TGN6bTEtTXB6amt2cWVfal9ISC11RUVDamN4R1JYdk84TzZDdmhwUkhwdw?oc=5) (Football Italia) | claude |
-|  | La Liga | Real Madrid | - | 미상 | [Bernardo Silva eases Real Madrid's fears, but this player's injury raises concern](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU90UW9BS1VZN0JQQVJWckg3czItcVdfVmVzbjd4WWJzVU9ESHZ6VmVPNndVM0tsVlV1T0ozcEpXRGtxTkxGQnRZUmFjSmpDS2VvY1AxUTJDQ1I0c0hqSkhvZTNZYzBxam1fNjBvNXR0NWMtS0lGSUNmU0d6UGdxRWhXb2ZFMEZQaXJsUWNsaFlaOWphLUNGNEcyMEhQdEd2ejd4RVp5NTlVbGJvaVVNMXJvTmdLTEtITU5MRGJPY29xcGRqa3pCYWtQTU9jLTQ?oc=5) (LiveScore) | claude |
-|  | Premier League | Nathan Collins · Brentford | - | 미상 | [Nathan Collins Injury: Out of Kosovo Game, Back at Brentford](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT2tjWXJrVUdGLU5Rdi1DbDlUVUxTNk9JUUVmN0ctRE1FUjV4SkhtanhNejJiTkJfc19aSXhJZlBBR3N0cU9JbUFhSkFzN0t5akZoaEtuQXh5R2ZvWk42ZlZ1Smc0VTFVYXBlREVqM0RxZmFZRDdMc1BqMFdSbjBZM3dubW9FSkRlQmpvZ1ZXcUU?oc=5) (The False 9) | claude |
-|  | Ligue 1 | Emerson · Marseille | - | 중증 (8주 이상 / 수술 / 파열) | [Marseille’s Emerson undergoes surgery](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcS04azIzUWVuTlhWUE9HYjZyZ0JJUkVrUTBjYTVPb2dMT1psRzNtWVZGelA1SjVJWWhZMGg0R1hHVTVFczhMa3Jwb2pmT2NuUjBnYVgyV1Y5d0RXYnJrWm91Nk9qLXF4R0pFTDdEMFZIWXFfUUY1TEhoMEl0VkJDU3Vla3E1STA?oc=5) (Get French Football News) | claude |
-|  | Serie A | Zhegrova · Juventus | - | 미상 | [Another injury concern for Juventus as Zhegrova withdraws from Kosovo squad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZXdzUTBqMWZjdUNpbzMyd01ac1o5aks4LVJaekxFU1ktakROSGxtY0toUVhLZ2xDRlVDME1yMWp6U05aLVFqa25jLUlNZ1hOVnc5SFVtWmE5WG1LeWNuUFQtTWJIZk53OFlTbDhDcnNhZzItNEEzRk0zelJ0WjRIdDV6cmpoSzhjM0ZBNjVkOS1sYlZQeVV2b2Jic3M1b3g2V2hfTEV2dnl5TEpGV0RveVQ0WFVWVllaOTdaazIwOF9DWlh4NnM5UmRkZ0ZBR3FoUS13RzY0aTBRVWM?oc=5) (LiveScore) | claude |
-|  | Bundesliga | Alphonso Davies · Bayern Munich | 햄스트링 | 미상 | [Bayern Munich's Alphonso Davies sustains hamstring injury with Canada](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU9jOWwxOXQ4Y0dpbFU1b1ZnbVB6VURydV80bnhJem9pWmQ1MmdzOGZqYXhybTlHck1HSHY0dTlFOVdBOFJlNjU4UjRNZnlISnRkVWw1NU9HRXZfaTZmQ3E5UXItQmxEenlTX0JlZlpoeWR2OXlFS1dULUI1dU9KTHE5QlB4VGhrdjV4aVVnYWg5akZ2NmhvUllOY01UcWpCUkVHVjQteXJLNG50TTUzemFUeXdHQ3I1U0RhRDRRbGE?oc=5) (Bundesliga | official website) | claude |
-|  | Premier League | Arsenal | - | 미상 | [Newcastle training ground absences explained as Arsenal dealt fresh injury blow](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk1hRFFMX2ttRXI2cVA0MEJzYkppVXFCZG5TYjlYUk5WcWJMbU1XaTNTVm5XdlhuZUJyeEw3SEg0Z1JZTnZDbEVuWTFsLVFrMF9Na3B3eHZOLXNLVGhsd1ZIcllCYllzYTZZUEVhLTloYXJ5bHpHbmFNdk1tb2RDeXI5a0EyNFpZYWctQUNmaFBHQzhpXzg0?oc=5) (Yahoo) | claude |
-|  | La Liga | Real Madrid | - | 미상 | [Real Madrid midfield mainstay a serious doubt for Celta Vigo clash after injury on international duty – report](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWlDM05nUFFvbVdFSGFOM2k0SmVNV2dRWS1SU2h4ZnR4U0tLUGlxZTlEa0RpOW15RTktMF9rdTliRTJrY2xVaTNDUzdHc0h2MFRlclhQelZnZE8xU1BXaDY5T09MdEpqLXpHNDBlc2JQZENLOURuaVEzWVlnZ3JTLUpDUTdUVWhkRzA4TTZkQQ?oc=5) (Yahoo Sports) | claude |
-|  | Bundesliga | Alphonso Davies · Bayern Munich | - | 미상 | [Bayern Munich issue official injury update on Alphonso Davies](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRDVXNTV2VTNjNmNEX3BZcFJKckZqYnBDOERhaDl5TEJ4N2VmMExYSEZJZXptaG5nUkM2TzEtX2R0Zk5XNi1wcE1sbl9TSVNTQWhSQk00dEhzbWoxYUpDNHd3YW91ZjlYRFJRUFI0aE9fV2RwZFBDSlJSSWFZTnlNM0dQcmxwZw?oc=5) (Bulinews) | claude |
-|  | Bundesliga | Alphonso Davies · Bayern Munich | 햄스트링 | 미상 | [Alphonso Davies out with hamstring injury](https://news.google.com/rss/articles/CBMihAFBVV95cUxORGJRY1hPUzdFcHFiOGJfM2xnY0VEeTkwMHVUdm1IVVdyYXExSml2WjluNUdod3NMaE1xNzlBSmxDbGFwY3EwbHVLckl5aXQtbXZ5cmxySjNvVjJIMERuM0xHTC1NVXVGNkdwbXhuQjBYX0RoQng0bFk4UXpNQmItWUpIMXk?oc=5) (FC Bayern) | claude |
 
 ## 오늘의 콘텐츠 후보 (채널 적합도 순)
 
 | 순위 | 선수 | 부위 | 적합도 | 이유 |
 |---|---|---|---|---|
-| 1 | Tyler Morton | 사타구니 / 내전근 | ★★★★★ | 축구 고유 부상. Copenhagen plank 3단계는 저장·공유가 많은 '따라 하는' 형식 |
-| 2 | Alphonso Davies | 햄스트링 | ★★★★★ | 스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임 |
+| 1 | Álex Calatrava | 무릎 (십자인대/반월판) | ★★★ | 관심은 높지만 9개월 과정이라 교육형. 착지 기술 시연으로 풀면 좋음 |
+| 2 | Ademola Lookman | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
 | 3 | Emerson | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
-| 4 | Ademola Lookman | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
-| 5 | Pau Cubarsi | 고관절 | ★★★ | 둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음 |
+| 4 | Pau Cubarsi | 고관절 | ★★★ | 둔근 3동작. 무릎·사타구니 예방으로 묶으면 좋음 |
+| 5 | Romero | 어깨 / 쇄골 | ★ | 축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도 |
 
-### 1. Tyler Morton · Lyon — 사타구니 / 내전근 (중증 (8주 이상 / 수술 / 파열))
-- [Lyon midfielder Tyler Morton sidelined until February following surgery](https://www.getfootballnewsfrance.com/2026/lyon-midfielder-tyler-morton-sidelined-until-february-following-surgery/) · Ligue 1 · Get French Football News
-- 콘텐츠 각도: The Copenhagen plank cut groin injuries by ~40% in studies. Show the 3 levels.
-- 주의: Pain with coughing or deep core pressure can mean a sports hernia rather than a muscle strain.
+### 1. Álex Calatrava · Espanyol — 무릎 (십자인대/반월판) (중증 (8주 이상 / 수술 / 파열))
+- [Official: Espanyol star suffers ACL tear in training](https://getfootballnewsspain.com/official-espanyol-star-suffers-acl-tear-in-training/) · La Liga · Get Spanish Football News
+- 콘텐츠 각도: ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why landing mechanics matter more than the surgery.
+- 주의: Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness.
 
 **어디·무슨 근육**
-- 위치: 허벅지 안쪽 위, 치골(골반 앞 아래)에서 허벅지 안쪽으로 내려가는 부위.
-- 근육: 내전근군 — 장내전근(adductor longus, 가장 자주 다침) · 단내전근 · 대내전근 · 치골근 · 박근. 다리를 안으로 모으고 킥·방향 전환에서 골반을 잡는다. 복근(복직근·복사근)과 치골에서 만나 힘을 주고받는다.
-- 집중: 축구 특유의 부상(킥, 옆으로 밀기, 방향 전환). 장내전근의 편심성 근력 + 복근과의 협응이 핵심. Copenhagen plank가 내전근 부상을 크게 줄였다는 연구가 있다.
+- 위치: 무릎 관절 한가운데. 허벅지뼈(대퇴골)와 정강이뼈(경골)를 X자로 잇는 두 인대 중 앞쪽이 전방십자인대(ACL). 반월판은 그 사이의 C자 연골 쿠션.
+- 근육: 인대는 근육이 아니라 스스로 수축하지 못한다. 무릎을 지키는 근육은 대퇴사두근(앞, 특히 내측광근) · 햄스트링(뒤, 정강이뼈가 앞으로 밀리는 걸 막아 ACL을 돕는다) · 둔근(무릎이 안으로 꺾이는 걸 막는다).
+- 집중: ACL은 착지·급정지·방향 전환에서 무릎이 안으로 무너질 때(knee valgus) 다친다. 수술 후에는 ① 대퇴사두근 활성(수술 직후 급격히 약해짐) ② 햄스트링·둔근 근력 ③ 착지 기술 순으로 쌓는다. 달력이 아니라 근력 대칭(건측 대비 90%)과 홉 테스트가 복귀 기준.
 
-**촬영할 단계:** Phase 1 · Calm it down — 통증 없는 등척성으로 내전근을 깨우고, 복근·골반 안정 시작.
-1. Adductor isometric squeeze with a ball, 5×30s — 영상 촬영 필요
-2. Hip flexor and adductor gentle mobility — 영상 촬영 필요
-3. Core bracing: dead bugs — 영상 촬영 필요
+**촬영할 단계:** Phase 1 · Post-surgery basics (weeks 0–6) — 무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.
+1. Quad sets and straight-leg raises — 영상 촬영 필요
+2. Heel slides for knee bend, patella mobilisation — 영상 촬영 필요
+3. Short-arc leg extension with no load — 영상 촬영 필요
 
 <details><summary>전체 3단계</summary>
 
-- **Phase 1 · Calm it down** — 통증 없는 등척성으로 내전근을 깨우고, 복근·골반 안정 시작.: Adductor isometric squeeze with a ball, 5×30s · Hip flexor and adductor gentle mobility · Core bracing: dead bugs
-- **Phase 2 · Strength** — 내전근 편심성 근력. Copenhagen plank를 짧은 레버에서 긴 레버로.: Copenhagen plank, short lever → long lever · Side-lying hip adduction · Lateral lunges, slow
-- **Phase 3 · Football loads** — 옆 방향 이동과 킥을 단계적으로 복귀. 짧은 패스 → 긴 패스 → 전력 방향 전환.: Lateral shuffles and crossover steps · Kicking progression: short → long passes · Full-speed cutting
+- **Phase 1 · Post-surgery basics (weeks 0–6)** — 무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.: Quad sets and straight-leg raises · Heel slides for knee bend, patella mobilisation · Short-arc leg extension with no load
+- **Phase 2 · Strength & balance (months 2–5)** — 양쪽 다리 근력 차이를 줄이고 한 다리 균형을 만든다. 둔근·햄스트링으로 무릎 정렬을 잡는 법을 배운다.: Split squats and step-ups, slow and controlled · Single-leg balance on an unstable surface · Leg press building to body-weight equivalent
+- **Phase 3 · Plyometrics & return to play (months 6–9+)** — 점프 착지와 방향 전환에서 무릎이 안으로 무너지지 않게 한다. 계획된 동작 → 반응 동작 → 경기 속도.: Double-leg → single-leg hops with soft landings · Cutting and pivot drills, planned then reactive · Full-speed running and football-specific sessions
 
 </details>
 
 **캡션 (EN)**
 ```
-Tyler Morton (Lyon): groin / adductor injury. Here's what the comeback usually looks like.
+Álex Calatrava (Espanyol): knee (ACL/meniscus) injury. Here's what the comeback usually looks like.
 
-Most groin / adductor rehab has 3 stages. This is the one that gets rushed:
-Phase 1 · Calm it down
-1. Adductor isometric squeeze with a ball, 5×30s
-2. Hip flexor and adductor gentle mobility
-3. Core bracing: dead bugs
+Most knee (ACL/meniscus) rehab has 3 stages. This is the one that gets rushed:
+Phase 1 · Post-surgery basics (weeks 0–6)
+1. Quad sets and straight-leg raises
+2. Heel slides for knee bend, patella mobilisation
+3. Short-arc leg extension with no load
 
 ⚠️ General training education, not medical advice. Injured? See a physio first.
 
@@ -86,12 +75,12 @@ Phase 1 · Calm it down
 ```
 **캡션 (ES)**
 ```
-Tyler Morton (Lyon): lesión de ingle / aductores. Así suele ser la vuelta.
+Álex Calatrava (Espanyol): lesión de rodilla (ligamento cruzado / menisco). Así suele ser la vuelta.
 
-La rehabilitación de ingle / aductores tiene 3 fases. Esta es la que más se apresura:
-1. Adductor isometric squeeze with a ball, 5×30s
-2. Hip flexor and adductor gentle mobility
-3. Core bracing: dead bugs
+La rehabilitación de rodilla (ligamento cruzado / menisco) tiene 3 fases. Esta es la que más se apresura:
+1. Quad sets and straight-leg raises
+2. Heel slides for knee bend, patella mobilisation
+3. Short-arc leg extension with no load
 
 ⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
 
@@ -99,51 +88,51 @@ La rehabilitación de ingle / aductores tiene 3 fases. Esta es la que más se ap
 ```
 **캡션 (DE)**
 ```
-Tyler Morton (Lyon): Verletzung an der Leiste / Adduktoren. So sieht das Comeback meistens aus.
+Álex Calatrava (Espanyol): Verletzung an der Knie (Kreuzband/Meniskus). So sieht das Comeback meistens aus.
 
 Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 1 · Calm it down
-1. Adductor isometric squeeze with a ball, 5×30s
-2. Hip flexor and adductor gentle mobility
-3. Core bracing: dead bugs
+Phase 1 · Post-surgery basics (weeks 0–6)
+1. Quad sets and straight-leg raises
+2. Heel slides for knee bend, patella mobilisation
+3. Short-arc leg extension with no load
 
 ⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
 
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 2. Alphonso Davies · Bayern Munich — 햄스트링 (경미 (2주 미만))
-- [Alphonso Davies out with minor hamstring strain, says Bayern](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUZFMW53YWk3MzlUTDQzUUhCR3BZLVhiU1pUa3VSRERvcWJuaHd6VlFNYUpwMnZISDh3b2NCX0lyZHd5eGpDMVVqRDdHMW50ZDVPRHNUTjFvQ1JLcEVjS2FfclB2UXk2MzZ4cmVZX0tKdXJhMkxsTmdhV2p2a0ktbkoyU21EUHp2Um9ZeUh5ck9EN2gwR2hFbTB6Tl9pdnFPWmc2NzhOYw?oc=5) · Bundesliga · Sportsnet.ca
-- 콘텐츠 각도: Why hamstrings tear at sprint speed, and why Nordic curls are the single most proven prevention drill.
-- 주의: A pop felt at the moment of injury, large bruising or inability to walk means imaging first; recurrence risk is highest when players return too early.
+### 2. Ademola Lookman · Atletico Madrid — 무릎 (기타) (중증 (8주 이상 / 수술 / 파열))
+- [LaLiga: Atletico Madrid confirm Ademola Lookman sustained serious knee injury](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkcyVmxNSzE2OXZFa3B2enBpQnlsSWJJUFBCSmJzTXhabmM3Y1lNSGNEUkpiVnduamtQRXd4T3ExbnFSdU14ajdCOFAtZlp4ZGdVZFBuZnd5c090bWJTYlhkWExHX2NIUlI4S0kxWWgwVGZZR1BNTjY5NHdtVGdZdHZ2ZHplN1FEY1VIMmktd0xrZmhPSzB5cEVnOA?oc=5) · La Liga · Daily Post Nigeria
+- 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
+- 주의: Locking, giving way or significant swelling needs imaging.
 
 **어디·무슨 근육**
-- 위치: 허벅지 뒤쪽. 엉덩이 아래 뼈(좌골결절)에서 시작해 무릎 뒤를 지나 정강이뼈·종아리뼈에 붙는다.
-- 근육: 대퇴이두근(biceps femoris, 바깥쪽) · 반건양근(semitendinosus, 안쪽 위) · 반막양근(semimembranosus, 안쪽 깊은 층). 고관절을 펴고 무릎을 굽힌다.
-- 집중: 전력 질주 중 부상은 대부분 대퇴이두근 장두(long head)다. 다리를 앞으로 뻗으며 발이 땅에 닿기 직전, 근육이 늘어나며 버티는 순간(편심성) 찢어진다. 그래서 늘어나면서 버티는 힘(Nordic curl, RDL)과 고관절 신전력, 골반 안정이 핵심이다.
+- 위치: 무릎 관절 주변. 안쪽 인대(MCL), 슬개골 아래 힘줄(슬개건), 관절 연골 등.
+- 근육: 대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.
+- 집중: 무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다.
 
-**촬영할 단계:** Phase 3 · Return to sprinting (weeks 4+) — 부상 당시 속도까지 단계적으로 노출한다. 60%→90% 스프린트, 감속·방향 전환까지 통과해야 복귀.
-1. Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions — 영상 촬영 필요
-2. A-skips and high-speed leg swings — 영상 촬영 필요
-3. Deceleration and change-of-direction drills at full speed — 영상 촬영 필요
+**촬영할 단계:** Phase 1 · Settle & activate — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.
+1. Quad sets, straight-leg raises — 영상 촬영 필요
+2. Stationary bike, no resistance, for range — 영상 촬영 필요
+3. Calf raises to keep the lower leg working — 영상 촬영 필요
 
 <details><summary>전체 3단계</summary>
 
-- **Phase 1 · Protect & activate (days 1–7)** — 통증 없이 근육을 깨운다. 붓기·통증 관리, 등척성(움직임 없이 힘주기)으로 근육 위축 방지, 정상 보행 회복.: Pain-free isometric hamstring holds (bridge position, 5×20s) · Gentle hip hinge with no load · Walking at normal pace, no running
-- **Phase 2 · Rebuild strength & length (weeks 2–4)** — 늘어난 길이에서 버티는 힘을 만든다. 대퇴이두근 편심성 근력 + 고관절 신전력. 재발 방지의 핵심 단계.: Single-leg Romanian deadlift (bodyweight → light load) · Nordic hamstring curl, eccentric only, 3×4–6 · Sliding leg curls on a towel or slider
-- **Phase 3 · Return to sprinting (weeks 4+)** — 부상 당시 속도까지 단계적으로 노출한다. 60%→90% 스프린트, 감속·방향 전환까지 통과해야 복귀.: Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions · A-skips and high-speed leg swings · Deceleration and change-of-direction drills at full speed
+- **Phase 1 · Settle & activate** — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.: Quad sets, straight-leg raises · Stationary bike, no resistance, for range · Calf raises to keep the lower leg working
+- **Phase 2 · Strength** — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.: Wall sits and goblet squats to pain-free depth · Step-downs for control · Single-leg Romanian deadlift
+- **Phase 3 · Return to running** — 달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.: Jogging → striding progression · Lateral bounds with stuck landings · Change-of-direction ladder
 
 </details>
 
 **캡션 (EN)**
 ```
-Alphonso Davies (Bayern Munich): hamstring injury. Here's what the comeback usually looks like.
+Ademola Lookman (Atletico Madrid): knee injury. Here's what the comeback usually looks like.
 
-Most hamstring rehab has 3 stages. This is the one that gets rushed:
-Phase 3 · Return to sprinting (weeks 4+)
-1. Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions
-2. A-skips and high-speed leg swings
-3. Deceleration and change-of-direction drills at full speed
+Most knee rehab has 3 stages. This is the one that gets rushed:
+Phase 1 · Settle & activate
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ General training education, not medical advice. Injured? See a physio first.
 
@@ -151,12 +140,12 @@ Phase 3 · Return to sprinting (weeks 4+)
 ```
 **캡션 (ES)**
 ```
-Alphonso Davies (Bayern Munich): lesión de isquiotibiales. Así suele ser la vuelta.
+Ademola Lookman (Atletico Madrid): lesión de rodilla. Así suele ser la vuelta.
 
-La rehabilitación de isquiotibiales tiene 3 fases. Esta es la que más se apresura:
-1. Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions
-2. A-skips and high-speed leg swings
-3. Deceleration and change-of-direction drills at full speed
+La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
 
@@ -164,13 +153,13 @@ La rehabilitación de isquiotibiales tiene 3 fases. Esta es la que más se apres
 ```
 **캡션 (DE)**
 ```
-Alphonso Davies (Bayern Munich): Verletzung an der Oberschenkelrückseite (Hamstrings). So sieht das Comeback meistens aus.
+Ademola Lookman (Atletico Madrid): Verletzung an der Knie. So sieht das Comeback meistens aus.
 
 Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 3 · Return to sprinting (weeks 4+)
-1. Progressive sprint build-ups: 60% → 70% → 80% → 90% over sessions
-2. A-skips and high-speed leg swings
-3. Deceleration and change-of-direction drills at full speed
+Phase 1 · Settle & activate
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
 
@@ -242,72 +231,7 @@ Phase 1 · Settle & activate
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 4. Ademola Lookman · Atlético Madrid — 무릎 (기타) (미상)
-- [Official: Atlético Madrid announce injury setback](https://getfootballnewsspain.com/official-atletico-madrid-announce-injury-setback-2/) · La Liga · Get Spanish Football News
-- 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
-- 주의: Locking, giving way or significant swelling needs imaging.
-
-**어디·무슨 근육**
-- 위치: 무릎 관절 주변. 안쪽 인대(MCL), 슬개골 아래 힘줄(슬개건), 관절 연골 등.
-- 근육: 대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.
-- 집중: 무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다.
-
-**촬영할 단계:** Phase 2 · Strength — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.
-1. Wall sits and goblet squats to pain-free depth — 영상 촬영 필요
-2. Step-downs for control — 영상 촬영 필요
-3. Single-leg Romanian deadlift — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Settle & activate** — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.: Quad sets, straight-leg raises · Stationary bike, no resistance, for range · Calf raises to keep the lower leg working
-- **Phase 2 · Strength** — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.: Wall sits and goblet squats to pain-free depth · Step-downs for control · Single-leg Romanian deadlift
-- **Phase 3 · Return to running** — 달리기 → 점프 착지 → 방향 전환 순으로 충격에 노출.: Jogging → striding progression · Lateral bounds with stuck landings · Change-of-direction ladder
-
-</details>
-
-**캡션 (EN)**
-```
-Ademola Lookman (Atlético Madrid): knee injury. Here's what the comeback usually looks like.
-
-Most knee rehab has 3 stages. This is the one that gets rushed:
-Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Ademola Lookman (Atlético Madrid): lesión de rodilla. Así suele ser la vuelta.
-
-La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-**캡션 (DE)**
-```
-Ademola Lookman (Atlético Madrid): Verletzung an der Knie. So sieht das Comeback meistens aus.
-
-Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
-
-⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
-
-💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
-```
-
-### 5. Pau Cubarsi · Barcelona — 고관절 (미상)
+### 4. Pau Cubarsi · Barcelona — 고관절 (미상)
 - [Cubarsi in doubt for Villarreal with hip injury](https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHNNcWRvcHVZckh6WUpneVRTMHg3SXhvTWtjdkdselAtQ0ZtZnRFMGgtNzZOYW1KMnU1eXV4NFpfU1pXblFpaUJnQnAxWGJyd21lVFFTUVFqaHo1b0ZfVFEwY1FmS3VidEdROHBTZ0hVMmpQQXNEOEFBR1FscVdoUnZfdWt2Q2lkakJ2cThqd19nNFR1RTU1d2x0QUVCRDFOcmN3N0pPMmpSbXRaMEQwZllRYVZ3eHV0VzBVa1RGWQ?oc=5) · La Liga · beIN SPORTS
 - 콘텐츠 각도: Hip strength protects the knee and the groin: 3 glute drills.
 - 주의: Deep groin pinch with hip flexion can be labral; imaging decides.
@@ -372,11 +296,73 @@ Phase 2 · Strength
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
+### 5. Romero · Parma — 어깨 / 쇄골 (중증 (8주 이상 / 수술 / 파열))
+- [Parma lose Romero for rest of 2026 after serious shoulder injury](https://news.google.com/rss/articles/CBMiekFVX3lxTE1TNEYzVmEyRS00aHRtTFZLanlMNU1ibl9XVjJ0YkFCMUcyYzBlQUhDb2lmcnpOX1doVXdvNlpRVGJfbXJPbEZhTjZkd2lDZFFzOEpWZG5JNmE0VDNsekhPOFUzUS1GVU9EdGktX1lCb1pfWE1vN0RyWWRn0gF_QVVfeXFMTTd5T1BaSHpzRC15RWVWd2djUFY2QlBkQ3hReWFwRURVLUJjTlVnVk1pY0JaNE5FUl9qV2lfV0NpYzVqSEE5TlN1NHlfeHdzUkt3bng0RmE4NkFDODVBSVpUbkljUnBqWDVValQwazU4VjRScWdWWndlT0w0Y3pSSQ?oc=5) · Serie A · Football Italia
+- 콘텐츠 각도: Shoulder injuries don't stop leg training: show the 'train around it' week.
+- 주의: Dislocations and fractures follow the surgeon's timeline.
+
+**어디·무슨 근육**
+- 위치: 어깨 관절(공 모양 관절)과 쇄골. 넘어지며 팔을 짚거나 어깨로 떨어질 때 탈구·쇄골 골절이 흔하다.
+- 근육: 회전근개 4개(극상근·극하근·소원근·견갑하근, 관절을 중심에 잡아 둔다) · 견갑골 안정근(승모근·전거근) · 삼각근.
+- 집중: 축구는 다리로 뛰므로 어깨 부상 중에도 하체 훈련은 계속한다. 어깨는 회전근개·견갑 안정 → 밀기 → 넘어지기 연습 순.
+
+**촬영할 단계:** Phase 1 · Protect — 어깨를 보호하며 팔꿈치·손목 움직임 유지. 하체 훈련은 계속.
+1. Pendulum swings — 영상 촬영 필요
+2. Elbow and wrist movement — 영상 촬영 필요
+3. Lower-body training continues (bike, legs) — 영상 촬영 필요
+
+<details><summary>전체 3단계</summary>
+
+- **Phase 1 · Protect** — 어깨를 보호하며 팔꿈치·손목 움직임 유지. 하체 훈련은 계속.: Pendulum swings · Elbow and wrist movement · Lower-body training continues (bike, legs)
+- **Phase 2 · Range & strength** — 가동 범위 회복과 회전근개·견갑 근력.: Wall slides · Band external rotation · Scapular push-ups
+- **Phase 3 · Contact readiness** — 밀기 근력과 안전하게 넘어지는 기술, 접촉 훈련 복귀.: Push-up progressions · Landing and falling drills · Contact in training
+
+</details>
+
+**캡션 (EN)**
+```
+Romero (Parma): shoulder / collarbone injury. Here's what the comeback usually looks like.
+
+Most shoulder / collarbone rehab has 3 stages. This is the one that gets rushed:
+Phase 1 · Protect
+1. Pendulum swings
+2. Elbow and wrist movement
+3. Lower-body training continues (bike, legs)
+
+⚠️ General training education, not medical advice. Injured? See a physio first.
+
+💬 Comment SPEED for my 6-week speed program (for healthy players).
+```
+**캡션 (ES)**
+```
+Romero (Parma): lesión de hombro / clavícula. Así suele ser la vuelta.
+
+La rehabilitación de hombro / clavícula tiene 3 fases. Esta es la que más se apresura:
+1. Pendulum swings
+2. Elbow and wrist movement
+3. Lower-body training continues (bike, legs)
+
+⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
+
+💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+**캡션 (DE)**
+```
+Romero (Parma): Verletzung an der Schulter / Schlüsselbein. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 1 · Protect
+1. Pendulum swings
+2. Elbow and wrist movement
+3. Lower-body training continues (bike, legs)
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
+
 ## 선수 미확인 (알림 보내지 않음)
 
-- Premier League: [Xabi Alonso handed major injury scare as Chelsea star taken off at half-time](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUW1RNzY2QzlRQ3BPeEJRUFVrV29tb3I5azU4eEZ1UV8wSk9oZzNBTTljNmhXeTNyQ0UzNTEzby1VM2tUN1k3SmxVYldueGVMLXZ0ZTRVQXJ3Nk9qUEZqNndseElOR25Sd2phS25UeHhZckVwbUk4LWh0dVU4VW9RZThaQTU5MUVxemwzVQ?oc=5) (Football London)
-- La Liga: [Barcelona’s Latest Injury Blow Leaves Hansi Flick With Significant Headache](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjFjQ1NmcFhTYkkwOFE2VjRrOTVLaFRYTUtsYUpmVExfbkJNVGJGSXhCeVE1Q2xrUHZMXzMzdDRVdngxd2FzdmgyRlQ5aXREdjU0RnR4STFpSUR4SFNZeXVzOWotTzk0SktPM3hpODI3LWVwdmwwcXFyeUI3Wl90NjJ5TjItS1loQ0hpemZoel9pM1RGRTZveFRzaVFfS1ZQTWhnM2xIYkFRdXNPSXVURVk4OC0yVUR0SUVrb0FucTVaZ3A0d1Jz?oc=5) (LiveScore)
+- La Liga: [Opponent watch: Atletico Madrid winger set to miss La Liga clash against Barcelona](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdElYUTlwblZlWENCbjhhLUtISjJBN3JwdG84MWozM1dyMkdBVEMya0ozOXlFSVlMdjdNbTZ3RnduNHVPUGpxNGc2RDF0MzEwem1HZDlIS3BrT2Ezc05IakpIZjZsc0xlaENRellGU1dBVmU5dXFDdU8wZ1NFNHRLQXQyQlVEaGdFbnlmNzNSMA?oc=5) (Yahoo Sports)
+- Premier League: [£13m star set for Forest in 2027 faces anxious wait over knee injury](https://news.google.com/rss/articles/CBMiswFBVV95cUxQenV4M25xbjhRc3daUGNVa2NMbTE3QVV5a3p3VEpTNGxSbXJTbVJUd2tYUUUtSnphN2RpMlVYcDlPQVl4cnN0VjB5SDIxTGRHSGt3ZUYtYVBCVnpyczQ4SWZNMU9ZeWRIZVpSYlRCN29tQVhjenFod3A5cHJDX3N3OVlLZkJRTzRWSTI5TjFsX21Fb3FWQ3dHZml2eC1tTkJ1cVBBeDNXNURKS0JyNVdlSmxBUQ?oc=5) (Nottingham Forest News)
 - Premier League: [Premier League star set for spell on sidelines after picking up injury on international duty](https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3hmQWtTVkF0TWR4OWhkalM1Z0hkdmdzbmhPeUJMRFBqaW40eHJjUHJYTUdwUmpsZlRaN1pPS1EtRkZTOGJlRnE3MUVBa3RZM1N0bUhIU0dZQ0ZUMjZxUE1aZV9uNlQ1bEwzNXdFeWNfWm5KRmJHbkUtbjRGeGY3OU1GUkJlWXBjWWk2VzZaa0UzbXF2WjBSMg?oc=5) (talkSPORT)
-- La Liga: [Bernardo Silva eases Real Madrid's fears, but this player's injury raises concern](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU90UW9BS1VZN0JQQVJWckg3czItcVdfVmVzbjd4WWJzVU9ESHZ6VmVPNndVM0tsVlV1T0ozcEpXRGtxTkxGQnRZUmFjSmpDS2VvY1AxUTJDQ1I0c0hqSkhvZTNZYzBxam1fNjBvNXR0NWMtS0lGSUNmU0d6UGdxRWhXb2ZFMEZQaXJsUWNsaFlaOWphLUNGNEcyMEhQdEd2ejd4RVp5NTlVbGJvaVVNMXJvTmdLTEtITU5MRGJPY29xcGRqa3pCYWtQTU9jLTQ?oc=5) (LiveScore)
-- Premier League: [Newcastle training ground absences explained as Arsenal dealt fresh injury blow](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk1hRFFMX2ttRXI2cVA0MEJzYkppVXFCZG5TYjlYUk5WcWJMbU1XaTNTVm5XdlhuZUJyeEw3SEg0Z1JZTnZDbEVuWTFsLVFrMF9Na3B3eHZOLXNLVGhsd1ZIcllCYllzYTZZUEVhLTloYXJ5bHpHbmFNdk1tb2RDeXI5a0EyNFpZYWctQUNmaFBHQzhpXzg0?oc=5) (Yahoo)
-- La Liga: [Real Madrid midfield mainstay a serious doubt for Celta Vigo clash after injury on international duty – report](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWlDM05nUFFvbVdFSGFOM2k0SmVNV2dRWS1SU2h4ZnR4U0tLUGlxZTlEa0RpOW15RTktMF9rdTliRTJrY2xVaTNDUzdHc0h2MFRlclhQelZnZE8xU1BXaDY5T09MdEpqLXpHNDBlc2JQZENLOURuaVEzWVlnZ3JTLUpDUTdUVWhkRzA4TTZkQQ?oc=5) (Yahoo Sports)
