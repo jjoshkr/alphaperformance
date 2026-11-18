@@ -5775,6 +5775,186 @@
     "summary_en": "Désiré Doué missed a France match with another injury.",
     "extractor": "claude"
    }
+  },
+  "title:officialatlticomadridannounceinjurysetback": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atlético Madrid officially reported an injury setback for an unnamed player.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaslatestinjuryblowleaveshansiflickwithsignificantheadache": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona have suffered another injury problem that complicates matters for coach Hansi Flick.",
+    "extractor": "claude"
+   }
+  },
+  "kean:unknown": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "title": "Como consider new striker after Kean injury problem"
+  },
+  "title:comoconsidernewstrikerafterkeaninjuryproblem": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Como may look for another striker in January following a setback for Moise Kean.",
+    "extractor": "claude"
+   }
+  },
+  "title:acruelblowatleticomadridstaronthevergeofmissingbarcelonaclash": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Atlético Madrid player is close to missing the match against Barcelona through injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialkeanundergoingnewmedicalassessmentaftercomosetback": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Como said Moise Kean is having further medical checks after a training incident related to a recurring tibia problem, delaying his return.",
+    "extractor": "claude"
+   }
+  },
+  "pedro:unknown": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "title": "Chelsea vs Leeds Injury News: Joao Pedro Out, Chelsea Squad Fitness Concerns Before Premier League Clash"
+  },
+  "title:chelseavsleedsinjurynewsjoaopedrooutchelseasquadfitnessconcernsbeforep": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": "Joao Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Joao Pedro is ruled out of Chelsea's league match against Leeds.",
+    "extractor": "claude"
+   }
+  },
+  "morton:groin": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "title": "Lyon midfielder Tyler Morton sidelined until February following surgery"
+  },
+  "title:lyonmidfieldertylermortonsidelineduntilfebruaryfollowingsurgery": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": "Tyler Morton",
+    "club": "Lyon",
+    "league": "Ligue 1",
+    "body_part": "groin",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lyon midfielder Tyler Morton had surgery for a recurring adductor problem and will be out until February.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonastarstillamajordoubttofacevillarreal": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player remains doubtful for the Villarreal match.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernstarlosthistemperinthedressingroomafterinjurythisiswhatifear": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Bayern player reacted angrily in the dressing room after getting injured.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsalphonsodaviessustainshamstringinjurywithcanada": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": "Alphonso Davies",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alphonso Davies hurt his hamstring while playing for Canada.",
+    "extractor": "claude"
+   }
+  },
+  "title:newcastletraininggroundabsencesexplainedasarsenaldealtfreshinjuryblow": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal suffered a new injury blow while Newcastle absences were explained.",
+    "extractor": "claude"
+   }
+  },
+  "title:struggling30mstarsetfornottinghamforestredemptionafternewinjuryblow": {
+   "first_seen": "2026-11-18T02:47:40.366237+00:00",
+   "facts": {
+    "player": null,
+    "club": "Nottingham Forest",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed £30m Forest player has suffered another injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
