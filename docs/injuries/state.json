@@ -6163,6 +6163,194 @@
     "summary_en": "Marc Guehi is a significant doubt for Manchester City's match against Fulham.",
     "extractor": "claude"
    }
+  },
+  "onyeka:unknown": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "title": "Lampard Gives Injury Update On Onyeka Ahead Coventry City Vs Crystal Palace"
+  },
+  "title:lampardgivesinjuryupdateononyekaaheadcoventrycityvscrystalpalace": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Onyeka",
+    "club": "Coventry City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Frank Lampard gave an injury update on Onyeka before Coventry's match with Crystal Palace.",
+    "extractor": "claude"
+   }
+  },
+  "title:epllampardprovidesinjuryupdateononyekaaheadcoventryvscrystalpalace": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Onyeka",
+    "club": "Coventry City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lampard updated on Onyeka's injury status ahead of the Coventry versus Crystal Palace game.",
+    "extractor": "claude"
+   }
+  },
+  "meret:back": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "title": "Napoli lose Meret to back fracture ahead of Torino clash"
+  },
+  "title:napolilosemerettobackfractureaheadoftorinoclash": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Alex Meret",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "back",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Napoli goalkeeper Alex Meret fractured a lumbar vertebra in training, with no return date given.",
+    "extractor": "claude"
+   }
+  },
+  "title:jaisslegiveslatestupdateoninjurednewcastlestar": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": null,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Jaissle updated on an unnamed injured Newcastle player.",
+    "extractor": "claude"
+   }
+  },
+  "baack:unknown": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "title": "Tom Baack Injury: Remains doubtful for Leverkusen clash"
+  },
+  "title:tombaackinjuryremainsdoubtfulforleverkusenclash": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Tom Baack",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tom Baack is still doubtful for the match against Leverkusen.",
+    "extractor": "claude"
+   }
+  },
+  "title:joelintoninjuryupdateoutvsarsenalspecialistnext": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Joelinton",
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Joelinton will miss the Arsenal game and is set to see a specialist.",
+    "extractor": "claude"
+   }
+  },
+  "abdelmonem:hamstring": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "title": "OGC Nice’s Mohamed Abdelmonem ruled out of PSG clash"
+  },
+  "title:ogcnicesmohamedabdelmonemruledoutofpsgclash": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Mohamed Abdelmonem",
+    "club": "OGC Nice",
+    "league": "Ligue 1",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Nice defender Mohamed Abdelmonem will miss the PSG match due to a hamstring problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:chelseadealthugeinjuryscareaheadofleedsunitedclash": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": null,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea suffered an injury scare to an unnamed player before facing Leeds.",
+    "extractor": "claude"
+   }
+  },
+  "title:2newcastleplayersruledoutofarsenalclash": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": null,
+    "club": "Newcastle United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Two unnamed Newcastle players will miss the Arsenal match.",
+    "extractor": "claude"
+   }
+  },
+  "title:suddeninjurythrowsviniciusalifelinemourinhopreparesasurpriseatrealmadr": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unspecified injury at Real Madrid may open a selection opportunity for Vinicius.",
+    "extractor": "claude"
+   }
+  },
+  "title:nineplayerssettomisschelseavsleedswithanxiousjoaopedroinjurywait": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Joao Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea await news on Joao Pedro's injury with nine players expected to miss the Leeds game.",
+    "extractor": "claude"
+   }
+  },
+  "branthwaite:unknown": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "title": "Jarrad Branthwaite injury news before Brentford trip"
+  },
+  "title:jarradbranthwaiteinjurynewsbeforebrentfordtrip": {
+   "first_seen": "2026-11-19T20:09:25.010396+00:00",
+   "facts": {
+    "player": "Jarrad Branthwaite",
+    "club": "Everton",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "There is injury news on Jarrad Branthwaite before Everton travel to Brentford.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
