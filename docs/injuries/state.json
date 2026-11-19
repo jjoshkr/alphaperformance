@@ -6149,6 +6149,20 @@
     "summary_en": "Como confirmed a new injury for Moise Kean.",
     "extractor": "claude"
    }
+  },
+  "title:mancityinjurynewsvsfulhammarcguehiamajordoubt": {
+   "first_seen": "2026-11-19T02:21:59.974129+00:00",
+   "facts": {
+    "player": "Marc Guehi",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Marc Guehi is a significant doubt for Manchester City's match against Fulham.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
