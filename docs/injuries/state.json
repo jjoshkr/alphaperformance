@@ -6365,6 +6365,168 @@
     "summary_en": "Lookman faces a long layoff with a serious knee injury at Atletico Madrid.",
     "extractor": "claude"
    }
+  },
+  "title:dortmunddealtinjuryblowaspromisingyoungsterfacesmonthsonthesidelines": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed young Dortmund player is expected to be out for several months.",
+    "extractor": "claude"
+   }
+  },
+  "saka:unknown": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "title": "Arsenal Injury News: Zubimendi Out, Saka Four Weeks"
+  },
+  "title:arsenalinjurynewszubimendioutsakafourweeks": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": "Bukayo Saka",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "Four Weeks",
+    "summary_en": "Arsenal report Zubimendi unavailable and Saka out for about four weeks.",
+    "extractor": "claude"
+   }
+  },
+  "title:doubleinjuryblowforarsenalmikelartetaconfirmssetbackaswilliamsalibabuk": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta confirms an injury setback while updating on Saliba and Saka before the Newcastle game.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalsufferhugeearlyinjuryblowsformancityrealmadridasmikelartetagive": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal face injury concerns ahead of Man City and Real Madrid, with updates on Saka and Zubimendi.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalhitbyfreshinjuryblowasartetagivesupdateonsaka": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal suffer a new injury setback and Arteta updates on Saka.",
+    "extractor": "claude"
+   }
+  },
+  "title:mikelartetaconfirmsbukayosakaandmartinzubimendiinjuryblowsinsevenplaye": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta confirms injuries to Saka and Zubimendi in a wider squad update.",
+    "extractor": "claude"
+   }
+  },
+  "title:chelseanewscaicedopossibleinjuryinternationalbreakgoodandbadandmore": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": "Moisés Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea's Caicedo may have picked up an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:mikelartetadealtfreshinjuryblowasarsenalpreparefornewcastleunited": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal suffer another injury before facing Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:nineplayerscouldmisschelseasmatchagainstleedsunitedwithjoopedroaconcer": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": "João Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea could be without nine players against Leeds, with João Pedro a doubt.",
+    "extractor": "claude"
+   }
+  },
+  "abdelmonem:unknown": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "title": "Nice defender Abdelmonem ruled out of PSG clash"
+  },
+  "title:nicedefenderabdelmonemruledoutofpsgclash": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": "Abdelmonem",
+    "club": "Nice",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Nice defender Abdelmonem will miss the match against PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:brentfordhitwithinjuryblowsaheadofevertonclash": {
+   "first_seen": "2026-11-20T11:01:27.049641+00:00",
+   "facts": {
+    "player": null,
+    "club": "Brentford",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Brentford have injury problems before playing Everton.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
