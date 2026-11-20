@@ -6527,6 +6527,248 @@
     "summary_en": "Brentford have injury problems before playing Everton.",
     "extractor": "claude"
    }
+  },
+  "title:barcelonadealtfreshinjurysetbackbeforevillarrealclash": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed defender Andreas Christensen has a new minor issue shortly after returning from a long layoff.",
+    "extractor": "claude"
+   }
+  },
+  "title:christensensuffersanotherinjurysetbackatbarcelona": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Christensen has suffered another injury setback at Barcelona.",
+    "extractor": "claude"
+   }
+  },
+  "title:championsleagueupstartscomosuffermoisekeaninjuryblow": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Como have suffered an injury blow with Moise Kean.",
+    "extractor": "claude"
+   }
+  },
+  "title:blowforbarcelonaofficialstatementconfirmsnewinjuryinflickssquad": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona officially confirmed a new injury in the squad without the player named in the headline.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmandreaschristenseninjuryaheadofvillarrealclash": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed an injury to Andreas Christensen before the Villarreal game.",
+    "extractor": "claude"
+   }
+  },
+  "title:opponentwatcharsenalmidfielderadoubtforchampionsleagueclashvsrealmadri": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Arsenal midfielder is doubtful for the Champions League match against Real Madrid.",
+    "extractor": "claude"
+   }
+  },
+  "title:chelseainjurylatestasxabialonsoconfirmsjoaopedrosabsence": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Joao Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea's manager confirmed Joao Pedro will be absent.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamsmathysteloutfortwotothreeweekswithankleinjuryrobertodezerbi": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Mathys Tel",
+    "club": "Tottenham",
+    "league": "Premier League",
+    "body_part": "ankle",
+    "severity": "moderate",
+    "duration_weeks": 2.5,
+    "duration_phrase": "three weeks",
+    "summary_en": "Tottenham's Mathys Tel will be out for two to three weeks with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:newsetbackstrikesbarcelonastaraskoundeawaitsflicksdecision": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Barcelona player has suffered a new setback while Kounde's selection remains pending.",
+    "extractor": "claude"
+   }
+  },
+  "title:injuryhitchelseaaimtohaltslideagainstleedsasalonsoconfirmspedrosabsenc": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Joao Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea's manager confirmed Joao Pedro will miss the Leeds game.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolstarpulledoutofgamewithfreakinjuryfollowinggtarelease": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Liverpool player withdrew from a match due to an unusual injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:joaopedroinjuryupdatewithfivechelseastarstomissleedsclash": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Joao Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Joao Pedro is among five Chelsea players set to miss the Leeds match.",
+    "extractor": "claude"
+   }
+  },
+  "title:egyptdefenderabdelmonemruledoutofnicesligue1clashagaisntpsgtalentsabro": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Abdelmonem",
+    "club": "Nice",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Egyptian defender Abdelmonem is ruled out of Nice's match against PSG.",
+    "extractor": "claude"
+   }
+  },
+  "lecomte:achilles": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "title": "Official | Fulham goalkeeper Benjamin Lecomte sustains season-ending Achilles injury"
+  },
+  "title:officialfulhamgoalkeeperbenjaminlecomtesustainsseasonendingachillesinj": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Benjamin Lecomte",
+    "club": "Fulham",
+    "league": "Premier League",
+    "body_part": "achilles",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Fulham goalkeeper Benjamin Lecomte ruptured his Achilles tendon and is likely out for the season.",
+    "extractor": "claude"
+   }
+  },
+  "title:bukayosakasettomissnorthlondonderbyandrealmadridclash": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Bukayo Saka",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bukayo Saka is expected to miss the north London derby and the Real Madrid game.",
+    "extractor": "claude"
+   }
+  },
+  "title:keansnewtibiainjuryrulesformerjuventusstrikeroutofcomovjuventus": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A new tibia injury rules Kean out of Como's game against Juventus.",
+    "extractor": "claude"
+   }
+  },
+  "title:sakacouldmissarsenalmatchesuntilchristmastheguardian": {
+   "first_seen": "2026-11-20T19:45:08.368659+00:00",
+   "facts": {
+    "player": "Bukayo Saka",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Saka may be out for Arsenal until around Christmas.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
