@@ -6351,6 +6351,20 @@
     "summary_en": "There is injury news on Jarrad Branthwaite before Everton travel to Brentford.",
     "extractor": "claude"
    }
+  },
+  "title:majorsetbackforatleticomadridlookmanoutuntil2026withseriouskneeinjury": {
+   "first_seen": "2026-11-20T02:05:01.314217+00:00",
+   "facts": {
+    "player": "Ademola Lookman",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lookman faces a long layoff with a serious knee injury at Atletico Madrid.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
