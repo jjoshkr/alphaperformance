@@ -6769,6 +6769,214 @@
     "summary_en": "Saka may be out for Arsenal until around Christmas.",
     "extractor": "claude"
    }
+  },
+  "kane:ankle": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "title": "Harry Kane limps off and will be out 2 months with ankle injury as Bayern held by Cologne | Sports | 2news.com"
+  },
+  "title:harrykanelimpsoffandwillbeout2monthswithankleinjuryasbayernheldbycolog": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": 8,
+    "duration_phrase": "2 months",
+    "summary_en": "Harry Kane went off injured against Cologne and faces about two months out with an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "kane:unknown": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "title": "Harry Kane injury update: England captain ruled out for \"few months\" after being forced off in Bayern Munich draw"
+  },
+  "title:harrykaneinjuryupdateenglandcaptainruledoutforfewmonthsafterbeingforce": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane is expected to miss a few months after being forced off in Bayern's draw.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjuryupdatebayernmunichstrikerruledoutformonthsafteranklelig": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane tore an ankle ligament against Cologne and faces months out.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichconfirmharrykaneoutfornextfewmonthswithankleinjury": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern said Harry Kane will miss the coming months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneenglandandbayernmunichstrikersettomissthreemonthswithankleinj": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": 13,
+    "duration_phrase": "three months",
+    "summary_en": "Harry Kane is expected to be out around three months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsharrykanesetforlengthylayoffafterankleinjury": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane faces a long absence after hurting his ankle.",
+    "extractor": "claude"
+   }
+  },
+  "title:kaneoutfornextfewmonthswithankleinjurybayernsays": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern said Kane will be sidelined for several months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:kaneankleinjuryblowasbayernheldbycologne": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane hurt his ankle as Bayern drew with Cologne.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernskaneoutformonthsafterinjuryincolognedraw": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane faces months out after getting hurt in the Cologne draw.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjuryupdatehowlongwillthebayernmunichstarbesidelinedforafter": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An article examines how long Harry Kane will be out with his ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneruledoutfor2026withinjurybayernconfirmmonthslongabsence": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": "a Today",
+    "summary_en": "Bayern confirmed Harry Kane will be absent for months due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykanewillbeoutofactionforthenextfewmonthsafterinjurybundesligacham": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern confirmed Harry Kane will be out for the next few months.",
+    "extractor": "claude"
+   }
+  },
+  "christensen:calf": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "title": "Barcelona star has missed 100 games for the club through injury"
+  },
+  "title:barcelonastarhasmissed100gamesfortheclubthroughinjury": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "calf",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Andreas Christensen has left calf discomfort and is doubtful for Barcelona's next game.",
+    "extractor": "claude"
+   }
+  },
+  "title:fulhamslecomteruledoutforseasonwithachillesinjury": {
+   "first_seen": "2026-11-21T02:01:01.803351+00:00",
+   "facts": {
+    "player": "Lecomte",
+    "club": "Fulham",
+    "league": "Premier League",
+    "body_part": "achilles",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Fulham's Lecomte is out for the season with an Achilles injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
