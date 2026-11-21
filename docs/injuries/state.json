@@ -6977,6 +6977,248 @@
     "summary_en": "Fulham's Lecomte is out for the season with an Achilles injury.",
     "extractor": "claude"
    }
+  },
+  "title:newsharrykanefacesthreemonthinjurylayoffafterbayerninjuryblow": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 13,
+    "duration_phrase": "three-month",
+    "summary_en": "Harry Kane is expected to be out for about three months with an injury sustained playing for Bayern.",
+    "extractor": "claude"
+   }
+  },
+  "title:massiveinjuryblowforharrykanemichaeloliseconcernsbayern": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern face injury worries over Harry Kane and Michael Olise.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneruledoutformonthsaftersufferingankleligamentinjuryinbayernmun": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane will miss months with ankle ligament damage suffered in a Bayern draw.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykanessparklingyearforbayernmunichandenglandbroughttoearlyfinishdu": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An ankle injury ends Harry Kane's year early.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernhitbykaneinjurysetback": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern suffer an injury setback involving Kane.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernfacetitlepressureaskanesankleligamenttearsidelineshimformonths": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane's torn ankle ligament will keep him out for months.",
+    "extractor": "claude"
+   }
+  },
+  "title:englandcaptainharrykanetomissnextfewmonthsafterleftankleinjuryinbayern": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane will miss the coming months with a left ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernconfirmsharrykanefacesmonthsoutwithankleinjury": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern confirm Harry Kane is out for months with an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernskaneruledoutformonthswithankleinjury": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane is ruled out for months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykanefacesmonthsoutafterbayernankleligamenttear": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane faces months out with a torn ankle ligament.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjurybayernmunichandenglandstrikerfacingmonthsout": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane is facing months on the sidelines.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayerndropbundesligapointsagainstkolnloseharrykanetoinjury": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern drew with Koln and lost Harry Kane to injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:alvaroarbeloaconfirmsseasonendinginjuryinfulhamfitnessupdateaheadofman": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": null,
+    "club": "Fulham",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Fulham player has a season-ending injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:injurysidelinesmoisekeancomosettobewithoutstrikerforatleasttwomonths": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 9,
+    "duration_phrase": "two months",
+    "summary_en": "Moise Kean is out for at least two months for Como.",
+    "extractor": "claude"
+   }
+  },
+  "title:brentfordnewskeithandrewsconfirmsdoubleinjuryblowaheadofevertonmeeting": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": null,
+    "club": "Brentford",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Brentford have two injury problems before Everton.",
+    "extractor": "claude"
+   }
+  },
+  "title:christensenalarmamajordoubtforsundayagainstvillarreal": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Christensen is a major doubt against Villarreal.",
+    "extractor": "claude"
+   }
+  },
+  "namaso:ankle": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "title": "Danny Namaso out for Auxerre at Monaco with an ankle injury"
+  },
+  "title:dannynamasooutforauxerreatmonacowithanankleinjury": {
+   "first_seen": "2026-11-21T10:46:05.376473+00:00",
+   "facts": {
+    "player": "Danny Namaso",
+    "club": "Auxerre",
+    "league": "Ligue 1",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Danny Namaso misses Auxerre's trip to Monaco with an ankle injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",

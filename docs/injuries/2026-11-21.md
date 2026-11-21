@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-21 11:01 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-21 19:46 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,37 +6,38 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) · "2 months" | [Harry Kane limps off and will be out 2 months with ankle injury as Bayern held by Cologne | Sports | 2news.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVkdVV3hwZzd4TmdkTWlzMExQMmtiMkNSc28yNjRuWE1wR2lNU2puRnRaejEtSTdZMm8wMkFsTVR1OTIwc3RhSExVSDBVLVM5MkFIWU94aWZvdUxyV2pKWnFDZGNQajZIQXhPem4wYmxOTmJfQTlOeWpDeEN3NktPYXoyQml0UktzQjF5Ujk5N0tfS0xsMTlJaGtqekxBZ3BvQWRpOHI5NnpyWWdncms3cXFzVElrcmh1R0p0MGQtTWc1OWZIYXpvWVFZNjRwZF9STGJ5cjFZRm9Ob0NpZHFXR1RIZklpcGs?oc=5) (KTVN) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane injury update: England captain ruled out for "few months" after being forced off in Bayern Munich draw](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUkduRzdrOWt1c0RzZTNMMGhZd3lQTTJXcUJUOWxQMkdTLWhqeWV1OVhmSkdzdVhfSUU1WVFWOWhua2lkanBMSVAyck1iWVBBRUVzR2NXZU5BVEpsSjFCSDJrdnNvZWhrbk1yeG04WDBOa1JfVG1jTWZGc2I5UENUdk9fdVFiUFIwelV1ZmNPd01SSzlwdUFuOUJCeXNZT0ZoS3pfbkVsbUItQXBLeHRNV2lzcGZqUFdlOUs0cnB6TUEyWS03ZGNWdWtXX21vSVBfeVQwZTlXdzE1bnQ4MVBxWDEtZEhKWW0zSWZpeExBSENCQnZmQnc?oc=5) (Sports Mole) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane Injury Update: Bayern Munich Striker Ruled Out For Months After Ankle Ligament Tear Against Cologne](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWGExZ2pqZDZBR0xySjJzRXhNcGx3ZndTNWlwbnY1cHFwTHkydUNmd0w1WWE5YTNPNUpWTGN4aWlCUDZMLWNDZXNCYUFSRFkwSURORXpDYmdSRFBSM3A4eHFDWm1zX1NWUGl4dnJEbmV0d005dlZMWGJCa05SeE1BTWE0blEzV0JLUm9LTVZfRG02QzZ5Mmg3RWxpR1BwaWdKTWpFcm82ZFFHWk92Rlhkbmp0OXVYR0d0X1RJbS1Jc2ZHdFQyOG9VUHB6LUlNVVVibzFTWW5LbEVYV2g1VUM5NnJmajBDU3h6dkVn0gHwAUFVX3lxTE1BWXl0SGFSbjd5eHp5b3VCY2hOdURrR0lfV2g3bTRGdm9QNVk1QTlXMUlZR1pOSE42d0lvYkpqU2taYjljOFRxTmVMNTRWNjVCMVllUkwxSndJZEdMUWNLQ0tvSzNMUERCRklyWXRHd2dWVkpkN21jRG4yZ0JqUXlWUmpreTBFVzhEZmIwR1BES29KNlA5MHdxVHVPMzAyaFRIbzdjMWctNXdKNVl4cTMzMHo4NUlIeVpYcVc3UEpYVmRzckxzWTh4ZmZ1emJ5dmJSTWFjVFB1Q21TNDJaN2JqbmM0dVRWUUdYWXdxVk92Sw?oc=5) (The Sunday Guardian) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVR4eXB0U3JnSVN1NEpZcTZ2ZG5XeGdYYzF5cTBzQ3FBZmFWOWo3NFVHVmljLXdKMVJHNnU1OV9NU2JKNzhKLVZrQ3pUMXFma3JGUzc5VThMRlp3MnM2cVZab05vbElJR0h2UVM3QWd4TWkwb1JlOHc3bTVDZHd0dWtNTFlRVlJyX3hZTEZINnBOSHRwUUk3RXZNRGhCMmY0NmU3TVRB?oc=5) (The Guardian) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) · "three months" | [Harry Kane: England and Bayern Munich striker set to miss three months with ankle injury](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeFpSZnVzSXEwQXZLVkVhaV8zbTctV3lrdlVES0xrZUJWa0ZUWm1SMlk3WU40cC1JejY3dDJWemRqSDZEUjhFR0Y4VkNwbm44VnB6NVhNRDZNMno5cXViOERBeXUwaFFnVWFqV2M0Y0RFb3hFSkNNSkhEbVJDZjVPT3VMX05lNHdua0VJazM2VWNPc0xDdlk3ZUlidmtxcjl2TnB0blJFQnZkeDI1MnFyYmZoNk9Wbk9Qam10NGZqdDVGc1hqbDVlalVhRnNKdjdUekE?oc=5) (Sky Sports) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Bayern Munich's Harry Kane set for lengthy lay-off after ankle injury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0FiMWNhbGpJYlZZVkZka1NDeGVrSGJDeGFqRkFSbDNySEZOR1d2OENmMjY1Zk44NzdGT3p3OWtLVU9Wck9BM0UzYWNtYVdkUjlRVEZDQXZHVGpRa3F4S1FKWDdCaHVHb1EwdTdET1VkZC05dlRDMTZ6MGR1UTRXbEZDZnVpZmF6cHBpdEZZRnItZVNXcW85b1dEZkZZZkpVYUFvNW5MeEY?oc=5) (Bundesliga | official website) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Kane out for next few months with ankle injury, Bayern says](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmV3TWxQSHhqVndSMnBVM2gtbl9kOEVKWWVGenEzRS1UTTQzYi1lM0l2Y0I1bUpPX3NMT2l0d1BSbFg5blgxOUd3d29TWlA5Mm9LOXJXVW5BOEtsbUp2anhpWW04RndFMFJlUlJBMVAxei0xVDRLb0FjYU54MGlOYWxzM01JQUpEVTlUSkYza3A4TU9sZ3NRZS1mYw?oc=5) (CNA) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 미상 | [Kane ankle injury blow as Bayern held by Cologne](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlNKVmFJVTU1aGg1cEUzUXJmYWV0ZmMtQjZBNTlnaHgwOE1NV2tSRXc0ZFI5N1Rxd25qaVJmbTJCUXVLT0MxcmV0encweXZMWE02VW5ycTAydmRYbllDeTY5dUhmWHRfM2NFMDNJNHY3cGl5QjJDczJhSEM5NDFsZVpHaXhnTXFfNTJMS1N3RQ?oc=5) (RFI) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) | [Bayern's Kane out for months after injury in Cologne draw](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVE8yanYxamp0dklUc3hiZ1dPdmxXYjUyZjF2TzhpMlpFaVZJUk1TdEZSSnVhV01GUWZZNEVsbWJDVS1EMDJVN2VqeENuZmpDV015QXRHRGlXVHRaU3dKNXhpcDNFZXRnZG9mUzNUV0RWMWRjUkowcUlxTUhVNmdFV2JLNUkyUllQaVlz?oc=5) (Yahoo Sports) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | 발목 | 미상 | [Harry Kane Injury Update: How long will the Bayern Munich star be sidelined for after suffering ankle injury](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSUlKS2tRNGJKcllDUzlOTEpRbVVVNmZ3eG5hM1VHNDM5aW9UZ3k0ZDFVSURJMGRGTFBsekU4QzYzd25vSlAxQjNIeldfOXVIMXNOOXV2WDg3ellvcmRsejBsNWc3OWk4NTJsTTYwb2xlQ2dOWWVkMXd5YXBjbDN5cHNOOVhrTlZKanRKWkFFdHZ5ZUtiZ09RU3ZnVkV5T2p5RXd3b2lxWG92b3RJY2I3ZWZCbE5OTlVtWU1RblFTT2dKSXJ1VG1La1kteGNvak0ybUE?oc=5) (news.bet365.com) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) · "a Today" | [Harry Kane ruled out for 2026 with injury, Bayern confirm months-long absence](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUzhtLUxxSUtiZjR1R2hJa1RiVkZxRUl0TGxPdXlPNHJ1RlZlVlVZRjlYTmVlSmtfcTZJMFhCazdNNU9Xb0s1RWgwdGZQbTcta2w5VmVQRE9KMC1rdEVsMnRLMlE5MnhUVUJuR2ZaVzlWY0swb3lxVUxHamFPcEtlRVh5WHRQMV8yOGVPcEkzVTRMbV90MHUyTVNBSEwtamg4eVJ6YjRrOEg3Vnp6Sl9MRWZncnIySlZyWTZhb2I5b0lncnQxbFVRcndRYWjSAdIBQVVfeXFMT0JQUWNNdXpNUnByMjhxN3lscW1lRy12azVWV2V4b3pzOUtIY3BRVDlzMnluSG9uVVp5M21YenowY1A4N0FfN3VONDIyQWlPdC1adFdmMTFnQldWbDVVR2Z2RlhCQm9sTUhtbEthMHRkZDU4dlVsblZVVHFxcUVxSTduaTZwd0hfNVpDcFVqcXl1QmRVZGUwU3g1NXgwSmFVNmZDaTBhUm12bkYzUEVPWWpna0J0TmRINTNTRXpZNi1INFpVWDQxMVVRTTcxOEV0OHRR?oc=5) (India Today) | claude |
-| 🆕 | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane will be out of action 'for the next few months' after injury, Bundesliga champions confirm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWxzSGU0eVBxYlU1VHM5anpCYk5Sb2ZxazlfUHUzWGdjSG5iaEJlcWZzc1ZsSW0tTGtIN25oVmZOam9fWUF2QkN0dXA4bUotenRoaVp4VHlJY3BMbXNDbGxHczAxdzA4U1RkS0tiakNwakkyQ3FCYmtEbldfV3Q4SkVaaFV1Ym43M1gtcG9WdEtJV055SVd1aTN4dkVnck9fdGJucjRUajNmR0dZekoxQ3dTTElxZTJPd2tvam5R?oc=5) (LBC) | claude |
-| 🆕 | La Liga | Andreas Christensen · Barcelona | 종아리 | 경미 (2주 미만) | [Barcelona star has missed 100 games for the club through injury](https://getfootballnewsspain.com/barcelona-star-has-missed-100-games-for-the-club-through-injury/) (Get Spanish Football News) | claude |
-|  | La Liga | Barcelona | - | 미상 | [Blow for Barcelona: official statement confirms new injury in Flick's squad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHJnS0JxeDVSdVdMTjlqOXZYLWN0ZnYwc3RwM1NxWjhLaHYwU1BNNWNBYjdJQXZjZm50blJWbTRVakNiOWVvQVVWbDBidG1acWtyVVd4ZEVwTEN1NlNEM2RlYkdiRXBXT2hzUlZfS0s3MWsyaS1RQ0NYaXNxbFZKWHlkQjZZNlZHVWZ5WEF1WWlZRldfZTdZeWIzRklUeDN6eDB1WV92NFlXZGRaR0xPRGhCbER2WUVjRTNkeVFYLWQ2X0NEd3YtTg?oc=5) (LiveScore) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) · "three-month" | [News | Harry Kane faces three-month injury lay-off after Bayern injury blow](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFg5dU54aFQwcE1BOFJ6N05UWHhtVlNkeXpHRnNVTE56R1BJV3J2V1p1aWtSeTZDb2dTeklrUi1nMlJQZ0dyRGJrTGxiZU5xd1FfT2kwdE9LdUdxeEN1NzNJNG5YNGJCbzhrOTBBbzJoc0w2V0pJRGRhdlphdFpXZXdzd2RUX3MxdmdRVWFjajNfT0R6QkdNOFZTUjZnU280?oc=5) (Vodacom Soccer) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Massive Injury Blow For Harry Kane & Michael Olise Concerns Bayern](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnRKLXRiamhWWkhJRkZBeFE2QkxYaTlCZVdydVFGdXBzVTJqejc0ZVhzT2ZaSVNSVldRZ1lnSWY3Vk1xTlh2eVlSN1l2ZXBXSm93WWV5R1ZWZS14UGg0djkwa0YwTXNURFBsbUx2bnpXdW1BYU5PWWlITzExU2x1QVhZdXJjM1VZZG1ncW5WeUV6VGR5cXhz?oc=5) (Sportscape Magazine) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane ruled out for months after suffering ankle ligament injury in Bayern Munich draw](https://news.google.com/rss/articles/CBMijgJBVV95cUxORVJMTjI3Ri02OGJ0aU55TWFsMGNhQkRHOVY5RFZocmxOMmt3OWhWaE1RTzIwaURYQmVlclJQeTRzMkpmQ1hzckZkV05PZmlpelVVdVBZeTkyNzBVRHN6bEd4M2ZJcjBFN0laM0VHWWI5WUJSX2tCdTlUWXY3S3k0WkVSdThkTWphMGlPVVpzMEJhSGktTmdBR1c4cEpnZ2I3RlF5UGdTUGxMMEswa0t5QXNtTmRvVzlUb1hCU01xdTdnbHA1d0Ixcm92TGhlZU14STkyd25qSExpcUoyTl83ZVJxeGdva1J0T3JRRHhScmEyYzZodGNnUThUckRraWJIVXF4S3lEQzctZDdRdkHSAZMCQVVfeXFMTzFINHB4NG54bWlOcmxOMWpiVl90dmdkMWNLU18yMjRiTk14azZKU0tZREdjY3RDN3ZFdHl4Y3VNdDBTdFdtd1ZEVWxVSlk1eTVKWmpTZ1NrdHh0SXEzLW1vbkppMThIYVpXbGZlS0NBMk15QUtOaHowbVJERmRnRHBrbVV5dXJZT0lHLWNpM0NuSVIzRXpqYTRPdlJ6RnBBZ3h5dEtGaTFBWFQtdkRVdjAyLWN3QV9lUnBfdUZBYzRiLVlpMGtGN3ZyWk5XdDRqQ3QzWWNVX0I0UEdmNXpQZmRGNm5Cc3YxTFY2dUt1RjJDMDNtaWFMUl9LbjhEOHJidVNxZXUyUzdvRGtOU21oSENPSXc?oc=5) (The Times of India) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane's sparkling year for Bayern Munich and England brought to early finish due to ankle injury](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2tRRUVDS2NoaVdNQWc1UHRYY0RPSU82NnVGUXVScVJVamY0NjB4VGFNdkVqaHlDLUlQS1NJN04wbVVZS1Fpa0hEanZhM3NIRzFQQy1IQ2tmNG9XRHJxbzlzTkNEVlBmN3B3WS0xZjdSZk5xYWZzNmwtSUNadVB1RGFGT1dZRnpUX1diMkF3RDd6ck9TZXlBX29PUHNBZ0pLQXQzZWlpdHhtU2dmT182SEVPZXdFVFU4ZTBoUkZTb3FiTDFzbjRSSjE2d2cyTE53b2VtcXNFU2g5amVCcURpX1hHTGQzRWZBWlE?oc=5) (The National) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Bayern hit by Kane injury setback](https://news.google.com/rss/articles/CBMiekFVX3lxTFBUR2cydnRKQm5ITnNRYkpsa0dPMkxyQk5vSVl4RnRtLUhyWlNHTWg3UVM0RnZOYk1YUjRIZEhodlVWek9qZ1RiRlBjUzRUOXZOUnFUelVRMmd4bDYyMzd4ZXhobURla2JaX0dYNlgtVGd4OWQ2VEpJQnl3?oc=5) (Egyptian Gazette) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Bayern face title pressure as Kane’s ankle ligament tear sidelines him for months](https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNmg4N2s4MERHcS0xbkN4T0RmenVPektMaGZ1bUJJU0dCcTBBQnRFazI0MGFteVJmWHFNZ1d1MmxNeEVROTctUnRiSldVVS1pSVRPYVZXbUZqQnRaU3ZtZFVCa21fYm1ZdEw1aXNRZ0RuaXhuZjJwU21SNkJzWEXSAZMBQVVfeXFMTkJiUDktNjVORTNIT3JQTGVqZUtyeFlXZDNPTWZXZGIwR3FrOU1LNXBGTy0wTExKUEdUWndCZWxPYTFsOUtxNV83dUJfSWtYNzJqQndLV2hVNTJOSkZTUXRFbHBJbVdyczY5aVdlT2dHN2pJMWE0RTNjRHJySXNmOWJXV19HQzBnMUJ5Y1Q0ZlkzNjFF?oc=5) (Chosunbiz) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [England captain Harry Kane to miss 'next few months' after left ankle injury in Bayern game](https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcXdMZklocEQyeE9idUR1QXFzamJQNnc4RWlmT0lyXzdpbS1xVUxIY1g3VnBsdDZFODB1di00WlpTeElJUEd4czc1cDBlYXlMS203SHNzOXJYZ3d6SFVkY3VrMmpTSUd4Z1pVTEVQYw?oc=5) (Newsday) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Bayern Confirms Harry Kane Faces Months Out With Ankle Injury](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DeDVfTXlrbGxOUFZrSGI0d2RZZjBzaWxJVXdZQnZOWWcwREZ1cHFQaEJ3Y3BsclBfYkQ2bzEzWTJSUjh6eHdkb3hOWkVsUHFCaEMzbFJsb2ZwN21P?oc=5) (Peradaban.id) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Bayern’s Kane ruled out for months with ankle injury](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnYwUWdVcWhYUUtmWEl3MUVPWGtGbWRHWG9VeFVuWGdLeGFMSC1EVDhTR3hBZldKaVJxenNCR2p0T1JsR3didTFoSG92S1VIZkVjWE1KWEN4d2k0NVJJTHFKVlhjMlEydFBGa2pIY20zUUl1RWJuUjJEUC10SXBwOGVsMFJiWDhNUEczNl9zdTdUQWM4NEREdk9RR1ZTTnNYcTJlRGotU3gtLWdpQW5qd2hNcnI?oc=5) (Punch Newspapers) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | 발목 | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane Faces Months Out After Bayern Ankle Ligament Tear](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0xiQmpVWUpGWTNzVEwxNEJYVWpLMzA4Nng0LVNKUFl6Vno5a0UtMWhZenY3S1N5WFZrYzJsUVdHelE3R2tLN2duTVY3Sm9vbEtjLW1ON192RVQ3Nl9jY3FLOXp3d2lrYmNUNVdCOVYyRm1faWlUSU9aTFFaWV9RS0U1ZDNLMnkyNGdBcFF5UldmbEhXdE5tQnFR?oc=5) (https://streamlinefeed.co.ke/) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | - | 중증 (8주 이상 / 수술 / 파열) | [Harry Kane injury: Bayern Munich and England striker facing 'months' out](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTk5cVhPWnFxZUlPX0dQdmtsZWo0RmtOZ3VWaHVsOTFYNnpjcTlYSC1XMmtxVGVuNEk1eW4wYXE3OEpKNEhoOE1iemFVQ0pLV0d1MTZQVlRZUFhzVU5HMmM5N3ozMUJnRFJFejg2NUZqem1HQUNydWdjYjVfX1NxZXo4YUJpR2xheWhZQ0JLMTZFUjBFcUUtZERLWlVaR0tuTV9mR9IBqgFBVV95cUxNMVp0TzNCbl9ZbXQ0UTlYazg4aWpETTJaTUpiYnNpM09IQ2hwMDk5VEprcVlKMjZ1NlpKalJobWV0bGRtd3I0TkhXTWYtR0hRd05NdnF6Z2dfbWtNYnV2YkVCYmJRS2ZhZUZNQWpMdXVvRTBxeHJ2MXh0Q19NNmpsSnZjenNfVW1ZVEtEby1SVFhodVJzcGdMTWJQRU1sdXpSMF9vdjVBVGRiQQ?oc=5) (Metro.co.uk) | claude |
+|  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Bayern drop Bundesliga points against Koln, lose Harry Kane to injury](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnBzdnNQMkh3NnZ4OTVpUVpVRFlzRE1FUmtzRWZySnVrZGlLQnZaaTdxQnhTQ1J3aTNxYm50c1I4RXJWMUF5OURSNnFzRVc2LTQ5V3JVblE3c3QzbW1PSGktUGo1UFJxSFpiaW4yTXZZdGkxYUZpLW5ueGZyYkhyRDhGcVhDb0wzNHVQNWdiMW02ME54eFZEX0I4V0xBUFdkUWRfNUtzQk5VUQ?oc=5) (SABC Sport) | claude |
+| 🆕 | Premier League | Fulham | - | 중증 (8주 이상 / 수술 / 파열) | [Alvaro Arbeloa confirms season-ending injury in Fulham fitness update ahead of Man City clash](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTRXTmpmTEM3S0hvd21YRnRlV0VldnhiSUU2SUg3S2NETG04MUJoS19jdk1FaFlEZTEzRWtEcEdEcG1aeWZBVWRXZUltTzFjQXhoYXJiblpfeUpndkRvQ3M5RVB1ODBzTnUtRmNBQnpBTXlwNWx4UzRweTRXV2xqd19vcVYwNlgwT3g2M0gzMVU3MTJlV2c2Yk9YbkdmaXJyVEMyV3FZYjY1ODdTemJiSzNESjlvSXVES2dabGRuSjFPc1doOEZzendILVppM2VwV0E?oc=5) (Sports Mole) | claude |
+|  | Serie A | Moise Kean · Como | - | 중증 (8주 이상 / 수술 / 파열) · "two months" | [Injury sidelines Moise Kean: Como set to be without striker for at least two months](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVlZaXVjX1pXd0NSdVRpSkVYdHh6aUhHbVl3V292WGgtMVlmVV9qVnFqSERybW8zNTdDR1JueUZNNzdoVjBZbkNyWXVTQ1dhTU8zM0pRSl9IS3RPT0RscHBLYVJmUTJRcllJYTFZNGs0dzVPeDRkVWdkUGNfX2RyWkpzNmthRXl3NEpZMnhyNFpEQzdISE9kTGdieElnc09LVzlrbm16Q2dDZmotSnpzTXFidmdGdzZh?oc=5) (KarloBag.eu) | claude |
+|  | La Liga | Andreas Christensen · Barcelona | 종아리 | 경미 (2주 미만) | [Barcelona star has missed 100 games for the club through injury](https://getfootballnewsspain.com/barcelona-star-has-missed-100-games-for-the-club-through-injury/) (Get Spanish Football News) | claude |
 |  | Premier League | Lecomte · Fulham | 아킬레스건 | 중증 (8주 이상 / 수술 / 파열) | [Fulham’s Lecomte ruled out for season with Achilles injury](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSTRiZVBVZllCT01xU0xBcnA1UmNmZ2s4bDcyVWhEc0dlWkw0Q0JydDlINmFISWV3eGRzbnZTNnBFdnRFTDVMb1VDaVAybVBvTmlzQ3pXMlBPTndhckEyRnV4cTN4R2hhRDNTQUFfaDJINF9Ya09xRHozbXlGZGZramJwR2pmOHQ3V3dtSmZ3ejVMSUVlTlFDMl9VTDduSjFTUWZRazVvX0drcUJ1dlVOd0ZlU1h1aE5odkFPaGp4WThfakRNeENsdFNjQ1NfMzA?oc=5) (TribalFootball) | claude |
 |  | La Liga | Andreas Christensen · Barcelona | - | 경미 (2주 미만) | [Barcelona dealt fresh injury setback before Villarreal clash](https://getfootballnewsspain.com/barcelona-dealt-fresh-injury-setback-before-villarreal-clash/) (Get Spanish Football News) | claude |
+| 🆕 | Premier League | Brentford | - | 미상 | [Brentford news: Keith Andrews confirms double injury blow ahead of Everton meeting](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaWNlaGhBa2tBVnd4N1pSZV9VN2gwQzh2S21UZGVpbHNLUUJqNTJXaDZuNkoybzFlQUlFUkVYSE9TNWVnZUVHNWF4Qk5uZ2E4dDhMZjE4NGtHYkZtSWk5aFBYMi1LYnhEeXRJYXVXWHEtTHVHR3V4QVRVRUR5MDhxNWt1Q0tXQ1ZaN2RObnBQbFZ4LVQ1ZEdiX3Z5dkdXVVJBMDBaUF9TWUZrV3R4eF9rSDNtZlplc19icm8tWEJWOHpuSEJyMUNrVEJwQWpWM3IxS2VpYzNxZ0V0Z1haekwydA?oc=5) (Sports Mole) | claude |
 |  | La Liga | Andreas Christensen · Barcelona | - | 미상 | [Christensen Suffers Another Injury Setback at Barcelona](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTZQTnpBeC1KZDVJaHhCMzVqeVZMR0lMNzg1c2U5aFozZnc0YnNvWEozamRjQzllaWpYY2tMLUlMdG5IZXlubDVpbFV3MWxxU2ZYREhqMG5nTmhtbm44dE03bWJ0Qlh6cmoyZ2xWMndxVVZCZU5ScWxNd3JNUEZtRVhpS05KdkI2M2RKU182UjJPY2Q2dV9GbDNYQ0ptcU9hSzNNVmR0cmVVckcwSmhkRndfTVg1NzdQQkdkemNFTi1Hajd0VVNybGVIaVdFbHBpaVZQS3JFNE9iQQ?oc=5) (beIN SPORTS) | claude |
 |  | Serie A | Moise Kean · Como | - | 미상 | [Champions League upstarts Como suffer Moise Kean injury blow](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWRBa3I0alV0WFhad0w5aU02ODNtUVJXNDZYQVRvT213X2VHUmVXUlI1ZjNhOWFPV1BPWjNueFgtRzVFYjRsU1VrbjZBSGJNcnVEaHdDUHR5X2NLQ0RPVzRyREJxMWRIMVRUdGc5TC1WdXZuaWRfUmlHUl9YcnR6UHEwN3B0VjZCUThzMS1JNDN1TUFQZWFBTi1ueUxMYjhMdUtKZVVUY0ZuZw?oc=5) (ESPN) | claude |
-|  | La Liga | Andreas Christensen · Barcelona | - | 미상 | [Barcelona confirm Andreas Christensen injury ahead of Villarreal clash](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmdZWmtZbTFERmJ1S3B1U1RFODJBOUJwZmY3MGhLaWdQdnVJYXB0UGZBVXBfQ295M1B6NkI3dnlDOFJnckhvajFuN0NDUFNRM1V2OUQyS3oxcmVuVFdrdE5lYVJQS1BrM2xsZzFoMV9OUTBCek0xRS1aYS0ybE1OVHdMa1h4b2NiNlNCR1BiVWlxOERRMU1ESA?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | Joao Pedro · Chelsea | - | 미상 | [Chelsea injury latest as Xabi Alonso confirms Joao Pedro’s absence](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlkxZ0R4bll4Si1TSWZKZU1JdzJ0dkJlWmx0VXNKdHNNNUdzdGhJVElDMkdGOTlXTjY5emFhWi04NDF6bjIxaFM2VHZBRFh3U0xPRlFLbHJITmQ3cGZJQmVIZFUtTU1teVg3cTJCb1VaMndwQjZGakxUbllfaWc1Y1FNZzZnR1BWdjE1RTJocWx1eTNYTXc?oc=5) (The Independent) | claude |
-|  | Premier League | Mathys Tel · Tottenham | 발목 | 중간 (2~8주) · "three weeks" | [Tottenham’s Mathys Tel out for two to three weeks with ankle injury – Roberto De Zerbi](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb05TUTF3SFdhLUNlNldOUzhSeVdCdTlRMHZhYUJCUDZGWHR2Ml9WS3ZDWW1SX183X1BtSXBNWXdlMDFaWnhBaHNRNHNhbFpjY2VhZE9BZ2ZwMDRwLWlkS01BNktxcEMyTDUxQVB1WjRVWjVRTzRPcUROZURnd0xxVzNNR3k0eWdlak9R?oc=5) (The New York Times) | claude |
+|  | La Liga | Andreas Christensen · Barcelona | - | 미상 | [Barcelona confirm Andreas Christensen injury ahead of Villarreal clash](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTkRaTk1DVGVVV1R3TGhWRnNMa2F2R0ZaNDFTUzN6YnV2eUZLZmZoYXZ2ak9oVXRFNEk0bHRxYnhDRDFEc3dBQ1lJbEo2Z2lEX2RmMWtad2UtNk9QZGQ0MVN1U21qV0VSWWF0c1h3dk9NUE9kemkxdGl3SEZzZGlmVmVORWxNRTk0T0w1Y3ZhLVNjb2dFbVQzdldaTDFENUZPS1dxMk1iQU5sM2VKLTFReDZTQW9icTVoTWZJ?oc=5) (Barca Blaugranes) | claude |
+|  | Premier League | Arsenal | - | 미상 | [Opponent watch: Arsenal midfielder a doubt for Champions League clash vs Real Madrid](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnY0dlpya051dl83OXhmUEJCTG5CZmtwdWt3NDhCbEIzQmJ0YW5WNHlwb0FyMUVOWUFzVjNlQVJhNzhqWWpkNThwLVN1YUlnMFFYc0xRVHJLSE1tbnJ6ZzBuSFhqdUZxY2pSVkREVUNMV1lJM0hTRHBBUXBKV3JMdWhfMEloUXhoM09BbzdXbGlzUQ?oc=5) (Yahoo Sports) | claude |
 |  | La Liga | Barcelona | - | 미상 | [New setback strikes Barcelona star as Kounde awaits Flick's decision](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVAyNWh0QXBtMWV5TzZaWFNrLXp6UlNkRm1KTjlwaFBVcG03cUVGVm9VYWpIaEdienEydmRPUGZLYTNfMG5wWTdqQ1F6bS1JSHNDMnphX0h5UmdKOElfd3ZKREJQQktUWjAyczU3UEFXUHdmdzhIdlF0Z3FHR2JGSm93RWFxV2VGcEdwaEJMWWVLdWlhR0RhQ01iMER4WmVCVTlXWUxVeTM5bFA3a2ZaN0MxTFJkOW1DTWpoTnJlRVg?oc=5) (LiveScore) | claude |
 |  | Premier League | Joao Pedro · Chelsea | - | 미상 | [Injury-hit Chelsea aim to halt slide against Leeds as Alonso confirms Pedro's absence](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFVvVWVUanZqeFB5SC05Q0k5TlYzZ09SX0x5Q3EtY0FCLUJsd2piRTdlVXh2ZW9YUGVwNHh3WFIyTmhnMnIwX3VBRGcwVmlWRXotaXVqT0FyeS1tcEkxb2hEdzE4eW5sY3RiZ2M1R0VjQjdZc3lXdkp3WDdIcU9CZ0VsZzZpa2lTU2JLWEZpTXVza3ZPMG5BT3hmbXBrQ1cxZGtFOUJiZHFrVDlBbGtvSUJMREU4ZmFnak00WXdHSmd1blY5aF93?oc=5) (Reuters) | claude |
 |  | Premier League | Liverpool | - | 미상 | [Liverpool star pulled out of game with freak injury following GTA release](https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWh2TW84ZXJaanVneFNPZHhXc0ZMTFllU1AzbDZoWmVLUjFIVzBHc09vRDFCSV9oaVB4N2VWU2U4V05tTnpHZVR6dGx5UUU5QW04dGctSHpDQUszN240cEk4VmNidUV4ckc0bHM2bjFuQk95OXo3RDNWV2txYzA5QS1fTTZ2RHJJU0NpRzV4WWZXdW1vN0hUVThUWWhJbEdDRENWamEtZldpZnpkb0FuTXNsSXhkOG9LczFyVUJzYVdhb25IblpyX2FTakh3Yk9mSjhSMDJGNmxRbGJCcFA0SzM5NE8ydWVYdVFxRldTQXFuZmM0akRmb0ozZ24zY3Nva05lVkwxZFFQM1JHdnc?oc=5) (FourFourTwo) | claude |
+|  | La Liga | Andreas Christensen · Barcelona | - | 미상 | [¡Christensen alarm! A major doubt for Sunday against Villarreal 🤕](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDBzZEIwYU13Rm5vLWs4aXd2Ym42aV90ZHFTcHFHT2EwcHE3MGtoTUZHMTFZc2FFZTlrdjRBUmJsZ3l6WmsxSTBjTERHWTRWMmFVYWtLbUo5X0JHc1E5YjNndjdTaEl0MzZCVVVKeUZNSXRpTlRwREZ3d0kwYkJEZVBVdGN6VlhLWU1jUndn?oc=5) (Yahoo Sports) | claude |
 |  | Premier League | Joao Pedro · Chelsea | - | 미상 | [Joao Pedro injury update with five Chelsea stars to miss Leeds clash](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFExVmFsU1BuV0MwaFRpdFZXMy05U3hDTFBNcU03UGRIeFlPcVBTT2tpY2lJTnREMWxEcjctY3ZjbkRYYWNyNWV3amU1bE9uVGQxWTlUUENNQ3RHY29nSHpGNGJJOHVOXzNCNlRyaXdsc3hPaFRhc2FoZ1VTTjB0S1lTSHB1Wnpnc1YweDZvZzlQcnRyeGozZUdGTWVGYUdkVE5F0gGoAUFVX3lxTFB5YjdBZ2RURW83UnNWVVZJOWhkT1psbjZsV2VrOFNuck54dVhJN2FNNVJwTkhYU2VQc2ZudnZfMEE2SG12QnY2dVc3SUxkcE5US19fM2dlTVBuTUtVOFlxNnVvZnV1Rm16TXY2YmlVUWNORmFiWHBxeDFWOGdnUnktRlpoc0JwUFNJVHF2QW5FcTd5QkxwT3dkWURCX0tOTXdfakowOG5XWA?oc=5) (Metro.co.uk) | claude |
-|  | Premier League | Benjamin Lecomte · Fulham | 아킬레스건 | 중증 (8주 이상 / 수술 / 파열) | [Official | Fulham goalkeeper Benjamin Lecomte sustains season-ending Achilles injury](https://www.getfootballnewsfrance.com/2026/official-fulham-goalkeeper-benjamin-lecomte-sustains-season-ending-achilles-injury/) (Get French Football News) | claude |
 |  | Ligue 1 | Abdelmonem · Nice | - | 미상 | [Egypt defender Abdelmonem ruled out of Nice’s Ligue 1 clash agaisnt PSG - Talents Abroad - Sports](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aME4wZVBCdkgwLXVST0tOTnQtcnRWb1FqTUVXcndwcXR5dm9JUE1GVzFSMUhhenpsQlFpQkg0NlZ5alRpQUJHVXNPUVJaZkdWX0pyT0gtQ1A?oc=5) (Ahram Online) | claude |
 |  | Serie A | Moise Kean · Como | - | 미상 | [Kean’s new tibia injury rules former Juventus striker out of Como v Juventus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnhUSXphT1NfczRWNXNiNE5pWVlHRHEwY1ZGLUVDUVVIRjF3ODhPcmllcndxSG1jM3hKMnBJeGd5dFRGV3pha2F4akVFNHQ3Yzl5OUN4cTduclVocThFN1VMcWJHcVhzUDh0cm4xZ3RoYzNJRERqVWRiX05tSDk3RlhmSVJwc2YyRWNTWlNsVWJ0dVlZcnFTQWtOa0t2SnlUQUUwVnpqenA5bFdrb0RsU3BFM1pSTThYNWR3bEdiUzBmMlBPT2lFX0p4ZktDNnlxanNR?oc=5) (LiveScore) | claude |
 |  | Premier League | Bukayo Saka · Arsenal | - | 미상 | [Saka could miss Arsenal matches until Christmas — The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxNelJTVTNZcFh6dmZzTGhXSkM2aktaR3FxbnAxaE1sZWpsa0JuRXg1Yi1kNWdURFpycFpFNDRjMlo3cE9icGM4VFNmYzA1ZElCOTJhZzgzYUw1LTNZdElyZ0NsbzQtWjJ5Q1VjMzM5eTFsUW1WbXg0UVpJZzdLeVJNQ0ZCbGMwOFhpTUdUdW9FMjVjbG5rTFhrVg?oc=5) (UA.NEWS) | claude |
-|  | Premier League | João Pedro · Chelsea | - | 미상 | [Nine players could miss Chelsea's match against Leeds United with João Pedro a concern](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDVHaU1tbTVxUTlFbUNlQjFhaE5NMUl4THZXS0Y1Nk1XeHQ3UmVDcm0zeVZQX1NaZ0RZRG5RaHViUUxxeDVxNlZLX2doVElJZGFBc3JsM0o1YW9FV1pUYldTcVJVQjJvem4tZjRLeDNIYnRvUGd6TVcyOHppYnNacGp4QnRjSWNU?oc=5) (Yahoo Sports) | claude |
 |  | Ligue 1 | Mohamed Abdelmonem · OGC Nice | 햄스트링 | 미상 | [OGC Nice’s Mohamed Abdelmonem ruled out of PSG clash](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1k2bFo1ME1XY0gyZklwYjlCNDMxOUhnTEpxc0lWdi1aVHREcFU3UXhLTndhSThQSTNjeVJCb0p5OHZ6YXFYbnFPdG9JVFpYN1V3WjRzWlVLR0FuTFBLUld5aDd3Qkhub245MlY2cTdVc1FhNmIwSDJhWGJURklIakt4Mlp6cURyclFBZlM3ZnpzNHpiVXdQLWoxcw?oc=5) (Get French Football News) | claude |
+| 🆕 | Ligue 1 | Danny Namaso · Auxerre | 발목 | 미상 | [Danny Namaso out for Auxerre at Monaco with an ankle injury](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzNJS1hIWEczaENlSFRXT1FjSFR1Nzg3YmFldl9nSXUzRE1aR1plWDVYalp1bGFYRFV6eE9HWGVsZTlDTzRBdDB3M19Ea0FnUjdRakxxdU5Cc2xGSVBwLXB5U29mUWhiT2g5NHJvZE1WN0RDMzRSbDRHODVEanlJdFpTRjdfRDV5VW9qRUczNlptUV9OT0pfajFpZkZQS3Bha1E5Zg?oc=5) (Tu Futbolero) | claude |
 
 ## 오늘의 콘텐츠 후보 (채널 적합도 순)
 
@@ -44,8 +45,8 @@
 |---|---|---|---|---|
 | 1 | Mohamed Abdelmonem | 햄스트링 | ★★★★★ | 스프린트 부상 = 채널 주제(속도)와 직결. 시연 운동(Nordic, RDL)이 화면에 잘 보임 |
 | 2 | Harry Kane | 발목 | ★★★★ | 가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능 |
-| 3 | Mathys Tel | 발목 | ★★★★ | 가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능 |
-| 4 | Andreas Christensen | 종아리 | ★★★★ | 28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅 |
+| 3 | Andreas Christensen | 종아리 | ★★★★ | 28세+ 팔로워(70%)에게 직접 해당. 비복근 vs 가자미근 비교가 좋은 훅 |
+| 4 | Danny Namaso | 발목 | ★★★★ | 가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능 |
 | 5 | Lecomte | 아킬레스건 | ★★ | 의료 단계가 길어 시연이 제한적 |
 
 ### 1. Mohamed Abdelmonem · OGC Nice — 햄스트링 (미상)
@@ -114,7 +115,7 @@ Phase 2 · Rebuild strength & length (weeks 2–4)
 ```
 
 ### 2. Harry Kane · Bayern Munich — 발목 (중증 (8주 이상 / 수술 / 파열))
-- [Harry Kane limps off and will be out 2 months with ankle injury as Bayern held by Cologne | Sports | 2news.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVkdVV3hwZzd4TmdkTWlzMExQMmtiMkNSc28yNjRuWE1wR2lNU2puRnRaejEtSTdZMm8wMkFsTVR1OTIwc3RhSExVSDBVLVM5MkFIWU94aWZvdUxyV2pKWnFDZGNQajZIQXhPem4wYmxOTmJfQTlOeWpDeEN3NktPYXoyQml0UktzQjF5Ujk5N0tfS0xsMTlJaGtqekxBZ3BvQWRpOHI5NnpyWWdncms3cXFzVElrcmh1R0p0MGQtTWc1OWZIYXpvWVFZNjRwZF9STGJ5cjFZRm9Ob0NpZHFXR1RIZklpcGs?oc=5) · Bundesliga · KTVN
+- [Harry Kane ruled out for months after suffering ankle ligament injury in Bayern Munich draw](https://news.google.com/rss/articles/CBMijgJBVV95cUxORVJMTjI3Ri02OGJ0aU55TWFsMGNhQkRHOVY5RFZocmxOMmt3OWhWaE1RTzIwaURYQmVlclJQeTRzMkpmQ1hzckZkV05PZmlpelVVdVBZeTkyNzBVRHN6bEd4M2ZJcjBFN0laM0VHWWI5WUJSX2tCdTlUWXY3S3k0WkVSdThkTWphMGlPVVpzMEJhSGktTmdBR1c4cEpnZ2I3RlF5UGdTUGxMMEswa0t5QXNtTmRvVzlUb1hCU01xdTdnbHA1d0Ixcm92TGhlZU14STkyd25qSExpcUoyTl83ZVJxeGdva1J0T3JRRHhScmEyYzZodGNnUThUckRraWJIVXF4S3lEQzctZDdRdkHSAZMCQVVfeXFMTzFINHB4NG54bWlOcmxOMWpiVl90dmdkMWNLU18yMjRiTk14azZKU0tZREdjY3RDN3ZFdHl4Y3VNdDBTdFdtd1ZEVWxVSlk1eTVKWmpTZ1NrdHh0SXEzLW1vbkppMThIYVpXbGZlS0NBMk15QUtOaHowbVJERmRnRHBrbVV5dXJZT0lHLWNpM0NuSVIzRXpqYTRPdlJ6RnBBZ3h5dEtGaTFBWFQtdkRVdjAyLWN3QV9lUnBfdUZBYzRiLVlpMGtGN3ZyWk5XdDRqQ3QzWWNVX0I0UEdmNXpQZmRGNm5Cc3YxTFY2dUt1RjJDMDNtaWFMUl9LbjhEOHJidVNxZXUyUzdvRGtOU21oSENPSXc?oc=5) · Bundesliga · The Times of India
 - 콘텐츠 각도: Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.
 - 주의: Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.
 
@@ -178,72 +179,7 @@ Phase 1 · Protect & move (days 1–7)
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 3. Mathys Tel · Tottenham — 발목 (중간 (2~8주))
-- [Tottenham’s Mathys Tel out for two to three weeks with ankle injury – Roberto De Zerbi](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb05TUTF3SFdhLUNlNldOUzhSeVdCdTlRMHZhYUJCUDZGWHR2Ml9WS3ZDWW1SX183X1BtSXBNWXdlMDFaWnhBaHNRNHNhbFpjY2VhZE9BZ2ZwMDRwLWlkS01BNktxcEMyTDUxQVB1WjRVWjVRTzRPcUROZURnd0xxVzNNR3k0eWdlak9R?oc=5) · Premier League · The New York Times
-- 콘텐츠 각도: Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.
-- 주의: Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.
-
-**어디·무슨 근육**
-- 위치: 발목 바깥쪽 복사뼈 주변. 발이 안으로 꺾일 때 바깥쪽 인대(전거비인대 ATFL, 종비인대 CFL)가 늘어나거나 찢어진다. 복사뼈 위쪽이 아프면 '하이 앵클(syndesmosis)'로 더 오래 걸린다.
-- 근육: 비골근(peroneals, 종아리 바깥쪽 — 발이 안으로 꺾이는 걸 막는다) · 비복근·가자미근(종아리) · 전경골근(정강이 앞).
-- 집중: 인대는 늘어나면 돌아오지 않으므로 그 역할을 근육과 균형 감각(고유수용감각)이 대신해야 한다. 비골근 강화 + 한 발 균형이 재발 방지의 핵심. 발목 염좌 재발률이 높은 이유는 이 단계를 건너뛰기 때문.
-
-**촬영할 단계:** Phase 2 · Strength & balance (weeks 2–4) — 비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.
-1. Band eversion/inversion, 3×15 — 영상 촬영 필요
-2. Single-leg balance, eyes open → closed — 영상 촬영 필요
-3. Standing calf raises, double → single leg — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Protect & move (days 1–7)** — 붓기 관리, 통증 없는 범위에서 움직여 뻣뻣함 방지, 가능한 만큼 체중 싣기.: Ankle alphabet for pain-free range · Towel scrunches and toe spreads · Weight-bearing as tolerated, seated calf raises
-- **Phase 2 · Strength & balance (weeks 2–4)** — 비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.: Band eversion/inversion, 3×15 · Single-leg balance, eyes open → closed · Standing calf raises, double → single leg
-- **Phase 3 · Return to cutting (weeks 4+)** — 점프 착지와 옆 방향 반응 동작에서 발목이 버티게 한다.: Pogo hops → single-leg hops · Lateral hops with stuck landings · Reactive change-of-direction drills
-
-</details>
-
-**캡션 (EN)**
-```
-Mathys Tel (Tottenham): ankle injury. Here's what the comeback usually looks like.
-
-Most ankle rehab has 3 stages. This is the one that gets rushed:
-Phase 2 · Strength & balance (weeks 2–4)
-1. Band eversion/inversion, 3×15
-2. Single-leg balance, eyes open → closed
-3. Standing calf raises, double → single leg
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Mathys Tel (Tottenham): lesión de tobillo. Así suele ser la vuelta.
-
-La rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:
-1. Band eversion/inversion, 3×15
-2. Single-leg balance, eyes open → closed
-3. Standing calf raises, double → single leg
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-**캡션 (DE)**
-```
-Mathys Tel (Tottenham): Verletzung an der Sprunggelenk. So sieht das Comeback meistens aus.
-
-Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 2 · Strength & balance (weeks 2–4)
-1. Band eversion/inversion, 3×15
-2. Single-leg balance, eyes open → closed
-3. Standing calf raises, double → single leg
-
-⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
-
-💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
-```
-
-### 4. Andreas Christensen · Barcelona — 종아리 (경미 (2주 미만))
+### 3. Andreas Christensen · Barcelona — 종아리 (경미 (2주 미만))
 - [Barcelona star has missed 100 games for the club through injury](https://getfootballnewsspain.com/barcelona-star-has-missed-100-games-for-the-club-through-injury/) · La Liga · Get Spanish Football News
 - 콘텐츠 각도: Calf injuries climb after 28: show why soleus strength (bent-knee raises) is the missing piece.
 - 주의: Sudden calf pain with swelling or warmth needs a check for a clot before any rehab.
@@ -302,6 +238,71 @@ Phase 3 · Elastic & sprint
 1. Pogo jumps for ankle stiffness
 2. Skipping and bounding
 3. Sprint build-ups
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
+
+### 4. Danny Namaso · Auxerre — 발목 (미상)
+- [Danny Namaso out for Auxerre at Monaco with an ankle injury](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzNJS1hIWEczaENlSFRXT1FjSFR1Nzg3YmFldl9nSXUzRE1aR1plWDVYalp1bGFYRFV6eE9HWGVsZTlDTzRBdDB3M19Ea0FnUjdRakxxdU5Cc2xGSVBwLXB5U29mUWhiT2g5NHJvZE1WN0RDMzRSbDRHODVEanlJdFpTRjdfRDV5VW9qRUczNlptUV9OT0pfajFpZkZQS3Bha1E5Zg?oc=5) · Ligue 1 · Tu Futbolero
+- 콘텐츠 각도: Most ankle sprains come back because balance training gets skipped: show the 3 balance drills every footballer should do.
+- 주의: Inability to take 4 steps, bone tenderness or a syndesmosis (high ankle) sprain means imaging and a longer timeline.
+
+**어디·무슨 근육**
+- 위치: 발목 바깥쪽 복사뼈 주변. 발이 안으로 꺾일 때 바깥쪽 인대(전거비인대 ATFL, 종비인대 CFL)가 늘어나거나 찢어진다. 복사뼈 위쪽이 아프면 '하이 앵클(syndesmosis)'로 더 오래 걸린다.
+- 근육: 비골근(peroneals, 종아리 바깥쪽 — 발이 안으로 꺾이는 걸 막는다) · 비복근·가자미근(종아리) · 전경골근(정강이 앞).
+- 집중: 인대는 늘어나면 돌아오지 않으므로 그 역할을 근육과 균형 감각(고유수용감각)이 대신해야 한다. 비골근 강화 + 한 발 균형이 재발 방지의 핵심. 발목 염좌 재발률이 높은 이유는 이 단계를 건너뛰기 때문.
+
+**촬영할 단계:** Phase 2 · Strength & balance (weeks 2–4) — 비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.
+1. Band eversion/inversion, 3×15 — 영상 촬영 필요
+2. Single-leg balance, eyes open → closed — 영상 촬영 필요
+3. Standing calf raises, double → single leg — 영상 촬영 필요
+
+<details><summary>전체 3단계</summary>
+
+- **Phase 1 · Protect & move (days 1–7)** — 붓기 관리, 통증 없는 범위에서 움직여 뻣뻣함 방지, 가능한 만큼 체중 싣기.: Ankle alphabet for pain-free range · Towel scrunches and toe spreads · Weight-bearing as tolerated, seated calf raises
+- **Phase 2 · Strength & balance (weeks 2–4)** — 비골근 근력과 한 발 균형. 눈 감고도 설 수 있을 때까지.: Band eversion/inversion, 3×15 · Single-leg balance, eyes open → closed · Standing calf raises, double → single leg
+- **Phase 3 · Return to cutting (weeks 4+)** — 점프 착지와 옆 방향 반응 동작에서 발목이 버티게 한다.: Pogo hops → single-leg hops · Lateral hops with stuck landings · Reactive change-of-direction drills
+
+</details>
+
+**캡션 (EN)**
+```
+Danny Namaso (Auxerre): ankle injury. Here's what the comeback usually looks like.
+
+Most ankle rehab has 3 stages. This is the one that gets rushed:
+Phase 2 · Strength & balance (weeks 2–4)
+1. Band eversion/inversion, 3×15
+2. Single-leg balance, eyes open → closed
+3. Standing calf raises, double → single leg
+
+⚠️ General training education, not medical advice. Injured? See a physio first.
+
+💬 Comment SPEED for my 6-week speed program (for healthy players).
+```
+**캡션 (ES)**
+```
+Danny Namaso (Auxerre): lesión de tobillo. Así suele ser la vuelta.
+
+La rehabilitación de tobillo tiene 3 fases. Esta es la que más se apresura:
+1. Band eversion/inversion, 3×15
+2. Single-leg balance, eyes open → closed
+3. Standing calf raises, double → single leg
+
+⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
+
+💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+**캡션 (DE)**
+```
+Danny Namaso (Auxerre): Verletzung an der Sprunggelenk. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 2 · Strength & balance (weeks 2–4)
+1. Band eversion/inversion, 3×15
+2. Single-leg balance, eyes open → closed
+3. Standing calf raises, double → single leg
 
 ⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
 
@@ -375,6 +376,8 @@ Phase 1 · Medical phase (surgery or boot, weeks 0–8)
 
 ## 선수 미확인 (알림 보내지 않음)
 
-- La Liga: [Blow for Barcelona: official statement confirms new injury in Flick's squad](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHJnS0JxeDVSdVdMTjlqOXZYLWN0ZnYwc3RwM1NxWjhLaHYwU1BNNWNBYjdJQXZjZm50blJWbTRVakNiOWVvQVVWbDBidG1acWtyVVd4ZEVwTEN1NlNEM2RlYkdiRXBXT2hzUlZfS0s3MWsyaS1RQ0NYaXNxbFZKWHlkQjZZNlZHVWZ5WEF1WWlZRldfZTdZeWIzRklUeDN6eDB1WV92NFlXZGRaR0xPRGhCbER2WUVjRTNkeVFYLWQ2X0NEd3YtTg?oc=5) (LiveScore)
+- Premier League: [Alvaro Arbeloa confirms season-ending injury in Fulham fitness update ahead of Man City clash](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTRXTmpmTEM3S0hvd21YRnRlV0VldnhiSUU2SUg3S2NETG04MUJoS19jdk1FaFlEZTEzRWtEcEdEcG1aeWZBVWRXZUltTzFjQXhoYXJiblpfeUpndkRvQ3M5RVB1ODBzTnUtRmNBQnpBTXlwNWx4UzRweTRXV2xqd19vcVYwNlgwT3g2M0gzMVU3MTJlV2c2Yk9YbkdmaXJyVEMyV3FZYjY1ODdTemJiSzNESjlvSXVES2dabGRuSjFPc1doOEZzendILVppM2VwV0E?oc=5) (Sports Mole)
+- Premier League: [Brentford news: Keith Andrews confirms double injury blow ahead of Everton meeting](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaWNlaGhBa2tBVnd4N1pSZV9VN2gwQzh2S21UZGVpbHNLUUJqNTJXaDZuNkoybzFlQUlFUkVYSE9TNWVnZUVHNWF4Qk5uZ2E4dDhMZjE4NGtHYkZtSWk5aFBYMi1LYnhEeXRJYXVXWHEtTHVHR3V4QVRVRUR5MDhxNWt1Q0tXQ1ZaN2RObnBQbFZ4LVQ1ZEdiX3Z5dkdXVVJBMDBaUF9TWUZrV3R4eF9rSDNtZlplc19icm8tWEJWOHpuSEJyMUNrVEJwQWpWM3IxS2VpYzNxZ0V0Z1haekwydA?oc=5) (Sports Mole)
+- Premier League: [Opponent watch: Arsenal midfielder a doubt for Champions League clash vs Real Madrid](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnY0dlpya051dl83OXhmUEJCTG5CZmtwdWt3NDhCbEIzQmJ0YW5WNHlwb0FyMUVOWUFzVjNlQVJhNzhqWWpkNThwLVN1YUlnMFFYc0xRVHJLSE1tbnJ6ZzBuSFhqdUZxY2pSVkREVUNMV1lJM0hTRHBBUXBKV3JMdWhfMEloUXhoM09BbzdXbGlzUQ?oc=5) (Yahoo Sports)
 - La Liga: [New setback strikes Barcelona star as Kounde awaits Flick's decision](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVAyNWh0QXBtMWV5TzZaWFNrLXp6UlNkRm1KTjlwaFBVcG03cUVGVm9VYWpIaEdienEydmRPUGZLYTNfMG5wWTdqQ1F6bS1JSHNDMnphX0h5UmdKOElfd3ZKREJQQktUWjAyczU3UEFXUHdmdzhIdlF0Z3FHR2JGSm93RWFxV2VGcEdwaEJMWWVLdWlhR0RhQ01iMER4WmVCVTlXWUxVeTM5bFA3a2ZaN0MxTFJkOW1DTWpoTnJlRVg?oc=5) (LiveScore)
 - Premier League: [Liverpool star pulled out of game with freak injury following GTA release](https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWh2TW84ZXJaanVneFNPZHhXc0ZMTFllU1AzbDZoWmVLUjFIVzBHc09vRDFCSV9oaVB4N2VWU2U4V05tTnpHZVR6dGx5UUU5QW04dGctSHpDQUszN240cEk4VmNidUV4ckc0bHM2bjFuQk95OXo3RDNWV2txYzA5QS1fTTZ2RHJJU0NpRzV4WWZXdW1vN0hUVThUWWhJbEdDRENWamEtZldpZnpkb0FuTXNsSXhkOG9LczFyVUJzYVdhb25IblpyX2FTakh3Yk9mSjhSMDJGNmxRbGJCcFA0SzM5NE8ydWVYdVFxRldTQXFuZmM0akRmb0ozZ24zY3Nva05lVkwxZFFQM1JHdnc?oc=5) (FourFourTwo)
