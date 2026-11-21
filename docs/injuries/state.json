@@ -7219,6 +7219,442 @@
     "summary_en": "Danny Namaso misses Auxerre's trip to Monaco with an ankle injury.",
     "extractor": "claude"
    }
+  },
+  "dou:knee_other": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "title": "PSG lose Doue to knee injury in Ligue 1 win at Nice"
+  },
+  "title:psglosedouetokneeinjuryinligue1winatnice": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG lost Doué to a knee injury during their league win at Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgwinatnicetoextendrunto12butlosedoutoinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG extended their winning run at Nice but Doué was injured.",
+    "extractor": "claude"
+   }
+  },
+  "dou:knee_acl": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "title": "PSG Fear Doue Suffered ACL Injury Ahead of Roma Clash"
+  },
+  "title:psgfeardouesufferedaclinjuryaheadofromaclash": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG fear Doué has an ACL injury before facing Roma.",
+    "extractor": "claude"
+   }
+  },
+  "title:anotherhorrificinjuryforpsgdesiredoueappearstosufferseriousinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué appears to have sustained a serious injury for PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:anotherhorrificinjuryforpsgattackingstarappearstosufferseriousinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed PSG attacker appears to have suffered a serious injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgfeardoueaclinjuryinlatestblowaheadofromaclash": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG are worried Doué has an ACL injury ahead of the Roma match.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgforwarddesiredouesuffersinjuryagainstnice": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué was injured in PSG's match against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgplaymakerdesiredouestretcheredoffintearsaftersufferinganastykneeinj": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué was carried off on a stretcher with a knee injury against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdousuffersrightkneeinjuryagainstnice": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué hurt his right knee against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "mingueza:unknown": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "title": "Crystal Palace sweating over Oscar Mingueza injury as defender sent for scans"
+  },
+  "title:crystalpalacesweatingoveroscarminguezainjuryasdefendersentforscans": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Oscar Mingueza",
+    "club": "Crystal Palace",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Crystal Palace sent Mingueza for scans over an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdoustretcheredoffintearspsgfearcruciatedamage": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG fear cruciate ligament damage for Doué after he was stretchered off.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdousuffersseriouskneeinjuryagainstnice": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué sustained a serious knee injury against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:psglosedouetorightkneeinjuryagainstnice": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG lost Doué to a right knee injury at Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:premierleaguestarlimpsoffwithscaryinjuryaftersickeningfall": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Premier League player limped off after a bad fall.",
+    "extractor": "claude"
+   }
+  },
+  "title:premierleaguestarsuffersfreakinjurycomingoutoftunnelinbizarrescenesdur": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed player was hurt leaving the tunnel during Coventry versus Palace.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykanefacesmonthsoutaftersurgeryasbayernawaitolise": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane faces months out after surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:moisescaicedolimpsoffinjuredaftersickeningfallinchelseasclashvsleedsas": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Caicedo limped off after a bad fall against Leeds.",
+    "extractor": "claude"
+   }
+  },
+  "title:chelseasuffernewmoisescaicedoinjuryblowasxabialonsoforcedintoearlyleed": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Caicedo was injured early against Leeds.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernconfirmkanefacesmonthsoutwithankleinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern confirmed Kane will miss months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsufferbiginjuryblowagainstfckoln": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern suffered an injury blow against Köln.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsharrykaneundergoessurgeryonankleinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane had ankle surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayerndrawwithcologneaskanepicksupankleinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane had surgery on torn ankle ligaments and will be out for months.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjuredstarenglishstrikerruledoutformonthsasbayernmunichconfi": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane has been ruled out for months.",
+    "extractor": "claude"
+   }
+  },
+  "title:laziodefendergivennewinjurytimelineafterlatesttests": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Lazio defender received a new recovery timeline.",
+    "extractor": "claude"
+   }
+  },
+  "title:afterhisinjuryagainstcolognebayernmunichannouncenewdevelopmentregardin": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern gave an update on Kane's surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjurynewslatestupdatebayernmunichenglandstaroutseveralmonths": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": "several months",
+    "summary_en": "Kane is out for several months with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjurysettorulehimoutofbayernstriptomanutd": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane is expected to miss the trip to Manchester United.",
+    "extractor": "claude"
+   }
+  },
+  "lecomte:unknown": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "title": "Serious injury rules Fulham goalkeeper Benjamin Lecomte out for the rest of the season"
+  },
+  "title:seriousinjuryrulesfulhamgoalkeeperbenjaminlecomteoutfortherestofthesea": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "Benjamin Lecomte",
+    "club": "Fulham",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lecomte is out for the rest of the season with a serious injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:injuryupdatehickeyandcollinsoutforanumberofweeks": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Hickey and Collins are out for several weeks.",
+    "extractor": "claude"
+   }
+  },
+  "title:joopedroruledoutofchelseavsleedswiththighinjury": {
+   "first_seen": "2026-11-21T18:50:22.086158+00:00",
+   "facts": {
+    "player": "João Pedro",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "João Pedro misses the Leeds game with a thigh problem.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
