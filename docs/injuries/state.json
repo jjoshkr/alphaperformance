@@ -8315,6 +8315,292 @@
     "summary_en": "Kane's ankle injury rules him out against Manchester United.",
     "extractor": "claude"
    }
+  },
+  "doue:knee_acl": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "title": "PSG rocked as Desire Doue suffers devastating ACL injury"
+  },
+  "title:psgrockedasdesiredouesuffersdevastatingaclinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue has suffered an ACL injury.",
+    "extractor": "claude"
+   }
+  },
+  "doue:knee_other": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "title": "Paris Saint-Germain forward Desire Doue to undergo knee surgery"
+  },
+  "title:parissaintgermainforwarddesiredouetoundergokneesurgery": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue will have knee surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:staystrongneymarsendsheartfeltmessagetodesiredoueaspsgstarsuffersseaso": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Neymar messaged Doue after his season-ending ACL injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdouetohavesurgeryonrupturedacl": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue will have surgery on a ruptured ACL.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdouestretcheredoffintearswithsuspectedkneeinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue was stretchered off with a suspected knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgmidfielderdsirdouruledoutwithaclinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué is ruled out with an ACL injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgconfirmanotherdevastatingseasonendinginjurytofirstteamstar": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": null,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG confirmed a season-ending injury to a first-team player.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgwingerdsirdoutohavesurgeryafterseriouskneeinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué needs surgery after a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgwingerdsirdoufaceskneeinjuryduringligue1clashtoundergosurgeryinnove": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué hurt his knee in a league match and will have surgery in November.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdesiredouetoundergosurgeryafterseriouskneeinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue will undergo surgery for a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgconfirmdouetoundergosurgeryaftersufferingaclinjury": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG confirmed Doue needs ACL surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamhotspursuffermajorinjuryblowinipswichtownclash": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tottenham suffered an injury against Ipswich.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdououtfortheseasonwithacltearpsgconfirm": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué is out for the season with an ACL tear.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonahitbylamineyamalinjuryscareaheadofkickoffagainstvillarreal": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yamal had an injury scare before the Villarreal match.",
+    "extractor": "claude"
+   }
+  },
+  "vergara:muscle_general": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "title": "Allegri reveals possible cause of Vergara’s injury, warns Napoli fans about Man City clash"
+  },
+  "title:allegrirevealspossiblecauseofvergarasinjurywarnsnapolifansaboutmancity": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Antonio Vergara",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Vergara sustained another muscle injury against Torino.",
+    "extractor": "claude"
+   }
+  },
+  "olise:foot": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "title": "Bayern Munich’s Michael Olise set to miss Lille game"
+  },
+  "title:bayernmunichsmichaelolisesettomisslillegame": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "foot",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Olise has a bruised left foot and will likely miss the Lille game.",
+    "extractor": "claude"
+   }
+  },
+  "awoniyi:unknown": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "title": "EPL: Iwobi makes Fulham history as Awoniyi scores before injury in Coventry win"
+  },
+  "title:epliwobimakesfulhamhistoryasawoniyiscoresbeforeinjuryincoventrywin": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Awoniyi",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Awoniyi scored then got injured against Coventry.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjurymikelartetasnotgoodnewsupdateleavesarsenalfacinganxious": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta gave a negative update on Raya.",
+    "extractor": "claude"
+   }
+  },
+  "title:kaneoutofactionaftersurgeryonankleinjurybayernsay": {
+   "first_seen": "2026-11-22T19:12:18.825695+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane had ankle surgery.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
