@@ -8073,6 +8073,248 @@
     "summary_en": "Flick discussed transfers after Christensen's setback.",
     "extractor": "claude"
    }
+  },
+  "title:artetaprovidesinjuryupdateondavidraya": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta gives an update on goalkeeper David Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:alonsosinjuryupdateoncaicedo": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Chelsea manager Alonso updates on Moises Caicedo's injury.",
+    "extractor": "claude"
+   }
+  },
+  "savio:unknown": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "title": "De Zerbi on Savio injury, Williams-Barnett's impact and more"
+  },
+  "title:dezerbionsavioinjurywilliamsbarnettsimpactandmore": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Zerbi discusses Savio's injury among other topics.",
+    "extractor": "claude"
+   }
+  },
+  "title:manuniteddealtmajorinjuryblowaheadofliverpoolclash": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Manchester United suffer an unspecified injury setback before facing Liverpool.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryupdateartetaconfirmssundaymriafternewcastledraw": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will have an MRI scan after being hurt in the Newcastle draw.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgstrengthenligue1leadwiththrillingwinovernicebutdouinjuryworriesenri": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG beat Nice but Doué's injury concerns Luis Enrique.",
+    "extractor": "claude"
+   }
+  },
+  "title:dezerbislatestonsaviosinjury": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Zerbi gives the latest on Savio's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:moisescaicedoinjuryxabialonsomakesworryingadmissionafterchelseastarsla": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Moises Caicedo",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alonso expresses concern about Caicedo's latest injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryworryovershadowsarsenalsdrawagainstnewcastleunited": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya's injury dominated Arsenal's draw with Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayasustainsshoulderinjuryduringarsenalvsnewcastleclash": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya hurt his shoulder against Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:desiredouesuffersacltearaspsgbeatsogcnice": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué tore his ACL during PSG's win over Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdesiredouestretcheredoffwithseriouskneeinjury": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué was carried off with a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:enriqueconfirmsseriouskneeinjuryforparissaintgermainforwarddesiredoue": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Luis Enrique confirmed Doué has a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgplaymakerdesiredouestretcheredoffaftersufferinganastykneeinjuryagai": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué left on a stretcher with a knee injury against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryexpertpredictshowlongarsenalstarcouldmissafternewcastle": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An expert estimates Raya's absence after the Newcastle match.",
+    "extractor": "claude"
+   }
+  },
+  "title:andreaschristensenpaucubarsinjuriesleavebarcelonawithdefensivecrisis": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Christensen and Cubarsí injuries create a Barcelona defensive crisis.",
+    "extractor": "claude"
+   }
+  },
+  "title:highsandlowsharrykanespeaksoutasankleinjuryrulesbayernmunichstrikerout": {
+   "first_seen": "2026-11-22T10:52:15.602980+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane's ankle injury rules him out against Manchester United.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
