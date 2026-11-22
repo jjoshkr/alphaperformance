@@ -7655,6 +7655,424 @@
     "summary_en": "João Pedro misses the Leeds game with a thigh problem.",
     "extractor": "claude"
    }
+  },
+  "title:christensenandcubarsiinjurieshandbarcabossflickdefensiveheadache": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona have injuries to two defenders, Christensen and Cubarsi, creating selection problems for Flick.",
+    "extractor": "claude"
+   }
+  },
+  "raya:shoulder": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "title": "Mikel Arteta Confirms MRI Scan for David Raya After Shoulder Injury vs Newcastle: 15 outlets compared"
+  },
+  "title:mikelartetaconfirmsmriscanfordavidrayaaftershoulderinjuryvsnewcastle15": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta confirmed Raya will have an MRI on a shoulder injury sustained against Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:estevaolinkstopsgwillunfortunatelyintensifyfollowingdesiredouesserious": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué's serious injury may increase PSG's interest in Estevao.",
+    "extractor": "claude"
+   }
+  },
+  "raya:unknown": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "title": "The games 'important' Arsenal star Raya could miss through injury"
+  },
+  "title:thegamesimportantarsenalstarrayacouldmissthroughinjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya could miss key Arsenal fixtures because of injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:eplarsenalawaitmriresultsonrayasshoulderinjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal are waiting on MRI results for Raya's shoulder.",
+    "extractor": "claude"
+   }
+  },
+  "title:verybadnewsforpsgdesiredouehastornhisacl": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué has reportedly torn his ACL.",
+    "extractor": "claude"
+   }
+  },
+  "title:desiredouestretcheredoffpitchintearsaspsgbossluisenriqueconfirmsseriou": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué was stretchered off after a non-contact injury that Luis Enrique called serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:injuryexpertpredictshowlongdavidrayawillmissafternewcastlevsarsenalsca": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An injury expert estimates Raya's absence after the Newcastle match.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayalikelytohavemriaftershoulderinjuryhowmuchwouldarsenalmisshim": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya is expected to have an MRI on his shoulder.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgwingerdsirdousustainsrightacltear": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué reportedly tore his right ACL in the win at Nice and may miss the rest of the season.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryupdateshouldermribeforedortmundandcity21november": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya faces a shoulder MRI ahead of matches against Dortmund and City.",
+    "extractor": "claude"
+   }
+  },
+  "title:dortmundtakesbundesligaleadaskaneinjurysidelinesbayernstar": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane is sidelined by injury as Dortmund go top.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgstardsirdousuffersseriouskneeinjuryinwinovernice": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué suffered a serious knee injury against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:douesustainsseriouskneeinjuryaspsgbeatnice": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué hurt his knee seriously in PSG's win over Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:dortmundovertakesbayernaskanesufferslongterminjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane has a long-term injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryupdatearsenaldealtmassiveblowwithstarkeeper": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": "A Today",
+    "summary_en": "Arsenal received bad news on Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayasettohavescanoninjuryhowmuchwouldarsenalmisshim": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will have a scan on his shoulder after leaving the Newcastle draw.",
+    "extractor": "claude"
+   }
+  },
+  "title:eurolatestpsgsdouesuffersseriouskneeinjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué suffered a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:aseriousinjuryluisenriquedeliversworryingupdateondsirdouafterpsgstarle": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Luis Enrique said Doué's injury is serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayatobeassessedafterleavingarsenalsdrawatnewcastlewithinjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will be assessed after going off at Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:notgoodnewsmikelartetaconfirmsmriscanfordavidrayaafterarsenalgoalkeepe": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta confirmed an MRI for Raya and called it bad news.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenallatestartetagivesupdateonrayainjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta updated on Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:howlongwilldsirdoubeoutwhatanacltearoralesserkneeinjurywouldmeanforpsg": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Explainer on Doué's possible absence depending on the knee diagnosis.",
+    "extractor": "claude"
+   }
+  },
+  "vergara:unknown": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "title": "Napoli, Antonio Vergara injured early and leaves in tears: Allegri replaces him with De Bruyne"
+  },
+  "title:napoliantoniovergarainjuredearlyandleavesintearsallegrireplaceshimwith": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Antonio Vergara",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Vergara went off injured early and was replaced by De Bruyne.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdouinjurysparkspsgconcernafterkaneblow": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué's injury worries PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryupdateasmikelartetaadmitsitsnotgoodnewsforarsenalstar": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta said Raya's injury news is not good.",
+    "extractor": "claude"
+   }
+  },
+  "title:psglosedouetokneeinjuryinligue1winatniceworldsports": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué went off with a knee injury at Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:nmechalategoalsendsdortmundtopofbundesligaasbayernlosekanetoinjury": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern lost Kane to injury as Dortmund went top.",
+    "extractor": "claude"
+   }
+  },
+  "title:hansiflickclarifiesbarcelonasstanceonsigninganewcentrebackfollowingand": {
+   "first_seen": "2026-11-22T01:01:44.204489+00:00",
+   "facts": {
+    "player": "Andreas Christensen",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Flick discussed transfers after Christensen's setback.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
