@@ -9039,6 +9039,558 @@
     "summary_en": "Stefano Marino hurt his ankle against Leverkusen.",
     "extractor": "claude"
    }
+  },
+  "title:comointerestedinmanchesterunitedszirkzeefollowinglongtermkeansetback": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Moise Kean",
+    "club": "Como",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kean suffered a training setback expected to keep him out for several more months, prompting Como interest in Zirkzee.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridrockedbydoubleinjuryblowaheadofcrucialchampionsleaguepush": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Real Madrid suffered two injuries before a Champions League run.",
+    "extractor": "claude"
+   }
+  },
+  "yalcouye:knee_other": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Brighton’s Malick Yalcouye ruled out of Universitatea Craiova game with knee injury"
+  },
+  "title:brightonsmalickyalcouyeruledoutofuniversitateacraiovagamewithkneeinjur": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Malick Yalcouye",
+    "club": "Brighton",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yalcouye will miss the Universitatea Craiova match due to a knee problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalbossissuesmajorinjuryupdateonstaraheadofchampionsleagueclash": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": null,
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal's manager updated on an unnamed player's injury before a Champions League game.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayaruledoutofarsenalsdortmundclashwithinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will miss Arsenal's game against Dortmund through injury.",
+    "extractor": "claude"
+   }
+  },
+  "zadok:unknown": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Brighton boss blasts Nigeria over Zadok latest injury"
+  },
+  "title:brightonbossblastsnigeriaoverzadoklatestinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Zadok",
+    "club": "Brighton",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Brighton's manager criticised Nigeria over Zadok's latest injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:uefachampionsleaguerayaruledoutofarsenalvsborussiadortmundclash": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya is out of Arsenal's Champions League match versus Dortmund.",
+    "extractor": "claude"
+   }
+  },
+  "lukeba:unknown": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Demichelis rules Lukeba out of meetings with Lens and Freiburg through injury"
+  },
+  "title:demichelisruleslukebaoutofmeetingswithlensandfreiburgthroughinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Lukeba",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lukeba will miss games against Lens and Freiburg through injury.",
+    "extractor": "claude"
+   }
+  },
+  "shiogai:muscle_general": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Shiogai sidelined indefinitely with muscle injury at VfL Wolfsburg"
+  },
+  "title:shiogaisidelinedindefinitelywithmuscleinjuryatvflwolfsburg": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Shiogai",
+    "club": "VfL Wolfsburg",
+    "league": "Bundesliga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Shiogai is out indefinitely with a muscle problem at Wolfsburg.",
+    "extractor": "claude"
+   }
+  },
+  "muheim:calf": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "HSV rule out Muheim indefinitely after sustaining calf injury"
+  },
+  "title:hsvruleoutmuheimindefinitelyaftersustainingcalfinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Muheim",
+    "club": "Hamburger SV",
+    "league": "Bundesliga",
+    "body_part": "calf",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Hamburg have ruled Muheim out indefinitely with a calf injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmlamineyamalinjuryblowaheadofchampionsleagueclashwithsa": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed Yamal is injured ahead of the Sabah match.",
+    "extractor": "claude"
+   }
+  },
+  "title:artetaconfirmsdavidrayawillmissborussiadortmundafterleftshoulderinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta confirmed Raya will miss Dortmund with a left shoulder injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalsdavidrayaruledoutofthegameagainstborussiadortmund": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya is ruled out of the Dortmund game.",
+    "extractor": "claude"
+   }
+  },
+  "title:threeitaliansruledoutforseveralmonthswithseriousinjuriesafterserieawee": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": "several months",
+    "summary_en": "Three Italian players face months out after Serie A's twelfth round.",
+    "extractor": "claude"
+   }
+  },
+  "carnesecchi:knee_other": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Knee injury rules Carnesecchi out for Atalanta unt… | Yalla Shoot"
+  },
+  "title:kneeinjuryrulescarnesecchioutforatalantauntyallashoot": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Marco Carnesecchi",
+    "club": "Atalanta",
+    "league": "Serie A",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A knee injury sidelines Carnesecchi for Atalanta.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryupdateoffersfreshconcernforarsenal": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An update on Raya's injury raises new concern for Arsenal.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryarsenalgoalkeeperavoidssurgeryandblowisnotasbadasfirstf": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta said Raya's injury needs no surgery and is less serious than feared.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayatomissdortmundgamebutinjurynotserious": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will miss Dortmund but his shoulder injury does not need an operation.",
+    "extractor": "claude"
+   }
+  },
+  "title:mikelartetaprovidescrucialdavidrayainjuryupdateasarsenalbossbreathessi": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta gave a reassuring update on Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "endrick:groin": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Endrick Muscle Injury Real Madrid Brazilian Forward Sidelined With Adductor Problem"
+  },
+  "title:endrickmuscleinjuryrealmadridbrazilianforwardsidelinedwithadductorprob": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "groin",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick is sidelined with an adductor muscle problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalsrayaruledoutofdortmundclash": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya is out of the Dortmund game.",
+    "extractor": "claude"
+   }
+  },
+  "endrick:muscle_general": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Real Madrid striker Endrick sidelined with muscle injury"
+  },
+  "title:realmadridstrikerendricksidelinedwithmuscleinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick is out with a muscle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:lamineyamalinjuryspoilsbarcelonaschampionsleaguepreparations": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yamal's injury disrupts Barcelona's Champions League preparation.",
+    "extractor": "claude"
+   }
+  },
+  "endrick:unknown": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Endrick struck by new injury as Real Madrid confirm worrying setback"
+  },
+  "title:endrickstruckbynewinjuryasrealmadridconfirmworryingsetback": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Real Madrid confirmed a new injury for Endrick.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialcarnesecchitoundergokneesurgery": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Marco Carnesecchi",
+    "club": "Atalanta",
+    "league": "Serie A",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atalanta said Carnesecchi will have knee surgery for a tear.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridblowasendricksuffersfreshinjurysetbackaheadofchampionsleague": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick has a fresh injury before a Champions League match.",
+    "extractor": "claude"
+   }
+  },
+  "adzic:knee_other": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Juventus Assesses Possible Serious Knee Injury to Adzic"
+  },
+  "title:juventusassessespossibleseriouskneeinjurytoadzic": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Adzic",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Juventus are assessing a possibly serious knee injury to Adzic.",
+    "extractor": "claude"
+   }
+  },
+  "saliba:unknown": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Nathan Saliba ruled out of Villarreal's Champions and La Liga games"
+  },
+  "title:nathansalibaruledoutofvillarrealschampionsandlaligagames": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Nathan Saliba",
+    "club": "Villarreal",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Saliba will miss Villarreal's upcoming matches.",
+    "extractor": "claude"
+   }
+  },
+  "endrick:quad": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "title": "Real Madrid forward Endrick ruled out for a few weeks with minor thigh injury"
+  },
+  "title:realmadridforwardendrickruledoutforafewweekswithminorthighinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "quad",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "a few weeks",
+    "summary_en": "Endrick is out for a few weeks with a minor thigh injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:endrickruledoutforrealmadridwithmuscleinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick is ruled out with a muscle problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:injuredyamaltomissbarcelonastriptosabahinchampionsleagueasaprecaution": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yamal will skip the Sabah trip as a precaution.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgdealtmajorblowasdesiredouesuffersseriouskneeinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué suffered a serious knee injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psglosesanotherkeywingerasdouesuffersseasonendingaclinjury": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué faces a season-ending ACL injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdsirdoudiagnosedwithtornaclscheduledforsurgerylaterthismonth": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué has a torn ACL and will have surgery this month.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdsirdoufaceslonglayoffafterseriouskneeinjurysurgeryscheduledfornov": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué faces a long absence with knee surgery planned.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsharrykanehassuccessfulsurgery": {
+   "first_seen": "2026-11-23T23:47:10.475542+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane underwent surgery that was described as successful.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
