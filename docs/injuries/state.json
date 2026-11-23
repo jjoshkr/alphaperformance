@@ -8601,6 +8601,144 @@
     "summary_en": "Kane had ankle surgery.",
     "extractor": "claude"
    }
+  },
+  "title:psglosesanotherkeyattackertoseasonendinginjury": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": null,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG have lost another attacker to an injury that ends his season.",
+    "extractor": "claude"
+   }
+  },
+  "title:dsirdousuffersseriousinjuryaspsgfacesmajorsetback": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Désiré Doué has picked up a serious injury, a major setback for PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:psghitbysecondmajorinjuryblowasdsirdousuffersaclrupture": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Désiré Doué has ruptured his ACL, PSG's second major injury blow.",
+    "extractor": "claude"
+   }
+  },
+  "calhanoglu:unknown": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "title": "Calhanoglu forced off injured in Atalanta-Inter as Carnesecchi pulls out in warm-up"
+  },
+  "title:calhanogluforcedoffinjuredinatalantainterascarnesecchipullsoutinwarmup": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Hakan Calhanoglu",
+    "club": "Inter Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Calhanoglu came off injured against Atalanta while Carnesecchi withdrew in the warm-up.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdousetforsurgeryafteraclinjury": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué will have surgery following an ACL injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsufferdoueinjuryblow": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG have been hit by an injury to Doué.",
+    "extractor": "claude"
+   }
+  },
+  "boselli:unknown": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "title": "Boselli ruled out for Getafe vs Atlético with a leg injury"
+  },
+  "title:boselliruledoutforgetafevsatlticowithaleginjury": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Boselli",
+    "club": "Getafe",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Boselli will miss Getafe's game against Atlético with a leg injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bundesligakaneandoliseoutduetoinjurybayernmunichsurprisedbycologne": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane and Olise were injured as Bayern dropped points against Cologne.",
+    "extractor": "claude"
+   }
+  },
+  "colombo:knee_other": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "title": "Genoa, serious injury for Colombo: knee problem"
+  },
+  "title:genoaseriousinjuryforcolombokneeproblem": {
+   "first_seen": "2026-11-23T01:27:49.891475+00:00",
+   "facts": {
+    "player": "Colombo",
+    "club": "Genoa",
+    "league": "Serie A",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Genoa's Colombo has suffered a serious knee injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
