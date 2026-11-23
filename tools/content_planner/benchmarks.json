@@ -150,6 +150,13 @@
     ],
     "Rehab": [
       {
+        "id": "mechanism_breakdown",
+        "name": "부상 메커니즘 브레이크다운 (동작 → 결과 훅)",
+        "hook_en": "One cut. One planted foot. Here's what gave way.",
+        "weight": 5,
+        "why": "채널 실데이터: Doué 게시물 99K 조회·2.6K 공유(30일 최고). 훅이 선수 이름이 아니라 동작이라 모든 선수가 자기 일로 느낌. 뉴스 24시간 이내 게시"
+      },
+      {
         "id": "myth_bust",
         "name": "근거 기반 신화 깨기",
         "hook_en": "You don't need to stretch a tight hamstring",
@@ -159,9 +166,9 @@
       {
         "id": "injury_react",
         "name": "프로 부상 뉴스 반응 + 재활 단계 설명",
-        "hook_en": "{player} is out for {weeks} weeks. Here's what rehab actually looks like",
+        "hook_en": "One sprint. One grab at the hamstring. {player} is out — here's the comeback.",
         "weight": 5,
-        "why": "시의성 + 전문성. 부상 알림 자동화와 직결"
+        "why": "시의성 + 전문성. 부상 알림 자동화와 직결 / 11월 데이터: 결장 기간 전달형(Kane 9.8K)보다 메커니즘형(Doué 99K)이 10배"
       },
       {
         "id": "anatomy_explainer",
@@ -214,7 +221,17 @@
         "Stability": 51
       },
       "star_content_follow_gain": 17,
-      "audience": "남성 90%, 25-44세 70%, 스페인어 21.8% > 영어 19.5%, 브라질·이집트·미국·스페인·아르헨티나"
+      "audience": "남성 90%, 25-44세 70%, 스페인어 21.8% > 영어 19.5%, 브라질·이집트·미국·스페인·아르헨티나",
+      "nov_2026": {
+        "views_30d": 403449,
+        "reach_30d": 180942,
+        "net_followers": 641,
+        "top_post": "Doué mechanism breakdown 99K views, 2.6K shares",
+        "other_injury_posts": "Raya 9.9K, Kane 9.8K, Lookman 7.9K, Xhaka 4.2K",
+        "off_topic_posts": "<1.2K views",
+        "link_clicks": 27,
+        "profile_visits": 2100
+      }
     },
     "posting": {
       "days": [
@@ -231,7 +248,8 @@
       "선수 경기 영상·사진 사용 금지 (링크 참조만)",
       "뇌진탕은 운동 추천 없이 교육만",
       "의료 조언 아님 문구 유지",
-      "원우 님 실사 시연이 화면의 70% 이상"
+      "원우 님 실사 시연이 화면의 70% 이상",
+      "부상 게시물은 뉴스 24시간 이내, 캐러셀 + 릴스 동시 게시, 마지막 장에 CTA"
     ]
   }
 }
