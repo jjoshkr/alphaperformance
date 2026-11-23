@@ -8739,6 +8739,306 @@
     "summary_en": "Genoa's Colombo has suffered a serious knee injury.",
     "extractor": "claude"
    }
+  },
+  "title:barcelonasuffermassivelamineyamalinjuryblowaheadofchampionsleaguetrip": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona lose Lamine Yamal to injury before a Champions League away game.",
+    "extractor": "claude"
+   }
+  },
+  "title:newsinjuredlamineyamalruledoutofbarcelonaschampionsleaguetriptoazerbai": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal is ruled out of Barcelona's Champions League trip to Azerbaijan through injury.",
+    "extractor": "claude"
+   }
+  },
+  "yamal:ankle": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "title": "Barcelona Injury Update: Lamine Yamal Ruled Out Of UEFA Champions League Clash Against Sabah With Ankle Problem"
+  },
+  "title:barcelonainjuryupdatelamineyamalruledoutofuefachampionsleagueclashagai": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal misses the Champions League game against Sabah with an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "adzic:unknown": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "title": "Juventus fear the worst over Adzic’s injury: medical tests today"
+  },
+  "title:juventusfeartheworstoveradzicsinjurymedicalteststoday": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Adzic",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Juventus await medical tests on Adzic's injury amid fears it is serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:realisedquicklyinjuryblowforleedsopponentsasstrikerspottedoncrutches": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": null,
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed striker of a Leeds opponent was seen on crutches.",
+    "extractor": "claude"
+   }
+  },
+  "title:suddeninjuryruleslamineyamaloutofbarcelonastriptoazerbaijan": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A sudden injury keeps Lamine Yamal out of Barcelona's Azerbaijan trip.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonawingerlamineyamaltomissmidweekchampionsleaguegameduetoanklein": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal will miss a midweek Champions League match with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernbossputstimeframeonkanesinjuryrecovery": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern's coach gives a recovery timeframe for Kane's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjuredasbayernandpsgfaceinjurycrisesplusyamalandmbappemisspe": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A roundup reports Kane was injured as Bayern and PSG face injury problems.",
+    "extractor": "claude"
+   }
+  },
+  "title:harrykaneinjuredasbayernmunichandpsgfaceinjurycrisespluslamineyamaland": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A roundup reports Kane's injury amid Bayern and PSG injury troubles.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmlamineyamaloutofchampionsleaguetiewithsabahandshareinj": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirm Lamine Yamal misses the Sabah tie and update on his injury.",
+    "extractor": "claude"
+   }
+  },
+  "nianzou:unknown": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "title": "Nianzou injured: Lille reshuffle their defence for Bayern"
+  },
+  "title:nianzouinjuredlillereshuffletheirdefenceforbayern": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Nianzou",
+    "club": "Lille",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lille must reorganise their defence against Bayern with Nianzou injured.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayaundergoesmriscanasarsenalleftsweatingongoalkeepersinjury": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya has an MRI scan as Arsenal wait to learn the extent of his injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgconfirmdouehasrupturedaclstartoundergosurgery": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG confirm Doué ruptured his ACL and will have surgery.",
+    "extractor": "claude"
+   }
+  },
+  "zieliski:foot": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "title": "Zieliński out of Inter's Serie A clash with Atalanta through foot injury"
+  },
+  "title:zieliskioutofintersserieaclashwithatalantathroughfootinjury": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Piotr Zieliński",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "foot",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Zieliński misses Inter's game against Atalanta with a foot injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialbayernmunichissuesformalupdateonharrykaneandmichaeloliseinjuri": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern publish an official update on Kane and Olise injuries.",
+    "extractor": "claude"
+   }
+  },
+  "title:kanevowstobebackforbusinessendofbayernsseasonafteranklesurgery": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane targets a late-season return after ankle surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:robertodezerbispeaksoutonunluckysavioinjuryintottenhamsipswichwin": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Zerbi comments on Savio's injury in the win over Ipswich.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayatoundergomriscanaftershoulderinjuryagainstnewcastleunited": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will have an MRI on a shoulder injury from the Newcastle game.",
+    "extractor": "claude"
+   }
+  },
+  "marino:ankle": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "title": "Stefano Marino Injury: Suffers ankle injury against Leverkusen"
+  },
+  "title:stefanomarinoinjurysuffersankleinjuryagainstleverkusen": {
+   "first_seen": "2026-11-23T11:58:37.077871+00:00",
+   "facts": {
+    "player": "Stefano Marino",
+    "club": null,
+    "league": "Bundesliga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Stefano Marino hurt his ankle against Leverkusen.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
