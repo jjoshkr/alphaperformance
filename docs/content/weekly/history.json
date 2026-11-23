@@ -40,5 +40,19 @@
  {
   "week": "2026-W47",
   "pattern": "progression_ladder"
+ },
+ {
+  "week": "2026-W48",
+  "pattern": "stop_doing",
+  "player_key": "kane",
+  "titles": [
+   "케인 발목 부상 리액션: 발목 염좌 재활 3단계 시연",
+   "빨라지고 싶으면 높은 박스 점프 그만하세요: 첫 3걸음용 플라이오",
+   "한 발 카프레이즈 25개 셀프 테스트"
+  ]
+ },
+ {
+  "week": "2026-W48",
+  "pattern": "test_yourself"
  }
 ]

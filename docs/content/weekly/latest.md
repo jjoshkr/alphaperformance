@@ -1,135 +1,135 @@
-# 주간 릴스 기획 — 2026-W47 (2026-11-16 생성)
+# 주간 릴스 기획 — 2026-W48 (2026-11-23 생성)
 
 > Claude가 작성한 초안. 게시 전 원우 님이 대사·운동을 검토. 선수 영상·사진 사용 금지, 의료 조언 아님 문구 유지.
 
 | 요일 | 슬롯 | 패턴 | 제목 |
 |---|---|---|---|
-| 화 | 1 | injury_react | 자카 종아리 부상 리액트: 비복근 vs 가자미근, 카프 레이즈 두 가지를 다 해야 하는 이유 |
-| 목 | 2 | before_after_test | 10m 스프린트 비포/애프터: 4주 플라이오 프로토콜 측정 시작 |
-| 금 | 3 | progression_ladder | 발목 염좌 재활 사다리 Level 1→5 (시리즈 1편) |
+| 화 | 1 | injury_react | 케인 발목 부상 리액션: 발목 염좌 재활 3단계 시연 |
+| 목 | 2 | stop_doing | 빨라지고 싶으면 높은 박스 점프 그만하세요: 첫 3걸음용 플라이오 |
+| 금 | 3 | test_yourself | 한 발 카프레이즈 25개 셀프 테스트 |
 
-## 화 · 자카 종아리 부상 리액트: 비복근 vs 가자미근, 카프 레이즈 두 가지를 다 해야 하는 이유
-- 훅 EN: **Xhaka's calf is out. Are you training the right calf muscle?**
-- 훅 DE: Xhakas Wade streikt. Trainierst du den richtigen Wadenmuskel?
-- 훅 ES: La pantorrilla de Xhaka falla. ¿Entrenas el músculo correcto?
-- 왜 통하나: @e3rehab·@niklas.sportphysio식 '뉴스 이슈 → 해부학 → 바로 따라 하는 드릴' 구조이며, 스타 선수 이름은 훅에만 쓰고 화면은 원우 님의 시연으로 채웁니다. 채널 데이터상 스타 클립은 +17에 그쳤고 시연형 영상(Stability +51)이 강했기 때문에, 이번 영상은 뉴스로 클릭을 얻고 시연으로 팔로우를 얻는 하이브리드입니다.
-- 주의: 자카 선수 경기 영상·사진·구단 로고 사용 금지, 헤드라인 텍스트와 출처 링크만 사용하세요. 부상 정도와 복귀 기간이 알려지지 않았으므로 '파열', '몇 주 결장' 같은 추측 표현은 금지입니다. 의료 조언 아님 문구는 화면과 캡션 양쪽에 반드시 넣으세요.
-
-**구성 (초 단위)**
-| 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
-|---|---|---|---|
-| 0-2 | 원우 님이 정면을 보고 서서 자기 종아리를 손으로 가리킴. 상단에 뉴스 헤드라인 텍스트만 표시(사진 없음) | 자카 선수가 종아리 부상으로 빠졌습니다. 그런데 종아리 근육은 하나가 아니에요. | Xhaka – calf injury (severity unknown) |
-| 2-8 | 측면 앵글. 무릎 뒤에서 발뒤꿈치까지 손가락으로 따라 내려가며 비복근(겉층)과 가자미근(깊은 층)을 짚음 | 겉에 있는 게 비복근, 그 밑에 깊이 있는 게 가자미근입니다. 둘이 합쳐져서 아킬레스건이 돼요. 달릴 때 가장 큰 힘을 내는 건 사실 가자미근이에요. | Gastrocnemius (outer) + Soleus (deep) = Achilles |
-| 8-15 | 계단 끝에서 무릎을 편 채 카프 레이즈 3회, 이어서 무릎을 굽힌 채 카프 레이즈 3회 시연 | 무릎을 펴고 올라가면 비복근, 무릎을 굽히고 올라가면 가자미근을 훈련합니다. 대부분 앞의 것만 하세요. | Straight knee = gastroc | Bent knee = soleus |
-| 15-22 | 벤치에 앉아 무릎 위에 덤벨을 올리고 시티드 카프 레이즈를 천천히 시연 | 28살이 넘으면 종아리 부상이 늘어나는데, 가자미근 근력 저하와 관련이 깊어요. 그래서 앉아서 하는 카프 레이즈는 꼭 넣으세요. | 28+? Don't skip the soleus |
-| 22-28 | 단계 텍스트에 맞춰 짧게 컷: 발목 가동 → 싱글 레그 카프 레이즈 → 포고 점프 | 복귀 순서는 가볍게 부하 주기, 근력, 그다음에 탄성과 스프린트입니다. 순서를 건너뛰지 마세요. | Protect → Strength → Elastic & Sprint |
-| 28-32 | 카메라를 보며 마무리. 하단에 의료 조언 아님 문구 표시 | 종아리 단계별 플랜이 필요하면 댓글에 SPEED라고 남겨주세요. 아프면 먼저 전문가에게 진료를 받으세요. | Comment SPEED for the calf plan · Not medical advice |
-
-**운동**
-1. Seated calf raise (soleus) — 3×15, 2s up / 3s down · 무릎은 90도로 유지하고, 엄지발가락 쪽으로 밀어 올리세요.
-2. Standing calf raise, double → single leg, slow eccentric — 3×8-12, 4s lowering · 뒤꿈치를 끝까지 천천히 내리고, 통증 없는 범위에서만 하세요.
-3. Bent-knee calf raise — 3×12 · 무릎을 살짝 굽힌 각도를 끝까지 유지하세요.
-
-**촬영 메모**
-- 도르트문트 야외 계단 또는 짐 박스 끝 – 측면 앵글(종아리 실루엣이 보이게)
-- 벤치 + 덤벨 1개 – 정면 45도 앵글, 시티드 카프 레이즈
-- 반바지 착용(근육 위치가 보이게), 해부 그림은 간단한 그래픽 오버레이로만
-- 포고 점프는 잔디 위 로우 앵글 슬로모션 1컷
-
-**캡션 EN**
-```
-Xhaka (Sunderland) is dealing with a calf injury – severity unknown. Quick anatomy lesson: your calf = gastrocnemius + soleus. Straight-knee raises hit the gastroc, bent-knee raises hit the soleus, the muscle that produces the most force when you sprint. Over 28? Train both. Comment SPEED for my calf return-to-run progression. Not medical advice – see a professional if you're injured. Source: Sunderland News Today, 14 Nov.
-```
-**캡션 DE**
-```
-Xhaka (Sunderland) fällt mit einer Wadenverletzung aus – Schwere unbekannt. Kurz erklärt: Die Wade besteht aus Gastrocnemius und Soleus. Wadenheben mit gestrecktem Knie trainiert den Gastrocnemius, mit gebeugtem Knie den Soleus, der beim Sprinten die meiste Kraft erzeugt. Über 28? Trainiere beide. Kommentiere SPEED für meinen Waden-Plan. Keine medizinische Beratung.
-```
-**캡션 ES**
-```
-Xhaka (Sunderland) tiene una lesión en la pantorrilla, gravedad desconocida. Anatomía rápida: gemelo + sóleo. Elevaciones con rodilla estirada = gemelo; con rodilla flexionada = sóleo, el músculo que más fuerza genera al esprintar. ¿Más de 28 años? Entrena ambos. Comenta VELOCIDAD y te envío mi progresión para la pantorrilla. No es consejo médico.
-```
-해시태그: #calfinjury #soleus #footballrehab #returntoplay #calfraises #footballtraining #injuryprevention #premierleague #futbol #sprinttraining
-
-## 목 · 10m 스프린트 비포/애프터: 4주 플라이오 프로토콜 측정 시작
-- 훅 EN: **I tested my 10m sprint today. Retest in 4 weeks.**
-- 훅 DE: Heute 10-Meter-Sprint getestet. In 4 Wochen wird nachgemessen.
-- 훅 ES: Hoy medí mis 10 metros. Repito el test en 4 semanas.
-- 왜 통하나: @ycg_performance_official·@tomjoycefitness의 '측정 before/after' 패턴으로, 숫자가 증거가 되고 4주 후 결과 영상까지 시리즈로 이어집니다. 채널에서 가장 강했던 플라이오메트릭 시연(+126)을 프로토콜 본체로 써서 팔로우 전환을 노립니다.
-- 주의: 기록은 반드시 실측값만 쓰고, 4주 후 개선 수치를 미리 약속하거나 꾸며내지 마세요. U-20 선수 데이터나 얼굴을 쓰려면 본인·소속 동의가 필요하므로 이번 편은 원우 님 본인 측정으로만 진행합니다. 플라이오 볼륨은 부상 이력이 있는 사람에게 주의하라는 안내를 캡션에 유지하세요.
+## 화 · 케인 발목 부상 리액션: 발목 염좌 재활 3단계 시연
+- 훅 EN: **Kane out for months with an ankle. Here's what rehab looks like.**
+- 훅 DE: Kane monatelang raus mit dem Knöchel. So läuft die Reha.
+- 훅 ES: Kane, meses fuera por el tobillo. Así es la rehabilitación.
+- 왜 통하나: @niklas.sportphysio·@e3rehab처럼 화제 부상 뉴스를 해부학 설명과 단계별 시연으로 바꾸는 패턴이에요. 스타 선수 클립은 팔로워 17명에 그쳤지만 Stability 데모는 51명을 얻었기 때문에, 선수 이름은 훅에만 쓰고 화면은 원우 님의 균형·호핑 시연이 중심이 되도록 짰어요.
+- 주의: 케인 선수 경기 영상·사진·구단 로고 사용 금지, 기사는 링크 참조만. 실제 진단명(하이 앵클 여부 등)은 보도되지 않았다면 단정하지 말 것. '일반 재활 흐름이며 의료 조언 아님' 문구를 화면과 캡션 모두에 유지.
 
 **구성 (초 단위)**
 | 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
 |---|---|---|---|
-| 0-3 | 원우 님이 잔디 위 10m 콘 사이를 전력 스프린트, 타이밍 게이트 또는 폰 앱 화면에 기록이 뜸 | 오늘 제 10미터 기록입니다. 4주 뒤에 다시 잽니다. | 10m TEST – Week 0: [real time] s |
-| 3-8 | 출발 자세 클로즈업, 처음 세 걸음을 슬로모션으로 | 10미터는 처음 세 걸음에서 결정돼요. 지면을 얼마나 세게, 얼마나 짧게 밀어내느냐가 핵심입니다. | First 3 steps = your 10m |
-| 8-15 | 포고 점프 시연, 발목 클로즈업 | 첫 번째는 포고 점프입니다. 무릎은 거의 쓰지 말고, 발목 스프링으로 짧게 튕기세요. | 1. Pogo jumps – stiff ankles |
-| 15-21 | 벽에 손을 대고 월 드릴(무릎 드라이브) 시연 | 두 번째는 벽 드릴입니다. 몸을 45도로 기울이고 무릎을 빠르게 바꿔 주세요. 가속 자세를 몸에 새기는 거예요. | 2. Wall drill – 45° lean |
-| 21-27 | 하프 닐링 스타트에서 10m 스프린트 빌드업 2회 | 마지막은 짧은 스프린트입니다. 매 세트 완전히 쉬고, 100퍼센트로 적게 뛰는 게 포인트예요. | 3. 10m starts – full rest |
-| 27-31 | 콘 옆에서 카메라를 보며 마무리 | 4주 프로토콜 전체를 받고 같이 측정하고 싶으면 댓글에 SPEED라고 남겨주세요. | Comment SPEED – test with me |
+| 0-3 | 도르트문트 공원 잔디에서 정면 클로즈업, 휴대폰에 기사 헤드라인 텍스트만 보여주고(사진 없음) 바로 내림 | 해리 케인 선수가 발목 부상으로 몇 달 결장한다는 보도가 나왔어요. 여기 도르트문트에서 분데스리가 소식 보자마자 정리해 봤어요. | Kane: out 'several months' (ankle) — reported |
+| 3-9 | 맨발로 앉아 본인 발목 바깥 복사뼈 아래를 손가락으로 짚고, 발을 천천히 안쪽으로 꺾는 동작을 보여줌 | 발이 안쪽으로 꺾이면 바깥쪽 인대, 그러니까 ATFL이랑 CFL이 늘어나거나 찢어져요. 복사뼈 위쪽이 아프면 하이 앵클이라고 해서 회복이 더 오래 걸려요. | Outer ligaments: ATFL + CFL. Above the bone = high ankle |
+| 9-14 | 종아리 바깥쪽 비골근을 손으로 쓸어내리며 가리킴 | 인대는 한번 늘어나면 원래대로 잘 돌아오지 않아요. 그래서 종아리 바깥 근육인 비골근하고 균형 감각이 그 역할을 대신해 줘야 해요. | Ligaments stretch. Muscles + balance must take over. |
+| 14-22 | 빠른 컷: 앉아서 발목 알파벳 → 밴드 외번 → 한 발 서기 눈 뜨고에서 눈 감기로 전환 | 초반엔 통증 없는 범위에서 움직이고, 2주 차쯤부터는 밴드로 비골근을 키우고 한 발 균형을 눈 감고까지 가져가는 게 일반적인 흐름이에요. | Phase 1: move pain-free → Phase 2: strength + balance |
+| 22-27 | 측면 호핑 후 한 발로 딱 멈춰 2초 버티는 착지 3회, 측면 앵글 | 마지막이 방향 전환 단계예요. 발목 염좌가 자꾸 재발하는 이유가 바로 이 단계를 건너뛰기 때문이에요. | Phase 3: hops + stuck landings. Skip this = re-injury risk |
+| 27-30 | 카메라 쪽으로 걸어오며 손가락으로 댓글 가리킴 | 일반적인 재활 흐름이고 케인 선수 실제 프로그램도, 의료 조언도 아니에요. 단계별 체크리스트 받고 싶으면 댓글에 SPEED 남겨 주세요. | Comment SPEED (EN) / VELOCIDAD (ES) · Not medical advice |
 
 **운동**
-1. Pogo jumps — 3×15 contacts, 60s rest, 2×/week · 발뒤꿈치가 땅에 닿지 않게, 접지 시간은 최대한 짧게.
-2. Wall drill (acceleration posture) — 3×5 switches per side · 머리부터 발목까지 일직선, 45도 기울기를 유지하세요.
-3. 10m sprint starts — 5×10m, 90-120s rest, 2×/week · 첫 걸음은 뒤로 밀어낸다는 느낌으로, 피곤하면 바로 멈추세요.
+1. Band eversion/inversion — 3×15 each direction, pain-free · 무릎은 고정하고 발목만 바깥으로 천천히 밀어요
+2. Single-leg balance, eyes open → closed — 3×30s per leg · 발가락으로 바닥을 잡고, 눈 감아도 골반이 흔들리지 않게요
+3. Lateral hops with stuck landings — 3×5 per side, only after pain-free balance · 착지하면 무릎 살짝 굽혀서 2초 동안 그대로 멈춰요
 
 **촬영 메모**
-- 도르트문트 공원 잔디 또는 인조잔디 – 10m 콘 2개, 측면 와이드 앵글(스프린트 전체)
-- 타이밍 게이트나 스프린트 측정 앱 화면 인서트(실제 측정값만)
-- 포고 점프는 발목 높이 로우 앵글, 벽 드릴은 측면 앵글
-- 출발 3걸음은 120fps 슬로모션
+- 도르트문트 공원 잔디(배경에 지역 느낌), 정면 아이레벨 9:16 클로즈업
+- 앉은 자세 발목 해부학 설명: 바닥 높이 로우앵글, 맨발
+- 소품: 미니 저항 밴드, 휴대폰(기사 헤드라인 텍스트만, 선수 사진 노출 금지)
+- 호핑 착지: 측면 무릎 높이 앵글, 슬로모션 1컷
 
 **캡션 EN**
 ```
-Week 0 of my 10m sprint test. Same 3 drills, 2×/week for 4 weeks: pogo jumps, wall drill, 10m starts with full rest. Then we retest on camera – whatever the number is. Comment SPEED and get the full 4-week protocol to test alongside me. Train smart – not medical advice.
+Harry Kane reportedly out 'several months' with an ankle injury. Here's how ankle sprain rehab generally progresses: protect & move → strength & balance → return to cutting. Ligaments don't fully bounce back, so peroneals and balance have to do the job. Source linked in bio/comments. General education, not medical advice and not Kane's actual program. Comment SPEED for the phase checklist.
 ```
 **캡션 DE**
 ```
-Woche 0 meines 10-Meter-Sprinttests. 4 Wochen lang, 2× pro Woche dieselben 3 Drills: Pogo Jumps, Wall Drill und 10-Meter-Starts mit voller Pause. Danach wird vor der Kamera nachgemessen – egal, was rauskommt. Kommentiere SPEED für das komplette Protokoll.
+Harry Kane fällt laut Berichten 'mehrere Monate' mit einer Knöchelverletzung aus. So verläuft eine Sprunggelenk-Reha im Allgemeinen: schützen & bewegen → Kraft & Balance → zurück zu Richtungswechseln. Keine medizinische Beratung und nicht Kanes echtes Programm. Kommentiere SPEED für die Checkliste.
 ```
 **캡션 ES**
 ```
-Semana 0 de mi test de 10 metros. 3 ejercicios, 2 veces por semana durante 4 semanas: pogo jumps, wall drill y salidas de 10 m con descanso completo. Después repetimos el test en cámara, salga lo que salga. Comenta VELOCIDAD y te envío el protocolo completo para que midas conmigo.
+Según la prensa, Harry Kane estará fuera 'varios meses' por una lesión de tobillo. Así suele progresar la rehabilitación de un esguince: proteger y mover → fuerza y equilibrio → volver a los cambios de dirección. Información general, no es consejo médico ni el programa real de Kane. Comenta VELOCIDAD y te mando la checklist.
 ```
-해시태그: #speedtraining #acceleration #10msprint #plyometrics #footballspeed #sprinttraining #futbol #entrenamientodefutbol #athletetraining #footballtraining
+해시태그: #anklerehab #anklesprain #returntoplay #footballrehab #bundesliga #footballfitness #injuryprevention #fisioterapiadeportiva #readaptacion #dortmund
 
-## 금 · 발목 염좌 재활 사다리 Level 1→5 (시리즈 1편)
-- 훅 EN: **Ankle sprain rehab: level 1 to 5. Where are you?**
-- 훅 DE: Bänderdehnung im Sprunggelenk: Level 1 bis 5. Wo stehst du?
-- 훅 ES: Esguince de tobillo: nivel 1 al 5. ¿En cuál estás?
-- 왜 통하나: @e3rehab·@medspired의 '재활 단계 사다리' 구조로, 시청자가 자기 레벨을 찾느라 끝까지 보고 저장하게 됩니다. 채널에서 검증된 Stability(+51)와 Change of Direction(+55) 시연이 레벨 3~5에 자연스럽게 들어가고, 무릎·햄스트링 편으로 시리즈화할 수 있습니다.
-- 주의: '완치', '며칠이면 복귀' 같은 기간·치료 약속 표현은 금지입니다. 골절이나 인대 파열이 의심되는 증상(체중을 못 실음, 심한 붓기)은 진료를 먼저 받으라는 문구를 유지하세요. 음악은 인스타그램 라이선스 음원만 사용하세요.
+## 목 · 빨라지고 싶으면 높은 박스 점프 그만하세요: 첫 3걸음용 플라이오
+- 훅 EN: **Stop doing high box jumps if you want to get faster.**
+- 훅 DE: Hör auf mit hohen Box Jumps, wenn du schneller werden willst.
+- 훅 ES: Deja de hacer saltos al cajón alto si quieres ser más rápido.
+- 왜 통하나: 'Stop doing X' 반론형 훅은 @tomjoycefitness·@ycg_performance_official 같은 S&C 계정에서 댓글 논쟁을 만드는 검증된 패턴이에요. 채널에서 팔로워를 가장 많이 가져온 Plyometrics(126명) 데모를 가속(첫 3걸음) 주제와 묶어서 노장비로 시연해요.
+- 주의: 벤치 점프 시연 시 미끄럽지 않은 고정 벤치 사용, 안전 확인. '박스 점프는 나쁘다'로 단정하지 말고 목적 차이로 표현. 음악은 인스타 라이브러리 음원만 사용.
 
 **구성 (초 단위)**
 | 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
 |---|---|---|---|
-| 0-2 | 원우 님이 한 발로 서서 화면에 1~5 사다리 그래픽이 쌓임 | 발목 염좌 재활, 다섯 단계로 정리해 드릴게요. | Ankle sprain ladder: L1 → L5 |
-| 2-8 | 바닥에 앉아 발목으로 알파벳 그리기, 이어서 평지 걷기 | 레벨 1, 통증 없는 범위에서 발목 움직이기와 평지 걷기입니다. 다음 단계 기준은 절뚝이지 않고 걷는 거예요. | L1 · Mobility + pain-free walking |
-| 8-14 | 양발 카프 레이즈 → 한 발 카프 레이즈 | 레벨 2는 근력입니다. 양발에서 한 발로, 천천히 내려오는 카프 레이즈를 하세요. | L2 · Calf raises (double → single) |
-| 14-20 | 한 발 서기 30초, 눈 감기 변형 | 레벨 3은 균형입니다. 한 발로 30초 버티고, 되면 눈을 감아 보세요. | L3 · Single-leg balance 30s |
-| 20-26 | 제자리 포고 → 앞뒤·좌우 홉 | 레벨 4는 점프와 착지입니다. 양발 포고부터 시작해서 한 발 홉으로 넘어가요. | L4 · Pogos → single-leg hops |
-| 26-33 | 콘 사이 45도 컷팅 → 스프린트, 마지막에 카메라를 보며 마무리 | 레벨 5는 방향 전환과 스프린트입니다. 단계별 기준표가 필요하면 댓글에 SPEED라고 남겨주세요. 의료 조언은 아니니 심하게 부었다면 먼저 진료를 받으세요. | L5 · Cutting + sprint · Comment SPEED · Not medical advice |
+| 0-3 | 높은 벤치 위로 점프한 뒤 깊게 쪼그려 착지, 화면에 빨간 X 표시 | 빨라지고 싶어서 높은 박스 점프만 하고 계시다면, 잠깐만요. | ❌ High box jumps for speed |
+| 3-9 | 벤치 위 착지 자세를 정지 화면처럼 유지하며 무릎 각도를 손으로 가리킴 | 높은 박스는 사실 점프 높이보다 무릎을 얼마나 끌어올리느냐 테스트예요. 그리고 축구 첫 3걸음은 지면에 닿는 시간이 아주 짧고 몸이 앞으로 기울어져 있어요. | Sprint = short ground contact + forward lean |
+| 9-15 | 제자리 포고 호핑, 발목 클로즈업 슬로모션 | 대신 이거 하세요. 첫 번째, 포고 호핑. 무릎은 거의 안 굽히고 발목 스프링으로 바닥을 빠르게 튕겨요. | ✅ 1. Pogo hops — quick, stiff ankles |
+| 15-21 | 제자리 멀리뛰기 후 착지에서 2초 정지, 측면 앵글 | 두 번째, 브로드 점프 후 착지에서 멈추기. 위가 아니라 앞으로 미는 힘을 만드는 거예요. | ✅ 2. Broad jump + stick |
+| 21-27 | 벽에 손 짚고 45도 기울인 채 무릎 교대로 들어올리는 월 드라이브 → 바로 3걸음 스타트 | 세 번째, 벽 짚고 드라이브. 첫 3걸음 각도를 몸에 익히고 바로 짧게 출발해 보세요. | ✅ 3. Wall drive → 3-step start |
+| 27-30 | 카메라 앞으로 다가와 손가락으로 댓글 가리킴 | 박스 점프가 나쁜 건 아니고, 목적이 다르다는 거예요. 첫 3걸음 프로그램 받고 싶으면 댓글에 SPEED 남겨 주세요. | Comment SPEED / VELOCIDAD for the first-3-steps plan |
 
 **운동**
-1. Single-leg calf raise (slow eccentric) — 3×10-15 per side, 3s down · 엄지발가락 쪽으로 체중을 싣고, 발목이 바깥으로 꺾이지 않게 하세요.
-2. Single-leg balance (eyes open → closed) — 3×30s per side · 골반을 수평으로 유지하고, 발가락으로 바닥을 잡으세요.
-3. Lateral single-leg hops — 3×6 per side, stick each landing · 착지할 때 무릎이 안으로 무너지지 않게, 소리 없이 부드럽게 착지하세요.
+1. Pogo hops — 3×15 contacts, full rest · 발뒤꿈치는 살짝 떠 있고, 바닥이 뜨겁다고 생각하고 빠르게 튕겨요
+2. Broad jump + stick — 3×4, rest 60s · 팔을 크게 써서 앞으로 밀고, 착지에서 무릎이 안으로 모이지 않게요
+3. Wall drive → 3-step start — 3×6 drives + 1 start per side · 머리부터 뒤꿈치까지 일직선, 발은 엉덩이 아래로 찍어요
 
 **촬영 메모**
-- 실내 매트 + 야외 잔디 두 장소 – 레벨 1~2는 실내, 3~5는 잔디
-- 발목 높이 로우 앵글을 메인으로, 레벨 5는 콘 4개와 와이드 측면 앵글
-- 화면 오른쪽에 레벨 사다리 그래픽을 고정해 현재 단계 하이라이트
-- 축구화와 러닝화를 레벨별로 바꿔 신어 진행감 연출
+- 축구장 사이드라인 또는 공원, 공원 벤치를 박스 대용으로 사용
+- 정면 전신 9:16 + 발목 바닥 높이 슬로모션 1컷
+- 월 드라이브는 측면 허리 높이 앵글로 몸 각도 강조
+- 소품: 콘 2개(3걸음 거리 표시)
 
 **캡션 EN**
 ```
-Ankle sprain? Find your level. L1 mobility + pain-free walking → L2 calf strength → L3 single-leg balance → L4 hops & landings → L5 cutting & sprinting. Only move up when the current level feels easy and pain-free. Comment SPEED for the full checklist with pass criteria. Not medical advice – get significant swelling or instability checked by a professional.
+High box jumps aren't bad — they just don't train what your first 3 steps need: short ground contact and pushing forward. Try pogo hops, broad jump + stick, and wall drives. Which one surprised you? Comment SPEED for the full first-3-steps plan. Not medical advice; train within your ability.
 ```
 **캡션 DE**
 ```
-Umgeknickt? Finde dein Level. L1 Beweglichkeit + schmerzfreies Gehen → L2 Wadenkraft → L3 Einbeinstand → L4 Sprünge & Landungen → L5 Richtungswechsel & Sprint. Erst aufsteigen, wenn das aktuelle Level leicht und schmerzfrei ist. Kommentiere SPEED für die Checkliste. Keine medizinische Beratung.
+Hohe Box Jumps sind nicht schlecht – sie trainieren nur nicht, was deine ersten 3 Schritte brauchen: kurze Bodenkontakte und Vortrieb nach vorne. Probier Pogo Hops, Broad Jump + Stick und Wall Drives. Kommentiere SPEED für den kompletten Plan. Keine medizinische Beratung.
 ```
 **캡션 ES**
 ```
-¿Esguince de tobillo? Encuentra tu nivel. N1 movilidad + caminar sin dolor → N2 fuerza de gemelo → N3 equilibrio a una pierna → N4 saltos y aterrizajes → N5 cambios de dirección y sprint. Sube de nivel solo cuando el actual sea fácil y sin dolor. Comenta VELOCIDAD para la checklist completa. No es consejo médico.
+Los saltos al cajón alto no son malos, pero no entrenan lo que piden tus primeros 3 pasos: contactos cortos y empuje hacia delante. Prueba pogo hops, salto horizontal con aterrizaje y wall drives. Comenta VELOCIDAD y te mando el plan completo. No es consejo médico.
 ```
-해시태그: #anklesprain #anklerehab #returntoplay #footballrehab #esguincedetobillo #readaptacion #balancetraining #injuryrecovery #futbol #physiotherapy
+해시태그: #footballspeed #acceleration #plyometrics #speedtraining #footballtraining #firststep #nogymworkout #entrenamientofutbol #velocidad #soccertraining
+
+## 금 · 한 발 카프레이즈 25개 셀프 테스트
+- 훅 EN: **Can you do 25 single-leg calf raises? If not, watch this.**
+- 훅 DE: Schaffst du 25 einbeinige Wadenheben? Wenn nicht, schau zu.
+- 훅 ES: ¿Puedes hacer 25 elevaciones de talón a una pierna? Mira esto.
+- 왜 통하나: @e3rehab·@medspired에서 자주 쓰는 셀프 테스트 챌린지로, 시청자가 직접 해보고 댓글에 숫자를 남기게 만드는 참여형 포맷이에요. 화요일 발목 리액션과 연결되는 종아리·발목 주제이고, Stability 데모(51명)처럼 원우 님 실사 시연이 화면 대부분을 차지해요.
+- 주의: 기준 숫자(20/25)는 일반적인 참고치로 표현하고 진단처럼 말하지 말 것. 아킬레스·종아리 통증이 있는 사람은 테스트하지 말라는 문구 권장. '의료 조언 아님' 화면·캡션 유지.
+
+**구성 (초 단위)**
+| 초 | 화면에서 하는 것 | 한국어 대사 | 화면 자막 (EN) |
+|---|---|---|---|
+| 0-3 | 계단 끝에 한 발로 서서 카프레이즈 시작, 화면에 카운터 0/25 | 한 발 카프레이즈 25개, 지금 같이 해 보세요. | Single-leg calf raise test: 0/25 |
+| 3-10 | 정확한 자세로 반복하며 카운터 빠르게 올라감(속도 편집), 손가락 하나만 벽에 대기 | 규칙은 간단해요. 손가락 하나로만 벽 짚고, 끝까지 올라가고 끝까지 내려가요. 무릎은 펴고, 반동은 금지예요. | Rules: full range · knee straight · no bouncing |
+| 10-15 | 카운터 25 도달 후 카메라 보며 종아리 가리킴, 화면에 기준표 | 20개 아래이거나 좌우 차이가 크면 종아리랑 발목 쪽 힘이 부족할 수 있다는 신호예요. 질주하고 방향 바꿀 때 이 근육이 정말 많이 버텨 줘요. | <20 or big L/R gap? Your calves need work |
+| 15-21 | 한 발 카프레이즈를 3초 동안 천천히 내리는 시연, 측면 클로즈업 | 첫 번째, 천천히 내리는 한 발 카프레이즈. 올라갈 땐 한 번에, 내려올 땐 3초 세면서요. | Fix 1: Slow single-leg calf raise (3s down) |
+| 21-26 | 벽에 기대 무릎 굽힌 카프레이즈 → 포고 호핑으로 연결 | 두 번째, 무릎 굽히고 카프레이즈로 가자미근까지 챙기고요. 통증 없이 되면 마지막으로 포고 호핑으로 탄성을 더해요. | Fix 2: Bent-knee raise · Fix 3: Pogo hops |
+| 26-30 | 카메라 앞으로 와서 손가락으로 댓글 가리킴 | 몇 개 하셨는지 댓글에 숫자 남겨 주시고, 4주 종아리 플랜 원하시면 SPEED도 같이 써 주세요. 의료 조언은 아니에요. | Comment your number + SPEED / VELOCIDAD · Not medical advice |
+
+**운동**
+1. Slow single-leg calf raise (eccentric) — 3×8-12 per leg, 3s lowering · 엄지발가락 쪽으로 밀어 올리고, 발목이 바깥으로 꺾이지 않게요
+2. Bent-knee calf raise — 3×12 per leg · 무릎 굽힌 각도를 끝까지 유지해서 가자미근을 느껴요
+3. Pogo hops — 3×20s, only if pain-free · 짧고 가볍게, 소리 안 나게 착지해요
+
+**촬영 메모**
+- 아파트 계단 또는 경기장 관중석 계단 끝, 측면 무릎 높이 앵글
+- 정면 전신 9:16로 카운터 그래픽 넣을 공간 확보
+- 발목 클로즈업 슬로모션(좌우 차이 설명용)
+- 소품: 없음(벽, 계단만)
+
+**캡션 EN**
+```
+Self-test: how many single-leg calf raises can you do? Full range, knee straight, one finger on the wall. Under 20 or a big left/right gap? Start with slow single-leg raises, bent-knee raises, then pogo hops. Drop your number below + comment SPEED for the 4-week calf plan. Not medical advice — stop if it hurts.
+```
+**캡션 DE**
+```
+Selbsttest: Wie viele einbeinige Wadenheben schaffst du? Volle Bewegung, Knie gestreckt, ein Finger an der Wand. Unter 20 oder großer Seitenunterschied? Fang mit langsamen einbeinigen Wadenheben an. Schreib deine Zahl + SPEED in die Kommentare. Keine medizinische Beratung.
+```
+**캡션 ES**
+```
+Test: ¿cuántas elevaciones de talón a una pierna haces? Recorrido completo, rodilla estirada, un dedo en la pared. ¿Menos de 20 o mucha diferencia entre piernas? Empieza con elevaciones lentas, con rodilla flexionada y luego pogo hops. Deja tu número y comenta VELOCIDAD para el plan de 4 semanas. No es consejo médico.
+```
+해시태그: #calfraise #selftest #calfstrength #anklestrength #footballfitness #injuryprevention #returntoplay #futbolistas #readaptacion #footballrehab
