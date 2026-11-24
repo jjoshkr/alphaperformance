@@ -9827,6 +9827,218 @@
     "summary_en": "Kane may be out for around three months.",
     "extractor": "claude"
    }
+  },
+  "title:watchbarcelonastarsbemusedreactiontoclaimslamineyamalwillmissuclclasht": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal will miss Barcelona's Champions League game at Sabah with a minor ankle problem, prompting an odd media question to De Jong.",
+    "extractor": "claude"
+   }
+  },
+  "alhanolu:unknown": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "title": "Hakan Çalhanoğlu injury rules him out for Inter fo… | Yalla Shoot"
+  },
+  "title:hakanalhanoluinjuryruleshimoutforinterfoyallashoot": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Hakan Çalhanoğlu",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter's Hakan Çalhanoğlu has been ruled out by an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjuryarsenalawaitscanresultsafterscare": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal are waiting on scan results for goalkeeper David Raya.",
+    "extractor": "claude"
+   }
+  },
+  "title:itsnotourstylepsgmanagerluisenriquerejectsmakingastopgapwintersigningi": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Désiré Doué tore his right ACL against Nice, and Luis Enrique rules out a stop-gap January signing.",
+    "extractor": "claude"
+   }
+  },
+  "olise:unknown": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "title": "Bayern suffer fresh injury blow as Olise ruled out of Lille clash"
+  },
+  "title:bayernsufferfreshinjuryblowasoliseruledoutoflilleclash": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Michael Olise is out of Bayern's match against Lille.",
+    "extractor": "claude"
+   }
+  },
+  "enem:achilles": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "title": "Jay Enem's Achilles pain stretches Bologna's injury wait"
+  },
+  "title:jayenemsachillespainstretchesbolognasinjurywait": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Jay Enem",
+    "club": "Bologna",
+    "league": "Serie A",
+    "body_part": "achilles",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Jay Enem's Achilles problem prolongs his injury absence at Bologna.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcaatletichitbyanotherinjuryblowascatovicsetforsurgeryonlegfracture": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Catovic",
+    "club": "Barcelona Atlètic",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barça Atlètic's Catovic will have surgery on a leg fracture.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridloseendricktothighinjury": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick has suffered a thigh injury at Real Madrid.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialrealmadridannounceinjuryblow": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": null,
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Real Madrid announce an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:howbadisdavidrayasinjurylatestnewsasarsenalgoalkeeperdoubtforchampions": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "David Raya is doubtful for the Champions League but avoided a worst-case injury.",
+    "extractor": "claude"
+   }
+  },
+  "osimhen:unknown": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "title": "UCL: Osimhen Ruled Out Of Galatasaray Vs Aston Villa"
+  },
+  "title:uclosimhenruledoutofgalatasarayvsastonvilla": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Victor Osimhen",
+    "club": "Galatasaray",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Osimhen will miss Galatasaray's game against Aston Villa.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalsdavidrayatoavoidsurgeryinjurynottooseriousmikelartetatheathlet": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta says Raya won't need surgery and the injury is not too serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalreceivefirstupdateondavidrayaaftershoulderinjuryagainstnewcastl": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal get initial news on Raya's shoulder injury from the Newcastle game.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsdouetoundergosurgeryafterseriouskneeinjury": {
+   "first_seen": "2026-11-24T20:02:45.071535+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué will have surgery on a serious knee injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
