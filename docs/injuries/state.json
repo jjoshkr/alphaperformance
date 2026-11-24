@@ -9591,6 +9591,242 @@
     "summary_en": "Kane underwent surgery that was described as successful.",
     "extractor": "claude"
    }
+  },
+  "title:newsendricksidelinedasrealmadridfaceinjurysetback": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick is sidelined with an injury at Real Madrid.",
+    "extractor": "claude"
+   }
+  },
+  "doue:unknown": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "title": "Desire Doue injury leaves PSG and Luis Enrique anxious"
+  },
+  "title:desiredoueinjuryleavespsgandluisenriqueanxious": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue's injury worries PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalbossartetaeasesfearsoverrayainjury": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta played down concerns about Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridsendricksidelinedwithleginjurybeforepsvmatch": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Endrick will miss the PSV match with a leg injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayaisoutwithashoulderinjuryandarsenalhostbundesligaleadersdortmundone": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "shoulder",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya is out with a shoulder injury before facing Dortmund.",
+    "extractor": "claude"
+   }
+  },
+  "title:borussiadortmundpresidenthansjoachimwatzkeconcernedbyharrykanesinjury": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Dortmund's president voiced concern over Kane's injury.",
+    "extractor": "claude"
+   }
+  },
+  "catovic:unknown": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "title": "Barcelona suffer major injury blow as Mirza Catovic faces surgery"
+  },
+  "title:barcelonasuffermajorinjuryblowasmirzacatovicfacessurgery": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Mirza Catovic",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Catovic needs surgery after an injury at Barcelona.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgsuffermajorinjuryblowasdouekvaratskheliafacelonglayoffs": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue and Kvaratskhelia face long absences for PSG.",
+    "extractor": "claude"
+   }
+  },
+  "title:imconvincedillcomebackmuchstrongerdesiredouebreakshissilenceaftersuffe": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue speaks after an ACL injury sustained against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:rayaruledoutofarsenalschampionsleagueclashwithdortmund": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Raya will miss Arsenal's match against Dortmund.",
+    "extractor": "claude"
+   }
+  },
+  "alajbegovic:unknown": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "title": "Alajbegovic half-time withdrawal not a major concern for Juventus"
+  },
+  "title:alajbegovichalftimewithdrawalnotamajorconcernforjuventus": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Kerim Alajbegovic",
+    "club": "Juventus",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tests on Alajbegovic after his half-time substitution suggest no serious problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridforwardendrickruledoutforafewweekswiththighstrain": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "a few weeks",
+    "summary_en": "Endrick will miss a few weeks with a thigh strain.",
+    "extractor": "claude"
+   }
+  },
+  "title:injurythrowsplansintodisarrayflicksfouroptionstoreplaceyamalagainstsab": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Flick considers replacements for injured Yamal.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaslamineyamaloutforchampionsleaguematchvssabah": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yamal misses the Champions League game against Sabah.",
+    "extractor": "claude"
+   }
+  },
+  "title:whydidtheysellleekanginadisasterstrikespsgafterkhvichadhoualsosuffersa": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Desire Doue",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doue tears his ACL and is out for the season.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichstarharrykanecouldmissthreemonths": {
+   "first_seen": "2026-11-24T08:57:02.841482+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 13,
+    "duration_phrase": "three months",
+    "summary_en": "Kane may be out for around three months.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
