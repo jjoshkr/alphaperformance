@@ -10303,6 +10303,274 @@
     "summary_en": "PSG may target a Premier League player after Doué's injury.",
     "extractor": "claude"
    }
+  },
+  "title:brightonstarsettomissseveralweekswithakneeinjury": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": null,
+    "club": "Brighton",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "several weeks",
+    "summary_en": "An unnamed Brighton player is expected to be out for several weeks with a knee problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:brightonconfirmmajorinjuryblowaheadofconferenceleagueclash": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": null,
+    "club": "Brighton",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Brighton have confirmed a significant injury before a Conference League match.",
+    "extractor": "claude"
+   }
+  },
+  "bartesaghi:unknown": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "title": "Milan injury list rises to nine as Bartesaghi pulls up in training before Olympiacos"
+  },
+  "title:milaninjurylistrisestonineasbartesaghipullsupintrainingbeforeolympiaco": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Davide Bartesaghi",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bartesaghi pulled up in training, raising Milan's injury count to nine.",
+    "extractor": "claude"
+   }
+  },
+  "ismajli:unknown": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "title": "Torino, injury update: Ismajli undergoes hand surgery. Belghali trains separately"
+  },
+  "title:torinoinjuryupdateismajliundergoeshandsurgerybelghalitrainsseparately": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Ardian Ismajli",
+    "club": "Torino",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Torino's Ismajli has had surgery on his hand while Belghali is training apart.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenallosesrayatoinjuryinnewcastledrawbeforetoughrunofgames": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal goalkeeper Raya was injured during the draw with Newcastle.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmmirzacatovicoutforfourmonthsaftersurgeryonlegfracture": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Mirza Catovic",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 17,
+    "duration_phrase": "four months",
+    "summary_en": "Barcelona say Catovic will be out about four months following surgery on a leg fracture.",
+    "extractor": "claude"
+   }
+  },
+  "garca:unknown": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "title": "Barcelona star a last-minute doubt to play vs Sabah"
+  },
+  "title:barcelonastaralastminutedoubttoplayvssabah": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Joan García",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona goalkeeper Joan García is a late doubt for the trip to Sabah.",
+    "extractor": "claude"
+   }
+  },
+  "title:massiveblowpompeybossreelingafterlearningextentofbrentfordmansinjury": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": null,
+    "club": "Brentford",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Portsmouth's manager laments the extent of an injury to a Brentford-owned player.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgforwarddsirdousuffersaseriousrightkneeinjuryinligue1gameagainstnice": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué sustained a serious right knee injury against Nice.",
+    "extractor": "claude"
+   }
+  },
+  "title:itsnotourstyleluisenriquerefusestocryaspsglosedesiredoueandkhvichakvar": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "knee_acl",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG have lost Doué and Kvaratskhelia for the season with ACL injuries, and Luis Enrique refuses to complain.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalsdavidrayatoavoidsurgeryinjurynottooseriousmikelarteta": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arteta says Raya will not need surgery and the injury is not too serious.",
+    "extractor": "claude"
+   }
+  },
+  "title:notinagoodplaceiraolaprovidesinjuryupdateonkeyliverpoolduo": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool's manager gives a concerning update on two key players.",
+    "extractor": "claude"
+   }
+  },
+  "modri:unknown": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "title": "Luka Modrić Injured and Ruled Out of Milan's Europa League Clash"
+  },
+  "title:lukamodriinjuredandruledoutofmilanseuropaleagueclash": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Luka Modrić",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Modrić is injured and will miss Milan's Europa League match.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolsgakpogravenberchtomissbruggeclash": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Cody Gakpo",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": "a Today",
+    "summary_en": "Gakpo and Gravenberch will miss Liverpool's match at Brugge.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolsufferdoubledutchinjurysetbackasandoniiraolaruleskeyforwardou": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool face two injury problems with a forward out of the derby and concern over a midfielder.",
+    "extractor": "claude"
+   }
+  },
+  "title:andoniiraolagivesworryingryangravenberchinjuryupdateandrulescodygakpoo": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Cody Gakpo",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Gakpo is ruled out of the derby and Gravenberch's status is worrying.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsquadoliseruledoutfortomorrow": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Olise is ruled out of Bayern's next match.",
+    "extractor": "claude"
+   }
+  },
+  "title:intercalhanoglusuffersmusclestrainexpectedrecoverytime": {
+   "first_seen": "2026-11-25T16:56:53.223600+00:00",
+   "facts": {
+    "player": "Hakan Calhanoglu",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Calhanoglu has a muscle strain and a recovery estimate has been given.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
