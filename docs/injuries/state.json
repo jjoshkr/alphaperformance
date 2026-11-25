@@ -10039,6 +10039,270 @@
     "summary_en": "Doué will have surgery on a serious knee injury.",
     "extractor": "claude"
    }
+  },
+  "title:injuryupdateonbarcelonastarlamineyamal": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An update has been given on Lamine Yamal's injury at Barcelona.",
+    "extractor": "claude"
+   }
+  },
+  "title:kaneinjuryopensbundesligascoringracetofllkrug": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Harry Kane's injury opens up the Bundesliga scoring race.",
+    "extractor": "claude"
+   }
+  },
+  "title:kaneinjuryopensbundesligascoringraceasfllkrugleads": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane's injury leaves Füllkrug leading the Bundesliga scoring race.",
+    "extractor": "claude"
+   }
+  },
+  "title:realmadridstartippedforincreasedgametimeafterendrickinjury": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Endrick",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Real Madrid player may get more minutes after Endrick's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:davidrayainjurylatestforarsenalvsmanchestercity": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Latest news on David Raya's injury before Arsenal face Manchester City.",
+    "extractor": "claude"
+   }
+  },
+  "title:whyisntdavidrayaplayingvsdortmundarsenalinjuryupdate": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": "A Today",
+    "summary_en": "David Raya is missing Arsenal's match against Dortmund through injury.",
+    "extractor": "claude"
+   }
+  },
+  "gravenberch:unknown": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "title": "Ryan Gravenberch and Cody Gakpo injury update"
+  },
+  "title:ryangravenberchandcodygakpoinjuryupdate": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Ryan Gravenberch",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool provide an injury update on Gravenberch and Gakpo.",
+    "extractor": "claude"
+   }
+  },
+  "gakpo:unknown": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "title": "Cody Gakpo ruled out vs. Everton – Ryan Gravenberch injury “difficult to solve”"
+  },
+  "title:codygakporuledoutvsevertonryangravenberchinjurydifficulttosolve": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Cody Gakpo",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Gakpo is out against Everton while Gravenberch's injury is proving tricky.",
+    "extractor": "claude"
+   }
+  },
+  "title:ryangravenberchinjuryupdateoutofliverpoolsbruggesquad24november": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Ryan Gravenberch",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Gravenberch is left out of Liverpool's squad for Brugge due to injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:arsenalreceivemajorrayainjuryupdatepremanchestercity": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal receive news on Raya's injury before facing Manchester City.",
+    "extractor": "claude"
+   }
+  },
+  "calhanoglu:muscle_general": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "title": "Inter, muscle strain for Calhanoglu: around a month out. Back for the Super Cup?"
+  },
+  "title:intermusclestrainforcalhanogluaroundamonthoutbackforthesupercup": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Hakan Calhanoglu",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "moderate",
+    "duration_weeks": 4,
+    "duration_phrase": "a month",
+    "summary_en": "Calhanoglu has a muscle strain expected to sideline him for about a month.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichidentifysevenmanstrikershortlisttoreplaceinjuredballondorw": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern list striker options to cover for injured Harry Kane.",
+    "extractor": "claude"
+   }
+  },
+  "title:comotargetzirkzeeaskeaninjuryforcesseriearethink": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Kean",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kean's injury prompts transfer interest in Zirkzee.",
+    "extractor": "claude"
+   }
+  },
+  "title:whowillstartingoalforarsenaltonightafterrayainjuryblow": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal need a replacement goalkeeper after Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:ankleinjuryruleslamineyamaloutofbarcelonatriptofacesabah": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lamine Yamal misses Barcelona's match against Sabah with an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:vergaraoutforthreemonthsinjuryhitnapolisufferanotherblow": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Vergara",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 13,
+    "duration_phrase": "three months",
+    "summary_en": "Vergara faces about three months out for Napoli.",
+    "extractor": "claude"
+   }
+  },
+  "title:threewingerspsgcouldtargetafterdesiredouesseasonendinginjury": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Doué's injury will keep him out for the rest of the season.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgtippedtotargetpremierleaguestarafterdevastatingdesiredoueinjury": {
+   "first_seen": "2026-11-25T04:00:18.262114+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG may target a Premier League player after Doué's injury.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
