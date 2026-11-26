@@ -10571,6 +10571,250 @@
     "summary_en": "Calhanoglu has a muscle strain and a recovery estimate has been given.",
     "extractor": "claude"
    }
+  },
+  "munoz:knee_other": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "title": "Victor Munoz injury worry as Liverpool man 'writhes in agony' after hurting knee"
+  },
+  "title:victormunozinjuryworryasliverpoolmanwrithesinagonyafterhurtingknee": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool's Victor Munoz hurt his knee and appeared in severe pain.",
+    "extractor": "claude"
+   }
+  },
+  "munoz:unknown": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "title": "Liverpool latest: Munoz adds to injury concern ahead of derby"
+  },
+  "title:liverpoollatestmunozaddstoinjuryconcernaheadofderby": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Munoz is an added injury concern for Liverpool before the derby.",
+    "extractor": "claude"
+   }
+  },
+  "title:victormunozinjuryupdate": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool issued an update on Victor Munoz's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonastarsufferedaninjuryblowduringsabahclash": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Barcelona player was injured against Sabah.",
+    "extractor": "claude"
+   }
+  },
+  "bastoni:unknown": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "title": "Inter have new injury worry with Bastoni limping off"
+  },
+  "title:interhavenewinjuryworrywithbastonilimpingoff": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Alessandro Bastoni",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bastoni limped off, creating a new injury concern for Inter.",
+    "extractor": "claude"
+   }
+  },
+  "title:andoniiraolagivesupdateoninjurytoliverpoolstarasstretcherbroughtontopi": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Liverpool's coach updated on a player who needed a stretcher.",
+    "extractor": "claude"
+   }
+  },
+  "title:liverpoolhitwithconcerninginjuryblowasstarforcedoffearlyinchampionslea": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Liverpool player was forced off early in a Champions League match.",
+    "extractor": "claude"
+   }
+  },
+  "title:whyisdesiredouenotplayingtodayforpsgvsromalatestinjuryupdate": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Désiré Doué",
+    "club": "PSG",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An update explains Doué's absence for PSG against Roma.",
+    "extractor": "claude"
+   }
+  },
+  "title:brightonmidfieldermalickyalcouyeruledoutforatleastsixweekswithkneeinju": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Malick Yalcouye",
+    "club": "Brighton",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "moderate",
+    "duration_weeks": 6,
+    "duration_phrase": "six weeks",
+    "summary_en": "Brighton's Malick Yalcouye will miss at least six weeks with a knee problem.",
+    "extractor": "claude"
+   }
+  },
+  "musiala:unknown": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "title": "Explosive suspicion! Is the injury to Bayern Munich’s Jamal Musiala worse than thought?"
+  },
+  "title:explosivesuspicionistheinjurytobayernmunichsjamalmusialaworsethanthoug": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "There is speculation Musiala's injury is worse than believed.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonayoungstersuffershorrorinjuryasstuttgartsettomissoutonmillions": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A young Barcelona player suffered a serious injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:yamaltomissbarcelonaschampionsleagueclashagainstsabahduetoankleinjury": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Lamine Yamal",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Yamal will miss the Sabah match with an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:mnmilaninjurylistuptonineasbartesaghiruledoutofolympiacostripthesituat": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Davide Bartesaghi",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bartesaghi is out of Milan's Olympiacos trip, raising their injury list to nine.",
+    "extractor": "claude"
+   }
+  },
+  "title:fabrizioromanoshareswhathehasheardaboutdavidrayasinjury": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A journalist relays information on Raya's injury.",
+    "extractor": "claude"
+   }
+  },
+  "morgan:unknown": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "title": "Wales and West Ham's Morgan suffers serious injury"
+  },
+  "title:walesandwesthamsmorgansuffersseriousinjury": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "Morgan",
+    "club": "West Ham",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "West Ham and Wales player Morgan has a serious injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:afterundergoingjournalistsharesdavidrayainjuryupdateaheadofmancitygame": {
+   "first_seen": "2026-11-26T01:41:13.961540+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An update on Raya's injury was given before the City match.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
