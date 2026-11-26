@@ -1,4 +1,4 @@
-# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-26 10:41 (KST)
+# 부상 뉴스 & 재활 콘텐츠 초안 — 2026-11-26 21:00 (KST)
 
 > 자동 생성. 뉴스는 출처 링크로만 참조. 재활 단계·운동은 일반적인 진행 예시이며 **게시 전 원우 님 검토 필수**. 의료 조언 아님.
 
@@ -6,54 +6,50 @@
 
 | 신규 | 리그 | 선수 · 클럽 | 부위 | 정도 | 헤드라인 | 추출 |
 |---|---|---|---|---|---|---|
-| 🆕 | Premier League | Victor Munoz · Liverpool | 무릎 (기타) | 미상 | [Victor Munoz injury worry as Liverpool man 'writhes in agony' after hurting knee](https://news.google.com/rss/articles/CBMingFBVV95cUxPdkRLWFdPMS1PTmxfdlcxdk5QYUJzYk9TNHpNQWloWGsxTGFhR0VqVjNJS2FEd2tOTExXVTFmSWVHU2dVYkxKUXNWejlpdkdsd0pNTDlmdGtCamtNTjBPdWVEdm1DaFBxZjgtdUtuZkJhelFPcGFqZmczdlNyTHlERmlybmMtNkNXSkxXai1DeS12TDl5eVh5Y2lGVktPUdIBowFBVV95cUxNV0psT09IUmZTNkJFMk9MQUZkMVc4ejZSTjVURjNwdFgyYlFaMndNbHFRT2tUbUktZzdzSS1HX1lMQ1lqNEtISzJna1ZrbDNVOWZGNkxGZjZXV2Q2RUVOQk5acE15WDRHZFUzSk9GbE5wS2I3RWQ3WDJBZWw3dVdFOE9zRGJmYWc2MkdWbXlaaDBjRlA4Q0xveGlHTDJpNF9sdkZB?oc=5) (Liverpool.com) | claude |
-| 🆕 | Premier League | Victor Munoz · Liverpool | - | 미상 | [Liverpool latest: Munoz adds to injury concern ahead of derby](https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts) (Sky Sports Football) | claude |
-| 🆕 | Premier League | Victor Munoz · Liverpool | - | 미상 | [Victor Munoz injury update](https://news.google.com/rss/articles/CBMia0FVX3lxTE54bXpQWXRrbzlfVVptdElQc05oTFB3S19iZk5ZQ3JCb2ppMDhPX1M4SjBWcWh6cDZvLV80VUg2TWh2VUVPdzBJUm02R2hUZk1pZGxSck1PMDk3Z2pOblBNTVNvODhPQ0xhUGNj?oc=5) (Liverpool FC) | claude |
-| 🆕 | La Liga | Barcelona | - | 미상 | [Barcelona star suffered an injury blow during Sabah clash](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1JJNjRMUjFyWWVFQmc2VlpzT1dwNFZIOEJ4V2Rqel9lNmQxSFhGbjd4cmhiNmQ3MkxDNTdrbGdjbHJ0ZlF0QU40b2pHOTQzVUhpVWk4ZmJvd05yeWdZaFk1V0VFaVNDZTNiR1ZWWFRkVjlqS3dYWTVmWGxpdGlQRjByc0hvOW5zZ0lhdVJ6ZUE0TGxkd3c?oc=5) (Yahoo Sports) | claude |
-| 🆕 | Serie A | Alessandro Bastoni · Inter | - | 미상 | [Inter have new injury worry with Bastoni limping off](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkFHRk1RQzNicFlFd2k0YlVaLW5QeDZPNGkxcjk4Vi1TSGFxY2hYNk5NeG9LZVFvaVJsRmQxMTJLd1J1Q1dFUVp3bWZkSnRBUm5TdUJCbmU3WTVIa0R4UEM4dnRNeGY2ZF9KdUhJNVZSNGZxNDFFcGFZR0dhRWF3SUJqQ2NHNW1nMkplZEdMZjhhSWR1?oc=5) (Yahoo Sports) | claude |
-| 🆕 | Premier League | Liverpool | - | 미상 | [Andoni Iraola gives update on injury to Liverpool star as stretcher brought onto pitch](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFBybWJwOUFEMkhITE1taXAwTDBFUEVtbm9tRnZuN3RPcVB2UXJkd3A2bi1oOGkzTTVpOURUZEEyLWFJM2hITF9BV19JcEdjRlVQQWxQX25TUGJ6bUVFRUttM1pzUVJUdlJYelNnVkctTV9MM2Utdy1ydkdzYnBTWWNSUGd4dw?oc=5) (talkSPORT) | claude |
-| 🆕 | Premier League | Liverpool | - | 미상 | [Liverpool hit with concerning injury blow as star forced off early in Champions League clash](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnM0OEEzS1ZYWlk1ZWpEYzM3emtoOW9heFRiWVlvUDZmajE0NUg0QnpiS2NxNVhoUEx6OWpqN1lWNDNfcFRwd0hGSEkzeVpjMU5ObjNxM0VLVW8yQWlmVDVBX3Nyd2RlZXAzY1B0dDhxeElUU0FVZXowUG8yNDFNaklUOXAzc3BGSnc?oc=5) (AOL.co.uk) | claude |
-|  | Ligue 1 | Désiré Doué · PSG | - | 미상 | [Why Is Desire Doue Not Playing Today for PSG vs. Roma? Latest Injury Update](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM044dXAzbzdkbmwzeTAtMGZWc2x2NndOTWotSmZMQVV1bERuOFNhM1I1ZUVJUlhUZlBTclJsTVB4T19PR0twc3daUU15Mk90S3lENEUwN0poeWpGSWZlV0ZROG5kaFZQQ2xacnYtaTd6d3BCLXBZN3AybWFRbEw1UnFpeFMtMUdlMThMTlJRbUIxZTVjZGlWaExSNWFIVGl2ZDZhMHNYY24?oc=5) (Athlon Sports) | claude |
-|  | Premier League | Malick Yalcouye · Brighton | 무릎 (기타) | 중간 (2~8주) · "six weeks" | [Brighton midfielder Malick Yalcouye ruled out for at least six weeks with knee injury](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDA0X204ZFVWNk5SYW13NWpOeDM0Q0Ric3RLNS1SdTNjc0FqNk1RaDVldlg4aDJZazhFN3BQbHZEU1U2WVFfZmZzYjFzdkNqRzY4bndTWnU1V1pabDRQREV3b3NDRWtXMHlwUlA2dDRNN2VRdG9rSzJQZWtFaWFXWnNDRmMxcVVhanpEc3FXVk52eFNxSmM0bGhqTDJTcWZiT0FFZXFLcXFreU5Rd0xJUnVWb3ZmZjdkZTBMSnZKQ24?oc=5) (Football Today) | claude |
-| 🆕 | Bundesliga | Jamal Musiala · Bayern Munich | - | 미상 | [Explosive suspicion! Is the injury to Bayern Munich’s Jamal Musiala worse than thought?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZDdhREkwV1BJVHczM3hYdkpnWjdQSElxNU8xWG9BQnFPd2VOa0RmM0J5MVFGRjE5dWhnbVM5R08xQkxMYkJIMHpMeE9FWm91S0E1QmZjLWdqWDVRdjZlYUZSUHkzRXhHVXhXNVN6Si1nazJ1SnloRU9WZDQyUU15alZzNmhDSkhtYmt5QXFWMHIzMnJTRHF0MDF3X3Zsdzd6cTY3WlBXRkxlNENKZGN4YW1ialJEcTNiSGVqYW1TOGtnOWh1N3pEY2d4eFl6SVNwelItTEFaV0lFN3Z0?oc=5) (LiveScore) | claude |
-| 🆕 | La Liga | Barcelona | - | 중증 (8주 이상 / 수술 / 파열) | [Barcelona youngster suffers horror injury as Stuttgart set to miss out on millions](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV18xZlBmdXpQZm9CV19UeThqcUI0bUhUYU8xUkluMm9Va01BUkVvdWNKc0ZRMVg1VUlGeWlKMHIxNHF5cjc4LTh5d1E4enNHVlpaZnhYbEMxRGRFTlA0RjFDZDZPN3EtRnhybHZjYUgtMGNTeFhRTjNvYUl1S1ZvNkl4Z0N6QkpiMkMzckZEQUt4cXBnT3pFRkdUUlhHaXk2ZGJOU0hTQU5zeE9RdDJ6MnJURkFtbHloN0d6YVZyV0tzWTk5VUJtaWhDUkRTSmV5cnRmOWg1X1hYZw?oc=5) (LiveScore) | claude |
+|  | Premier League | David Raya · Arsenal | - | 미상 | [David Raya injury update as expert explains if Arsenal star can play against Man City](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWdRV3F2UWk5T3NkUVREQXNFS0JNd21KeF96Sm5FcG95U0NmSi02bFp4WXczWV9NblppTWlVcHhjV0FzUjRoNHpSdGE1cUZtaDFZaTctVmRaeFRSXzFISjZCbV9jU2ZzTzF0WFBkWUxXT3hUbDVhWHJiTHdremlxYV9TOVBnNzc4VVlMMG5JTEJlWHM4bTdBVmxsa2l6UUctOEFNYTJWOU9RQ1RMMUlWNV9B0gG3AUFVX3lxTE8tNW0yZ0FKSjRGOXYydlNDaGtERnFhVXJfU2x2U3ZsckJLVC16TzI2NWpDdERmMVBKc182RlZRZWZsZklqRlNRRmdJZk9PRWxlUGg4UXhjcGd3YW9jOFdfTXFzNlN0Xy1VX0Z2a0FHRk9Vb3llMGpReWJzLVhUc2NjRGl2WS0zMUVzNHRib1NSVG1PX3BPZWJ5ZFhqSGNsS3BJcEY0WVlSUjBzYU9icjNLc3p2dTJyRQ?oc=5) (Metro.co.uk) | claude |
+|  | Premier League | Victor Munoz · Liverpool | 무릎 (기타) | 미상 | [Iraola says Victor Munoz is 'optimistic' after knee injury in Liverpool's win at Club Brugge](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG5Vd2FfdXpBSnE1eTZNeC1xN1J1d2tscG4wUVd5OUtXaExEM19aZUpiOEF4VUlKWXpJYlpWdFdWQ3FVWGFGVDRzZEYzdFdqMGd6ZXczUzAtYlVhMzdxbG0taXQ0RjI1Qy0tSW9OUG1HTC01YjRxTHVUdHlYRkp6MHdLTlpKSEwwbjdCMlhNTS1TMnc2V0E?oc=5) (Yahoo Sports) | claude |
+|  | Premier League | Victor Munoz · Liverpool | 무릎 (기타) | 미상 | [Iraola issues update on Munoz knee injury](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlNSR09PR0RUdGdSLURrbWtNWkZnU3l3dl94REltcUpPbk0tQjlLM2lNeWxDMVdmeFlhRmpZNVkwRS1lN0h5d0hxajZRc0pKN2JtdVVnUHlmR1EzNkZIQmVqakhKRVg0OXBwbzI3ODNPNVROMGNORTB2b2JvdlJ3ak85Y25EMXczaFJhTWtFYUlqREdjYWpjRDBuQlM?oc=5) (Premier League) | claude |
+|  | Premier League | Victor Munoz · Liverpool | 무릎 (기타) | 미상 | [Andoni Iraola optimistic over Victor Munoz knee injury after Liverpool beat Club Brugge](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOblNodkY2VWhDZU1adURBbzhJU2pjSUZySlpSMVQyM0NsLS0wLXNnSzFabGdwblItSUdQTVEzUDZMb1pNdGYzaVpMcWFNRDdSbEtkVHgzbGxqX0xOTFdBSndndS1GZVRsUU80QUg0Z2c1a0gxZk9zOWwtLXlwYXV6TExtRFFZN0VjZ3lNSldTLS1lYVVLc0d6a2pDblEyWkNJc3FBeWNTdHdxbzNoRkNHUEp6SHROSzZUcmw1empINnNFVUxMVHZvU0o4LWw4N25aQXUxSHQ0ajVLSnJlYS1RbFJvVU5DZw?oc=5) (LiveScore) | claude |
 |  | La Liga | Lamine Yamal · Barcelona | 발목 | 미상 | [Yamal to miss Barcelona’s Champions League clash against Sabah due to ankle injury](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVpuNGRGWDlGN1k3YUV0NUNfMUVuUVA3TGw1ajJuZ2RkYWlxbDBVdHNTZjloRThoYVhWb2pvR2RlblhvYjNoWlFxTlh6YnJLQko5c3ozeG5YLWZ0dzVyQlBMLWZiQnZGNmNYSnIwZlpZQkwyalJDbENQN1ZreG94TVcxODE2RUI5dXhhQ2MybnBDU1RkRmxBWWtIWTJvZmhraDhUOFdKMDhRQlBUY0E1ZVZFZjRUV3lrdHVLcjlfRmg2eEg2dGc1RzZWZkFwQQ?oc=5) (The Daily Star) | claude |
+|  | Premier League | Savio · Tottenham Hotspur | - | 미상 | [Savio doubt for Sunderland as eight Spurs players miss Tuesday training](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2FHZkxOX0Zfc3cyZzdsVVRwRjVrU2tWd1BuckV0U2xZcDZlaUtuazN5UHlUWmZqdzVkX2w2R0UxLXhvRkdZRFJjZzFlOVpCcnowRzIzRnFCcFRYbUY1YjJvSVBTVE93dnRYWnRwLUZ1SVJkNlhWdUxKc1k5MTItNjNFRDdRR0c1aWZZ?oc=5) (The Boy Hotspur) | claude |
+| 🆕 | Premier League | Liverpool | - | 미상 | [Iraola gives update on Liverpool injury worry after beating Brugge](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUV5b0Z1TDFVUVNMcDNka3VKNlo3VE1TeW1KRkR2R2RTTW5wUTA1MzBRUEZrd0xzM0hTZTR0TzMtblpZdE5MdEFNN0RQRk9HUkE2SHR3S2RnVG5WUWxaUnRCSjN2dUNabjlsX1hweWptTUVpeG8wWmJNSktwMUFzTEZuTGdrWVRueHhBMnZnYUdsbEJvc0owM256TktBa0ZmY29oSmtJSHo5aDViaTM1aG1mZC1aQjdzVmw1bS10UHloRlEwRjZ6dTJUbllZZw?oc=5) (LiveScore) | claude |
+|  | Premier League | Victor Munoz · Liverpool | - | 미상 | [Liverpool latest: Munoz adds to injury concern ahead of derby](https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts) (Sky Sports Football) | claude |
+|  | Premier League | Victor Munoz · Liverpool | - | 미상 | [Victor Munoz injury update](https://news.google.com/rss/articles/CBMia0FVX3lxTE54bXpQWXRrbzlfVVptdElQc05oTFB3S19iZk5ZQ3JCb2ppMDhPX1M4SjBWcWh6cDZvLV80VUg2TWh2VUVPdzBJUm02R2hUZk1pZGxSck1PMDk3Z2pOblBNTVNvODhPQ0xhUGNj?oc=5) (Liverpool FC) | claude |
+|  | La Liga | Barcelona | - | 미상 | [Barcelona star suffered an injury blow during Sabah clash](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1JJNjRMUjFyWWVFQmc2VlpzT1dwNFZIOEJ4V2Rqel9lNmQxSFhGbjd4cmhiNmQ3MkxDNTdrbGdjbHJ0ZlF0QU40b2pHOTQzVUhpVWk4ZmJvd05yeWdZaFk1V0VFaVNDZTNiR1ZWWFRkVjlqS3dYWTVmWGxpdGlQRjByc0hvOW5zZ0lhdVJ6ZUE0TGxkd3c?oc=5) (Yahoo Sports) | claude |
+|  | Serie A | Alessandro Bastoni · Inter | - | 미상 | [Inter have new injury worry with Bastoni limping off](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVNIT3ZFNGR2VHpPdkpJNExwMU90R2RzZXJub3Zfa016VnJPZUNZcFdMWUJvLThONmY0aTZqY0hOdDFxRlhvc0VjUE1CVS1ILVdsSXh1eWVtdzFaaUp6X29JRFQ2N21ORTFNMGk2aC1SYWFfdG82c0pRNE9IU085RmR6X3NqbWN4Z2FYdV9ic3Roc0U4ZFFGQm1ueTlYb0UyX1lvRGw1ajVKeGc1MVVpNnJRSkZqLW9pT0xsMw?oc=5) (LiveScore) | claude |
+|  | Premier League | Liverpool | - | 미상 | [Andoni Iraola gives update on injury to Liverpool star as stretcher brought onto pitch](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFBybWJwOUFEMkhITE1taXAwTDBFUEVtbm9tRnZuN3RPcVB2UXJkd3A2bi1oOGkzTTVpOURUZEEyLWFJM2hITF9BV19JcEdjRlVQQWxQX25TUGJ6bUVFRUttM1pzUVJUdlJYelNnVkctTV9MM2Utdy1ydkdzYnBTWWNSUGd4dw?oc=5) (talkSPORT) | claude |
+|  | Ligue 1 | Désiré Doué · PSG | - | 미상 | [Why Is Desire Doue Not Playing Today for PSG vs. Roma? Latest Injury Update](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFlhQmNiQ2RhYTV0NWJLMlpBeWhhVW1oSmlrdzlnYm5XWVVnMXRHWktXUXhjbUp1cy1NZC1sZTJvNTNkR0EtbnRtWnlGMTRWdnJEVEZ0VlNOMDBULVJFaHJjQXNaamwwOTFqcnQwYjE3SExIam8wMF9VSVZ5WU0zbmZhUGpWSUJkWW53?oc=5) (Yahoo Sports) | claude |
+|  | La Liga | Barcelona | - | 중증 (8주 이상 / 수술 / 파열) | [Barcelona youngster suffers horror injury as Stuttgart set to miss out on millions](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV18xZlBmdXpQZm9CV19UeThqcUI0bUhUYU8xUkluMm9Va01BUkVvdWNKc0ZRMVg1VUlGeWlKMHIxNHF5cjc4LTh5d1E4enNHVlpaZnhYbEMxRGRFTlA0RjFDZDZPN3EtRnhybHZjYUgtMGNTeFhRTjNvYUl1S1ZvNkl4Z0N6QkpiMkMzckZEQUt4cXBnT3pFRkdUUlhHaXk2ZGJOU0hTQU5zeE9RdDJ6MnJURkFtbHloN0d6YVZyV0tzWTk5VUJtaWhDUkRTSmV5cnRmOWg1X1hYZw?oc=5) (LiveScore) | claude |
 |  | Serie A | Davide Bartesaghi · AC Milan | - | 미상 | [MN: Milan injury list up to nine as Bartesaghi ruled out of Olympiacos trip – the situation](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZmJVVzJiWXNyZUtWVWJFRjRlc0I3eEJ4N1Q0cDg3SklsSjFNdUItVDNCVEs4emxERXZkN3ZReHBQQnV0Z3B1M2dPdjZlN05BMU8zNllubVltbUxCcGNvMzkwMV9LUm9IYkhlcjR3cGo3cXZrSnVESVhxTjQ1OUdvbUF6T2I3dFZQck1aa1RiSkZSX2dJbXZaWU5RRXVmVUdQUzR0NzlTYmszdk4wY0EwVTRjWWpYaEUxUXVaTlVmVjhJNGN3aEpmU0VxbWRoYTRpdVEzNEp3NlI3NDl4VGZrNkFhRnFWQTg?oc=5) (LiveScore) | claude |
-|  | Premier League | Brighton | 무릎 (기타) | 미상 · "several weeks" | [Brighton star set to miss several weeks with a knee injury](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFdYemJaOExtcTBtM1VmLW9OTi1VZFdmblFSaDBlQzZTdUZFWnRyTVBnaFlWRERfenRPeHhkYjEyYnJxdFZETXN4dllBdF81Q0E3T1ZmTUdTTF91TE44QjhhZV81dzFReEhVX0xCSHc3aDRzcFhTN04yZExHaXNEQXEtQU4tWGJTSGJ4aV9mOA?oc=5) (Yahoo Sports) | claude |
+|  | Premier League | Brighton | 무릎 (기타) | 중간 (2~8주) · "several weeks" | [Brighton star set to miss several weeks with a knee injury](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlBtRVVncEdvLUk2VFlYU2RHcmN4X1prSkxiMjBqNkluS255bE5pSEtyY0taSzRPVXlYSHNxd2NxLXdGcnplakMyWTVZSWozc0JGSEsyUUphU0szMGxVVElEeVNkX2VLS1JZSU0xVUNsYmRnNDN4LVU1YXZSRzFBUll6THhSdFZybkZtSzgzY2gxNGxjSjdXb3BiNEtULUdzRkNDdXFEZlZsVVNLSXFMWDhQbUc3M3BnanQyTDV0VzJ4a00?oc=5) (LiveScore) | claude |
 |  | Premier League | Brighton | - | 미상 | [Brighton confirm major injury blow ahead of Conference League clash](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa09hT0xIWmpxRVUza193dG5rMFF6SlpkbGRNaG1rVlB3T1g2bFpUcVhTd0pPV2NPNWNubWhtbzZ3SU1hWm56M2wzangxT0JnRVB3Y0ZTWXNJZC1iOHRFX0hEZlBxajBUMzh5S3JQeG1SNnYwUGN2RktWdno5Sm9ZMnBad0tpd0hreUJHN25BOFlXTzRFYmVUX3dwV0N3Rk1SdWkxOFhvc2JJTFl1dTRIYUlNWDJDZzg4UEdJQjF2dHJYWXpxd1Z4MXBlNC1RU0pZNlhTUENKY3RvaTZDQjRmQw?oc=5) (SussexWorld) | claude |
 |  | Serie A | Davide Bartesaghi · AC Milan | - | 미상 | [Milan injury list rises to nine as Bartesaghi pulls up in training before Olympiacos](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzBxMkU1S1FMMjc3N3FnRkdoQUU2Q183aXQwVGxmaEx5cHdtcnRBdXBkQ0F0dDNTXzg5ek5TaHFQdTJLZ1dCUHVEaU8xZGFYZ1U5Nm1RbE15SUYzSzhyUGwwczJ3YkJEclBTVlBPdUNwOXdOZFBuV1M3UjhlWmdhbW5udVJkVVJwMFBjQg?oc=5) (Yahoo Sports) | claude |
+| 🆕 | Serie A | AC Milan | - | 미상 | [Milan decimated in Athens: nine out, Camarda and Bartesaghi also sidelined](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbElqZVRCZ2x0SGhWeENhQjZCOWxhSmdLTFVGaGVoOTBSOUZiQjlXcEpFdlZPREI4NVRqZTA1U25WTFUwMW0xUlNMRGQ0bFRrZDJSYjhPQmFqRTE3QnJoNndhYnFicEw3U05uLURCNFUyV1VDcTJfekktbjJvbDhTZ0dJTDVTRFVzUEZKWE1wbUtIUjhTSU4ybkFJaDJjM055eDllb2pzcDJXdlFSdldueUZmcFk1YkI1aTVIMkJsc2NFNVBpMXAzNkxzMmY4NmJf0gHWAUFVX3lxTFBGdDRjZWNIWXBvU2RTVENMTzJqVXBZbmRiTnFHbFVzMnF4MFZSVU5jeWRWNTF6eUtyVmx6a3VBc3JydDZXaGlCb0Fxb09pX1NBWVUxeXVSTS1tM1V5NFkyZlhSeEljSENXLWVmaTY4czJ4azhIUmJMUFpDS2ZJczhKZGdNcEQ2VTVNeFU2dURVR0c2MDg0bzBGcXRzOHlNN3NOZGtDTklQQUx3azFJTTR6UTRreHlmVFFUbXBpNEJTR1FCV2NCX3JMRXBEenBtZ2w2WHpDemc?oc=5) (La Gazzetta dello Sport) | claude |
 |  | Premier League | David Raya · Arsenal | - | 미상 | [Fabrizio Romano shares what he has heard about David Raya’s injury](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0NHVXlYUmhtcnZVdXFJRUVoeDVhLXdtZUpWamJ6c3poLTRncVVDYTJRT19yRFRpbTRQUHhZOHdiaEtmNUJfMUJucmJHaU4ybDFRb1F2akpZTnk4UXFPZTVmM3FGYlBtY21zclk3MEJCSzlCTERKNmo4RFBFeHNzQjhKUEY2dw?oc=5) (Arsenal Insider) | claude |
-|  | Serie A | Ardian Ismajli · Torino | - | 미상 | [Torino, injury update: Ismajli undergoes hand surgery. Belghali trains separately](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTN1R1plWmxlaUNvR1RJVkZGMGdUTWFHcDlmWDZ2SDJFemxfcVI2OUVTWW1YU2dWeGJXX3dicTdHUHlGTm5Gb2FoQk5BR1lENnE1NnY5SmNIeURKRC16WTh3Nlk0VC14VjViV1RSa1hlOXRtUjV6Qml2dkdkbW5SaTJrZFdpWW1zNzZjX2w2QXlLQmJLc0pVcWYxVnpsN0pCQ3gwLTEwcGFqRm44SWpzYWFfNmMyYXVBNzdSaENOeHZsQUJNVmN5SnhkbGUtTEx5VXlZb2lKTjNlQXVI0gHiAUFVX3lxTE1kZUFVRy1NSnpQbFZuSHdtSmcwMjgwUTU2ZFUyTjhSbUJzaXZ1dVRIckMxUmx0cVZRWnNXOF9lakloQUd2dkdBdFREUE13UDhWQV9UOFl6NnJpaVN0bzM3TjlvQmNwckRPYzd2M2E0TEV1NTdhTllFU0FZWXI5elN0cndPV01RVlZRWGtOMlZNakRlaU1vS1E2VlFReGp5cXhydXdGeE1OQUEtSGpNSE9lZ1kwZ09jQk10Z3RVSWc1MEtJYW55bThtTUo0XzFHOFFfMGxmUk9pTlkyM3d1R3NRWWc?oc=5) (La Gazzetta dello Sport) | claude |
-| 🆕 | Premier League | Morgan · West Ham | - | 중증 (8주 이상 / 수술 / 파열) | [Wales and West Ham's Morgan suffers serious injury](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbHpwckltMFItUGNKbko2ek9ySG56WC1lNS1xWVVTZ0lYMUN6TTBzUC1JbXNxdmphZEtPSVZDcjVjX1dxNHhJamdLanBIV2xiOHVDSTlmNERNaV80dkh0VjhPY1owRGN0?oc=5) (BBC) | claude |
 |  | La Liga | Mirza Catovic · Barcelona | - | 중증 (8주 이상 / 수술 / 파열) · "four months" | [Barcelona confirm Mirza Catovic out for four months after surgery on leg fracture](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzZEanFfR3JBTkotYmg1ZUxRRlhmZ19lRlQtd3FKNWg4SHhYSmlqWjBIVFkzd1UzTDZ0RFBnR3NIT3FkNU5IQUZNX0RBNU9UWGlQSmNOUGtjOE56c2UxWW5PVy12TVVFSlJzWVFuZVVkLUxwc3htV0VGV0l2dnlVOThnMHdkdzIxQ1hlWE9NTVVTY2pSX1hJ?oc=5) (Yahoo Sports) | claude |
-|  | Premier League | David Raya · Arsenal | - | 미상 | [‘After undergoing’: Journalist shares David Raya injury update ahead of Man City game](https://news.google.com/rss/articles/CBMivAFBVV95cUxObURCOWpDYzF4ekt2bHdKcklCRHNLcWpCWGE1RkN4a0Y1dllmTmdBbTZTVXotcFVOVWhtekJqM2dmYXYwOFI0ZktyUTRIU201Wm55UTl3UUE5ZGcwekZPS3daUy1ONGNfemF4WFQ2TVAxTUlfTlBoMWFpd1NaSFRaSGR0bVRQQ09tYlh5a2xwX3dCSlNqNGpBMUlUcUVidzlnRGhPN2luaEYwdmRmVHltZHk5RVhSRVptZm1sOQ?oc=5) (ArsenalNews.co.uk) | claude |
+|  | Ligue 1 | Désiré Doué · PSG | 무릎 (기타) | 중증 (8주 이상 / 수술 / 파열) | [PSG forward Désiré Doué suffers a serious right knee injury in Ligue 1 game against Nice](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeUlRS0c4WWcxckJrS3JyMnE0UmE4SnVwMVRNVmprM1Byb0k4eDhQM00xUkFfNUtLNlhIWTZJR0ZuYmtlMDdsNVViMHJBcmNOdF9WeTVaRXB1MjZzaGlYUjY5YV9YZnVyRl9YZjA1akFXWkozc2hSNXd1MWdncnFwdnpNZjBJcGNnaVJ4cS1RdXVJZEdDNWtMYTNVS1pKN3FabXpLZmp4QmlIemlQV1FTZzMwMnllN2M2RlZjeXVvZlRyRWJXTndLNHNIOXRRb2Jmd1cyT0t3SWlyNHpNQUZjNUhhYS1ic1B0bmtiS0hMRnVtalA3Z21XY3NoNUZ1SzhsVVE?oc=5) (Bluefield Daily Telegraph) | claude |
 |  | Ligue 1 | Désiré Doué · PSG | 무릎 (십자인대/반월판) | 중증 (8주 이상 / 수술 / 파열) | ['It's not our style!' - Luis Enrique refuses to 'cry' as PSG lose Desire Doue and Khvicha Kvaratskhelia to season-ending ACL injuries](https://news.google.com/rss/articles/CBMisgFBVV95cUxONF9FaW53TE5BYlJYU2dwLXc4MWJsRzlkdDFuRzhZUnBBdU80all5em5MLUFIS0tUMnplSm85Z2U1Z2lQazBmYXBpaTVwQTUtNU44bXljLVVhdXdhM2NINFh4NWR4VWd5RnREelI3NkF1cGYyeDU0dFlSVnBrNmNIT3JrNGRwSFV4ZFVWSkdGWFl6a2VJZlQtZnJRLU1mR0FpRENXRDhrOWFvU3lWRXNDTTln?oc=5) (Goal.com) | claude |
 |  | Serie A | Romero · Parma | 어깨 / 쇄골 | 중증 (8주 이상 / 수술 / 파열) | [Parma lose Romero for rest of 2026 after serious shoulder injury](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEFTaTN5dWFNdHY3elRmNmwxb2FGLThwWnFqeHZJZ21jZ0ozeU9yVFZsdkZwY3dCZ1Jra0hPR1lRWDNpNHk4c2oyTUJyTHNQOEw1dUhYc3JDSGpZMGxaTEhEZFU5b0xZdFprX19jeHpzY3NPSUtfM1ozZDNVYmFYSHhUMTYwd1hwOUk1bElBZTVnSzBNLXhhQVJXNU1YQWZhUEF5cHRkODFfM0w5bXRUbS1UTkE3OUl3TFVlZ0w1S3dKRWtVNXdwbVEtSDc?oc=5) (LiveScore) | claude |
-|  | Premier League | David Raya · Arsenal | - | 미상 | [Arsenal’s David Raya to avoid surgery, injury not ‘too serious’ – Mikel Arteta](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDRHVWdNWkxUcV9LMlNIeWw3dVNjb1ROVkJuVDZpeU56bHNTS0FaVXE3S2dlR3pPU2k1VFVCSUtVZWtZVjdKOFF6ZlJKaUFhUldVOWtTaDA4dzlnNERFMlZ4dzVsMjlTNHhpWFJ1M0dEVUloYm9LUmJUcFBmNTdfdy1HRjNDbWFsM01RSTBn?oc=5) (The New York Times) | claude |
 |  | Serie A | Luka Modrić · AC Milan | - | 미상 | [Luka Modrić Injured and Ruled Out of Milan's Europa League Clash](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNandQVXY2ZWd4THNWc3RGcjRybkhBZXYteG1XUE5tLUlNZjVrU1E3LTNrNVpKQVdiTkdUNlJnTmdqRmN1blVOTDF4Q05yWllwY2J5a0hMSW9uNGJHZlBSOTEwdndvSlBiaG5sdndRRlBVQ0g2blhjODU0RnVWUks0R1pLWmF6Rng5S2hhQ28yWTVQSmI2TnVoLU11NVlJWC1NTkZpRlRJUEdZQUM4TlRjdjlRWGxXbThmekVYMnMtTXdiZXlqU2llbV9UTjhyTld0TDF4eFNWMGpySV9ZSmNiT2ZVZG9KRldKUmFKYXR2Z01zX0xMNEplV2NEU04?oc=5) (beIN SPORTS) | claude |
 |  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Kane Injury Opens Bundesliga Scoring Race to Füllkrug](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SX3FoYUFhTHFMWU42M2YyS2V0YUltX0hzSVFvTHViSmZ6R25uU1R3aDc1TFVjSnNQRVAxVlktNEhiV2Z4WWM3T19RQVBVOUVIcUx2VzRaWXpzd0ZwUUJXcWtIVFVla1ZWMFE?oc=5) (Demokratis.co.id) | claude |
 |  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Kane Injury Opens Bundesliga Scoring Race as Füllkrug Leads](https://news.google.com/rss/articles/CBMib0FVX3lxTE11dno4UTRfYTk2SEMxOGFSSVlXNWQzS1pHeUlsU1FVMDdaeXhrWUdvcnFHMFd2ZERSeDBDa19TSWkycGJkcUs1OEk1cnZnbktleGhxdlJBaHFLNlc0ZkZjQXRUWkFOZG05bkUzXzFXRQ?oc=5) (cwibc.co.id) | claude |
 |  | La Liga | Endrick · Real Madrid | - | 미상 | [Real Madrid star tipped for increased game time after Endrick injury](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkkxUUktLWVfS1pvcVpnQ1dYS0tTMVdEVjJKWUg5Vy1JLVdmeXd5Q19xR1phdWVpUnVMTDc4V1F5R0RrcnNIcC1nM2RxTjc0WjF2RS1Pa2txcW5LZHhOaVdRRXAwM2lvZGdGQjljMDdDbmEwcDhnQnF5ekxHYllTSWdOT1NVZjkzRmc?oc=5) (Yahoo Sports) | claude |
 |  | Ligue 1 | Reyna | - | 미상 | [USMNT Ligue 1 match day 10 recap: Reyna scores again but picks up an injury](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnhsNXlYYmxnaGxfd29WbFlUYzVjVkNmc3F1Y0hnMnNNWGVHWk9ZRU52aWF4d1BpUVgxUktMMUFBcVA1Z1Z0OUJQTW5vVlB6bnU3aWM1M18zR2trTHVVejZibWc2TkdRYjlhcFNzM3hVMTZiU1RfVFZtRE1hcEo2MjR4MjlIaDNQTFRXa3RHaTBnbnBCMlBkNzRiR3NMOWFodktPVkVtYlJtdmUyNmtIbjBaVE5pbTgwYWhndXpPQnh3aVJYcUdQZnREaFIwVlFDczRMMUdRVU9xNC1CMGc?oc=5) (LiveScore) | claude |
 |  | Serie A | Hakan Çalhanoğlu · Inter | - | 미상 | [Hakan Çalhanoğlu injury rules him out for Inter fo… | Yalla Shoot](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0gzS2kzRFBLcllkMVdqd2RNTUQ4X293Sjg4TmktWVZ1R2U3cnppNzI3QnFza0tPQk5VY1Z4dXFUeHdfNG5PTm5IUFBndVlGbUNYLV9PLU1naThsTmY5a3ZQZ2hXRG11cF9kUkpVa3c5TVBXdThIM0JhNXpWUEU5RlJ0MUZhbXdIRlkxYTRDRkFoRVp3aEw5NjNDOHVkYlZSLVAwZUFJc3ktaG9hNUZYaA?oc=5) (YSscores) | claude |
+|  | Bundesliga | Michael Olise · Bayern Munich | - | 미상 | [🚨 Bayern Munich squad: Olise ruled out for tomorrow](https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1d5MEZlckxDcFI0S0VlVVNsYmRIcURISVlockRWa1dxSExqMGxUOE9BQTYxWmxISnlscEMtWUM2NTBVT2ZuYnJBWEFnM0g0bU9ELUNsU0poS0xocUQzbk1qcHA3clFZRW1OU3UtV3JCUXFiWHZuRUJEdTVPdG9ZSUhlNUJCN3c?oc=5) (Yahoo Sports) | claude |
 |  | Serie A | Hakan Calhanoglu · Inter | 근육 (부위 미상) | 중간 (2~8주) · "a month" | [Inter, muscle strain for Calhanoglu: around a month out. Back for the Super Cup?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1k0SjRqX0ZtNUh1bWpPOThldU1WcFdSamhrTjl0MVNFVEU4X0otY3hla0JhQ0RQbV9vbGVONnJVTnh4QXZCT25OYnhCNm8yb3hsYURabVpkcHRrSkZxUlFSMmdfampZMTNnYkZmVXVyVWYxR2lQWERSMDZxR1AwdjBWWFZwd1RZVmRvNWctT0hUR3h6WjdVTmRPYXM3RXlHNGI3R3RkNFFXQ3QwRy03YjR30gGyAUFVX3lxTE5DWTRKNGpfRm01SHVtak85OGV1TVZwV1JqaGtOOXQxU0VURThfSi1jeGVrQmFDRFBtX29sZU42clVOeHhBdkJPbk5ieEI2bzJveGxhRFptWmRwdGtKRnFSUVIyZ19qalkxM2diRmZVdXJVZjFHaVBYRFIwNnFHUDB2MFZYVnB3VFlWZG81Zy1PSFRHeHpaN1VOZE9hczdFeUc0YjdHdGQ0UVdDdDBHLTdiNHc?oc=5) (La Gazzetta dello Sport) | claude |
 |  | Bundesliga | Michael Olise · Bayern Munich | - | 미상 | [Bayern suffer fresh injury blow as Olise ruled out of Lille clash](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk5aRERPb1F0ZU5ZT0RrYWd4MjhyaDkyZk9WTzAyYVdROElTYmtvYy1hVk1xa3BTYzdjMnUtQm1TUjRqdU03QWdTTkNWNDY3ZHNjaklwOHRyX0l5cll4Mm5ISDZTQXJKY1BpdGRKUUJrNHRtUzNOaS1YNnU2d2ZiMVJnNVVQOWc?oc=5) (Yahoo Sports) | claude |
 |  | Bundesliga | Harry Kane · Bayern Munich | - | 미상 | [Bayern Munich identify seven-man striker shortlist to replace injured Ballon d'Or winner Harry Kane](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWxWNE43VWxBV19wN2ZvRmVjalhaWFlLOTJNWFVYdHBza1hYcGtUdkw0cklUWHZMMmhUMFdqQjFwY3A0TDFZc2xPTWxxeDdzWl9RV1RLYk85QTlMSzI0aHVjeTJfRUFnS1hRbHJ6c09WbVRMM1EyOG5VQUpueFpEVUcxSGQ3dkxJLUlyYjVRQ243bGJkaVZDdU8wNm9RWXBv?oc=5) (Goal.com) | claude |
-|  | Serie A | Kean | - | 미상 | [Como target Zirkzee as Kean injury forces Serie A rethink](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkhXcVNPeHI0OFdpVVB6T1hKSmcwT1BSeTAwUS1iS2poSlNtWDJNWWhSX2FwSkxsVWJsalM4SXJHdkQ5Rm5HZEViRHhya0NPUnRmODVtTzdoek5OSE01T3Q1SDUtTjVldGxHZU5XRGluOW01ZzN3alVXV2ZxdDdldkhmWDdENC1CcHEtWmNld1N3ZVk?oc=5) (Daily Beirut) | claude |
-|  | La Liga | Endrick · Real Madrid | 근육 (부위 미상) | 중간 (2~8주) · "a few weeks" | [Real Madrid forward Endrick ruled out for a few weeks with thigh strain](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaFc5dzhDRVBHeHM1VTgza1plZWpqdFNzbnNCaUdwX19nN0xCX0h6T3VLUEYzczJYbkNRMWp5YnRvQlB0ZXBpNVBUc1A2aktqTnVzRDhQVXRDVmFaM1BOMWNDc1hMMmRlOFZuZ013Q2NOWlVwaDZRemNQUUhpRG1XZmtoUVRsT29ETE15YmpKekpqY0c0aXVRaU1IRHRzQ1cyeE90dERFSFhFUnlQUnRDTDR3dGdsMmpfV3gwbi02RnJpSXk2X1NlZUpKdmxlZ2tYbXh4VXZIaktVMDZfNU00SkduTnp6WnJwX1A3N3M1T2pnZHM?oc=5) (TribalFootball) | claude |
-|  | La Liga | Endrick · Real Madrid | - | 미상 | [News | Endrick sidelined as Real Madrid face injury setback](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGRGcXpaNFNVVXlVVGUxV2xjUjFubEJLdmNOWkN5WG5OSHFWWk16c1pHY3k1NnUzSzZrM21QcUNGc3Fpb2taQ1lXWUJkSjJ1d2JvZVdMSnRpdzg1OFN2ckR0cTRfMlNHZU9wTEVvNEtqWi1lcEtkRGNKSS03TjZqdXFVRGN6X3ZtdjhBdWNB?oc=5) (Vodacom Soccer) | claude |
-|  | Ligue 1 | Desire Doue · Paris Saint-Germain | - | 미상 | [Desire Doue injury leaves PSG and Luis Enrique anxious](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWoxVUxEZXNQcVRteUphSDlUU01QeHhfZE5wUHFWanJuVzFrODhZT1MtckFKSk1aRktycGdDSGZ6Nld6LTQwUnhEVTg4czc3enF6N181NDdGNmRqbVNuaVdwVS1sNDdrMTVhLWJ5cHdWMTN5ZTZZOTh3dEp1c0pRUmdnVkU2TVBGUWlHT3NRX1U?oc=5) (Geeky Nigeria) | claude |
-|  | La Liga | Catovic · Barcelona Atlètic | - | 중증 (8주 이상 / 수술 / 파열) | [Barca Atletic hit by another injury blow as Catovic set for surgery on leg fracture](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRm9MWjdiLVMtdnpEb0JrakRSQkhUNUZVNC1sRE5uYldrMm5CeXFiUURBWkxGb19QR1BnLTZsa3lpQ0dXbmdVcUhnZS1ya2pCSDYzSmFpNGprRHFTZXc2VVVnazV0aVhob3dCdmd5Y0Q4aG10UGR4SXRzaDdTSVYwSm1FbVM2a2Zk?oc=5) (Yahoo Sports) | claude |
 
 ## 오늘의 콘텐츠 후보 (채널 적합도 순)
 
 | 순위 | 선수 | 부위 | 적합도 | 이유 |
 |---|---|---|---|---|
 | 1 | Lamine Yamal | 발목 | ★★★★ | 가장 흔한 부상. 균형 3동작은 장비 없이 어디서나 촬영 가능 |
-| 2 | Désiré Doué | 무릎 (십자인대/반월판) | ★★★ | 관심은 높지만 9개월 과정이라 교육형. 착지 기술 시연으로 풀면 좋음 |
-| 3 | Malick Yalcouye | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
-| 4 | Victor Munoz | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
-| 5 | Romero | 어깨 / 쇄골 | ★ | 축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도 |
+| 2 | Désiré Doué | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
+| 3 | Victor Munoz | 무릎 (기타) | ★★★ | 부위가 모호하면 훅이 약함 |
+| 4 | Romero | 어깨 / 쇄골 | ★ | 축구 채널과 거리 있음. '다리 훈련은 계속' 한 컷 정도 |
+| 5 | Hakan Calhanoglu | 근육 (부위 미상) | ★ | 부위 확인 전에는 보류 |
 
 ### 1. Lamine Yamal · Barcelona — 발목 (미상)
 - [Yamal to miss Barcelona’s Champions League clash against Sabah due to ankle injury](https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVpuNGRGWDlGN1k3YUV0NUNfMUVuUVA3TGw1ajJuZ2RkYWlxbDBVdHNTZjloRThoYVhWb2pvR2RlblhvYjNoWlFxTlh6YnJLQko5c3ozeG5YLWZ0dzVyQlBMLWZiQnZGNmNYSnIwZlpZQkwyalJDbENQN1ZreG94TVcxODE2RUI5dXhhQ2MybnBDU1RkRmxBWWtIWTJvZmhraDhUOFdKMDhRQlBUY0E1ZVZFZjRUV3lrdHVLcjlfRmg2eEg2dGc1RzZWZkFwQQ?oc=5) · La Liga · The Daily Star
@@ -120,73 +116,8 @@ Phase 2 · Strength & balance (weeks 2–4)
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 2. Désiré Doué · PSG — 무릎 (십자인대/반월판) (중증 (8주 이상 / 수술 / 파열))
-- ['It's not our style!' - Luis Enrique refuses to 'cry' as PSG lose Desire Doue and Khvicha Kvaratskhelia to season-ending ACL injuries](https://news.google.com/rss/articles/CBMisgFBVV95cUxONF9FaW53TE5BYlJYU2dwLXc4MWJsRzlkdDFuRzhZUnBBdU80all5em5MLUFIS0tUMnplSm85Z2U1Z2lQazBmYXBpaTVwQTUtNU44bXljLVVhdXdhM2NINFh4NWR4VWd5RnREelI3NkF1cGYyeDU0dFlSVnBrNmNIT3JrNGRwSFV4ZFVWSkdGWFl6a2VJZlQtZnJRLU1mR0FpRENXRDhrOWFvU3lWRXNDTTln?oc=5) · Ligue 1 · Goal.com
-- 콘텐츠 각도: ACL rehab is a 9-month project: show what month 1, month 4 and month 8 look like, and why landing mechanics matter more than the surgery.
-- 주의: Swelling that returns, the knee giving way or locking means stop and see the surgeon; return-to-play tests, not the calendar, decide readiness.
-
-**어디·무슨 근육**
-- 위치: 무릎 관절 한가운데. 허벅지뼈(대퇴골)와 정강이뼈(경골)를 X자로 잇는 두 인대 중 앞쪽이 전방십자인대(ACL). 반월판은 그 사이의 C자 연골 쿠션.
-- 근육: 인대는 근육이 아니라 스스로 수축하지 못한다. 무릎을 지키는 근육은 대퇴사두근(앞, 특히 내측광근) · 햄스트링(뒤, 정강이뼈가 앞으로 밀리는 걸 막아 ACL을 돕는다) · 둔근(무릎이 안으로 꺾이는 걸 막는다).
-- 집중: ACL은 착지·급정지·방향 전환에서 무릎이 안으로 무너질 때(knee valgus) 다친다. 수술 후에는 ① 대퇴사두근 활성(수술 직후 급격히 약해짐) ② 햄스트링·둔근 근력 ③ 착지 기술 순으로 쌓는다. 달력이 아니라 근력 대칭(건측 대비 90%)과 홉 테스트가 복귀 기준.
-
-**촬영할 단계:** Phase 1 · Post-surgery basics (weeks 0–6) — 무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.
-1. Quad sets and straight-leg raises — 영상 촬영 필요
-2. Heel slides for knee bend, patella mobilisation — 영상 촬영 필요
-3. Short-arc leg extension with no load — 영상 촬영 필요
-
-<details><summary>전체 3단계</summary>
-
-- **Phase 1 · Post-surgery basics (weeks 0–6)** — 무릎을 완전히 펴고(신전 0°) 굽힘 각도를 회복하며 대퇴사두근을 다시 켠다. 붓기 관리가 최우선.: Quad sets and straight-leg raises · Heel slides for knee bend, patella mobilisation · Short-arc leg extension with no load
-- **Phase 2 · Strength & balance (months 2–5)** — 양쪽 다리 근력 차이를 줄이고 한 다리 균형을 만든다. 둔근·햄스트링으로 무릎 정렬을 잡는 법을 배운다.: Split squats and step-ups, slow and controlled · Single-leg balance on an unstable surface · Leg press building to body-weight equivalent
-- **Phase 3 · Plyometrics & return to play (months 6–9+)** — 점프 착지와 방향 전환에서 무릎이 안으로 무너지지 않게 한다. 계획된 동작 → 반응 동작 → 경기 속도.: Double-leg → single-leg hops with soft landings · Cutting and pivot drills, planned then reactive · Full-speed running and football-specific sessions
-
-</details>
-
-**캡션 (EN)**
-```
-Désiré Doué (PSG): knee (ACL/meniscus) injury. Here's what the comeback usually looks like.
-
-Most knee (ACL/meniscus) rehab has 3 stages. This is the one that gets rushed:
-Phase 1 · Post-surgery basics (weeks 0–6)
-1. Quad sets and straight-leg raises
-2. Heel slides for knee bend, patella mobilisation
-3. Short-arc leg extension with no load
-
-⚠️ General training education, not medical advice. Injured? See a physio first.
-
-💬 Comment SPEED for my 6-week speed program (for healthy players).
-```
-**캡션 (ES)**
-```
-Désiré Doué (PSG): lesión de rodilla (ligamento cruzado / menisco). Así suele ser la vuelta.
-
-La rehabilitación de rodilla (ligamento cruzado / menisco) tiene 3 fases. Esta es la que más se apresura:
-1. Quad sets and straight-leg raises
-2. Heel slides for knee bend, patella mobilisation
-3. Short-arc leg extension with no load
-
-⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
-
-💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
-```
-**캡션 (DE)**
-```
-Désiré Doué (PSG): Verletzung an der Knie (Kreuzband/Meniskus). So sieht das Comeback meistens aus.
-
-Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 1 · Post-surgery basics (weeks 0–6)
-1. Quad sets and straight-leg raises
-2. Heel slides for knee bend, patella mobilisation
-3. Short-arc leg extension with no load
-
-⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
-
-💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
-```
-
-### 3. Malick Yalcouye · Brighton — 무릎 (기타) (중간 (2~8주))
-- [Brighton midfielder Malick Yalcouye ruled out for at least six weeks with knee injury](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDA0X204ZFVWNk5SYW13NWpOeDM0Q0Ric3RLNS1SdTNjc0FqNk1RaDVldlg4aDJZazhFN3BQbHZEU1U2WVFfZmZzYjFzdkNqRzY4bndTWnU1V1pabDRQREV3b3NDRWtXMHlwUlA2dDRNN2VRdG9rSzJQZWtFaWFXWnNDRmMxcVVhanpEc3FXVk52eFNxSmM0bGhqTDJTcWZiT0FFZXFLcXFreU5Rd0xJUnVWb3ZmZjdkZTBMSnZKQ24?oc=5) · Premier League · Football Today
+### 2. Désiré Doué · PSG — 무릎 (기타) (중증 (8주 이상 / 수술 / 파열))
+- [PSG forward Désiré Doué suffers a serious right knee injury in Ligue 1 game against Nice](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeUlRS0c4WWcxckJrS3JyMnE0UmE4SnVwMVRNVmprM1Byb0k4eDhQM00xUkFfNUtLNlhIWTZJR0ZuYmtlMDdsNVViMHJBcmNOdF9WeTVaRXB1MjZzaGlYUjY5YV9YZnVyRl9YZjA1akFXWkozc2hSNXd1MWdncnFwdnpNZjBJcGNnaVJ4cS1RdXVJZEdDNWtMYTNVS1pKN3FabXpLZmp4QmlIemlQV1FTZzMwMnllN2M2RlZjeXVvZlRyRWJXTndLNHNIOXRRb2Jmd1cyT0t3SWlyNHpNQUZjNUhhYS1ic1B0bmtiS0hMRnVtalA3Z21XY3NoNUZ1SzhsVVE?oc=5) · Ligue 1 · Bluefield Daily Telegraph
 - 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
 - 주의: Locking, giving way or significant swelling needs imaging.
 
@@ -195,10 +126,10 @@ Phase 1 · Post-surgery basics (weeks 0–6)
 - 근육: 대퇴사두근(앞) · 햄스트링(뒤) · 둔근(엉덩이) · 종아리. 무릎은 고관절과 발목 사이에 끼어 있어 두 관절의 힘이 약하면 무릎이 대신 부담을 진다.
 - 집중: 무릎 자체보다 위(둔근)와 아래(발목·종아리)의 힘과 정렬을 먼저 본다. 슬개건 문제는 천천히 버티는 등척성·편심성 부하가 효과적이다.
 
-**촬영할 단계:** Phase 2 · Strength — 통증 없는 범위에서 다리 전체 근력. 둔근으로 무릎 정렬 잡기.
-1. Wall sits and goblet squats to pain-free depth — 영상 촬영 필요
-2. Step-downs for control — 영상 촬영 필요
-3. Single-leg Romanian deadlift — 영상 촬영 필요
+**촬영할 단계:** Phase 1 · Settle & activate — 통증·붓기를 가라앉히고 대퇴사두근을 깨운다. 가동 범위 유지.
+1. Quad sets, straight-leg raises — 영상 촬영 필요
+2. Stationary bike, no resistance, for range — 영상 촬영 필요
+3. Calf raises to keep the lower leg working — 영상 촬영 필요
 
 <details><summary>전체 3단계</summary>
 
@@ -210,13 +141,13 @@ Phase 1 · Post-surgery basics (weeks 0–6)
 
 **캡션 (EN)**
 ```
-Malick Yalcouye (Brighton): knee injury. Here's what the comeback usually looks like.
+Désiré Doué (PSG): knee injury. Here's what the comeback usually looks like.
 
 Most knee rehab has 3 stages. This is the one that gets rushed:
-Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
+Phase 1 · Settle & activate
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ General training education, not medical advice. Injured? See a physio first.
 
@@ -224,12 +155,12 @@ Phase 2 · Strength
 ```
 **캡션 (ES)**
 ```
-Malick Yalcouye (Brighton): lesión de rodilla. Así suele ser la vuelta.
+Désiré Doué (PSG): lesión de rodilla. Así suele ser la vuelta.
 
 La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
 
@@ -237,21 +168,21 @@ La rehabilitación de rodilla tiene 3 fases. Esta es la que más se apresura:
 ```
 **캡션 (DE)**
 ```
-Malick Yalcouye (Brighton): Verletzung an der Knie. So sieht das Comeback meistens aus.
+Désiré Doué (PSG): Verletzung an der Knie. So sieht das Comeback meistens aus.
 
 Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
-Phase 2 · Strength
-1. Wall sits and goblet squats to pain-free depth
-2. Step-downs for control
-3. Single-leg Romanian deadlift
+Phase 1 · Settle & activate
+1. Quad sets, straight-leg raises
+2. Stationary bike, no resistance, for range
+3. Calf raises to keep the lower leg working
 
 ⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
 
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 4. Victor Munoz · Liverpool — 무릎 (기타) (미상)
-- [Victor Munoz injury worry as Liverpool man 'writhes in agony' after hurting knee](https://news.google.com/rss/articles/CBMingFBVV95cUxPdkRLWFdPMS1PTmxfdlcxdk5QYUJzYk9TNHpNQWloWGsxTGFhR0VqVjNJS2FEd2tOTExXVTFmSWVHU2dVYkxKUXNWejlpdkdsd0pNTDlmdGtCamtNTjBPdWVEdm1DaFBxZjgtdUtuZkJhelFPcGFqZmczdlNyTHlERmlybmMtNkNXSkxXai1DeS12TDl5eVh5Y2lGVktPUdIBowFBVV95cUxNV0psT09IUmZTNkJFMk9MQUZkMVc4ejZSTjVURjNwdFgyYlFaMndNbHFRT2tUbUktZzdzSS1HX1lMQ1lqNEtISzJna1ZrbDNVOWZGNkxGZjZXV2Q2RUVOQk5acE15WDRHZFUzSk9GbE5wS2I3RWQ3WDJBZWw3dVdFOE9zRGJmYWc2MkdWbXlaaDBjRlA4Q0xveGlHTDJpNF9sdkZB?oc=5) · Premier League · Liverpool.com
+### 3. Victor Munoz · Liverpool — 무릎 (기타) (미상)
+- [Iraola says Victor Munoz is 'optimistic' after knee injury in Liverpool's win at Club Brugge](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG5Vd2FfdXpBSnE1eTZNeC1xN1J1d2tscG4wUVd5OUtXaExEM19aZUpiOEF4VUlKWXpJYlpWdFdWQ3FVWGFGVDRzZEYzdFdqMGd6ZXczUzAtYlVhMzdxbG0taXQ0RjI1Qy0tSW9OUG1HTC01YjRxTHVUdHlYRkp6MHdLTlpKSEwwbjdCMlhNTS1TMnc2V0E?oc=5) · Premier League · Yahoo Sports
 - 콘텐츠 각도: The knee is usually the victim: show how the hip and ankle take load off it.
 - 주의: Locking, giving way or significant swelling needs imaging.
 
@@ -315,7 +246,7 @@ Phase 2 · Strength
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
-### 5. Romero · Parma — 어깨 / 쇄골 (중증 (8주 이상 / 수술 / 파열))
+### 4. Romero · Parma — 어깨 / 쇄골 (중증 (8주 이상 / 수술 / 파열))
 - [Parma lose Romero for rest of 2026 after serious shoulder injury](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEFTaTN5dWFNdHY3elRmNmwxb2FGLThwWnFqeHZJZ21jZ0ozeU9yVFZsdkZwY3dCZ1Jra0hPR1lRWDNpNHk4c2oyTUJyTHNQOEw1dUhYc3JDSGpZMGxaTEhEZFU5b0xZdFprX19jeHpzY3NPSUtfM1ozZDNVYmFYSHhUMTYwd1hwOUk1bElBZTVnSzBNLXhhQVJXNU1YQWZhUEF5cHRkODFfM0w5bXRUbS1UTkE3OUl3TFVlZ0w1S3dKRWtVNXdwbVEtSDc?oc=5) · Serie A · LiveScore
 - 콘텐츠 각도: Shoulder injuries don't stop leg training: show the 'train around it' week.
 - 주의: Dislocations and fractures follow the surgeon's timeline.
@@ -380,11 +311,77 @@ Phase 1 · Protect
 💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
 ```
 
+### 5. Hakan Calhanoglu · Inter — 근육 (부위 미상) (중간 (2~8주))
+- [Inter, muscle strain for Calhanoglu: around a month out. Back for the Super Cup?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1k0SjRqX0ZtNUh1bWpPOThldU1WcFdSamhrTjl0MVNFVEU4X0otY3hla0JhQ0RQbV9vbGVONnJVTnh4QXZCT25OYnhCNm8yb3hsYURabVpkcHRrSkZxUlFSMmdfampZMTNnYkZmVXVyVWYxR2lQWERSMDZxR1AwdjBWWFZwd1RZVmRvNWctT0hUR3h6WjdVTmRPYXM3RXlHNGI3R3RkNFFXQ3QwRy03YjR30gGyAUFVX3lxTE5DWTRKNGpfRm01SHVtak85OGV1TVZwV1JqaGtOOXQxU0VURThfSi1jeGVrQmFDRFBtX29sZU42clVOeHhBdkJPbk5ieEI2bzJveGxhRFptWmRwdGtKRnFSUVIyZ19qalkxM2diRmZVdXJVZjFHaVBYRFIwNnFHUDB2MFZYVnB3VFlWZG81Zy1PSFRHeHpaN1VOZE9hczdFeUc0YjdHdGQ0UVdDdDBHLTdiNHc?oc=5) · Serie A · La Gazzetta dello Sport
+- 콘텐츠 각도: Follow-up post once the club confirms the exact muscle.
+- 주의: Wait for the specific diagnosis before any detailed content.
+
+**어디·무슨 근육**
+- 위치: 클럽이 '근육 문제'라고만 발표한 경우. 축구에서는 햄스트링 > 내전근 > 대퇴사두근 > 종아리 순으로 흔하다.
+- 근육: 미확정.
+- 집중: 정확한 부위가 확인되면 해당 항목으로 다시 알림이 간다. 그전에는 상세 콘텐츠를 만들지 않는다.
+
+**촬영할 단계:** Phase 2 · Eccentric strength — 해당 근육의 편심성 근력.
+1. Slow eccentric loading of the muscle — 영상 촬영 필요
+2. Single-leg strength work — 영상 촬영 필요
+3. Core — 영상 촬영 필요
+
+<details><summary>전체 3단계</summary>
+
+- **Phase 1 · Protect & isometrics** — 통증 없는 등척성과 보행.: Pain-free isometric holds for the affected muscle · Light mobility · Walking
+- **Phase 2 · Eccentric strength** — 해당 근육의 편심성 근력.: Slow eccentric loading of the muscle · Single-leg strength work · Core
+- **Phase 3 · Speed** — 스프린트와 포지션별 동작 복귀.: Sprint build-ups · Plyometrics · Position-specific drills
+
+</details>
+
+**캡션 (EN)**
+```
+Hakan Calhanoglu (Inter): muscle (unspecified) injury. Here's what the comeback usually looks like.
+
+Most muscle (unspecified) rehab has 3 stages. This is the one that gets rushed:
+Phase 2 · Eccentric strength
+1. Slow eccentric loading of the muscle
+2. Single-leg strength work
+3. Core
+
+⚠️ General training education, not medical advice. Injured? See a physio first.
+
+💬 Comment SPEED for my 6-week speed program (for healthy players).
+```
+**캡션 (ES)**
+```
+Hakan Calhanoglu (Inter): lesión de muscular. Así suele ser la vuelta.
+
+La rehabilitación de muscular tiene 3 fases. Esta es la que más se apresura:
+1. Slow eccentric loading of the muscle
+2. Single-leg strength work
+3. Core
+
+⚠️ Educación general, no consejo médico. ¿Lesionado? Consulta a un fisio primero.
+
+💬 Comenta VELOCIDAD para mi programa de velocidad de 6 semanas (para jugadores sanos).
+```
+**캡션 (DE)**
+```
+Hakan Calhanoglu (Inter): Verletzung an der Muskel. So sieht das Comeback meistens aus.
+
+Die Reha hat 3 Phasen. Diese wird am häufigsten überstürzt:
+Phase 2 · Eccentric strength
+1. Slow eccentric loading of the muscle
+2. Single-leg strength work
+3. Core
+
+⚠️ Allgemeine Trainingsinfo, kein medizinischer Rat. Verletzt? Erst zum Physio.
+
+💬 Kommentiere SPEED für mein 6-Wochen-Speed-Programm (für gesunde Spieler).
+```
+
 ## 선수 미확인 (알림 보내지 않음)
 
+- Premier League: [Iraola gives update on Liverpool injury worry after beating Brugge](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUV5b0Z1TDFVUVNMcDNka3VKNlo3VE1TeW1KRkR2R2RTTW5wUTA1MzBRUEZrd0xzM0hTZTR0TzMtblpZdE5MdEFNN0RQRk9HUkE2SHR3S2RnVG5WUWxaUnRCSjN2dUNabjlsX1hweWptTUVpeG8wWmJNSktwMUFzTEZuTGdrWVRueHhBMnZnYUdsbEJvc0owM256TktBa0ZmY29oSmtJSHo5aDViaTM1aG1mZC1aQjdzVmw1bS10UHloRlEwRjZ6dTJUbllZZw?oc=5) (LiveScore)
 - La Liga: [Barcelona star suffered an injury blow during Sabah clash](https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1JJNjRMUjFyWWVFQmc2VlpzT1dwNFZIOEJ4V2Rqel9lNmQxSFhGbjd4cmhiNmQ3MkxDNTdrbGdjbHJ0ZlF0QU40b2pHOTQzVUhpVWk4ZmJvd05yeWdZaFk1V0VFaVNDZTNiR1ZWWFRkVjlqS3dYWTVmWGxpdGlQRjByc0hvOW5zZ0lhdVJ6ZUE0TGxkd3c?oc=5) (Yahoo Sports)
 - Premier League: [Andoni Iraola gives update on injury to Liverpool star as stretcher brought onto pitch](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFBybWJwOUFEMkhITE1taXAwTDBFUEVtbm9tRnZuN3RPcVB2UXJkd3A2bi1oOGkzTTVpOURUZEEyLWFJM2hITF9BV19JcEdjRlVQQWxQX25TUGJ6bUVFRUttM1pzUVJUdlJYelNnVkctTV9MM2Utdy1ydkdzYnBTWWNSUGd4dw?oc=5) (talkSPORT)
-- Premier League: [Liverpool hit with concerning injury blow as star forced off early in Champions League clash](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnM0OEEzS1ZYWlk1ZWpEYzM3emtoOW9heFRiWVlvUDZmajE0NUg0QnpiS2NxNVhoUEx6OWpqN1lWNDNfcFRwd0hGSEkzeVpjMU5ObjNxM0VLVW8yQWlmVDVBX3Nyd2RlZXAzY1B0dDhxeElUU0FVZXowUG8yNDFNaklUOXAzc3BGSnc?oc=5) (AOL.co.uk)
 - La Liga: [Barcelona youngster suffers horror injury as Stuttgart set to miss out on millions](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV18xZlBmdXpQZm9CV19UeThqcUI0bUhUYU8xUkluMm9Va01BUkVvdWNKc0ZRMVg1VUlGeWlKMHIxNHF5cjc4LTh5d1E4enNHVlpaZnhYbEMxRGRFTlA0RjFDZDZPN3EtRnhybHZjYUgtMGNTeFhRTjNvYUl1S1ZvNkl4Z0N6QkpiMkMzckZEQUt4cXBnT3pFRkdUUlhHaXk2ZGJOU0hTQU5zeE9RdDJ6MnJURkFtbHloN0d6YVZyV0tzWTk5VUJtaWhDUkRTSmV5cnRmOWg1X1hYZw?oc=5) (LiveScore)
-- Premier League: [Brighton star set to miss several weeks with a knee injury](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFdYemJaOExtcTBtM1VmLW9OTi1VZFdmblFSaDBlQzZTdUZFWnRyTVBnaFlWRERfenRPeHhkYjEyYnJxdFZETXN4dllBdF81Q0E3T1ZmTUdTTF91TE44QjhhZV81dzFReEhVX0xCSHc3aDRzcFhTN04yZExHaXNEQXEtQU4tWGJTSGJ4aV9mOA?oc=5) (Yahoo Sports)
+- Premier League: [Brighton star set to miss several weeks with a knee injury](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlBtRVVncEdvLUk2VFlYU2RHcmN4X1prSkxiMjBqNkluS255bE5pSEtyY0taSzRPVXlYSHNxd2NxLXdGcnplakMyWTVZSWozc0JGSEsyUUphU0szMGxVVElEeVNkX2VLS1JZSU0xVUNsYmRnNDN4LVU1YXZSRzFBUll6THhSdFZybkZtSzgzY2gxNGxjSjdXb3BiNEtULUdzRkNDdXFEZlZsVVNLSXFMWDhQbUc3M3BnanQyTDV0VzJ4a00?oc=5) (LiveScore)
 - Premier League: [Brighton confirm major injury blow ahead of Conference League clash](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa09hT0xIWmpxRVUza193dG5rMFF6SlpkbGRNaG1rVlB3T1g2bFpUcVhTd0pPV2NPNWNubWhtbzZ3SU1hWm56M2wzangxT0JnRVB3Y0ZTWXNJZC1iOHRFX0hEZlBxajBUMzh5S3JQeG1SNnYwUGN2RktWdno5Sm9ZMnBad0tpd0hreUJHN25BOFlXTzRFYmVUX3dwV0N3Rk1SdWkxOFhvc2JJTFl1dTRIYUlNWDJDZzg4UEdJQjF2dHJYWXpxd1Z4MXBlNC1RU0pZNlhTUENKY3RvaTZDQjRmQw?oc=5) (SussexWorld)
+- Serie A: [Milan decimated in Athens: nine out, Camarda and Bartesaghi also sidelined](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbElqZVRCZ2x0SGhWeENhQjZCOWxhSmdLTFVGaGVoOTBSOUZiQjlXcEpFdlZPREI4NVRqZTA1U25WTFUwMW0xUlNMRGQ0bFRrZDJSYjhPQmFqRTE3QnJoNndhYnFicEw3U05uLURCNFUyV1VDcTJfekktbjJvbDhTZ0dJTDVTRFVzUEZKWE1wbUtIUjhTSU4ybkFJaDJjM055eDllb2pzcDJXdlFSdldueUZmcFk1YkI1aTVIMkJsc2NFNVBpMXAzNkxzMmY4NmJf0gHWAUFVX3lxTFBGdDRjZWNIWXBvU2RTVENMTzJqVXBZbmRiTnFHbFVzMnF4MFZSVU5jeWRWNTF6eUtyVmx6a3VBc3JydDZXaGlCb0Fxb09pX1NBWVUxeXVSTS1tM1V5NFkyZlhSeEljSENXLWVmaTY4czJ4azhIUmJMUFpDS2ZJczhKZGdNcEQ2VTVNeFU2dURVR0c2MDg0bzBGcXRzOHlNN3NOZGtDTklQQUx3azFJTTR6UTRreHlmVFFUbXBpNEJTR1FCV2NCX3JMRXBEenBtZ2w2WHpDemc?oc=5) (La Gazzetta dello Sport)

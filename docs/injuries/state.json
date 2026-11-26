@@ -10815,6 +10815,104 @@
     "summary_en": "An update on Raya's injury was given before the City match.",
     "extractor": "claude"
    }
+  },
+  "title:davidrayainjuryupdateasexpertexplainsifarsenalstarcanplayagainstmancit": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An expert assesses whether Arsenal goalkeeper David Raya can face Manchester City despite an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:iraolasaysvictormunozisoptimisticafterkneeinjuryinliverpoolswinatclubb": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Victor Munoz is reportedly optimistic after hurting his knee in Liverpool's win at Club Brugge.",
+    "extractor": "claude"
+   }
+  },
+  "title:iraolaissuesupdateonmunozkneeinjury": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Iraola gave an update on Munoz's knee problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:andoniiraolaoptimisticovervictormunozkneeinjuryafterliverpoolbeatclubb": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": "Victor Munoz",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "knee_other",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Iraola is hopeful about Victor Munoz's knee injury after the Brugge victory.",
+    "extractor": "claude"
+   }
+  },
+  "title:saviodoubtforsunderlandaseightspursplayersmisstuesdaytraining": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Savio is doubtful for the Sunderland game as eight Spurs players missed training.",
+    "extractor": "claude"
+   }
+  },
+  "title:iraolagivesupdateonliverpoolinjuryworryafterbeatingbrugge": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": null,
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Iraola updated on a Liverpool injury concern after beating Brugge.",
+    "extractor": "claude"
+   }
+  },
+  "title:milandecimatedinathensnineoutcamardaandbartesaghialsosidelined": {
+   "first_seen": "2026-11-26T12:00:35.194924+00:00",
+   "facts": {
+    "player": null,
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Milan have nine absentees in Athens, including Camarda and Bartesaghi.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
