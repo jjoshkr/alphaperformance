@@ -10913,6 +10913,336 @@
     "summary_en": "Milan have nine absentees in Athens, including Camarda and Bartesaghi.",
     "extractor": "claude"
    }
+  },
+  "title:blowfortottenhamassummersigningfrommancityruledoutforseveralweeksafter": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "several weeks",
+    "summary_en": "An unnamed Tottenham summer signing from Manchester City will miss several weeks with a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "ramos:unknown": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Amorim: ‘Hutchinson changed the game more than me’ as Ramos injury concern emerges for Milan"
+  },
+  "title:amorimhutchinsonchangedthegamemorethanmeasramosinjuryconcernemergesfor": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Ramos",
+    "club": "AC Milan",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Milan have an injury concern over Ramos after their comeback win at Olympiacos.",
+    "extractor": "claude"
+   }
+  },
+  "title:atlticomadridannounceinjuryblow": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": null,
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atlético Madrid have announced an injury to an unnamed player.",
+    "extractor": "claude"
+   }
+  },
+  "srloth:muscle_general": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Muscle injury sidelines Sørloth from Atlético temp… | Yalla Shoot"
+  },
+  "title:muscleinjurysidelinessrlothfromatlticotempyallashoot": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alexander Sørloth",
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Sørloth is sidelined by a muscle injury at Atlético Madrid.",
+    "extractor": "claude"
+   }
+  },
+  "title:lampardissuesworryingawoniyiinjurynewsaheadofleedsclash": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Awoniyi",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lampard shared concerning injury news on Awoniyi before facing Leeds.",
+    "extractor": "claude"
+   }
+  },
+  "balde:ankle": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Barcelona release Alejandro Balde statement as ankle injury for Spain international is confirmed"
+  },
+  "title:barcelonareleasealejandrobaldestatementasankleinjuryforspaininternatio": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed Alejandro Balde has an ankle injury.",
+    "extractor": "claude"
+   }
+  },
+  "savio:hamstring": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Tottenham Hotspur forward Savio ruled out for several weeks with hamstring injury"
+  },
+  "title:tottenhamhotspurforwardsavioruledoutforseveralweekswithhamstringinjury": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "several weeks",
+    "summary_en": "Tottenham forward Savio will miss several weeks with a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamsufferfreshinjuryblowassaviofacesseveralweeksoutwithhamstring": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": "several weeks",
+    "summary_en": "Savio faces several weeks out with a hamstring problem for Tottenham.",
+    "extractor": "claude"
+   }
+  },
+  "title:lucawilliamsbarnettisalmostguaranteedanewroleattottenhamaftersaviosinj": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Savio's injury timeline could open a role for a Tottenham youngster.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamdealtmajorinjuryblowas85msaviofacesweeksoutwithhamstringprobl": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "moderate",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Tottenham's Savio is expected to miss weeks with a hamstring issue.",
+    "extractor": "claude"
+   }
+  },
+  "title:bastonisidelinedjustasthingswereclickingwhatnowintersdefensivescenario": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alessandro Bastoni",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter must adjust their defence with Bastoni sidelined.",
+    "extractor": "claude"
+   }
+  },
+  "title:awoniyiinjuryblowlampardconfirmsleedsabsenceonyekaupdate": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Awoniyi",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lampard confirmed Awoniyi will miss the Leeds game.",
+    "extractor": "claude"
+   }
+  },
+  "viery:unknown": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Fiorentina confirm Viery out until 2027 with new thigh injury"
+  },
+  "title:fiorentinaconfirmvieryoutuntil2027withnewthighinjury": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Viery",
+    "club": "Fiorentina",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Fiorentina said Viery is out until 2027 with a new thigh injury.",
+    "extractor": "claude"
+   }
+  },
+  "viery:hamstring": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Fiorentina lose Viery to injury: hamstring strain for defender"
+  },
+  "title:fiorentinalosevierytoinjuryhamstringstrainfordefender": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Viery",
+    "club": "Fiorentina",
+    "league": "Serie A",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Fiorentina defender Viery has a hamstring strain.",
+    "extractor": "claude"
+   }
+  },
+  "kaba:hamstring": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Kaba suffers a grade one hamstring injury ahead of Atalanta"
+  },
+  "title:kabasuffersagradeonehamstringinjuryaheadofatalanta": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Kaba",
+    "club": null,
+    "league": "Serie A",
+    "body_part": "hamstring",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kaba has a grade one hamstring injury before facing Atalanta.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmmildanklesprainforbaldebutnotruledoutvsdeportivo": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Balde has a mild ankle sprain but may face Deportivo.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonaconfirmalejandrobaldehassufferedankleinjury": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed an ankle injury to Alejandro Balde.",
+    "extractor": "claude"
+   }
+  },
+  "title:confirmedbarcelonastaralejandrobaldesuffersmildanklesprainnotruledouto": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Balde suffered a mild ankle sprain and is not ruled out against Deportivo.",
+    "extractor": "claude"
+   }
+  },
+  "balde:unknown": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Barcelona confirm Alejandro Balde injury after Champions League win over Sabah"
+  },
+  "title:barcelonaconfirmalejandrobaldeinjuryafterchampionsleaguewinoversabah": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona confirmed Balde was injured in the win over Sabah.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonahopeful23yearoldstarsankleinjuryisnotseriousaftersabahscarere": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona hope a 23-year-old's ankle injury is not serious.",
+    "extractor": "claude"
+   }
+  },
+  "lemar:muscle_general": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "title": "Thomas Lemar misses Atlético game with mild muscle strain"
+  },
+  "title:thomaslemarmissesatlticogamewithmildmusclestrain": {
+   "first_seen": "2026-11-26T21:25:26.019152+00:00",
+   "facts": {
+    "player": "Thomas Lemar",
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lemar missed an Atlético match with a mild muscle strain.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
