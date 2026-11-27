@@ -11321,6 +11321,494 @@
   "savinho:hamstring": {
    "first_seen": "2026-11-27T07:19:15.867990+00:00",
    "title": "Blow for Tottenham as summer signing from Man City ruled out for several weeks after hamstring injury"
+  },
+  "title:musialajoinskaneonbayernsgrowinginjurylist": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala has been added to Bayern's injury list alongside Kane.",
+    "extractor": "claude"
+   }
+  },
+  "adi:knee_other": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Adžić undergoes surgery as Juventus loanee’s Sassuolo season may be over"
+  },
+  "title:adiundergoessurgeryasjuventusloaneessassuoloseasonmaybeover": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Vasilije Adžić",
+    "club": "Sassuolo",
+    "league": "Serie A",
+    "body_part": "knee_other",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Adžić had knee surgery for an osteochondral detachment and may miss the remainder of the season.",
+    "extractor": "claude"
+   }
+  },
+  "bruyne:unknown": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Napoli star De Bruyne to miss Sassuolo clash"
+  },
+  "title:napolistardebruynetomisssassuoloclash": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Kevin De Bruyne",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Bruyne will not play in Napoli's match against Sassuolo.",
+    "extractor": "claude"
+   }
+  },
+  "musiala:muscle_general": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Bayern Munich announce Musiala's muscle injury wit… | Yalla Shoot"
+  },
+  "title:bayernmunichannouncemusialasmuscleinjurywityallashoot": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern confirmed Musiala has a muscle injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamdealtmajorblowasrobertodezerbiruleswingersaviooutofthechristm": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Savio will miss Tottenham's Christmas games with a hamstring problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:jamalmusialasuffersnewinjurysetbackwith25mbayerncontractinthespotlight": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala has suffered another injury setback.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamssaviocouldmissupto80dayswithinjurybbcsport": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 11.4,
+    "duration_phrase": "80 days",
+    "summary_en": "Savio may be sidelined for as long as 80 days.",
+    "extractor": "claude"
+   }
+  },
+  "title:spurssaviotomisschristmasperiodwithhamstringinjurysaysdezerbi": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Zerbi said Savio will miss the festive period with a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:saviotottenhamwingersettomisschristmasfixturesafterinjurysetback": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Savio is expected to miss Christmas fixtures after a setback.",
+    "extractor": "claude"
+   }
+  },
+  "title:spurssaviotomissfestivefixturesafterinjurysetback": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "severe",
+    "duration_weeks": 11.4,
+    "duration_phrase": "80 days",
+    "summary_en": "Savio hurt his hamstring against Ipswich and could be out up to 80 days.",
+    "extractor": "claude"
+   }
+  },
+  "musiala:hamstring": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Bayern Munich loses Musiala to hamstring injury ‘until further notice’"
+  },
+  "title:bayernmunichlosesmusialatohamstringinjuryuntilfurthernotice": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala is out indefinitely with a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:jobaintgotnothinonbayernmunichjamalmusialaslatestinjurycompoundsagrowi": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala's new injury adds to Bayern's crisis.",
+    "extractor": "claude"
+   }
+  },
+  "title:jamalmusialasuffershamstringinjuryamiddifficultspellforbayernmunichsta": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala has a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernsmusialaoutofactionuntilfurthernoticeduetoinjury": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala is out indefinitely through injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:musialaoutuntilfurthernoticewithhamstringinjurybayern": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern said Musiala is out indefinitely with a hamstring problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:spursstarsetforanotherspelloutasdezerbirevealsdoubtforsunderlandgame": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Spurs player faces another absence and is a doubt for Sunderland.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsjamalmusialaoutwiththighinjury": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala is sidelined with a thigh injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:savioinjuryupdatedezerbisays50to80daysoutforspurs27november": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": 11.4,
+    "duration_phrase": "50 to 80 Days",
+    "summary_en": "De Zerbi expects Savio to be out 50 to 80 days.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernissueofficialinjuryupdateonmusiala": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern released an official update on Musiala's injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:breakingbayernmunichsjamalmusialasuffersanotherinjurysetback": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala has had a further injury setback.",
+    "extractor": "claude"
+   }
+  },
+  "sy:unknown": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Auxerre full-back Lamine Sy to be out for ‘between six weeks and six months’ due to injury"
+  },
+  "title:auxerrefullbacklaminesytobeoutforbetweensixweeksandsixmonthsduetoinjur": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Lamine Sy",
+    "club": "Auxerre",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": "six weeks",
+    "summary_en": "Lamine Sy faces an absence of six weeks to six months.",
+    "extractor": "claude"
+   }
+  },
+  "title:officialinterprovidebastoniinjuryupdateasrecoverytimerevealed": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Alessandro Bastoni",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Inter announced Bastoni's recovery timeframe.",
+    "extractor": "claude"
+   }
+  },
+  "mendes:unknown": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "PSG full-back Nuno Mendes ruled out of Lorient match"
+  },
+  "title:psgfullbacknunomendesruledoutoflorientmatch": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Nuno Mendes",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Nuno Mendes will miss the Lorient match.",
+    "extractor": "claude"
+   }
+  },
+  "title:psgannouncenewinjuryissuetoexplosivewideplayerwhocouldmisstomorrowsgam": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": null,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG reported a new injury to an unnamed winger.",
+    "extractor": "claude"
+   }
+  },
+  "taylor:unknown": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Gattuso: Taylor ruled out of Torino clash, but Lazio ‘can’t settle for what we have’"
+  },
+  "title:gattusotaylorruledoutoftorinoclashbutlaziocantsettleforwhatwehave": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Kenneth Taylor",
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Taylor will miss Lazio's game against Torino.",
+    "extractor": "claude"
+   }
+  },
+  "title:chelseastarsettomissnottinghamforestclashthroughinjury": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": null,
+    "club": "Chelsea",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Chelsea player will miss the Forest match.",
+    "extractor": "claude"
+   }
+  },
+  "eccles:ankle": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Lampard Confirms Josh Eccles Ankle Surgery as Five Coventry Players Miss Leeds Trip"
+  },
+  "title:lampardconfirmsjoshecclesanklesurgeryasfivecoventryplayersmissleedstri": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Josh Eccles",
+    "club": "Coventry City",
+    "league": "Premier League",
+    "body_part": "ankle",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Eccles needs ankle surgery.",
+    "extractor": "claude"
+   }
+  },
+  "title:olisealsotomissbayernsbundesligagameagainsthamburg": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Olise will miss the Hamburg game.",
+    "extractor": "claude"
+   }
+  },
+  "title:newinjuryworryforbarcelonaaheadofdeportivolacoruaclash": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona have a new injury concern before Deportivo.",
+    "extractor": "claude"
+   }
+  },
+  "title:taiwoawoniyiruledoutofcoventrycitysleedstripwithankleinjury": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Taiwo Awoniyi",
+    "club": "Coventry City",
+    "league": "Premier League",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Awoniyi is out of the Leeds trip with an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "taylor:muscle_general": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Kenneth Taylor ruled out for Torino with a thigh edema"
+  },
+  "title:kennethtaylorruledoutfortorinowithathighedema": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Kenneth Taylor",
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "muscle_general",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Taylor misses Torino with thigh edema.",
+    "extractor": "claude"
+   }
+  },
+  "title:sabiousrecurringinjurydeepenstottenhamsattackingcrisis": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "facts": {
+    "player": "Savio",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Savio's recurring injury worsens Spurs' attacking issues.",
+    "extractor": "claude"
+   }
+  },
+  "srloth:unknown": {
+   "first_seen": "2026-11-27T18:45:17.772564+00:00",
+   "title": "Atlético Madrid announce injury blow"
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
