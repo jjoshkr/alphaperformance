@@ -11243,6 +11243,84 @@
     "summary_en": "Lemar missed an Atlético match with a mild muscle strain.",
     "extractor": "claude"
    }
+  },
+  "awoniyi:ankle": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "title": "Awoniyi Ruled Out of Leeds Clash With Ankle Injury"
+  },
+  "title:awoniyiruledoutofleedsclashwithankleinjury": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "facts": {
+    "player": "Taiwo Awoniyi",
+    "club": null,
+    "league": "Premier League",
+    "body_part": "ankle",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Awoniyi will miss the match against Leeds because of an ankle problem.",
+    "extractor": "claude"
+   }
+  },
+  "title:astonvillaassesscashaheadofipswichclashasinjuriesmount": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "facts": {
+    "player": "Matty Cash",
+    "club": "Aston Villa",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Aston Villa are checking on Cash's fitness before facing Ipswich.",
+    "extractor": "claude"
+   }
+  },
+  "title:vitallaziomidfielderruledoutoftorinotripamidinjuryfears": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "facts": {
+    "player": null,
+    "club": "Lazio",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Lazio midfielder will miss the trip to Torino with an injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:kanesinjuryopensupthebundesligatopscorerrace": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "facts": {
+    "player": "Harry Kane",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Kane's injury affects the Bundesliga scoring race.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamstarmaynotplayagainthisyearafterdevastatinginjuryupdate": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "severe",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Tottenham player may be out for the rest of the year.",
+    "extractor": "claude"
+   }
+  },
+  "savinho:hamstring": {
+   "first_seen": "2026-11-27T07:19:15.867990+00:00",
+   "title": "Blow for Tottenham as summer signing from Man City ruled out for several weeks after hamstring injury"
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
