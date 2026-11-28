@@ -12039,6 +12039,172 @@
     "summary_en": "Lemar misses two games with a muscle strain.",
     "extractor": "claude"
    }
+  },
+  "abdelkarim:unknown": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "title": "Out for weeks? Worrying twist in Hamza Abdelkarim's injury raises Barcelona fears"
+  },
+  "title:outforweeksworryingtwistinhamzaabdelkarimsinjuryraisesbarcelonafears": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Hamza Abdelkarim",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A worrying development in Hamza Abdelkarim's injury has raised concern at Barcelona that he could be out for weeks.",
+    "extractor": "claude"
+   }
+  },
+  "title:musialaslatestinjuryahumantragedysaysemotionalbayerndirector": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A Bayern director described Jamal Musiala's latest injury in emotional terms.",
+    "extractor": "claude"
+   }
+  },
+  "bidstrup:unknown": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "title": "Mads Bidstrup ruled out: Lyon without him vs Monaco"
+  },
+  "title:madsbidstrupruledoutlyonwithouthimvsmonaco": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Mads Bidstrup",
+    "club": "Lyon",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Mads Bidstrup has been ruled out of Lyon's match against Monaco.",
+    "extractor": "claude"
+   }
+  },
+  "brunner:unknown": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "title": "Monaco head to Lyon with absences and doubts over Paris Brunner"
+  },
+  "title:monacoheadtolyonwithabsencesanddoubtsoverparisbrunner": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Paris Brunner",
+    "club": "Monaco",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Monaco travel to Lyon with several absences and uncertainty over Paris Brunner's fitness.",
+    "extractor": "claude"
+   }
+  },
+  "title:newdavidrayainjuryupdateemergesasarsenalprepareformancityclash": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "A new update on David Raya's injury has reportedly surfaced before Arsenal face Man City.",
+    "extractor": "claude"
+   }
+  },
+  "title:tottenhamwingertomissfestiveperiodwithhamstringinjury": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham",
+    "league": "Premier League",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed Tottenham winger will miss the festive fixtures due to a hamstring injury.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonainjurynewsveterandefenderlikelytomissdeportivoclashasrecovery": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": null,
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "An unnamed experienced Barcelona defender is likely to miss the Deportivo match as his recovery continues.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayerncrisisdeepensasmusialaandolisejoinkaneoninjuredforwardslist": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": null,
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bayern now have Musiala, Olise and Kane all injured among their forwards.",
+    "extractor": "claude"
+   }
+  },
+  "title:bastoniscanresultsbringbadnewsforinterquadricepsstrain3weeksout": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Alessandro Bastoni",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "quad",
+    "severity": "moderate",
+    "duration_weeks": 3,
+    "duration_phrase": "3 weeks",
+    "summary_en": "Scans showed Alessandro Bastoni has a quadriceps strain that will keep him out about three weeks.",
+    "extractor": "claude"
+   }
+  },
+  "title:atlticosalexandersrlothoutwithrightlegmuscleinjury": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Alexander Sørloth",
+    "club": "Atlético Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Alexander Sørloth is sidelined with a muscle injury in his right leg.",
+    "extractor": "claude"
+   }
+  },
+  "title:barcelonarevealdetailsofbaldesinjuryandhisavailabilityfordeportivolaco": {
+   "first_seen": "2026-11-28T15:14:17.389856+00:00",
+   "facts": {
+    "player": "Alejandro Balde",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Barcelona disclosed details of Alejandro Balde's injury and his status for the Deportivo match.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
