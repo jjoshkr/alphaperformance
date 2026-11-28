@@ -11809,6 +11809,236 @@
   "srloth:unknown": {
    "first_seen": "2026-11-27T18:45:17.772564+00:00",
    "title": "Atlético Madrid announce injury blow"
+  },
+  "title:arsenalvsmancitymajordavidrayainjuryupdateasmikelartetasweatsongoalkee": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "David Raya",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Arsenal are anxious over goalkeeper David Raya's fitness before facing Man City.",
+    "extractor": "claude"
+   }
+  },
+  "title:mauriciopochettinoconfirmsmajormanunitedinjuryscare": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": null,
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Man United's manager confirmed an injury scare for an unnamed player.",
+    "extractor": "claude"
+   }
+  },
+  "title:robertodezerbiconfirmsspursinjuryblowaheadofsunderlandclash": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": null,
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Spurs' manager confirmed an injury setback before Sunderland.",
+    "extractor": "claude"
+   }
+  },
+  "title:injurycursehitspsgstarsagainfreshblowbeforelorientclash": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": null,
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "PSG suffered another injury before facing Lorient.",
+    "extractor": "claude"
+   }
+  },
+  "title:bayernmunichsmusialahitbyhamstringinjurysetback": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "hamstring",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Musiala has a hamstring setback at Bayern.",
+    "extractor": "claude"
+   }
+  },
+  "title:gakpoinjuryupdatetwotothreeweeksoutofevertonderby27november": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Cody Gakpo",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "moderate",
+    "duration_weeks": 2.5,
+    "duration_phrase": "Three Weeks",
+    "summary_en": "Gakpo is out for two to three weeks and misses the Everton derby.",
+    "extractor": "claude"
+   }
+  },
+  "sorloth:unknown": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "title": "Atletico Madrid announce details of Sorloth's injury and his availability for the matches against Elche and Barcelona"
+  },
+  "title:atleticomadridannouncedetailsofsorlothsinjuryandhisavailabilityforthem": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Alexander Sorloth",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Atletico detailed Sorloth's injury and availability.",
+    "extractor": "claude"
+   }
+  },
+  "kulusevski:unknown": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "title": "Tottenham are under more Dejan Kulusevski pressure after brutal injury news"
+  },
+  "title:tottenhamareundermoredejankulusevskipressureafterbrutalinjurynews": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Dejan Kulusevski",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Bad injury news on Kulusevski adds pressure to Tottenham.",
+    "extractor": "claude"
+   }
+  },
+  "fernandes:unknown": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "title": "Man Utd blow as Pochettino gives Fernandes fitness update for Brentford"
+  },
+  "title:manutdblowaspochettinogivesfernandesfitnessupdateforbrentford": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Bruno Fernandes",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Fernandes fitness update is a blow for Man Utd before Brentford.",
+    "extractor": "claude"
+   }
+  },
+  "title:napolisufferanotherinjurysetbackasdebruynemissessassuolotrip": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Kevin De Bruyne",
+    "club": "Napoli",
+    "league": "Serie A",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "De Bruyne misses Napoli's trip to Sassuolo through injury.",
+    "extractor": "claude"
+   }
+  },
+  "bastoni:quad": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "title": "Inter confirm Alessandro Bastoni quadriceps strain as defender faces three weeks out"
+  },
+  "title:interconfirmalessandrobastoniquadricepsstrainasdefenderfacesthreeweeks": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Alessandro Bastoni",
+    "club": "Inter",
+    "league": "Serie A",
+    "body_part": "quad",
+    "severity": "moderate",
+    "duration_weeks": 3,
+    "duration_phrase": "three weeks",
+    "summary_en": "Bastoni has a quadriceps strain and is out about three weeks.",
+    "extractor": "claude"
+   }
+  },
+  "title:michaeloliseruledoutofbayernstriptohamburg": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Olise misses Bayern's Hamburg trip.",
+    "extractor": "claude"
+   }
+  },
+  "title:michaelolisetomissbayernmunichsbundesligagamevshamburg": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Michael Olise",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "body_part": "unknown",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Olise will miss the Hamburg game.",
+    "extractor": "claude"
+   }
+  },
+  "sorloth:muscle_general": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "title": "Atletico Striker Alexander Sorloth suffers thigh injury in Champions League victory over Viking"
+  },
+  "title:atleticostrikeralexandersorlothsuffersthighinjuryinchampionsleaguevict": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Alexander Sorloth",
+    "club": "Atletico Madrid",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "unknown",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Sorloth hurt his thigh in a Champions League win.",
+    "extractor": "claude"
+   }
+  },
+  "title:elchesthomaslemaroutofatlticoandcartagenagameswithmusclestrain": {
+   "first_seen": "2026-11-28T03:09:41.920722+00:00",
+   "facts": {
+    "player": "Thomas Lemar",
+    "club": "Elche",
+    "league": "La Liga",
+    "body_part": "muscle_general",
+    "severity": "minor",
+    "duration_weeks": null,
+    "duration_phrase": null,
+    "summary_en": "Lemar misses two games with a muscle strain.",
+    "extractor": "claude"
+   }
   }
  },
  "alerts_started": "2026-11-06T02:10:19.141584+00:00",
